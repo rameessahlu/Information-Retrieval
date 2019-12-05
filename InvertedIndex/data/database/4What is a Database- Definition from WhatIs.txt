@@ -1,0 +1,90 @@
+What is a Database? - Definition from WhatIs.com
+
+DEFINITION
+database (DB)
+
+Posted by: Margaret Rouse
+WhatIs.com
+  
+Contributor(s): Kevin Ferguson, Allan Leake and Adam Hughes
+
+A database is a collection of information that is organized so that it can be easily accessed, managed and updated. Computer databases typically contain aggregations of data records or files, containing information about sales transactions or interactions with specific customers.
+
+
+In a relational database, digital information about a specific customer is organized into rows, columns and tables which are indexed to make it easier to find relevant information through SQL or NoSQL queries. In contrast, a graph database uses nodes and edges to define relationships between data entries and queries require a special semantic search syntax.  As of this writing, SPARQL is the only semantic query language that is approved by the World Wide Web Consortium (W3C). 
+
+Typically, the database manager provides users with the ability to control read/write access, specify report generation and analyze usage. Some databases offer ACID (atomicity, consistency, isolation and durability) compliance to guarantee that data is consistent and that transactions are complete.
+
+Types of databases
+Databases have evolved since their inception in the 1960s, beginning with hierarchical and network databases, through the 1980s with object-oriented databases, and today with SQL and NoSQL databases and cloud databases.
+
+In one view, databases can be classified according to content type: bibliographic, full text, numeric and images. In computing, databases are sometimes classified according to their organizational approach. There are many different kinds of databases, ranging from the most prevalent approach, the relational database, to a distributed database, cloud database, graph database or NoSQL database.
+
+Relational database
+A relational database, invented by E.F. Codd at IBM in 1970, is a tabular database in which data is defined so that it can be reorganized and accessed in a number of different ways.
+
+Relational databases are made up of a set of tables with data that fits into a predefined category. Each table has at least one data category in a column, and each row has a certain data instance for the categories which are defined in the columns.
+
+The Structured Query Language (SQL) is the standard user and application program interface for a relational database. Relational databases are easy to extend, and a new data category can be added after the original database creation without requiring that you modify all the existing applications.
+
+Distributed database
+A distributed database is a database in which portions of the database are stored in multiple physical locations, and in which processing is dispersed or replicated among different points in a network.
+
+
+Distributed databases can be homogeneous or heterogeneous. All the physical locations in a homogeneous distributed database system have the same underlying hardware and run the same operating systems and database applications. The hardware, operating systems or database applications in a heterogeneous distributed database may be different at each of the locations.
+
+Cloud database
+A cloud database is a database that has been optimized or built for a virtualized environment, either in a hybrid cloud, public cloud or private cloud. Cloud databases provide benefits such as the ability to pay for storage capacity and bandwidth on a per-use basis, and they provide scalability on demand, along with high availability.
+
+A cloud database also gives enterprises the opportunity to support business applications in a software-as-a-service deployment.
+
+NoSQL database
+NoSQL databases are useful for large sets of distributed data.
+
+NoSQL databases are effective for big data performance issues that relational databases aren't built to solve. They are most effective when an organization must analyze large chunks of unstructured data or data that's stored across multiple virtual servers in the cloud.
+
+Object-oriented database
+Items created using object-oriented programming languages are often stored in relational databases, but object-oriented databases are well-suited for those items.
+
+An object-oriented database is organized around objects rather than actions, and data rather than logic. For example, a multimedia record in a relational database can be a definable data object, as opposed to an alphanumeric value.
+
+Graph database
+A graph-oriented database, or graph database, is a type of NoSQL database that uses graph theory to store, map and query relationships. Graph databases are basically collections of nodes and edges, where each node represents an entity, and each edge represents a connection between nodes.
+
+
+Graph databases are growing in popularity for analyzing interconnections. For example, companies might use a graph database to mine data about customers from social media.
+
+Graph databases often employ SPARQL, a declarative programming language and protocol for graph database analytics. SPARQL has the capability to perform all the analytics that SQL can perform, plus it can be used for semantic analysis, the examination of relationships. This makes it useful for performing analytics on data sets that have both structured and unstructured data. SPARQL allows users to perform analytics on information stored in a relational database, as well as friend-of-a-friend (FOAF) relationships, PageRank and shortest path. 
+
+This was last updated in July 2019
+Next Steps
+Expert Adrian Lane explains what database security tools are and how they work.
+
+What are the top database security tools for enterprises?
+
+Continue Reading About database (DB)
+Select the right DBMS software
+DBMS and RDBMS: How they differ
+Cloud-managed databases evolve data administration
+Can relational and NoSQL databases coexist?
+Google launches new SQL database
+Related Terms
+data structure
+A data structure is a specialized format for organizing, processing, retrieving and storing data. See complete definition
+database administrator (DBA)
+A database administrator (DBA) is the information technician responsible for directing or performing all activities related to ... See complete definition
+database normalization
+Database normalization is intrinsic to most relational database schemes. It is a process that organizes data into tables so that ... See complete definition
+Dig Deeper on SQL Server Database Modeling and Design
+
+SPARQL
+
+Amazon Neptune
+
+Amazon Neptune arms analytics teams with graph databases
+
+Amazon Neptune: a shot in the arm for the graph database?
+
+Amazon Neptune database validates graph technology, rivals say
+
+AWS graph database Amazon Neptune sets sail at re:Invent 2017

@@ -1,0 +1,31 @@
+Information Retrieval – Towards Data Science
+
+The process of legal reasoning and decision making is heavily reliant on information stored in text. Tasks like due diligence, contract review, and legal discovery, that are traditionally time-consuming, can benefit from NLP models and be automated, saving a huge amount of time. But can NLP be leveraged to improve the public’s understand of laws?
+The idea is to obtain an abstract representation of laws that would make it easier to extract the rules and obligations defined in the text and understand what are the entities responsible for compliance, highlight patterns of similarity across industries, differences between public and private responsibilities, or even identify parts that are unclear.
+Challenges
+Working with laws and regulations adds a few levels of difficulties to the analysis:
+Language parsing and tokenization are made harder by the use of formatting, abbreviations, and references that are specific to legal documents.
+The vocabulary is relatively limited and very specialized, but the interpretation is highly sensitive to the context and there are no industry-specific pre-trained models that incorporate semantic analysis.
+The syntax of sentences is often complex and non-linear, making information extraction more difficult.
+
+Extract from the Accessibility for Ontarians with Disabilities Act (AODA) — bullet points, references and general formatting break out-of-the=box tokenizations algorithms.
+Framework
+To overcome these challenges, and in absence of a labelled set, instead of training a single model, we developed a methodology that combines a rule-based system with elements of a standard NLP pipeline and unsupervised ML to define a framework for analysis that can be generalized to various domains.
+Modules in the NLP pipeline that are relevant to the framework are:
+Tokenizer: splits a document into units called tokens and at the same time throws away non-informative characters like spaces and punctuation.
+Lemmatizer: reduces inflectional forms and map words to their dictionary form.
+Parts-of-speech tagger: assigns each token to a group of words that have similar grammatical properties (Parts Of Speech)
+Dependency parser: identify the grammatical structure of the sentence by identifying head words and words which modify those heads, building a tree of grammatical dependencies.
+
+source:spacy
+Within this framework, our goals are to extract information in terms of the rules defined in the legislation, the entities that are responsible for compliance, and organize rules into homogeneous groups.
+
+The three stages of the analysis
+In order to test this approach, we produced a Proof Of Concept based on the Accessibility for Ontarians with Disabilities Act (AODA) — a bill passed in 2005 that defines rules and requirements for accessibility, and sets out processes for eliminating barriers for people with disabilities in Ontario.
+Rules extraction
+Our first objective is to automate the process of scanning the text of a law and extracting sentences that define a rule. In the context of AODA, we’re particularly interested in burdens — i.e. requirements or obligations that organizations have to comply with.
+To get around the problem of not having a labelled set to train on, we build a lightweight ontology and identify the verbs that express a rule or obligation. This can be done by querying WordNet for synonyms of verbs that express obligations, e.g. shall, must, oblige etc. Sentences that contain one of these verbs are labelled as burdens.
+This is a coarse classification rule, but in this case the fact that sentences follow a well defined template and have a somewhat limited vocabulary, works in our favour. On AODA, it achieves .89 overall accuracy and .97 recall on burdens.
+Subjects extraction
+The next step is to identify the entities responsible for complying with the burdens extracted. This is equivalent to identify the grammatical subject of the sentences, where the subject is the word or phrase that indicates who or what performs the action of the verb.
+The dependency parser can be used to identify the token that acts as the subject of the verb. However, the parser alone won’t be enough to identify the subject when it’s a phrase. Here’s an example:

@@ -1,0 +1,148 @@
+Skip to main content
+Courses
+Programs
+Help 
+Saylor Academy
+Log in or Sign up
+CS302: Software Engineering
+Home
+ Courses
+ Course Catalog
+ Computer Science
+ CS302: Software Engineering
+Log in or Sign up to track your course progress, gain access to final exams, and get a free certificate of completion!
+Course Introduction
+ Time: 45 hours
+ 
+College Credit Recommended
+ Free Certificate
+Software engineering is a discipline that allows us to apply engineering and computer science concepts in the development and maintenance of reliable, usable, and dependable software. The concept of software engineering was first discussed at the 1968 NATO Science Committee in Germany. Today, many practitioners still debate over the term software engineering, often arguing that this discipline does not meet the criteria of engineering; rather, it should be called software development. There are several areas to focus on within software engineering, such as design, development, testing, maintenance, and management. Software development outside of the classroom is a very complex process, mostly because real-world software is much larger and more complex.
+The purpose of this course is to present software engineering as a body of knowledge. The course is designed to present software engineering concepts and principles in parallel with the software development life cycle. The course will begin with an introduction to software engineering, giving you a definition of this body of knowledge, as well as a discussion of the main methodologies of software engineering. You will then learn about the Software Development Life Cycle (SDLC) followed by software modeling using Unified Modeling Language (UML), a standardized general-purpose modeling language used to create visual models of object-oriented software. You will go on to learn about five major phases of the SDLC: requirements gathering, requirements analysis, design, coding/implementation, and testing. You will also learn about project management for the purpose of delivering high-quality software that satisfies customer needs and is within budget.
+
+By the time the course is complete, you will master software engineering concepts, principles, and essential processes of the SDLC; you will demonstrate this knowledge by creating UML artifacts for requirements gathering, analysis as well as design phases using an object-oriented methodology.
+
+First, read the course syllabus. Then, enroll in the course by clicking "Enroll me in this course". Click Unit 1 to read its introduction and learning outcomes. You will then see the learning materials and instructions on how to use them.
+
+Course SyllabusPage
+Course Terms of UsePage
+Unit 1: Introduction to Software Engineering
+When dependency on software and computers became more important, software grew in size and became a necessity for businesses and users all over the world. In the last 30 years, we have seen an unparalleled explosion in the amount of software produced and used by our modern society. There is now a need to set concrete objectives (or functional requirements), predict necessary resources (like cost estimates) to attain those objectives, and manage customers' expectations. 
+
+As you review the material in this unit, compare and contrast software engineering with computer science. These two disciplines are closely related, but they have some differences. As you work through this unit, spend some time reviewing the three commonly used methodologies in software engineering: data-oriented, process-oriented, and object-oriented. You will the central theme of these three methodologies repeated in software requirements and analysis as well as software design.
+
+Completing this unit should take you approximately 5 hours.
+
+Unit 2: Software Development Life Cycle Models
+Software development life cycle (SDLC) refers to the process of software development. The International Organization for Standardization's ISO12207, the industry standard for software life cycle processes, describes the development process as consisting of requirements, design, code, and (three levels of) testing. There are different approaches to break down the work when developing software systems. Waterfall, v-shape, prototype, incremental, spiral, etc. are examples of SDLC models. Conceptually, each model provides specific guidance to the sequencing and repetition of life cycle activities to deliver high-quality software systems. The various life cycle models fall into two basic categories: sequential and iterative.
+
+As you review the material in this unit, try to see the similarities in these two categories of life cycle models from the ISO12207 development process perspective (requirements, design, code, and testing). This will help you grasp the basic concepts of SDLC. This unit connects strongly with Unit 9: Project Management, since choosing and managing a software life cycle process is a central component of project management.
+
+Completing this unit should take you approximately 4 hours.
+
+Unit 3: Software Modeling
+Many believe that good design is fundamental to creating successful software. The first step in software creation is to gather requirements. Notations, such as UML, allow us to articulate complex ideas succinctly and precisely. Designing software requires the use of certain industry standard design tools, and mastery of them is essential to becoming a capable software engineer.
+
+This unit will introduce you to UML, a standardized general-purpose modeling language for creating visual models of object-oriented software. This unit aims to give you a comprehensive understanding of UML, the five fundamental artifacts of UML, and modeling concepts, as well as the modeling concepts' relationships to the terms system, model, and view.
+
+Completing this unit should take you approximately 3 hours.
+
+Unit 4: Software Requirements Gathering
+Requirements gathering requires the software engineer (in this case, a business analyst) to interact with the stakeholders, including customer and users,to gather/collect information about what the software system being developed needs to do. There is also the situation where vendors are subcontracted to develop all, or some components, of the software systems and/or develop the hardware that the software will run on. In this case, the vendors bid on the subcontract by providing a proposal in response to a request for proposals. In this unit, you will learn the data/information types, data collection techniques, and data collection and application types.
+
+Completing this unit should take you approximately 2 hours.
+
+Unit 5: Software Requirements Analysis
+Requirements elicitation requires the software engineer to interact with the stakeholder including customer users,to gather information about what the software system needs to do. In this unit, we examine the software engineer's activities to elicit, to analyze (or translate), to validate and to manage this phase of the life cycle in working with the customer to achieve a common understanding of the customer's goals. This set of activities is referred to as analysis and focuses on what the application will do, whereas design describes how the application will work. There are many ways to elicit and analyze customer requirements. As you learned, the three most commonly used methodologies are data-oriented, process-oriented, and object-oriented. In this unit, we will drive deeper and examine the conceptual foundations, activities, and deliverables underlying each of these methodologies applicable to software requirements and analysis.
+
+As you review the material in this unit, spend some time on the object-oriented methodology as it applies to software requirements and analysis. You will be applying this in a later unit to put it all together in a case study.
+
+Completing this unit should take you approximately 7 hours.
+
+Unit 6: Software Design
+After requirements and analysis, a software engineer must transform the analysis model into a design model that can be implemented in a specific hardware and software environment. In this unit, we will discuss the principles of design and architecture design. Just as there are various methodologies for requirements analysis, we will drill down from the analysis model to the design model following the three corresponding methodologies (data-oriented, process-oriented, and object-oriented).
+
+As you review the material in this unit, spend some time on the object-oriented methodology as it applies to software design. You will be applying this in a later unit to put it all together in a case study.
+
+Completing this unit should take you approximately 9 hours.
+
+Unit 7: Implementation
+Implementation, also known as programming or coding, is the process of using a programming language to convert specified requirements into software source code and later into compiled code for execution. Programmers can use automated tools to convert design requirements into code.
+
+Sometimes, vendors are subcontracted to develop all or part of the software, and even the hardware that it will run on, according to specified requirements. In these situations, vendors will bid on the subcontract by providing a proposal.
+
+Completing this unit should take you approximately 3 hours.
+
+Unit 8: Software Testing
+Testing is the process of finding errors and is one of the last activities in the software life cycle. In testing, we look to validate that software requirements analysis, software design, and software implementation mesh together correctly to deliver a software system that performs as expected, functionally and non-functionally.
+
+As you review this unit, note the three levels of test plan: unit, integration, and system. Each of these levels of test plan assures the quality of the overall software from varying levels of granularity. In your own practice as a software engineer, be sure to incorporate these levels of testing as this is the last stop before the software goes out the door representing your professional work and code of ethics.
+
+Completing this unit should take you approximately 3 hours.
+
+Unit 9: Project Management
+Project management in a software engineering environment is unique because of the technical aspects of a software project. The project manager's role is different from that of the software engineer's. While software engineers are generally accountable for the technical aspects of a project, the project manager is accountable for organizational aspects.
+
+As you review the materials of the unit, try to connect this unit with what you have already learned about the software development life cycle. You will see that the success of an SDLC depends on people, process and product. Project management is the glue that holds these aspects together.
+
+Completing this unit should take you approximately 3 hours.
+
+Unit 10: Putting It Together: A Case Study
+This unit pulls together the object-oriented methodology in software requirements analysis (from Unit 5) and software design (from Unit 6). You will apply UML to demonstrate your understanding of the software development life cycle given a set of user requirements. You will also have the opportunity to apply software testing to assess the quality of your work.
+
+Completing this unit should take you approximately 6 hours.
+
+Study Guides
+These study guides will help you get ready for the final exam. They discuss the key topics in each unit, walk through the learning outcomes, and list important vocabulary terms. They are not meant to replace the course materials!
+
+Course Feedback Survey
+Please take a few minutes to give us feedback about this course. We appreciate your feedback, whether you completed the whole course or even just a few resources. Your feedback will help us make our courses better, and we use your feedback each time we make updates to our courses.
+
+If you come across any urgent problems, email contact@saylor.org or post in our discussion forum.
+
+Course Feedback SurveyURL
+Certificate Final Exam
+Take this exam if you want to earn a free Course Completion Certificate.
+
+To receive a free Course Completion Certificate, you will need to earn a grade of 70% or higher on this final exam. Your grade for the exam will be calculated as soon as you complete it. If you do not pass the exam on your first try, you can take it again as many times as you want, with a 7-day waiting period between each attempt.
+
+Once you pass this final exam, you will be awarded a free Course Completion Certificate.
+
+CS302: Certificate Final ExamQuiz
+Saylor Direct Credit
+Take this exam if you want to earn college credit for this course. This course is eligible for college credit through Saylor Academy's Saylor Direct Credit Program.
+
+The Saylor Direct Credit Final Exam requires a proctor and a proctoring fee of $25. To pass this course and earn a Proctor-Verified Course Certificate and official transcript, you will need to earn a grade of 70% or higher on the Saylor Direct Credit Final Exam. Your grade for this exam will be calculated as soon as you complete it. If you do not pass the exam on your first try, you can take it again a maximum of 3 times, with a 14-day waiting period between each attempt.
+
+Once you pass this final exam, you will be awarded a Credit-Recommended Course Completion Certificate and an official transcript.
+
+CS302: Saylor Direct Credit Final ExamQuiz
+Skip Other students also took...
+Other students also took...
+CS101: Introduction to Computer Science I
+CS402: Computer Communications and Networks
+CS107: C++ Programming
+CS302: Software Engineering
+Sections
+Resources
+Activities
+About Saylor Academy
+Blog
+College Credit Partners
+Saylor Academy
+About
+Partners
+Blog
+Contact
+© Saylor Academy 2010-2019 except as otherwise noted. Excluding course final exams, content authored by Saylor Academy is available under a Creative Commons Attribution 3.0 Unported license. Third-party materials are the copyright of their respective owners and shared under various licenses. See detailed licensing information.
+
+Saylor Academy and Saylor.org® are trade names of the Constitution Foundation, a 501(c)(3) organization through which our educational activities are conducted.
+
+"CCBY"
+Sitemap | Terms of Use | Privacy Policy
+Data retention summary
+Get the mobile app
+Policies
+If you continue browsing this website, you agree to our policies:
+Privacy Policy
+Continue
+x

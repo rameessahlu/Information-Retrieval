@@ -1,0 +1,112 @@
+Software Engineering
+Recent Articles on Software Engineering
+Topics:
+
+Introduction
+Software Development Life Cycle
+Software Project Management
+Software Requirements
+Software Testing and Debugging:
+Introduction:
+
+Introduction to Software Engineering
+Classification of Software
+Software Development Models & Architecture:
+
+
+
+ 
+
+Classical Waterfall Model
+Iterative Waterfall Model
+Spiral Model
+Incremental process model
+Rapid application development model(RAD)
+RAD Model vs Traditional SDLC
+Agile Development Models
+Agile Software Development
+Extreme Programming (XP)
+SDLC V-Model
+Comparison of different life cycle models
+User Interface Design
+Coupling and Cohesion
+Information System Life Cycle
+Database application system life cycle
+Pham-Nordmann-Zhang Model (PNZ model)
+Schick-Wolverton software reliability model
+Software Project Management(SPM):
+
+Project Management Process
+Project size estimation techniques
+System configuration management
+COCOMO Model
+Capability maturity model (CMM)
+Integrating Risk Management in SDLC | Set 1
+Integrating Risk Management in SDLC | Set 2
+Integrating Risk Management in SDLC | Set 3
+Role and Responsibilities of a software Project Manager
+Software Project Management Complexities
+Quasi renewal processes
+Reliability Growth Models
+Jelinski Moranda software reliability model
+Schick-Wolverton software reliability model
+Goel-Okumoto Model
+Mills’ Error Seeding Model
+Basic fault tolerant software techniques
+Software Maintenance
+Software Requirements:
+
+Requirements Engineering Process
+Classification of Software Requirements
+How to write a good SRS for your Project
+Quality Characteristics of a good SRS
+Requirements Elicitation
+Challenges in eliciting requirements
+Software Testing and Debugging:
+
+Seven Principles of software testing
+Testing Guidelines
+Black box testing
+White box Testing
+Debugging
+Selenium: An Automation tool
+Integration Testing
+If you like GeeksforGeeks and would like to contribute, you can also write an article and mail your article to contribute@geeksforgeeks.org. See your article appearing on the GeeksforGeeks main page and help other Geeks.
+
+Please write comments if you find anything incorrect, or you want to share more information about the topic discussed above.
+
+
+
+ 
+
+
+
+Writing code in comment? Please use ide.geeksforgeeks.org, generate link and share the link here.
+
+
+
+
+ 
+auto
+
+ 
+Most Popular Articles
+Must Do Coding Questions for Companies like Amazon, Microsoft, Adobe, ...
+Find the winner of the Game to Win by erasing any two consecutive similar alphabets
+Find the integers that doesnot ends with T1 or T2 when squared and added X
+Average
+Perl | Reading a CSV File
+
+
+ 
+Most Visited Articles
+Program to Encrypt a String using ! and @
+Compare two strings considering only alphanumeric characters
+Remove elements to make array sorted
+Maximize the happiness of the groups on the Trip
+Sum of all the levels in a Binary Search Tree
+
+
+?
+Write a Testimonial
+?

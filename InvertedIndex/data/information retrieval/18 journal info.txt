@@ -1,0 +1,23 @@
+Objective
+We keep accumulating data at an unprecedented pace, much faster than we can process it. While Big Data techniques contribute solutions accounting for structured or semi-structured shapes such as tables, trees, graphs and cubes, the study of unstructured data is a field of its own: Information Retrieval.
+
+After this course, you will have in-depth understanding of broadly established techniques in order to model, index and query unstructured data (aka, text), including the vector space model, boolean queries, terms, posting lists, dealing with errors and imprecision.
+
+You will know how to make queries faster and how to make queries work on very large datasets. You will be capable of evaluating the quality of an information retrieval engine. Finally, you will also have knowledge about alternate models (structured data, probabilistic retrieval, language models) as well as basic search algorithms on the web such as Google's PageRank.
+
+ 
+
+Literature
+C. D. Manning, P. Raghavan, H. Schütze, Introduction to Information Retrieval, Cambridge University Press.
+
+Prerequisites / Notice
+Prior knowledge in elementary set theory, logics, linear algebra, data structures, abstract data types, algorithms, and probability theory (at the Bachelor's level) is required, as well as programming skills (we will use Python).
+
+Piazza
+We will use Piazza as the official forum for questions.
+You can sign up here
+Please post your questions here instead of sending e-mails. Many questions you ask are very good questions and/or questions that many others have, and that are thus of interest to everybody. 
+
+ 
+
+ 

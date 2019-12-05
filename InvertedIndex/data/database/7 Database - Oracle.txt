@@ -1,0 +1,106 @@
+Database - Oracle
+
+Database from Oracle
+Oracle Autonomous Database
+Oracle Autonomous Transaction Processing
+Oracle Autonomous Data Warehouse
+Oracle Database 19c
+AUTONOMOUS DATABASE
+Data management automation driven by machine learning to reduce costs and accelerate innovation
+Oracle’s revolutionary cloud database is self-driving, self-securing, self-repairing, and designed to eliminate error-prone manual data management. Easily deploy new or move your existing OLTP and data warehouse to the cloud. The secured, intelligent, highly available database in the cloud enables you to get more value from your data to grow your business.
+
+Explore autonomous data management
+Gartner video: Donald Feinberg—Insights on Self-Driving Database (1:00)
+Video: Autonomous Database—A Brief Overview (3:40)
+Migrate to the Cloud
+Oracle automated tools make it seamless to move your on-premises relational database to Oracle Cloud with virtually no downtime. Oracle offers the most efficient, flexible, cost-effective, highly available, and scalable way to make it easy to move database workloads to the cloud.
+
+Move your database to Oracle Cloud
+Migrate to the Cloud
+Innovation
+The Changing Role of Database Administrators (DBAs)
+Advance your DBA career in the cloud. Autonomous Database is the next generation of data management for DBAs. It eliminates mundane and routine management tasks, freeing up DBAs to focus on how to extract more value from their data.
+
+Autonomous Database and the DBA
+Unlimited Choice
+Flexible Database Deployment Options to Fit Your Business Strategy
+I need to implement a new cloud database.
+
+Start in the cloud icon
+Start in the cloud
+
+I need to move my on-premises database to the cloud.
+
+Migrate to the cloud icon
+Migrate to the cloud
+
+I need the cloud to run in my data center, behind my firewall.
+
+Cloud at customer icon
+Cloud at customer
+
+I need Oracle Database.
+
+On premises icon
+On premises
+
+Learning Library
+Database Resources
+
+
+
+
+
+
+
+
+PreviousNext
+1
+2
+3
+4
+5
+Trending Database Blogs
+What’s New in Database
+PreviousNext
+1
+2
+3
+4
+5
+Get Started
+ 
+Try Oracle Cloud Free Tier
+ 
+Tutorial
+ 
+Contact
+ 
+Follow
+Resources for
+Developers
+Startups
+Students and Educators
+Partners
+Oracle PartnerNetwork
+Find a Partner
+Log in to OPN
+Emerging Technologies
+Artificial Intelligence
+Internet of Things (IoT)
+More Solutions
+How We Operate
+Corporate Security Practices
+Doing Business with Oracle
+Oracle@Oracle
+Contact Us
+US Sales: +1.800.633.0738
+Global Contacts
+Subscribe to emails
+© 2019 Oracle
+Site Map
+Terms of Use and Privacy
+Country/Region
+Cookie Preferences
+Ad Choices
+Careers

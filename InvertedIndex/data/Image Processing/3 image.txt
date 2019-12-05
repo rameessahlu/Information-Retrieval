@@ -1,0 +1,235 @@
+Image Processing
+Image processing is the application of a set of techniques and algorithms to a digital image to analyze, enhance, or optimize image characteristics such as sharpness and contrast.
+
+From: Clinical Engineering, 2014
+
+Related terms:
+Feature ExtractionHistogramsProcessing TechniqueComputervision
+View all Topics
+Download as PDF
+Set alert
+About this page
+Learn more about Image Processing
+Digital Image Processing
+Eduardo A.B. da Silva, Gelson V. Mendonça, in The Electrical Engineering Handbook, 2005
+
+4.1 Introduction
+Digital image processing consists of the manipulation of images using digital computers. Its use has been increasing exponentially in the last decades. Its applications range from medicine to entertainment, passing by geological processing and remote sensing. Multimedia systems, one of the pillars of the modern information society, rely heavily on digital image processing.
+
+The discipline of digital image processing is a vast one, encompassing digital signal processing techniques as well as techniques that are specific to images. An image can be regarded as a function f (x, y) of two continuous variables x and y. To be processed digitally, it has to be sampled and transformed into a matrix of numbers. Since a computer represents the numbers using finite precision, these numbers have to be quantized to be represented digitally. Digital image processing consists of the manipulation of those finite precision numbers. The processing of digital images can be divided into several classes: image enhancement, image restoration, image analysis, and image compression In image enhancement, an image is manipulated, mostly by heuristic techniques, so that a human viewer can extract useful information from it. Image restoration techniques aim at processing corrupted images from which there is a statistical or mathematical description of the degradation so that it can be reverted. Image analysis techniques permit that an image be processed so that information can be automatically extracted from it. Examples of image analysis are image segmentation, edge extraction, and texture and motion analysis. An important characteristic of images is the huge amount of information required to represent them. Even a gray-scale image of moderate resolution, say 512 × 512, needs 512 × 512 × 8 ˜ 2 × 106 bits for its representation. Therefore, to be practical to store and transmit digital images, one needs to perform some sort of image compression, whereby the redundancy of the images is exploited for reducing the number of bits needed in their representation.
+
+In what follows, we provide a brief description of digital image processing techniques. Section 4.1 deals with image sampling, and Section 4.2 describes image quantization. In Section 4.3, some image enhancement techniques are given. Section 4.4 analyzes image restoration. Image compression, or coding, is presented in Section 4.5. Finally, Section 4.6 introduces the main issues involved in image analysis.
+
+Read full chapter
+
+Purchase book
+Asphalt mix homogeneity
+Lijun Sun, in Structural Behavior of Asphalt Pavements, 2016
+
+13.2.1 Digital Image Processing [37]
+Digital image processing is a technical means used in this research, and it is one of the key factors influencing our research progress. The understanding of digital image processing may be different for different disciplines. Therefore, it is necessary at first to give a brief introduction to digital image processing technology and related concepts.
+
+Digital image processing is to process images by computer. Digital image processing can be defined as subjecting a numerical representation of an object to a series of operations in order to obtain a desired result. Digital image processing consists of the conversion of a physical image into a corresponding digital image and the extraction of significant information from the digital image by applying various algorithms. Digital image processing mainly includes image collection, image processing, and image analysis. At its most basic level, a digital image processing system is comprised of three components, ie, a computer system on which to process images, an image digitizer, and an image display device. Fig. 13.5 shows a complete system for image processing.
+
+
+Sign in to download full-size image
+Fig. 13.5. Digital image processing system.
+
+Fig. 13.6 shows how to display a physical image through a digital array. Physical images are divided into small areas called pixels. The division plan used often is the rectangular sampling grid method shown in Fig. 13.6, in which an image is segmented into many horizontal lines composed of adjacent pixels, and the value of each pixel position reflects the brightness of corresponding point on the physical image.
+
+
+Sign in to download full-size image
+Fig. 13.6. Physical image and corresponding digital image.
+
+Physical images cannot be directly analyzed by a computer because the computer can only process digits rather than images, so an image must be converted into a digital form before processed by a computer. The conversion process is called digitization, and a common form is shown in Fig. 13.7.
+
+
+Sign in to download full-size image
+Fig. 13.7. Digitizing image.
+
+At each pixel position, the brightness is sampled and quantized to obtain an integer value indicating the brightness of the corresponding position in the image. After the conversion of all pixels of an image is completed, the image can be represented by a matrix of integers. Each pixel has two attributions: position and gray level. The position is determined by the two coordinates of sampling point in the scanning line, namely row and column. The integer indicating the brightness of the pixel position is called gray level.
+
+Images displayed by digital matrix are called digital images, and all digital image processing is based on the digital matrix. The digital matrix is the object processed by a computer.
+
+(13.2)
+where
+
+F = image
+
+f(i,j) = the gray level of pixel (i,j).
+
+On the basis of image processing, it is necessary to separate objects from images by pattern recognition technology, then to identify and classify these objects through technologies provided by statistical decision theory. Under the conditions that an image includes several objects, the pattern recognition consists of three phases, as shown in Fig. 13.8.
+
+
+Sign in to download full-size image
+Fig. 13.8. Three phases of pattern recognition.
+
+The first phase includes the image segmentation and object separation. In this phase, different objects are detected and separate from other background. The second phase is the feature extraction. In this phase, objects are measured. The measuring feature is to quantitatively estimate some important features of objects, and a group of the features are combined to make up a feature vector during feature extraction. The third phase is classification. In this phase, the output is just a decision to determine which category every object belongs to. Therefore, for pattern recognition, what input are images and what output are object types and structural analysis of images. The structural analysis is a description of images in order to correctly understand and judge for the important information of images.
+
+Read full chapter
+
+Purchase book
+Medical Image Archive, Retrieval, and Communication
+Albert Wong, S.L. Lou, in Handbook of Medical Image Processing and Analysis (Second Edition), 2009
+
+50.12 PACS Research Applications
+Image processing applied to medical research has made many clinical diagnosis protocols and treatment plans more efficient and accurate. For example, a sophisticated nodule detection algorithm applied to digital mammogram images can aid in the early detection of breast cancer. However, image processing applications usually require significant implementation and evaluation effort before they can be accepted for clinical use. The common necessities during the implementation and evaluation of these applications are image data and the workstations that allow the display and manipulation of the images. For this purpose, PACS can serve as a powerful tool that provides (a) numerous sample images of statistical significance for testing and debugging the image processing algorithm, (b) display workstations with built-in image manipulation functions in support of clinical evaluation, (c) a PACS database to serve as data warehouse for disease-specific diagnostic analysis and data mining, and (d) modality-based image sets in support of teaching and training purposes.
+
+Read full chapter
+
+Purchase book
+Introduction
+Jordi Salvador, in Example-Based Super Resolution, 2017
+
+About the Book
+Image processing and computer vision are topics covered by many excellent books. Most known (and yet unknown) algorithms can be devised from the hints offered by their authors by conveniently adapting the working principles of their described methods and models to the specific requirements of each application. The main goal of this book is to complement those references in order to provide the reader with a compact description of the most relevant insights of the latest and most successful approaches in super resolution. Whereas this goal is primarily targeted at researchers and developers directly working on super resolution, the book still attempts to provide a sufficiently complete description of contemporary, powerful, and general image models that can also be applied to other image processing and computer vision problems. Last, but not least, the book can also be used as a survey of machine learning models applied to regression applications, which might make it a useful resource even for other signal processing or statistical problems not specifically dealing with image data.
+
+Read full chapter
+
+Chapter PDFDownload bookPurchase book
+Software Engineering
+Paul S. Ganney, ... Edwin Claridge, in Clinical Engineering, 2014
+
+Image Processing Software
+Image processing is the application of a set of techniques and algorithms to a digital image to analyze, enhance, or optimize image characteristics such as sharpness and contrast. Most image processing techniques involve treating the image as either a signal or a matrix and applying standard signal-processing or matrix manipulation techniques, respectively, to it.
+
+Terminology
+A pixel or “picture element” is the smallest sample of a two-dimensional image that can be programmatically controlled. The number of pixels in an image controls the resolution of the image. The pixel value typically represents its intensity in terms of shades of gray (value 0–255) in a grayscale image or RGB (red, green, blue, each 0–255) values in a color image.
+
+A voxel or “volumetric pixel” is the three-dimensional counterpart of the 2D pixel. It represents a single sample on a three-dimensional image grid. Similar to pixels, the number of voxels in a 3D representation of an image controls its resolution. The spacing between voxels depends on the type of data and its intended use. In a 3D rendering of medical images such as CT scans and MRI scans, the size of a voxel is defined by the pixel size in each image slice and the slice thickness. The value stored in a voxel may represent multiple values. In CT scans, it is often the Hounsfield unit which can then be used to identify the type of tissue represented. In MRI volumes, this may be the weighting factor (T1, T2, T2*, etc.).
+
+Image arithmetic is usually performed at pixel level and includes arithmetic as well as logical operations applied to corresponding points on two or more images of equal size.
+
+Geometric transformations can be applied to digital images for translation, rotation, scaling, and shearing, as required. Matrix transformation algorithms are typically employed in this case.
+
+For binary and grayscale images, various morphological operations such as image opening and closing, skeletonization, dilation, erosion, and so on, may also be employed for pattern matching or feature extraction.
+
+An image histogram represents the distribution of image intensity values for an input digital image. Histogram manipulation is often used to modify image contrast or for image segmentation when the range of values for the desired feature is clearly definable.
+
+Some common image processing applications are introduced as follows.
+
+Feature extraction is an area of image processing where specific characteristics within an input image are isolated using a set of algorithms. Some commonly used methods for this include contour tracing, thresholding, and template matching. Image segmentation is a common application of feature extraction which is often used with medical imaging to identify anatomical structures.
+
+Pattern and template matching is useful in applications ranging from feature extraction to image substitution. It is also used with face and character recognition and is one of the most commonly used image processing applications.
+
+There are several image processing software packages available, from freely distributed ones such as ImageJ to expensive suites such as MATLAB and Avizo which range in functionality and targeted applications. We’ll discuss only a few of the commonly used ones within medical physics/clinical engineering here.
+
+The image format most commonly used in medical applications is DICOM, providing a standardized structure for medical image management and exchange between different medical applications (see Chapter 8, “DICOM”).
+
+Image Processing Software Packages
+ImageJ is an open source, Java-based image processing program developed at the National Institute of Health. It provides various built-in image acquisition, analysis, and processing plugins as well as the ability to build your own using ImageJ’s built-in editor and a Java compiler. User-written plugins make it possible to solve many bespoke image processing and analysis problems.
+
+ImageJ can display, edit, analyze, process, save, and print 8-bit color and grayscale, 16-bit integer and 32-bit floating point images.43 It can read many standard image formats as well as raw formats. It is multithreaded, so time-consuming operations can be performed in parallel on multi-CPU hardware. It has built-in routines for most common image manipulation operations in the medical field including processing of DICOM images and image stacks such as those from CT and MRI.
+
+Mimics44 is an image processing software for 3D design and modeling, developed by Materialise NV. It is used to create 3D surface models from stacks of 2D image data. These 3D models can then be used for a variety of engineering applications.
+
+Mimics calculates surface 3D models from stacked image data such as CT, micro-CT, CBCT, MRI, confocal microscopy, and ultrasound, through image segmentation. The region of interest (ROI) selected in the segmentation process is converted to a 3D surface model using an adapted marching cubes algorithm that takes the partial volume effect into account, leading to very accurate 3D models. The 3D files are represented in the STL format.45
+
+The most common input format is DICOM, but other image formats such as TIFF, JPEG, BMP, and raw are also supported. Output file formats differ, depending on the subsequent application, but common 3D output formats include STL, VRML, PLY, and DXF.
+
+Mimics provides a platform to bridge stacked image data to a variety of different medical engineering applications such as finite element analysis (FEA; see the next section), computer-aided design (CAD), rapid prototyping, and so on.
+
+MATLAB
+MATLAB is a programming environment for algorithm development, data analysis, visualization, and numerical computation.46 It has a wide range of applications, including signal and image processing, communications, control design, test and measurement, financial modeling and analysis, and computational biology. The MATLAB Image Processing Toolbox™ provides a comprehensive set of reference-standard algorithms and graphical tools for image processing, analysis, visualization, and algorithm development. It also has built-in support for DICOM images and provides various functions to manipulate DICOM data sets. This makes it a widely used tool in various medical physics/clinical engineering research groups and related academia.
+
+IDL
+IDL is a cross-platform vectorized programming language used for interactive processing of large amounts of data including image processing.47 IDL also includes support for medical imaging via the IDL DICOM Toolkit add-on module.
+
+The image processing software packages mentioned here are but a few of the commonly used ones within a medical physics/clinical engineering environment partly due to their extensive libraries for medical image processing and partly for historical reasons.48 There are many more free-for-use as well as commercial software packages available providing varying degrees of functionality for different applications and, if there is a choice available, it is advisable to explore the options available for a particular task.
+
+Read full chapter
+
+Purchase book
+Improved weighted thresholded histogram equalization algorithm for digital image contrast enhancement using the bat algorithm
+M. Tuba, ... A. Arsic, in Bio-Inspired Computation and Applications in Image Processing, 2016
+
+1 Introduction
+Image processing has numerous applications in most human activities, from medicine (Papour et al., 2015) or security (Zhou et al., 2015) to astronomy (Wang et al., 2014) or transportation (Zeng et al., 2015) and quality control (Jeong and Lee, 2015). Hence it is also a very active area of research in computer science. It includes all operations applied to digital images that aim at changing the photometric or structural characteristics of the image. Image enhancement is an important phase, and it is usually a preprocessing stage in many image processing systems. Contrast enhancement is one of the key steps in image enhancement. The aim of image contrast enhancement is to improve the perception of information in images for human viewers or to provide better input for other automated image processing techniques. Images can be damaged due to poor quality of the acquisition device, climate conditions at the time of acquisition, and other disturbances. Producing digital images with good brightness, contrast, and detail is a strong requirement in several areas, such as texture synthesis (Pei et al., 2004), satellite image processing (Bhandari et al., 2015), biomedical image analysis (Wu et al., 2015), real-life photographic image correction (Hashemi et al., 2010), and others.
+
+Histogram equalization (HE) is one of the most commonly used methods for image contrast enhancement because of its high efficiency and simplicity (Gonzalez and Woods, 2008). The HE techniques use linear cumulative histogram of the input image and distribute its pixel values over its dynamic intensity range. HE-based enhancement finds applications in medical image processing (Sundaram et al., 2011), speech recognition (De la Torre et al., 2005), satellite image processing (Ganesan and Rajini, 2014), and others. Various HE methods have been proposed in the literature.
+
+The weighted thresholded HE (WTHE) method is an improved method for contrast enhancement (Wang and Ward, 2007). It modifies the probability distribution function of an image by weighting and thresholding before the HE is performed. Optimization of the weighting constrains is a hard optimization problem.
+
+Metaheuristics are high-level algorithms designed to find a sufficiently good solution for hard optimization problems, especially with limited computational capacity. They do not guarantee that the globally optimal solution will be found for some class of problems. Several metaheuristic algorithms derived from the behavior of biological and physical systems in nature have been proposed. Since a magic method which works for all problems does not exist, various approaches have been developed. The most popular nature-inspired algorithms for optimization, with improvements, adjustments, and hybridizations, include particle swarm optimization (PSO) (Kennedy and Eberhart, 1995), the firefly algorithm (Yang, 2009; Fister et al., 2013; Tuba and Bacanin, 2014), cuckoo search (Yang and Deb, 2009, 2010; Gandomi et al., 2013), ant colony optimization (ACO) (Dorigo and Gambardella, 1997; Jovanovic and Tuba, 2013; Verma et al., 2012), differential evolution (Storn and Price, 1997), and the artificial bee colony algorithm (Karaboga, 2005; Bacanin and Tuba, 2012).
+
+The bat algorithm (BA) is a novel swarm intelligence metaheuristic algorithm introduced by Yang (2010), based on bat echolocation
+
+In this chapter, a modified HE-based method for image contrast enhancement which improves the performance of the WTHE (Wang and Ward, 2007) is developed. The proposed method employs the BA in order to optimize weighting constraints.
+
+The remainder of the chapter is organized as follows. A literature review is presented in Section 2. Section 3 presents the swarm intelligence–based BA. In Section 4, we present our proposed modified HE method which employs the BA. Discussion and analysis of obtained experimental results are provided in Section 5. Finally, our conclusions are discussed in Section 6.
+
+Read full chapter
+
+Purchase book
+Modelling the structure of woven fabrics
+B.K. Behera, in Woven Textiles, 2012
+
+Applicaions of ANN
+Image processing analysis and neural networks have been widely used for fabric defect detection. The basic principles underlying this technique along with numerous applications are detailed by Behera [84]. Lin [55] used feed-forward back propagation neural nets to find the relationships between the shrinkage of yarns and the cover factors of yarns and fabrics. a typical multilayer feed-forward network is shown in Fig. 8.13. Beltran et al. [56] also studied the use of MLP-BP neural networks to model the multi-linear relationships between fibre, yarn and fabric properties and their effect on the pilling propensity of pure wool knitted fabrics. Behera and Muttagi [57] predicted the low-stress mechanical, dimensional, and tensile properties of woven suiting fabrics using back propagation network (BPN) and radial basis function neural network (RBFN). Fibre, yarn and fabric constructional parameters of wool and wool-polyester blended fabrics were given as input variables. Radial basis function neural networks were found to have better predictability and are faster to train and easier to design than back propagation neural networks. a reverse engineering approach is also reported for prediction of constructional particulars from the fabric properties.
+
+
+Sign in to download full-size image
+8.13. Multilayer feed-forward network.
+
+Hui et al. [58] predicted sensory fabric hand from fabric properties using a resilient back propagation neural network (RBP). Shyr et al. [59,60] studied the use of neural networks for discriminating generic hand of cotton, linen, wool and silk woven fabrics. They established translational equations for the total hand value of fabrics using back propagation nets. Wong et al. [61] investigated the predictability of clothing sensory comfort from psychological perceptions by using a feed-forward back propagation network. ANN based prediction of fabric appearance index by Behera and Mishra [85,86] can be used as an objective method of fabric engineering to achieve desired aesthetic performance. This work provides measurement of an integrated fabric appearance index given in Eq. [8.18] using image processing and neural network computation method. Fabric appearance index is termed as FAI and given by:
+
+[8.18]
+where n is total number of properties, Ai is grade of the ith property obtained by digital image processing and Wi is weighting of the ith property. The properties such as drape, texture, wrinkle and pilling are used to access the aesthetic appearance of an apparel fabric.
+
+Read full chapter
+
+Purchase book
+Woven fabric engineering by mathematical modeling and soft computing methods
+B.K. Behera, in Soft Computing in Textile Engineering, 2011
+
+Applications of ANN
+Image processing analysis and neural networks have been widely used for fabric defect detection. The basic principles underlying this technique along with numerous applications are detailed by Behera in Textile Progress [83]. Lin [54] used feed-forward back-propagation neural nets to find the relationships between the shrinkage of yarns and the cover factors of yarns and fabrics. A typical multilayer feed-forward network is shown in Beltran et al. also studied the use of MLP-BP neural networks to model the multilinear relationships between fiber, yarn and fabric properties and their effect on the pilling propensity of pure wool knitted fabrics as reviewed by Guruprasad and Behera [55]. Behera and Muttagi [56] predicted the low- stress mechanical, dimensional, and tensile properties of woven suiting fabrics using a back-propagation network (BPN) and a radial basis function neural network (RBFN). Fiber, yarn, and fabric constructional parameters of wool and wool-polyester blended fabrics were given as input variables. Radial basis function neural networks were found to have better predictability and are faster to train and easier to design than back-propagation neural networks. A reverse engineering approach is also reported for prediction of constructional particulars from the fabric properties.
+
+Hui et al. [57] predicted sensory fabric hand from fabric properties using a resilient back-propagation (RBP) neural network. Shyr et al. [58,59] studied the use of neural networks for discriminating the generic hand of cotton, linen, wool, and silk woven fabrics. They established trans lational equations for the total hand value of fabrics using back-propagation nets. Wong et al. [60] investigated the predictability of clothing sensory comfort from psychological perceptions by using a feed-forward back-propagation network. The ANN-based prediction of fabric appearance index by Behera and Mishra [84,85] can be used as an objective method of fabric engineering to achieve desired aesthetic performance. This work provides measurement of an integrated fabric appearance index (FAI) as given in equation 8.14 using image processing and the neural network computation method:
+
+
+Sign in to download full-size image
+8.14. Multilayer feed-forward network.
+
+8.14
+where n is the total number of properties, Ai is the grade of the ith property obtained by digital image processing, and Wi is the weighting of the ith property. Properties such as drape, texture, wrinkle, and pilling are used to access the aesthetic appearance of an apparel fabric.
+
+Read full chapter
+
+Purchase book
+Minimizing the mode-change latency in real-time image processing applications
+P.S. Martins, ... J. Real, in Bio-Inspired Computation and Applications in Image Processing, 2016
+
+1 Introduction
+Image processing applications may benefit from multithreading in a single or multicore processor. The key concept is to partition the functionality of the application into simple tasks (or threads) and execute them concurrently, so that the total time is distributed between these tasks. The idea of multithreading image processing applications on multicore systems and its gains in performance have been demonstrated by a number of authors, for example, Kika and Greca (2013), Chen et al. (2009), Stevenson et al. (2000), Squyres et al. (1998), and Saxena et al. (2015). One example of parallelization in image processing applications is the case where an image is divided into different areas and each thread is assigned to process one area.
+
+In addition to decomposing the image processing functionality into modules that may run in parallel, it is also necessary to define the shared data items and create a controlled access through synchronization primitives (ie, it is necessary to ensure coordination and synchronization among threads to prevent anomalies such as deadlocks). Last but not least, given that the functional correctness is asserted, the algorithms have to be optimized and the system’s efficiency has to be analyzed and improved.
+
+In addition to efficiency, the new generation of image processing systems must dynamically adapt to the environment where they are deployed. One way of achieving multifunctionality and adaptivity is by organizing the system design around modes of operation. Each mode implements a well-defined system behavior, and the system transitions from one mode to another in response to changes in the surrounding context. The new active mode is customized and configured to the new operational phase and can thus deliver better performance than a general, monolithic (ie, single mode) implementation of the system functionality. Therefore, by changing modes in response to external events, the system becomes more reconfigurable and adaptive.
+
+For example, assume an image processing application that has two modes of operation: SUNLIGHT (SLT) and OVERCAST (OVC) modes. Under sunlight conditions, the system executes the SLT mode, which is implemented by a set of threads running algorithms that are specialized to deal with this condition. Once the conditions change to cloudy (eg, on a heavily overcast or rainy day), the system dynamic and autonomously switches to the OVC mode of operation. In the OVC mode, the system loads and executes the set of threads that optimize resource usage and run specialized algorithms for this condition. During the transition between modes, the threads belonging to the SLT mode have to be eliminated and the new OVC threads have to be added. This is specified by a mode-change protocol. Such a protocol allows that some threads that are common to both modes to continue running without interference. Other modes are possible, and each mode will run the threads with the “best” algorithm for that phase of operation.
+
+A mode of operation is defined by its behavior (ie, functionality and performance) and implemented by a task (ie, thread) set (also denoted a schedule) (Pedro, 1999). Changes in the mode of operation thus involve changing the task set by adding, replacing, or removing tasks from the schedule, or a combination of these actions. In order to implement modal (or flexible) image processing systems with real-time capabilities, the transitions from mode to mode have to be guaranteed by offline (ie, static) schedulability analysis.
+
+In this work, we assume the implementation of a multithreaded image processing application in a fixed-priority preemptively scheduled real-time operating system running on a single processor (Tindell et al., 1994). As we show in Section 2 in more detail, in our model any new task is introduced in the system during a mode change (or transition) with an offset (or delay) O after the start of the transition to the new mode of operation.
+
+On one hand, offsets that are too small may increase the CPU utilization at the start of the transition to a point where the system is no longer schedulable (ie, tasks miss their deadlines). On the other hand, if offsets are assigned with large values, the latency of a mode-change may increase to the point where the mode change itself is not longer viable in terms of system performance and functionality.
+
+The main motivation to minimize the latency of a mode change is that, during a mode change, while the system is self-configuring the task set, the application may be only “partially” delivering its critical functions. Therefore, it is reasonable to associate a deadline with a mode change. Consequently, it is of utmost importance that the latency of the system is reduced to its lowest possible value. This leads to the main concern to be addressed in this work:
+
+We wish to find a method to automatically assign proper offsets to tasks across a mode-change so that the latency of the transition is minimized while real-time guarantees are also preserved. As a case study, we take an image processing application implemented by a set of tasks and two possible modes of operation.
+
+We tackle the issue of “tasks across a mode-change” because previous work (Tindell et al., 1994) has already provided solutions to the schedulability of tasks running in a steady mode of operation (ie, where there is no transition). A task is said to be schedulable across a mode-change if its worst-case response time (WCRT) during the transition is less than or equal to its deadline. Real-time guarantees mean that deadlines for tasks must be fulfilled by the analysis, otherwise the system is deemed not schedulable, potentially leading to undesired critical behavior. This problem is a multiobjective optimization one that has to deal with trade-offs, as discussed later.
+
+To our knowledge, there is currently no work in the literature that addresses such concerns. The work that is closest to ours is that by Real and Crespo (2001), in which the authors tackle the issue of minimizing offsets. However, our goal in this work is different in that we wish to primarily minimize the worst-case latency of a mode-change.
+
+This work offers a method to minimize the latency of a mode change (as well as tasks offsets) in a real-time system running an image processing application, whereby threads are scheduled by the fixed-priority preemptive scheduling approach. We show in Case 2 in Section 4 that the minimization of tasks offsets, as carried out by Real and Crespo (2001), does not necessarily lead to minimum mode-change latency.
+
+Most work using genetic algorithms (GAs) in real-time systems fall outside the scope of our work, as they deal with the issue of allocating tasks to multiprocessors, such as the work by Yoo (2009) and ManChon et al. (2011). The focus of our work is on addressing the challenge of minimizing the mode-change latency and proposing a workable solution, which involves the modeling of the approach and its validation. Therefore, we do not aim to experiment with different metaheuristics or evolutionary algorithms or compare their performance.
+
+We have opted to use GAs due to their known efficiency and simplicity. More advanced approaches could certainly be used here, but the results obtained in this work have shown that the proposed approach is feasible (ie, it is able to find solutions that satisfy the requirements defined for the problem). Therefore, we reserve the comparison analysis of metaheuristics and evolutionary algorithms to future work. The issue of mode-change latency minimization is modeled both as a single-objective and a multiobjective optimization.
+
+In multiobjective optimization problems, the objective functions can be (and generally are) in conflict with each other. In these cases, there is a set of final solutions that correspond to different trade-offs between the objectives (ie, each of these solutions indicates, for a given value of one of the objectives, the best value that can be obtained for the remaining ones). Therefore, an infinite set of solutions can exist for a given problem, which corresponds to the infinite number of existing trade-offs among the objectives. This set of solutions for a multiobjective problem is known as the Pareto front, and it contains only nondominated individuals. Assuming that all objectives of the problem must be minimized, a given solution  is said to dominate a solution  of the problem () if and only if , where M is the number of objectives to be optimized. The notion of optimality in multiobjective optimization problems states that a given solution  belongs to the Pareto front (or is Pareto optimal) if there is no other feasible solution  capable of improving the value of one objective without simultaneously worsening at least one of the others.
+
+This remainder of this chapter is organized in this way: Section 2 presents a review of earlier work. The model and approach using GA is discussed in Section 3. The case studies and the results are presented in Section 4 and discussed in Section 5. Finally, in Section 6, we present our conclusions.
+

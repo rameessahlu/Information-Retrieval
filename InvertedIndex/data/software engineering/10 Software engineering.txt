@@ -1,0 +1,62 @@
+Software Engineering
+
+Definition - What does Software Engineering mean?
+Software engineering is the process of analyzing user needs and designing, constructing, and testing end user applications that will satisfy these needs through the use of software programming languages. It is the application of engineering principles to software development. In contrast to simple programming, software engineering is used for larger and more complex software systems, which are used as critical systems for businesses and organizations.
+
+
+[Free eBook] An Introduction to Microsoft Azure and the Microsoft Cloud
+Techopedia explains Software Engineering
+A software engineer takes the software needs of end users into account and consequently develops or designs new applications. Furthermore, software engineering may involve the process of analyzing existing software and modifying it to meet current application needs.
+
+As computer hardware becomes cheaper, the focus transfers to software systems. Large software systems may be more complex than the hardware used to run them, so there is great demand for best practices and engineering processes that can be applied to software development. There must be discipline and control during software engineering, much like any complex engineering endeavor.
+
+
+In modern consumer electronics, devices in direct competition often have similar hardware and processing power, but the user experience will vary greatly depending on the software being used.
+
+
+Share this:  
+Related Terms
+Software Development Process
+Agile Software Development
+Cloud Testing
+Design Reuse
+Skunkworks
+Component-Based Development (CBD)
+Margaret Hamilton
+Software Development Kit (SDK)
+Abstract IL
+Access Modifiers
+
+Techopedia - Where IT and Business Meet	
+Tech moves fast! Stay ahead of the curve with Techopedia!
+Join nearly 200,000 subscribers who receive actionable tech insights from Techopedia.
+
+Enter your email address...
+Recommended Resources
+Democratizing Data Science in Your Organization
+Democratizing Data Science in Your Organization
+Consumer Goods and Retail Leaders Accelerate Innovation with Fast and Secure Data
+Consumer Goods and Retail Leaders Accelerate Innovation with Fast and Secure Data
+Top Cloud ERP System Comparison for 2019
+Top Cloud ERP System Comparison for 2019
+BEST PRACTICES FOR ALIGNING DATA CAPABILITIES AND BUSINESS NEEDS
+BEST PRACTICES FOR ALIGNING DATA CAPABILITIES AND BUSINESS NEEDS
+Crossing the Licensing Chasm
+Crossing the Licensing Chasm
+How to Get Buy in From Stakeholders on Your Next CRM Software Purchase
+How to Get Buy in From Stakeholders on Your Next CRM Software Purchase
+
+Related Articles
+5 Steps to Creating a Successful API 
+5 Steps to Creating a Successful API
+The Laws of Computing 
+The Laws of Computing
+Agile Software Development 101 
+Agile Software Development 101
+Malicious Software: Worms, Trojans and Bots, Oh My! 
+Malicious Software: Worms, Trojans and Bots, Oh My!
+Remember IRC? It's Still Around - And It's Still Worth Using 
+Remember IRC? It's Still Around - And It's Still Worth Using
+An Introduction to Application Software 
+An Introduction to Application Software
++ View More Articles

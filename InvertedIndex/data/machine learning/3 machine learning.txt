@@ -1,0 +1,120 @@
+Stanford University
+AboutSyllabusReviewsInstructorsEnrollment OptionsFAQ
+About this Course
+7,697,460 recent views
+Machine learning is the science of getting computers to act without being explicitly programmed. In the past decade, machine learning has given us self-driving cars, practical speech recognition, effective web search, and a vastly improved understanding of the human genome. Machine learning is so pervasive today that you probably use it dozens of times a day without knowing it. Many researchers also think it is the best way to make progress towards human-level AI. In this class, you will learn about the most effective machine learning techniques, and gain practice implementing them and getting them to work for yourself. More importantly, you'll learn about not only the theoretical underpinnings of learning, but also gain the practical know-how needed to quickly and powerfully apply these techniques to new problems. Finally, you'll learn about some of Silicon Valley's best practices in innovation as it pertains to machine learning and AI.
+
+This course provides a broad introduction to machine learning, datamining, and statistical pattern recognition. Topics include: (i) Supervised learning (parametric/non-parametric algorithms, support vector machines, kernels, neural networks). (ii) Unsupervised learning (clustering, dimensionality reduction, recommender systems, deep learning). (iii) Best practices in machine learning (bias/variance theory; innovation process in machine learning and AI). The course will also draw from numerous case studies and applications, so that you'll also learn how to apply learning algorithms to building smart robots (perception, control), text understanding (web search, anti-spam), computer vision, medical informatics, audio, database mining, and other areas.
+
+SHOW ALL
+SKILLS YOU WILL GAIN
+Logistic Regression
+Artificial Neural Network
+Machine Learning (ML) Algorithms
+Machine Learning
+Learner Career Outcomes
+40%
+started a new career after completing these courses
+38%
+got a tangible career benefit from this course
+100% online
+Start instantly and learn at your own schedule.
+Flexible deadlines
+Reset deadlines in accordance to your schedule.
+Approx. 56 hours to complete
+English
+Subtitles: Chinese (Simplified),
+English, Hebrew, Spanish, Hindi,
+Japanese
+
+
+
+
+
+
+
+
+
+Syllabus - What you will learn from this course
+WEEK
+1
+2 hours to complete
+Introduction
+Welcome to Machine Learning! In this module, we introduce the core idea of teaching a computer to learn concepts using data—without being explicitly programmed. The Course Wiki is under construction. Please visit the resources tab for the most complete and up-to-date information.
+
+5 videos (Total 42 min), 9 readings, 1 quiz
+2 hours to complete
+Linear Regression with One Variable
+Linear regression predicts a real-valued output based on an input value. We discuss the application of linear regression to housing price prediction, present the notion of a cost function, and introduce the gradient descent method for learning.
+
+7 videos (Total 70 min), 8 readings, 1 quiz
+2 hours to complete
+Linear Algebra Review
+This optional module provides a refresher on linear algebra concepts. Basic understanding of linear algebra is necessary for the rest of the course, especially as we begin to cover models with multiple variables.
+
+6 videos (Total 61 min), 7 readings, 1 quiz
+WEEK
+2
+3 hours to complete
+Linear Regression with Multiple Variables
+What if your input has more than one value? In this module, we show how linear regression can be extended to accommodate multiple input features. We also discuss best practices for implementing linear regression.
+
+8 videos (Total 65 min), 16 readings, 1 quiz
+5 hours to complete
+Octave/Matlab Tutorial
+This course includes programming assignments designed to help you understand how to implement the learning algorithms in practice. To complete the programming assignments, you will need to use Octave or MATLAB. This module introduces Octave/Matlab and shows you how to submit an assignment.
+
+SHOW ALL
+6 videos (Total 80 min), 1 reading, 2 quizzes
+WEEK
+3
+2 hours to complete
+Logistic Regression
+Logistic regression is a method for classifying data into discrete outcomes. For example, we might use logistic regression to classify an email as spam or not spam. In this module, we introduce the notion of classification, the cost function for logistic regression, and the application of logistic regression to multi-class classification.
+
+SHOW ALL
+7 videos (Total 71 min), 8 readings, 1 quiz
+4 hours to complete
+Regularization
+Machine learning models need to generalize well to new examples that the model has not seen in practice. In this module, we introduce regularization, which helps prevent models from overfitting the training data.
+
+4 videos (Total 39 min), 5 readings, 2 quizzes
+WEEK
+4
+5 hours to complete
+Neural Networks: Representation
+Neural networks is a model inspired by how the brain works. It is widely used today in many applications: when your phone interprets and understand your voice commands, it is likely that a neural network is helping to understand your speech; when you cash a check, the machines that automatically read the digits also use neural networks.
+
+SHOW ALL
+7 videos (Total 63 min), 6 readings, 2 quizzes
+4.9
+
+29546 Reviews
+Top reviews from Machine Learning
+By JS•JUN 17TH 2017
+Everything is taught from basics, which makes this course very accessible- still requires effort, however will leave you with real confidence and understanding of subjects covered. Great teacher too..
+
+By CS•JUL 16TH 2019
+The course will give you the incites to understand the data driven mathematical functions to write softwares that can behave or change its behavior, based on stimulus (data).\n\nAndrew Ng is excellent
+
+Instructor
+Andrew Ng
+CEO/Founder Landing AI; Co-founder, Coursera; Adjunct Professor, Stanford University; formerly Chief Scientist,Baidu and founding lead of Google Brain
+About Stanford University
+The Leland Stanford Junior University, commonly referred to as Stanford University or
+Stanford, is an American private research university located in Stanford, California on an
+8,180-acre (3,310 ha) campus near Palo Alto, California, United States.
+Start Learning Today
+Financial aid available
+
+2,659,176 already enrolled!
+Shareable onLinkedIn
+You can share your Course Certificates in the Certifications section of your LinkedIn profile, on printed resumes, CVs, or other documents.
+Frequently Asked Questions
+When will I have access to the lectures and assignments?
+
+
+What will I get if I purchase the Certificate?
+
+
+What is the refund policy?

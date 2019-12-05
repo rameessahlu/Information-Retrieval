@@ -1,0 +1,41 @@
+What is Data Mining?
+Data mining is an automated analytical method that lets companies extract usable information from massive sets of raw data.
+
+Data mining combines several branches of computer science and analytics, relying on intelligent methods to uncover patterns and insights in large sets of information.
+
+One of the defining characteristics of this method of analysis is its automation, which involves machine learning and database tools to expedite the analytical process and find information that is more relevant to users.
+
+Data Mining Basics
+
+Despite its name, data mining isn’t always about extracting pure data from a mountain of information, but rather identifying important patterns and trends that emerge from the set.
+
+In this respect, data mining is similar to certain aspects of data exploration.
+
+Data mining occurs in several steps, starting with data collection and storage. Once properly stored, it is then initially sorted and parsed to find potential patterns or interesting paths, and then is mined and sorted according to preset requirements.
+
+Most importantly, data mining can be used to perform several specific analyses on information. These include cluster analysis, which searches for interesting patterns in groups of data; anomaly detection, which focuses on finding unusual points in a set; and sequential pattern mining, which emphasizes recognizing connections and dependencies in data.
+
+By sorting data inside of a database, mining can also reveal information more easily, as well as sort it into groups that are easier to understand and later visualize.
+
+What Can I Use Data Mining For?
+There are several industries that already use data mining extensively, and it is becoming increasingly beneficial in the data-driven online world. The retail industry, for example, uses data mining & BI expansively to track their shoppers’ buying habits, preferred brands, and spending patterns.
+
+See it in action:
+
+Retail Analysis DashboardExplore Dashboard
+In the online marketing sphere, social media platforms like Facebook and Twitter use data mining to better comprehend their users’ likes, dislikes, online activities, and more to better target advertisements and promotions.
+
+See it in action:
+
+Marketing Dashboard ExampleExplore Dashboard
+Data mining is also deployed broadly in science and engineering where massive data sets are common, and patterns are not always easily observable with simple data exploration. Driverless vehicle technology also employs data mining to extract real-time insights to make necessary adjustments and improve systems continuously.
+
+When combined with the right visualization and data analytics tools, mining can be useful for quickly sorting through large data sets.
+
+Watch A Demo Back to Glossary
+
+Watch a Demo
+See Sisense in Action
+Explore Other Resources
+
+Embedded Analytics: Decoding Successful Implementation

@@ -1,0 +1,13 @@
+
+Information Retrieval Journal - Springer
+
+IInformation Retrieval Journal
+ISSN: 1386-4564 (Print) 1573-7659 (Online)
+This journal was previously published under other titles (view Journal History)
+Description
+The journal provides an international forum for the publication of theory, algorithms, analysis and experiments across the broad area of information retrieval. Topics of interest include search, indexing, analysis, and evaluation for applications such as the web, social and streaming media, recommender systems, and text archives. This includes research on human factors in search, bridging artificial intelligence and information retrieval, and domain-specific search applications.
+
+The Information Retrieval Journal features theoretical, experimental, analytical and applied articles. Theoretical articles report a significant conceptual advance in the design of algorithms or other processes for some information retrieval task. Experimental articles detail a test of one or more theoretical ideas in a laboratory or natural setting. Analytical articles report on the results of detailed analysis of searcher behavior and opinions across a range of settings and methodologies, including user studies, surveys and log analysis. Application articles cover successful application of some already established technique to a significant real-world problem involving information retrieval.
+
+Information retrieval overlaps with a variety of technical and behavioral fields. As a result, the journal includes articles which unify concepts across several traditional disciplinary boundaries, with specific application to problems of information retrieval.
+

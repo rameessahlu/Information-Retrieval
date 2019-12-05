@@ -1,0 +1,20 @@
+Genetic algorithms - Scholarpedia
+Genetic algorithms
+
+John H. Holland (2012), Scholarpedia, 7(12):1482.	doi:10.4249/scholarpedia.1482	revision #128222 [link to/cite this article]
+Post-publication activity
+
+Curator: John H. Holland
+
+John H. Holland, University of Michigan, Ann Arbor, MI, USA
+
+Dna.jpg
+
+Figure 1:
+Genetic algorithms are based on the classic view of a chromosome as a string of genes. R.A. Fisher used this view to found mathematical genetics, providing mathematical formula specifying the rate at which particular genes would spread through a population (Fisher, 1958). Key elements of Fisher’s formulation are:
+
+a specified set of alternatives (alleles) for each gene, thereby specifying the allowable strings of genes (the possible chromosomes),
+a generation-by-generation view of evolution where, at each stage, a population of individuals produces a set of offspring that constitutes the next generation,
+a fitness function that assigns to each string of alleles the number of offspring the individual carrying that chromosome will contribute to the next generation, and
+a set of genetic operators, particularly mutation in Fisher’s formulation, that modify the offspring of an individual so that the next generation differs from the current generation.
+Natural selection, in this formulation, can be thought of as a procedure for searching through the set of possible individuals, the search space, to find individuals of progressively higher fitness. Even when a natural population consists of a single species – say the current generation of humans – there is considerable variation within that population. These variants constitute samples of the search space.

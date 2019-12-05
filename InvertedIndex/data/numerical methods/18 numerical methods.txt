@@ -1,0 +1,238 @@
+EGM 3344: Introduction to Numerical Methods of Engineering Analysis
+
+Spring 2009 
+
+5-11: Solution of final exam.
+
+4-28: I opened a discussion board on WebCT (E-learning lss.at.ufl.edu) for suggestions on next time I teach the course. Please take a minute or two to do that.
+
+4-27: Solutions to previous exams: Exam1, Exam2, Exam3, Exam4.
+
+4-6: 7th HW posted. Due 4-13. Make-up final extended also to students who took all in-term exams (will replace lowest exam).
+
+Catalog description: Methods for numerical solution of mathematical problems. Emphasis on engineering applications using MATLAB. Roots, optimization, linear algebraic equations, matrices, curve fitting, differentiation, integration, ordinary differential equations. 3 credit hours.
+
+Prerequisites:  
+
+MAC 2313 Analytic Geometry and Calculus 3
+
+CGS2421 Computer Programming for Engineers or Equivalent
+
+Co-requisites:
+
+MAP 2302 Elementary Differential Equations
+
+ 
+
+Course Objectives: The goal of EGM 3344 is to teach students how to apply computational methodologies to solve engineering problems when no closed-form, analytical solution exists. Achievement of this goal requires learning the basics of structured programming as well as learning how to combine engineering knowledge, judgment, and intuition to develop reasonable approximations through the engineering modeling process. Because mathematical judgment and approximations are involved, the material in this course will be somewhat more open-ended than the material covered in other courses. Emphasis will be placed on understanding the basic concepts behind the various numerical methods studied, implementing basic numerical methods using the MATLAB structured programming environment, and utilizing more sophisticated numerical methods provided as built-in MATLAB functions. This approach is taken since understanding how numerical methods work is essential for choosing the correct method and understanding its limitations. At the same time, the existence of commercial numerical libraries makes it inefficient and unnecessary for students to re-develop complex existing numerical routines.
+
+ 
+
+By the end of this course, you should be able to do the following:
+
+Sturcutred programming. Understand basic structured programming concepts involving decision making, loops, functions, and parameter passing implemented within the MATLAB programming environment.
+
+Numerical methods. Understand the most common numerical methods used in engineering analysis, when to use each method, and how to implement basic methods in a structured manner using MATLAB’s programming language.
+
+Numerical accuracy. Estimate the amount of error inherent in different numerical methods.
+
+Numerical efficiency. Assess the efficiency of a selected numerical method when more than one option is available to solve a certain class of problem.
+
+Numerical stability. Understand the convergence properties and limitations of different numerical methods.
+
+ 
+
+Time and Place: MWF 6th period, FLG 220.
+
+p3.jpg
+
+Instructor: Raphael T. Haftka (haftka@ufl.edu)
+
+220 MAE-A. 392-9595. Office hours MWF 9th period.
+
+Web site www.mae.ufl.edu/haftka
+
+image008.jpg
+
+Teaching Assistant: Ben Smarslok (smarslok@ufl.edu )
+
+Office hours, Tuesday 5th period and Friday 4th, MAE-A 333.
+
+image009.jpg
+
+Teaching Assistant: Francisco Kuljevan (fkuljeva@ufl.edu) 
+
+Office hours. Tuesday 6th period, Thursday 8th period, MAE-B 237.
+
+image013.jpg
+
+Undergraduate assistant: Greg Edwards grege24@ufl.edu
+
+Office hours Thursday 6th and 7th, MAE-A 224
+
+image014.jpg
+
+Undergraduate assistant: Ahmed Jorge ahmedcj@ufl.edu
+
+Thursday 4th and 5th, MAE-A 224.
+
+image018.jpg
+
+Classmate assistants: Steven Hepsworth
+
+Office hours Wednesday and Friday 5th MAE-A 224
+
+image021.jpg
+
+Classmate assistants: Eduardo Rondon
+
+Office hours Wednesday 7th and Thursday 4th MAE-A 224.
+
+image023.jpg
+
+Heckler: Keith Stober
+
+ 
+
+Textbook: Steven C. Chapra, Applied Numerical Methods with MATLAB for Engineers and Scientists (Second Edition), McGraw Hill 2008. ISBN 978-0-07-212290-7. Ebook purchasing instructions.
+
+References: William J. Palm III, Introduction of MATLAB 6 for Engineers, McGraw Hill, 2001. ISBN 0-07-234983-2
+
+Amos Gilat, MATLAB An Introduction with Applications,  Wiley ISBN:  0-471-43997-5
+
+Chapra’s Matlab primer.
+
+Mathworks Matlab primer.
+
+ 
+
+Required Software: MATLAB Version 7 (Student version acceptable).
+
+Teaching Philosophy: I believe that students learn much from one another, and that helping others deepens your understanding of the material. So I encourage the formation of study groups and will appoint two  students taking the course as classmate teaching assistants with pay (see below). I also believe that students should understand the material in class and ask questions when they do not. So questions are encouraged and rewarded (see class hecklers, below).
+
+Policies and Procedures:
+
+Attendence is not required, but on some Fridays (to be announced in advance, see schedule) there will be in-class extra-credit work.
+
+Homework. Assignments will involve the completion of selected problems at the end of each chapter in the textbook. There is no need to turn in the homework, unless you want to get credit. If you want to have homework count towards your grade, you need to submit them on paper during class on the day they are due, or in the instructor mailbox before class. Late homework will carry 10% penalty. Homework will not be accepted after solutions are posted. There will be 10% bonus for originality and extra work that will be given to 10% of the students submitting homework. Extra credit problems will done in class (and need to be emailed by the end of the class to egm3344@gmail.com  that will include problems from the current homework set. In addition, about 20% of the exam questions will come from homework problems, and about 20% from problems at the end the chapters that have not been assigned.
+
+You are encouraged to work together to figure out the solution process for homework problems. Consequently, you are encouraged to become part of a study group early on in the course, as this will greatly facilitate your ability to learn from one another as well as to complete the homework assignments. Late homework will not be accepted. Homework assignments and due dates will be given in class.
+
+Grading. The final course grade will be calculated based on the following percentages:
+
+                Exam 1                  25%
+
+                Exam 2                  25%
+
+                Exam 3                  25%
+
+                Exam 4                  25%
+
+                In-class Homework 5%
+
+For students submitting homework, the homework grade will count for 12%, and each exam will count for 22%.
+
+      Grades are on a absolute scale (A=90+, B+=85+, B=80+, etc.). Predicted grades, based on homework and progress to date are posted during the semester beginning after the first in-term exam. The grades are not curved, thus, it is theoretically possible for every student in the class to receive an A (or an E). Your grade will depend only on your performance and not on that of others in the class. It is therefore in your best interest to work with others on the homework assignments to improve your understanding of the material. Please note, however, that all work on the exams must be completed individually, and that no communication whatsoever is permitted with others during the exams. If you miss an exam without prior permission from the instructor, you will receive a zero grade. With permission due to unavoidable circumstances, the weight of the exam will be shifted to a make-up comprehensive exam (Chapters 1-21) given on final exam date (April 29). Students who did not miss an exam, can also take the comprehensive final, which will then replace their lowest exam score.
+
+      Every student in the course will earn his or her own final course grade based on the percentages noted above. The instructor is simply the individual who does the calculations. Consequently, there will be nothing I can do about changing your grade at the end of the semester. If, during the semester, you are afraid that you are not performing well enough to pass the course, come see me so that we can try to get you back on course. The extra credit homework problems are intended to help you catch up.
+
+Classmate teaching assistants and class hecklers. classmate teaching assistants are required to do the homework three days before it is due and show it to the instructor for discussion. They are also required to hold office hours (2 hours per week) when they are available to discuss problem with their classmates. The classmate assistants will be paid at the departmental rate for their office hours, and will receive a 20% bonus on their homework. If you are interested in the position, please email the instructor with information on your grade point average and an explanation of why you expect to be an effective student assistant (previous MATLAB experience is desirable). Class hecklers are required to ask questions when they do not understand the material covered in class or perceive that their classmates do not understand it. They are required to attend 90% of the lectures, and are rewarded with 3 point bonus added to their course average. If you are interested in the position, please email the instructor with an explanation of why you expect to be an effective class heckler.
+
+Exams. In-class exams are closed book, except for one 8.5"x11" page, written in any density (student may bring a magnifier).
+
+      Exam problems may be taken directly from the homework problems with some modifications (in particular, multiple versions of the exam will be used) . Thus, in addition to the weight placed on homework in the final grade, it is to your advantage to understand as many of the homework problems in the textbook as possible. Since it would be difficult to complete every homework assignment given the large amount of material to be covered, a study group would be an excellent place to discuss the solution process to each problem in preparation for exams.
+
+      If you do not agree with the grading of a particular exam problem, you will have one week from the date the exam is returned to submit a written explanation of why you think the grade should be higher. However, the final decision will remain the instructor's.
+
+Course web site. www.mae.ufl.edu/~haftka/numerical  students are expected to check it on a regular basis for up-to-date course information. This may include changes to the syllabus, homework assignment due dates, and exam schedules.
+
+Class E-mail Alias. To facilitate communication with the class, an e-mail alias will be created by the University. In order to be included in the distribution list, you will need to have a xxx@ufl.edu e-mail address. You can check this by going to the University of Florida home page, clicking on Phonebook at the top of the page, and then searching for your name.  If your e-mail address is not listed as xxx@ufl.edu, then you will need to contact the UF Computing Help Desk (helpdesk.circa.ufl.edu) to have this corrected during the first week of classes. If you do not have your e-mail address corrected, then you will not receive potentially important e-mail distributions from the instructor to the class. Note that you can always forward your xxx@ufl.edu e-mail to some other e-mail address if desired.
+
+Personal responsibility. You are personally responsible for all information disseminated during the lectures. This means knowing all homework due dates, knowing when exams will be given, where they will be given, what material they will cover, and knowing all material, handouts, and announcements made in the lectures, whether or not you were present. Thus, if you miss a lecture, it is your responsibility to obtain all information presented during that lecture. "I missed that information" or "I was unaware of that information" will not be accepted as valid excuses.
+
+Workload. Numerical methods requires an extensive amount of programming, and completing the assignments is the only way to solidify your understanding of the material. My goal is to give you the quality of education that you would get at any top university in the nation, so be prepared to invest a lot of time in this course. The payoff will be not only a deeper understanding of numerical methods but also an improved ability to think critically and independently.
+
+Academic Honesty. All students admitted to the University of Florida have signed a statement of academic honesty committing themselves to be honest in all academic work and understanding that failure to comply with this commitment will result in disciplinary action. This statement is a reminder to uphold your obligation as a student at the University of Florida and to be honest in all work submitted and exams taken in this class and all others.
+
+Accommodations for Disabilities. Students requesting classroom accommodation must first register with the Dean of Students Office. That office will provide the student with documentation that he/she must then provide to the course instructor when requesting accommodations.
+
+Software Use – All faculty, staff and student of the University are required and expected to obey the laws and legal agreements governing software use.  Failure to do so can lead to monetary damages and/or criminal penalties for the individual violator.  Because such violations are also against University policies and rules, disciplinary action will be taken as appropriate.  We, the members of the University of Florida community, pledge to uphold ourselves and our peers to the highest standards of honesty and integrity. 
+
+Other Student Resources.
+
+UF Counseling Services – Resources are available on-campus for students having personal problems or lacking clear career and academic goals.  The resources include:
+
+                - University Counseling Center, 301 Peabody Hall, 392-1575, Personal and          Career Counseling.
+
+                - SHCC mental Health, Student Health Care Center, 392-1171, Personal and      Counseling.
+
+                - Center for Sexual Assault/Abuse Recovery and Education (CARE), Student Health Care Center, 392-1161, sexual assault counseling.
+
+                - Career Resource Center, Reitz Union, 392-1601, career development assistance and counseling.
+
+Contribution of course to meeting the ABET professional component:
+
+4A. EGM 4344 supports several program outcomes enumerated in the Mission Statement of the Department of Mechanical and Aerospace Engineering. Specific ME and AE program outcomes supported by this course include: (1) Apply knowledge of chemistry and calculus based physics with depth in at least one of them (ME Program Outcome M1 and AE Program Outcome A1); (2) Apply knowledge of advanced mathematics through multivariate calculus and differential equations (ME Program Outcome M2 and AE Program Outcome A2); (2) Apply statistics and linear algebra (ME Program Outcome M3 and AE Program Outcome A3).
+
+4B. Mathematical Sciences (75%), Physical Sciences (10%), Engineering Sciences (15%)
+
+Relationship of course to ABET program outcomes: This course achieves the following ABET outcomes [note that the outcome number corresponds to the respective ABET outcomes (a) through (k). Also, note that superscripts represent related ME and AE program outcomes]:
+
+(a)  Apply knowledge of mathematics, science, and engineeringM2,A2,M3,A3 [outcome (a), high coverage, 35% of the course grade; method of assessment is homework and three exams]
+
+(e)  Identify, formulate, and solve engineering problemsM1,A1,M2,A2,M3,A3 [outcome (e), high coverage, 30% of the course grade; method of assessment is homework and four exams]
+
+(k)  Use the techniques, skills, and modern engineering tools necessary for engineering practiceM2,A2,M3,A3 [outcome (k), high coverage, 35% of course grate; method of assessment is homework and three exams]
+
+Acknowledgement: I have borrowed heavily from course materials prepared by Dr. B.J. Fregly for teaching the same course.
+
+ 
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Enjoy. All feedback is welcome. Do not hesitate to contact me with any problems.
+
+If you have comments or suggestions: Email me at haftka@ufl.edu
+
+ 

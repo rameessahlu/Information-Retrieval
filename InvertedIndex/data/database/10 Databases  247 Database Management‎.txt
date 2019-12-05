@@ -1,0 +1,159 @@
+Cloud databases from IBM Cloud
+This curated selection of open source, enterprise-ready databases is delivered in a serverless pricing model
+
+Try a cloud database for free How to Choose a Cloud Database (42:46)
+
+On-demand webinar: How to choose a cloud database
+42:46
+
+How to Choose a Cloud Database
+
+NoSQL versus SQL
+Cloud database services
+Client stories
+Learning resources
+NoSQL versus SQL cloud databases
+The best solution? Opt for whatever is best for your workload; not just one, but as many as you need. Understand the differences, benefits, types and more for both NoSQL and SQL databases in our cloud database guides below.
+NoSQL databases
+SQL databases
+NoSQL databases
+With the advent of big data and agile development methodologies, NoSQL databases have gained a lot of relevance. Their main advantage is the ability to effectively handle scalability and flexibility issues for modern applications. Everything you need to know about NoSQL can be found in IBM’s guide to NoSQL databases.
+
+Check it out
+
+Explore cloud database services on the IBM Cloud
+Create your IBM Cloud™ account today and get a USD 200 credit to use on any cloud database service.
+Sign up now for USD 200 credit
+
+
+IBM Cloudant
+IBM Cloudant® is a scalable JSON document database optimized for web, mobile, IoT and serverless applications. The service is compatible with an open source ecosystem that includes CouchDB, PouchDB and libraries for the most popular web and mobile development stacks.
+
+Learn more
+
+
+IBM Cloud Databases for MongoDB
+IBM Cloud Databases for MongoDB provides a JSON document store that can be scaled vertically and horizontally. It has a rich query and aggregation framework and is accessible through a wide range of application frameworks and languages.
+
+Learn more
+
+
+IBM Cloud Databases for Elasticsearch
+IBM Cloud Databases for Elasticsearch combines the flexibility of a full-text search engine with the power of a JSON document database’s indexing.
+
+Learn more
+
+
+IBM Cloud Databases for etcd
+IBM Cloud Databases for etcd is a key and value store that developers can use to hold the always-correct data they need to coordinate and manage the server cluster for distributed server configuration management.
+
+Learn more
+
+
+IBM Cloud Databases for PostgreSQL
+IBM Cloud Databases for PostgreSQL offers an object-relational SQL database, complemented by powerful enhancements like indexable JSON, publish and subscribe functions and drivers.
+
+Learn more
+
+
+IBM Cloud Databases for Redis
+IBM Cloud Databases for Redis helps enable you to use counters, queues, lists and HyperLogLogs to handle complex data issues simply.
+
+Learn more
+
+
+IBM Cloud Messages for RabbitMQ
+IBM Cloud Messages for RabbitMQ routes messages between microservices for modern applications. IBM Cloud Messages for RabbitMQ makes RabbitMQ even better by managing it for you. Features include high availability, automated backup orchestration and de-coupled scaling of storage and RAM.
+
+Learn more
+
+
+IBM Compose for JanusGraph
+IBM Compose for JanusGraph is an Apache TinkerPop-compatible, distributed graph database optimized for storing and querying highly interconnected data.
+
+Learn more
+
+
+IBM Db2 on Cloud
+IBM Db2® on Cloud is built for robust performance and provides a high-availability option with a 99.99 percent uptime SLA. Scale up or down as needed and leverage rolling security updates for peace of mind.
+
+Learn more
+
+
+IBM Db2 Warehouse on Cloud
+Db2 Warehouse on Cloud is a fully-managed, enterprise-class cloud data warehouse service. Powered by BLU Acceleration, Db2 Warehouse on Cloud provides you with virtually unmatched query performance.
+
+Learn more
+
+
+IBM Compose for MySQL
+IBM Compose for MySQL provides a fast, easy-to-use and flexible RDBMS. As the central component of the LAMP (Linux, Apache, MySQL and PHP) web-service model, it supports a number of connectors, including Python, PHP and C++ for development needs.
+
+Learn more
+
+
+IBM Compose for ScyllaDB
+IBM Compose for ScyllaDB is a lightning-fast, low-latency NoSQL column store that works as a drop-in replacement for Apache Cassandra.
+
+Learn more
+
+
+IBM Cloud Hyper Protect DBaaS for MongoDB
+IBM Cloud Hyper Protect DBaaS for MongoDB provides capabilities to provision, manage, maintain and monitor MongoDB through standardized APIs. It allows you to retain your data in a fully encrypted client database, without the need for specialized skills.
+
+Learn more
+
+
+IBM Cloud Hyper Protect DBaaS for PostgreSQL
+IBM Cloud Hyper Protect DBaaS for PostgreSQL provides capabilities to provision, manage, maintain and monitor PostgreSQL through standardized APIs. It protects against threats of a data breach and data manipulation, leveraging the strengths of LinuxONE pervasive encryption, scalability, performance and IBM Secure Service Container technology.
+
+Learn more
+
+Client stories
+Runkeeper logo
+Runkeeper chooses Cloudant to offer a concise, always-on app experience to its growing user base.
+
+Read more
+
+Kone logo
+KONE uses Db2 Warehouse on Cloud to store and analyze sensor data from IBM Cloud Watson® IoT for more than 1.1 million elevators and escalators in buildings worldwide.
+
+Read more
+
+Comdata logo
+Comdata’s mobile app, powered by Cloudant, provides location-aware intelligence about the best options along each driver’s route, helping save time and money.
+
+Read more
+
+Cambridgeshire Fire and Rescue logo
+Cambridgeshire Fire and Rescue selected Db2 on Cloud to build an open-standard, collaborative model for business process discovery and development.
+
+Read more
+
+Allegiant Air logo
+Allegiant Air uses Cloudant to help capture data from mobile and IoT devices as well as improve the quality of existing customer data.
+
+Read more
+
+Water Mission logo
+Water Mission is working with IBM Compose for MongoDB to help communities keep their water supplies sustainable for years to come.
+
+Read more
+
+Vapor Holding logo
+Valor Holding dramatically improved performance by migrating sales data and analysis to Db2 Warehouse on Cloud.
+
+Read more
+
+Cloud database resources
+MEAN Stack, explained
+Is MEAN right for you? Learn why this end-to-end stack of MongoDB, Express.js, AngularJS and Node.js is gaining popularity for modern web application development.
+
+NoSQL and DBaaS 101
+Get technical hands-on knowledge of NoSQL (Non-SQL or Not-only-SQL) databases and Database-as-a-Service (DBaaS) offerings.
+
+(link resides outside IBM)
+
+Cloud database code patterns
+Code patterns offer complete solutions to problems that developers face every day, leveraging technologies like cloud databases and more. 
+

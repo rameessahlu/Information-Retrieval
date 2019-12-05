@@ -1,0 +1,312 @@
+Why is Data Analytics important?
+As an enormous amount of data gets generated, the need to extract useful insights is a must for a business enterprise. Data Analytics has a key role in improving your business. Here are 4 main factors which signify the need for Data Analytics:
+
+Gather Hidden Insights – Hidden insights from data are gathered and then analyzed with respect to business requirements.
+Generate Reports – Reports are generated from the data and are passed on to the respective teams and individuals to deal with further actions for a high rise in business.
+Perform Market Analysis – Market Analysis can be performed to understand the strengths and the weaknesses of competitors.
+Improve Business Requirement – Analysis of Data allows improving Business to customer requirements and experience.
+Now that you know the need of Data Analytics, let me quickly elaborate on what is Data Analytics for you.
+
+What is Data Analytics?Data - What is Data Analytics - Edureka
+As the word suggests Data Analytics refers to the techniques to analyze data to enhance productivity and business gain.  Data is extracted from various sources and is cleaned and categorized to analyze different behavioral patterns. The techniques and the tools used vary according to the organization or individual.
+
+So, in short, if you understand your Business Administration and have the capability to perform Exploratory Data Analysis, to gather the required information, then you are good to go with the career in Data Analytics.
+
+So, now that you know what is Data Analytics, let me quickly cover the top tools used in this field.
+
+Top Tools in Data Analytics
+With the increasing demand for Data Analytics in the market, many tools have emerged with various functionalities for this purpose. Either open-source or user-friendly, the top tools in the data analytics market are as follows.
+
+R programming – This tool is the leading analytics tool used for statistics and data modeling. R compiles and runs on various platforms such as UNIX, Windows, and Mac OS. It also provides tools to automatically install all packages as per user-requirement.
+Python – Python is an open-source, object-oriented programming language which is easy to read, write and maintain. It provides various machine learning and visualization libraries such as Scikit-learn, TensorFlow, Matplotlib, Pandas, Keras etc. It also can be assembled on any platform like SQL server, a MongoDB database or JSON
+Tableau Public – This is a free software that connects to any data source such as Excel,  corporate Data Warehouse etc. It then creates visualizations, maps, dashboards etc with real-time updates on the web.
+QlikView – This tool offers in-memory data processing with the results delivered to the end-users quickly. It also offers data association and data visualization with data being compressed to almost 10% of its original size.
+SAS – A programming language and environment for data manipulation and analytics, this tool is easily accessible and can analyze data from different sources.
+Microsoft Excel – This tool is one of the most widely used tools for data analytics. Mostly used for clients’ internal data, this tool analyzes the tasks that summarize the data with a preview of pivot tables.
+RapidMiner – A powerful, integrated platform that can integrate with any data source types such as Access, Excel, Microsoft SQL, Tera data, Oracle, Sybase etc. This tool is mostly used for predictive analytics, such as data mining, text analytics, machine learning.
+KNIME – Konstanz Information Miner (KNIME) is an open-source data analytics platform, which allows you to analyze and model data. With the benefit of visual programming, KNIME provides a platform for reporting and integration through its modular data pipeline concept.
+OpenRefine – Also known as GoogleRefine, this data cleaning software will help you clean up data for analysis. It is used for cleaning messy data, the transformation of data and parsing data from websites.
+Apache Spark – One of the largest large-scale data processing engine, this tool executes applications in Hadoop clusters 100 times faster in memory and 10 times faster on disk. This tool is also popular for data pipelines and machine learning model development.
+Now, that you know all this about Data Analysis, let me tell you what you can become by gaining knowledge about this field.
+
+Well, you can become a well-renowned Data Analyst. Now, if you ask me Who is a Data Analyst?, then my answer would be that a Data Analyst is a professional who can analyze data by applying various tool and techniques and gathering the required insights.
+
+So, let’s now discuss how you can become a Data Analyst?
+
+How to become a Data Analyst?
+Data analysts translate numbers into plain English.  A Data Analyst delivers value to their companies by taking information about specific topics and then interpreting, analyzing, and presenting findings in comprehensive reports. So, if you have the capability to collect data from various sources, analyze the data, gather hidden insights and generate reports, then you can become a Data Analyst. Refer to the image below:
+
+Course Curriculum
+Data Analyst Masters Program
+ 
+
+How To Become A Data Analyst - What is Data Analytics - EdurekaFig 1: Process of Data Analysis – What is Data Analytics 
+
+Apart from the above-mentioned capabilities, a Data Analyst should also possess skills such as Statistics, Data Cleaning, Exploratory Data Analysis, and Data Visualization. Also, if you have a knowledge of Machine Learning, then that would make you stand out from the crowd.
+
+On an Average, a Data Analyst can expect a salary of ?404,660 (IND) or $83,878 (US).  As experts, data analysts are often called on to use their skills and tools to provide competitive analysis and identify trends within industries. If you wish to know more about the Salary trends of a Data Analyst, then you can read our full article on Data Analyst Salary.
+
+So, now that you know a handful about Data Analytics, let me show you a hands-on in R, where we will analyze the data set and gather some insights.
+
+Hands-On
+For this hands-on, we will be using sample census data. The dataset has columns such as House_number, Husband_Age, Wife_Age, Husband_Income, Wife_Income, Number_Of_Bedrooms, Electricity_Units, Gas, Number_Of_Children, Internet_Connection, Mode, House_Owned/Rented, Speaking_Language, and Decade_Of_House_Built. Refer to the snapshot below.
+
+Sample Data - What is Data Analytics - Edureka
+
+Problem Statement:
+To find out the following:
+
+Know the minimum, maximum and average Age of Wife
+Know the median, quantile, variance and standard deviation of Husband Income
+Find the frequency of Number of Children and Number of Bedrooms
+Solution:
+The steps we are going to follow are as follows:
+
+Import the Dataset
+Perform Data Cleaning
+Calculate the Min, Max, and Mean for Wife Age
+Calculate the Median, Quantile, Variance, Standard Deviation for Husband Income
+Plot the data for the number of children and number of bedrooms
+Step 1: To import the data set you can use the read.csv command and mention the path of the CSV file to be read. After that assign this CSV file to a variable for the future use purpose. Here I have assigned it to sampledata.
+
+1
+2
+#Importing Dataset
+sampledata <- read.csv("C:/Users/Sahiti/Desktop/Census_Data.csv")
+Step 2: Now, you can view your data set, by using the View command and the variable’s name.
+
+1
+View(sampledata)
+View Dataset - What is Data Analytics - EdurekaStep 3: Now, if you observe in your data set, you will find NA values. So, I am going to replace the NA values with 0. To do that, you can use the is.na function. This function will find all the NA values, replace them with 0, and assign it back to the same variable. Refer below.
+
+Data Science Training
+1
+2
+#Replacing NA Values with 0
+sampledata[is.na(sampledata)]<- 0
+Now, if you view dataset again, you would find that all the NA values are replaced with 0. You can use the View (sampledata) to do so.
+
+Step 4: Now, that all the null values are removed, use the summary function to get the summary of the dataset.
+
+1
+2
+#summary of dataset
+summary(sampledata)
+Summary of Dataset - What is Data Analytics - EdurekaStep 5: After this, to calculate the minimum, maximum and the average value of Wife_Age, you can use the inbuilt functions (min, max, mean) as follows.
+
+1
+2
+3
+4
+#To calculate the min, max, and mean of Wife_Age
+min(sampledata$Wife_Age)
+max(sampledata$Wife_Age)
+mean(sampledata$Wife_Age)
+
+
+Step 6: Now, to calculate the median, quantile range, variance and the standard deviation of Husband_Income you can use the inbuilt functions (median, quantile, var, sd) as follows.
+
+1
+2
+3
+4
+5
+#To calculate the median, quantile,variance, standard deviation of Husband_Income
+median(sampledata$Husband_Income)
+quantile(sampledata$Husband_Income)
+var(sampledata$Husband_Income)
+sd(sampledata$Husband_Income)
+Median, Quantile, Variance, Standard Deviation - What is Data Analytics - Edureka
+
+Step 7: Now, to plot the number of children and number of bedrooms, you can use the histogram and bar plot.
+
+1
+2
+#To plot the number of children
+hist(sampledata$Number_Of_Children)
+Number of Children - What is Data Analytics - Edureka
+
+As you can clearly see in the above plot, the frequency of the number of children between 0-2 stands the highest.
+
+Now, to find the number of bedrooms, I have assigned the number of bedrooms to a table, which is again assigned to a variable countofbedrooms.
+
+1
+2
+3
+#To plot the number of bedrooms.
+countofbedrooms <- table(sampledata$Number_Of_Bedrooms)
+barplot(countofbedrooms, main="Bedrooms Distribution", xlab="Number of Bedrooms")
+Number of Bedroom - What is Data Analytics - Edureka
+
+As you can see in the above plot, the number of bedrooms 3 stands the highest.
+
+Course Curriculum
+Data Analyst Masters Program
+Weekday / Weekend Batches
+So, folks, with this, we come to the end of this ‘What is Data Analytics?’ article. If you are someone looking to get into an interesting career, now would be the right time to up-skill and take advantage of the Data Analysis career opportunities that come your way.
+
+Edureka has a specially curated Data Analytics Master Program that will make you proficient in tools and systems used by Data Analytics Professionals. It includes in-depth training on Statistics, Data Analytics with R, SAS, and Tableau. The curriculum has been determined by extensive research on 5000+ job descriptions across the globe.
+
+Got a question for us? Please mention it in the comments section of the “What is Data Analytics?” article and we will get back to you.
+
+Recommended videos for you
+linear-regression-with-r.jpg
+Linear Regression With R
+Python-NumPy-Tutorial-NumPy-Array-Python-Tutorial-For-Beginners-Python-Training-Edureka.jpeg
+Python Numpy Tutorial – Arrays In Python
+the-whys-and-hows-of-predictive-modelling-i.jpg
+The Whys and Hows of Predictive Modelling-I
+web-scraping-and-analytics-with-python.jpg
+Web Scraping And Analytics With Python
+Python-Tutorial-Python-Tutorial-for-Beginners-Python-Training-Edureka.jpeg
+Python Tutorial – All You Need To Know In Python Programming
+Python-Machine-Learning-Tutorial-Machine-Learning-Algorithms-Python-Training-Edureka.jpeg
+Machine Learning With Python – Python Machine Learning Tutorial
+application-of-clustering-in-data-science-using-real-time-examples.jpg
+Application of Clustering in Data Science Using Real-Time Examples
+sentiment-analysis-in-retail-domain.jpg
+Sentiment Analysis In Retail Domain
+mastering-python-an-excellent-tool-for-web-scraping-and-data-analysis.jpg
+Mastering Python : An Excellent tool for Web Scraping and Data Analysis
+business-analytics-with-r.jpg
+Business Analytics with R
+android-development-using-android-5-0-lollipop.jpg
+Android Development : Using Android 5.0 Lollipop
+Python-Programming-Learn-Python-Python-Tutorial-Python-Training-Edureka.jpeg
+Python Programming – Learn Python Programming From Scratch
+business-analytics-decision-tree-in-r.jpg
+Business Analytics Decision Tree in R
+data-science-make-smarter-business-decisions.jpg
+Data Science : Make Smarter Business Decisions
+the-whys-and-hows-of-predictive-modeling-ii.jpg
+The Whys and Hows of Predictive Modeling-II
+python-for-big-data-analytics.jpg
+Python for Big Data Analytics
+3-scenarios-where-predictive-analytics-is-a-must.jpg
+3 Scenarios Where Predictive Analytics is a Must
+diversity-of-python-programming.jpg
+Diversity Of Python Programming
+Python-Class-Python-Classes-Python-Programming-Python-Tutorial-Edureka.jpeg
+Python Classes – Python Programming Tutorial
+Python-Lists-Python-Tuples-Python-Sets-Dictionary-Python-Strings-Python-Training-Edureka.jpeg
+Python List, Tuple, String, Set And Dictonary – Python Sequences
+Recommended blogs for you
+Python-Requests-300x175.jpg
+Python Requests: All You Need To Know
+Scrapy-Tutorial-300x175.png
+Scrapy Tutorial: How To Make A Web-Crawler Using Scrapy?
+Naive-Bayes-In-R-300x165.jpg
+A Comprehensive Guide To Naive Bayes In R
+armstrong-number-in-Python-300x175.jpg
+How To Best Implement Armstrong Number In Python?
+Queue-in-Python-1-300x175.jpg
+What is Queue Data Structure In Python?
+no-image-1.png
+Exceptions in Python
+python-programs-300x175.jpg
+Python Programs: Which Python Fundamentals One Should Focus On?
+Why-Python-300x175.jpg
+Why Python Programming Language Is a Must Have Skill?
+snake-game-in-python-300x175.png
+How To implement Snake Game in Python?
+no-image-1.png
+How To Install NumPy In Python?
+Optical-Charachter-Recognition-in-Java-300x175.jpg
+How to Implement Optical Character Recognition in Python
+php-error-handing-1-300x175.jpg
+PHP Error Handling: All You Need To Know
+Maths-and-Statistics-for-Data-Science-300x175.jpg
+A Complete Guide To Math And Statistics For Data Science
+String-Trimming-in-Python-300x175.jpg
+String Trimming in Python: All you Need to Know
+Python-CGI-300x175.jpg
+How To Best Utilize Python CGI In Day To Day Coding?
+Multithreading-in-python-300x175.jpg
+What is Mutithreading in Python and How to Achieve it?
+data-science-skills-300x175.png
+Data Scientist Skills – What Does It Take To Become A Data Scientist?
+speech-recognition-python-300x175.jpg
+Speech Recognition Python: How To Translate Speech To Text?
+machine-learning-tutorial1-300x175.png
+Machine Learning Tutorial for Beginners
+oops-interview-questions-300x175.jpg
+Top 50 Important OOPs Interview Questions and Answers
+Comments
+0 Comments
+
+Trending Courses in Data Science
+test
+Python Certification Training for Data Scienc ...
+53k Enrolled Learners
+Weekend/Weekday
+Live Class
+Reviews
+ 5 (20900)
+test
+Python Programming Certification Course
+10k Enrolled Learners
+Weekend
+Live Class
+Reviews
+ 5 (3900)
+test
+Machine Learning Certification Training using ...
+6k Enrolled Learners
+Weekend
+Live Class
+Reviews
+ 5 (2350)
+test
+Data Science Certification Course using R
+35k Enrolled Learners
+Weekend
+Live Class
+Reviews
+ 5 (13950)
+test
+Data Analytics with R Certification Training
+22k Enrolled Learners
+Weekend
+Live Class
+Reviews
+ 5 (8800)
+test
+Statistics Essentials for Analytics
+5k Enrolled Learners
+Weekend/Weekday
+Self Paced
+Reviews
+ 5 (1950)
+test
+SAS Training and Certification
+4k Enrolled Learners
+Weekend
+Live Class
+Reviews
+ 5 (1600)
+test
+Analytics for Retail Banks
+1k Enrolled Learners
+Weekend/Weekday
+Self Paced
+Reviews
+ 5 (350)
+test
+Decision Tree Modeling Using R Certification ...
+2k Enrolled Learners
+Weekend/Weekday
+Self Paced
+Reviews
+ 5 (600)
+test
+Advanced Predictive Modelling in R Certificat ...
+4k Enrolled Learners
+Weekend
+Self Paced
+Reviews
+ 4 (1400)
+Browse Categories
+Artificial IntelligenceBI and VisualizationBig DataBlockchainCloud ComputingCyber SecurityData Warehousing and ETLDatabasesDevOpsDigital MarketingFront End Web DevelopmentMobile DevelopmentOperating SystemsProgramming & FrameworksProject Management and MethodologiesRobotic Process AutomationSoftware TestingSystems & Architecture
+webinar FREE WEBINAR
+Top Python Libraries You Must Le...
+Subscribe to our Newsletter, and get p

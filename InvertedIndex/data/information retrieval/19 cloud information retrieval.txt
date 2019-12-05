@@ -1,0 +1,38 @@
+Cloud Information Retrieval: Model Description and Scheme Design
+Publisher: IEEE
+3
+Author(s)
+Zhen Yang  ; Jiliang Tang ; Huan Liu
+View All Authors
+
+4
+Paper
+Citations
+
+582
+Full
+Text Views
+ Open Access
+Comment(s)
+Abstract
+Document Sections
+I.
+Introduction
+II.
+Related Work
+III.
+Cloud Information Retrieval (CIR)
+IV.
+Searchable Encryption Scheme in CIR
+V.
+Experiments
+Authors
+Figures
+References
+Citations
+Keywords
+Metrics
+Abstract:
+The fast development of cloud technology has brought about a new trend in the field of information service: more and more information is being transferred to the cloud as requested. However, the data, such as texts, images, sounds, and videos, before being moved to the cloud, in most cases, has to be encrypted so that intelligible information will not be obtained from unauthorized accesses. While having done a nice work in protecting the data privacy of its owners, this encrypting process, has produced a great challenge for retrieval of the document stored via traditional IR model based on document, query and relevance. In order to retrieve encrypted information from cloud, an alternative retrieval system is needed. To satisfy such a need, we have: 1) build a cloud information retrieval framework characterized by its retrieval risk formula, which, enables, for the very first time to the best of our knowledge, an effective retrieval of keywords from encrypted cloud data without undermining key word privacy and retrieval performance; and 2) upgraded the existing searchable encryption scheme that can only support simple equality queries on encrypted data and has been proved to perform slightly better than random selection, so that it can now support the state-of-art information retrieval methods, such as vector space, probabilistic, and language model. To evaluate the effect of the system proposed above, we've conducted a wide range of experiments on benchmark data sets, of which the results shows that solution can fulfill its purposes quite well in various settings.
+Topic: Recent Advantages of Computer Vision based on Chinese Conference on Computer Vision (CCCV) 2017
+Published in: IEEE Access ( Volume: 6 )

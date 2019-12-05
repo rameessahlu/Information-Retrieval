@@ -1,0 +1,72 @@
+What Is Software Engineering?
+Share
+Flipboard
+Email
+PRINT 
+Focused female engineer working at laptop in workshop
+Hero Images / Getty Images
+Computer Science
+Computer Science
+C & C++ Programming
+PHP Programming
+Perl
+Python
+Java Programming
+Javascript Programming
+Delphi Programming
+Ruby Programming
+VIEW MORE 
+by
+David Bolton 
+Updated July 24, 2019
+Software engineers and computer programmers both develop software applications needed by working computers. The difference between the two positions lies in the responsibilities and the approach to the job. Software engineers use well-defined scientific principles and procedures to deliver an efficient and reliable software product.
+
+
+Software Engineering 
+Software engineering treats the approach to developing software as a formal process much like that found in traditional engineering. Software engineers begin by analyzing user needs. They design software, deploy, test it for quality and maintain it. They instruct computer programmers how to write the code they need. Software engineers may or may not write any of the code themselves, but they need strong programming skills to communicate with the programmers and are frequently fluent in several programming languages.
+
+
+Software engineers design and develop computer games, business applications, network control systems, and software operating systems. They are experts in the theory of computing software and the limitations of the hardware they design for. 
+
+
+
+SPONSORED BY GM BuyPower Card
+Rewarding Life’s Achievements
+
+From everyday items such as groceries, gas, and movie tickets to big-ticket items, we'll show you how to gain Earnings to power your life!
+
+Read More 
+Computer-Aided Software Engineering
+The whole software design process has to be formally managed long before the first line of code is written. Software engineers produce lengthy design documents using computer-aided software engineering tools. The software engineer then converts the design documents into design specification documents, which are used to design code. The process is organized and efficient. There is no off-the-cuff programming going on.
+
+Paperwork
+One distinguishing feature of software engineering is the paper trail that it produces. Designs are signed off by managers and technical authorities, and the role of quality assurance is to check the paper trail. Many software engineers admit that their job is 70% paperwork and 30% code. It's a costly but responsible way to write software, which is one reason why avionics in modern aircraft are so expensive.
+
+
+Software Engineering Challenges
+Manufacturers cannot build complex life-critical systems like aircraft, nuclear reactor controls, and medical systems and expect the software to be thrown together. They require the whole process to be thoroughly managed by software engineers so that budgets can be estimated, staff recruited and the risk of failure or expensive mistakes minimized.
+
+In safety-critical areas such as aviation, space, nuclear power plants, medicine, fire detection systems, and roller coaster rides, the cost of software failure can be enormous because lives are at risk. The ability of the software engineer to anticipate problems and eliminate them before they happen is critical.
+
+
+Certification and Education
+In some parts of the world and in most U.S. states, you cannot call yourself a software engineer without formal education or certification. Several of the large software companies, including as Microsoft, Oracle and Red Hat offer courses toward certifications. Many colleges and universities offer degrees in software engineering. Aspiring software engineers may major in computer science, software engineering, mathematics or computer information systems.
+
+Computer Programmers
+Programmers write code to the specifications given to them by software engineers. They are experts in the major computer programming languages. Although they aren't usually involved in the early design stages, they may be involved in testing, modifying, updating and repairing the code. They write code in one or more of the in-demand programming languages, including:
+
+SQL
+JavaScript
+Java
+C#
+Python
+PHP
+Ruby on Rails
+Swift
+Objective-C
+PHP
+Engineers vs. Programmers
+Software engineering is a team activity. Programming is primarily a solitary activity. 
+A software engineer is involved in the complete process. Programming is one aspect of software development. 
+A software engineer works on components with other engineers to build a system. A programmer writes a complete program. 
+Cite this Article 

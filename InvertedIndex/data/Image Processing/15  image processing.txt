@@ -1,0 +1,15 @@
+EE368/CS232: Digital Image Processing
+
+Winter 2019-20
+Prof. Bernd Girod
+
+
+Course Description
+
+Image sampling and quantization, color, point operations, segmentation, morphological image processing, linear image filtering and correlation, image transforms, eigenimages, multiresolution image processing, noise reduction and restoration, feature extraction and recognition tasks, image registration. Emphasis is on the general principles of image processing. Students learn to apply material by implementing and investigating image processing algorithms in Matlab and optionally on Android mobile devices. Term project. Recommended: EE261, EE278B. Course catalog entry
+
+
+Announcements
+First day of class: Monday, January 06, 2020 at 1:30 pm in Huang Engineering Center 18
+
+Please contact us if you have any questions about this page.

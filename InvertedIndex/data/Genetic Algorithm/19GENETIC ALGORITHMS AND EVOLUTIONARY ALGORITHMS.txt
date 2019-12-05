@@ -1,0 +1,31 @@
+GENETIC ALGORITHMS AND EVOLUTIONARY ALGORITHMS
+GENETIC ALGORITHMS AND EVOLUTIONARY ALGORITHMS - INTRODUCTIONYou are hereHomeOptimization Methods
+Welcome to our tutorial on genetic and evolutionary algorithms -- from Frontline Systems, developers of the Solver in Microsoft Excel.  You can use genetic algorithms in Excel to solve optimization problems, using our advanced Evolutionary Solver, by downloading a free trial version of our Premium Solver Platform.
+
+A genetic or evolutionary algorithm applies the principles of evolution found in nature to the problem of finding an optimal solution to a Solver problem. In a "genetic algorithm," the problem is encoded in a series of bit strings that are manipulated by the algorithm; in an "evolutionary algorithm," the decision variables and problem functions are used directly. Most commercial Solver products are based on evolutionary algorithms. An evolutionary algorithm for optimization is different from "classical" optimization methods in several ways:
+
+Random Versus Deterministic Operation
+Population Versus Single Best Solution
+Creating New Solutions Through Mutation
+Combining Solutions Through Crossover
+Selecting Solutions Via "Survival of the Fittest"
+Drawbacks of Evolutionary Algorithms
+Randomness.  First, it relies in part on random sampling. This makes it a nondeterministic method, which may yield somewhat different solutions on different runs -- even if you haven't changed your model. In contrast, the linear, nonlinear and integer Solvers also included in the Premium Solver are deterministic methods -- they always yield the same solution if you start with the same values in the decision variable cells.
+
+Population.  Second, where most classical optimization methods maintain a single best solution found so far, an evolutionary algorithm maintains a population of candidate solutions. Only one (or a few, with equivalent objectives) of these is "best," but the other members of the population are "sample points" in other regions of the search space, where a better solution may later be found.
+
+The use of a population of solutions helps the evolutionary algorithm avoid becoming "trapped" at a local optimum, when an even better optimum may be found outside the vicinity of the current solution.
+
+Mutation.  Third -- inspired by the role of mutation of an organism's DNA in natural evolution -- an evolutionary algorithm periodically makes random changes or mutations in one or more members of the current population, yielding a new candidate solution (which may be better or worse than existing population members).
+
+There are many possible ways to perform a "mutation," and the Evolutionary Solver actually employs three different mutation strategies. The result of a mutation may be an infeasible solution, and the Evolutionary Solver attempts to "repair" such a solution to make it feasible; this is sometimes, but not always, successful.
+
+Crossover.  Fourth -- inspired by the role of sexual reproduction in the evolution of living things -- an evolutionary algorithm attempts to combine elements of existing solutions in order to create a new solution, with some of the features of each "parent." The elements (e.g. decision variable values) of existing solutions are combined in a "crossover" operation, inspired by the crossover of DNA strands that occurs in reproduction of biological organisms.
+
+As with mutation, there are many possible ways to perform a crossover operation -- some much better than others -- and the Evolutionary Solver actually employs multiple variations of two different crossover strategies.
+
+Selection.  Fifth -- inspired by the role of natural selection in evolution -- an evolutionary algorithm performs a selection process in which the "most fit" members of the population survive, and the "least fit" members are eliminated. In a constrained optimization problem, the notion of "fitness" depends partly on whether a solution is feasible (i.e. whether it satisfies all of the constraints), and partly on its objective function value. The selection process is the step that guides the evolutionary algorithm towards ever-better solutions.
+
+Drawbacks.  A drawback of any evolutionary algorithm is that a solution is "better" only in comparison to other, presently known solutions; such an algorithm actually has no concept of an "optimal solution," or any way to test whether a solution is optimal. (For this reason, evolutionary algorithms are best employed on problems where it is difficult or impossible to test for optimality.) This also means that an evolutionary algorithm never knows for certain when to stop, aside from the length of time, or the number of iterations or candidate solutions, that you wish to allow it to explore.
+
+But with Analytic Solver Optimization and Solver SDK Platform, you are not limited to a genetic or evolutionary algorithm -- you have a full arsenal of linear, nonlinear and evolutionary Solver engines that you can apply to the full range of problems you encounter.

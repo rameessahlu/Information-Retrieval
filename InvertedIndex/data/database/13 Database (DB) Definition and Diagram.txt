@@ -1,0 +1,79 @@
+atabase
+
+
+By Vangie Beal
+Related Terms
+DB2 - Database 2
+OLE DB
+database administrator (DBA)
+configuration management database
+DBMS - database management system
+database software
+database engine
+database server
+distributed database
+RDBMS - relational database management system
+A database, often abbreviated as DB, is a collection of information organized in such a way that a computer program can quickly select desired pieces of data.
+
+Fields, Records and Files
+You can think of a traditional database as an electronic filing system, organized by fields, records, and files. A field is a single piece of information; a record is one complete set of fields; and a file is a collection of records. For example, a telephone book is analogous to a file. It contains a list of records, each of which consists of three fields: name, address, and telephone number.
+
+An alternative concept in database design is known as Hypertext. In a Hypertext database, any object, whether it be a piece of text, a picture, or a film, can be linked to any other object. Hypertext databases are particularly useful for organizing large amounts of disparate information, but they are not designed for numerical analysis.
+
+The Challenges of Cloud Integration
+ClipDocClipDocDownload
+To access information from a database, you need a database management system (DBMS). This is a collection of programs that enables you to enter, organize, and select data in a database.
+
+Database
+
+Increasingly, the term database is used as shorthand for database management system. There are many different types of DBMSs, ranging from small systems that run on personal computers to huge systems that run on mainframes.
+
+
+
+
+
+IT Solutions BuilderTOP IT RESOURCES TO MOVE YOUR BUSINESS FORWARD
+
+Which topic are you interested in?
+
+Mobile
+
+
+Security
+
+
+Networks/IoT
+
+
+Cloud
+
+
+Data Storage
+
+
+Applications
+
+
+Development
+
+
+IT Management
+
+
+Other
+
+
+Related White Papers and Webcasts
+
+Top Three Gaping Holes in Your Data Security
+By globalscape
+November 29, 2019
+Your IT team understands the importance of securing the network against data breaches from external threats. Regardless of your efforts, data breaches usually begin from inside your network, often due to lax or unenforced security policies. *Did you know? Insider threats are now the most prevalent cause of data incidents, representing nearly 70% of all data leaks. Are you doing enough Continue reading...
+
+PREVIOUS
+data warehouse
+NEXT
+database administrator (DBA)
+
+
+Related Links

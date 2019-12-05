@@ -1,0 +1,198 @@
+
+Integration and Differentiation
+¦ HOME ¦ Math Software Downloads ¦ Numerical Methods ¦ Register Your Software ¦ Contact ¦ Search ¦ Credit ¦
+
+Software:
+Linear Algebra
+Functions
+Ordinary Differential Equations
+Systems of Nonlinear Equations
+Multiple Integration
+Maxima and Minima
+Functions and Equations
+Regression
+Approximation & Interpolation
+Stereographer
+Math Miscellanea
+Support Software
+Numerical Methods:
+Integration and Differentiation
+Solution of Equations
+Maxima and Minima
+Approximation of Functions
+Regression
+Polynomial Regression
+Fast Fourier Transforms
+Differential Equations
+Linear Algebra Methods
+Miscellaneous Procedures
+Decimal Comma/Decimal Point                             
+
+ 	 
+Google	
+ 
+ 	
+ Web	 www.numericalmathematics.com
+INTEGRATION
+Suppose we want to find 
+
+x4
+òf(x)dx
+x0
+
+Many different numerical methods exist to approximate such an integral. Here we use a 4-point Newton-Cotes formula.
+
+We can approximate f(x) in the interval [x0,x4] by a polynomial, then analytically integrate the polynomial term by term. The higher the degree of the polynomial, the greater the accuracy of the resulting approximation to the integral. Here we use the fourth degree polynomial f(x)=a x4+b x3+c x2+d x+e, and use the method of Undetermined Coefficients to find a, b, c, d and e. If we then analytically integrate this polynomial term by term, the result is an approximation to the integral of f(x) from x0 to x4, and it is:
+
+x4
+òf(x)dx»2h/45[7f(x0)+32f(x1)+12f(x2)+32f(x3)+7f(x4)]
+x0
+
+where h=(x4-x0)/4 and the selected points are equally spaced.  If we have n subintervals, with n being a multiple of 4, we have the following extended formula,
+
+xn
+òf(x)dx»2h/45[7f(x0)+32f(x1)+12f(x2)+32f(x3)+14f(x4)+...+7f(xn)]
+x0
+
+in which h=(xn-x0)/n:
+
+The integration is performed once and the result stored.  It is then performed again with twice as many subintervals and the result compared with the previous one.  The process is continued until two conditions are met:
+
+a) The result differs from the previous one by less than the specified error.
+
+b) The number of subintervals is at least the number specified by the user.
+
+MULTIPLE INTEGRATION
+
+Suppose what we want is a Multiple Integral. OK, then suppose f(x) above is in turn an integral, for example, over the variable y, with limits that may be functions of x.  We would then have a double integral
+
+ d     b(x)
+ò  ò g(x,y) dy dx
+ c     a(x)
+
+If we group it like this:
+
+ d            b(x)
+ò [  ò g(x,y) dy ]dx
+ c            a(x)
+
+we see that the part inside the brackets is something like f(x).
+
+We would first perform the integration over y. For such integration over y we would in turn use the method previously described. Again, y itself may be an integral over another variable, say z, and so on.
+
+Each integration is performed once and the result stored.  It is then performed again with twice as many subintervals and the result compared with the previous one.  The process is continued until two conditions are met:
+
+a) The result differs from the previous one by less than the specified error.
+
+b) The number of subintervals is at least the number specified by the user.
+
+DIFFERENTIATION
+
+Some central difference formulas to find derivates:
+
+First derivative:
+
+               f(x-2h)-8f(x-h)+8f(x+h)-f(x+2h)
+f ’(x) = ¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾
+                                       12h
+
+Second derivative:
+
+               -f(x-2h)+16f(x-h)-30f(x)+16f(x+h)-f(x+2h)
+f ’’(x) = ¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾
+                                              12h2
+
+Higher derivatives:
+
+    1           n                         n!
+¾¾¾     S   (-1)n  ¾¾¾¾¾¾   f( x+ (n-2k)h )
+(2h)n     k=0               (n-k)!  k!
+
+In all cases h is a small quantity.
+
+PARTIAL DIFFERENTIATION
+
+Here we use the convention
+
+          ¶F                   ¶²F                   ¶²F
+Fx = ¾¾  , Fxx = ¾¾¾  , Fxy = ¾¾¾
+          ¶x                   ¶x²                  ¶x¶y
+
+and similarly for all other combinations.
+
+Suppose we have a function of 4 variables F(x,y,z,t). If h is a small quantity, then the first and second order partial derivatives of F(x,y,z,t) can be approximated by the following expressions. Here we assume that the function and all of its 1st and 2nd order partial derivatives are continuous at the point we’re interested in.
+
+            F(x-2h,y,z,t)-8*F(x-h,y,z,t)+8*F(x+h,y,z,t)-F(x+2h,y,z,t)
+Fx =  ¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾
+                                                            12h
+
+ 
+            F(x,y-2h,z,t)-8*F(x,y-h,z,t)+8*F(x,y+h,z,t)-F(x,y+2h,z,t)
+Fy =  ¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾
+                                                            12h
+
+
+           F(x,y,z-2h,t)-8*F(x,y,z-h,t)+8*F(x,y,z+h,t)-F(x,y,z+2h,t)
+Fz =  ¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾
+                                                            12h
+
+
+           F(x,y,z,t-2h)-8*F(x,y,z,t-h)+8*F(x,y,z,t+h)-F(x,y,z,t+2h)
+Ft =  ¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾
+                                                           12h
+
+
+              -F(x-2h,y,z,t)+16*F(x-h,y,z,t)-30*F(x,y,z,t)+16*F(x+h,y,z,t)-F(x+2h,y,z,t)
+Fxx =  ¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾
+                                                                               12h²
+
+
+              -F(x,y-2h,z,t)+16*F(x,y-h,z,t)-30*F(x,y,z,t)+16*F(x,y+h,z,t)-F(x,y+2h,z,t)
+Fyy =  ¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾
+                                                                               12h²
+
+
+             -F(x,y,z-2h,t)+16*F(x,y,z-h,t)-30*F(x,y,z,t)+16*F(x,y,z+h,t)-F(x,y,z+2h,t)
+Fzz =  ¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾
+                                                                              12h²
+
+
+             -F(x,y,z,t-2h)+16*F(x,y,z,t-h)-30*F(x,y,z,t)+16*F(x,y,z,t+h)-F(x,y,z,t+2h)
+Ftt =  ¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾
+                                                                              12h²
+
+
+               Fx(x,y-2h,z,t)-8*Fx(x,y-h,z,t)+8*Fx(x,y+h,z,t)-Fx(x,y+2h,z,t)
+Fxy =  ¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾
+                                                                  12h
+
+
+               Fx(x,y,z-2h,t)-8*Fx(x,y,z-h,t)+8*Fx(x,y,z+h,t)-Fx(x,y,z+2h,t)
+Fxz =  ¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾
+                                                                 12h
+
+
+               Fx(x,y,z,t-2h)-8*Fx(x,y,z,t-h)+8*Fx(x,y,z,t+h)-Fx(x,y,z,t+2h)
+Fxt =  ¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾
+                                                                 12h
+
+
+               Fy(x,y,z-2h,t)-8*Fy(x,y,z-h,t)+8*Fy(x,y,z+h,t)-Fy(x,y,z+2h,t)
+Fyz =  ¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾
+                                                                 12h
+
+
+               Fy(x,y,z,t-2h)-8*Fy(x,y,z,t-h)+8*Fy(x,y,z,t+h)-Fy(x,y,z,t+2h)
+Fyt =  ¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾
+                                                                 12h
+
+
+               Fz(x,y,z,t-2h)-8*Fz(x,y,z,t-h)+8*Fz(x,y,z,t+h)-Fz(x,y,z,t+2h)
+Fzt =  ¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾
+                                                                 12h
+
+
+From these, it’s easy to generalize to any number of independent variables.
+
+Copyright © 2001-2010 Numerical Mathematics. All rights reserved.
+

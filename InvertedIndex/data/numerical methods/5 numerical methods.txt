@@ -1,0 +1,1076 @@
+Skip to Main content
+Elsevier logo
+Journals & Books
+Numerical Method
+A numerical method is an approximate computer method for solving a mathematical problem which often has no analytical solution.
+
+From: Essential MATLAB for Engineers and Scientists (Sixth Edition), 2017
+
+Related terms:
+Finite Element MethodBoundary ConditionDiscretizationPartial Differential EquationFinite Difference Method
+View all Topics
+Download as PDF
+Set alert
+About this page
+Learn more about Numerical Method
+Introduction to PDEs
+S.P. Venkateshan, Prasanna Swaminathan, in Computational Methods in Engineering, 2014
+
+12.3 Numerical solution methods for PDEs
+Numerical methods for ODE can also be extended to solution of PDE. Methods discussed for treating initial value problems can be adopted for parabolic as well as hyperbolic equations. Similarly, methods that have been discussed for treating BVPs can be adopted for solution of elliptic PDEs which are also boundary value problems. However, the extension of the methods to solve PDE is not straightforward.
+
+Methods such as finite difference method (FDM), finite volume method (FVM), finite element method (FEM), boundary element method (BEM) etc are commonly used for treating PDE numerically. All numerical methods used to solve PDEs should have consistency, stability and convergence.
+
+A numerical method is said to be consistent if all the approximations (finite difference, finite element, finite volume etc) of the derivatives tend to the exact value as the step size (?t, ?x etc) tends to zero. A numerical method is said to be stable (like IVPs) if the error does not grow with time (or iteration). Convergence of a numerical method can be ensured if the method is consistent and stable.
+
+We shall look at different aspects of numerical treatment of different types of PDE in the forthcoming chapters.
+
+Read full chapter
+
+Purchase book
+Polymer Single Screw Extrusion: Modeling
+E. Grünschloss, in Encyclopedia of Materials: Science and Technology, 2001
+
+(b) Numerical methods (FDM, FEM, BEM)
+Numerical methods must be used if the problem is multidimensional (e.g., three-dimensional flow in mixing elements or complicated extrusion dies, temperature fields, streamlines) and/or if the geometry of the flow region is too complex. They need a high degree of mathematical formulation and programming. Even with commercial software packages on powerful computers, the computational times are rather long. Theoretically, the accuracy of the predictions could be very good, if the polymer data functions, the starting conditions, and the boundary conditions are controlled or well known. If this is not the case, numerical methods may produce no better results than good analytical methods.
+
+Read full chapter
+
+Purchase book
+Techniques available for calculating frequency response requirements
+Andrew Dixon BSc, MSc, PhD, CEng, MIET, MIEEE, in Modern Aspects of Power System Frequency Stability and Control, 2019
+
+5.5.2 Numerical methods
+The numerical methods available for solving the “swing equation” will be looked at in detail in Chapter 7, Numerical methods for solving the “swing equation,” along with the “exact solution” or “direct solution” of the differential equation method.
+
+5.5.2.1 The nature of numerical methods
+As a rule, numerical methods for solving the “swing equation” all begin by converting the differential equations [Eqs. (5.2)–(5.10)] into the form of difference equations. Amongst other things, this method involves replacing the speed differential d? with the speed step change ??, and the differential dt with the time-step ?t. Solutions are then iterated in time as successive time-steps are applied until adequate convergence is obtained.
+
+5.5.2.2 The basic methods
+In Section 7.1 we shall look at the basics of numerical methods and examine the different kinds of numerical methods available for solving our problem.
+
+5.5.2.3 The choice of time-step
+In Section 7.2 we shall examine how the choice of time-step affects the accuracy and speed of convergence of the results obtained from the numerical simulation.
+
+5.5.2.4 The choice of simulation time
+In Section 7.3 we shall look at the reasons for choosing different simulation times to suit different modeling situations.
+
+5.5.2.5 Advantages and disadvantages of the methods
+Finally, in Section 7.4 we shall compare the efficiencies of some of the different numerical methods available to us.
+
+In the next section, we summarize the “control diagram” method of solving the “swing equation.”
+
+Read full chapter
+
+Purchase book
+Vertical borehole ground heat exchanger design methods
+J.D. Spitler, M. Bernier, in Advances in Ground-Source Heat Pump Systems, 2016
+
+2.2.2 Numerical methods
+Numerical methods, eg, finite difference method, finite element method, finite volume method, are not usually feasible for design purposes. This is due to the widely varying length-scales and time-scales that are necessary to treat the heat transfer in the borehole and surrounding ground. Numerical methods have been used for development of response functions (Eskilson, 1987; Yavuzturk et al., 1999) and for research purposes. In addition, models for single boreholes that utilize custom resistance networks inside the borehole (Bauer et al., 2011; Zarrella et al., 2011; Pasquier and Marcotte, 2012; Godefroy and Bernier, 2014) have shown some promise, but are not yet used in design tools.
+
+Read full chapter
+
+Purchase book
+Numerical Solution of Finite Element Equations
+Singiresu S. Rao, in The Finite Element Method in Engineering (Sixth Edition), 2018
+
+Abstract
+Numerical methods of solving different types of finite element equations are presented. For solving equilibrium equations, the Gaussian elimination method and Choleski method (for symmetric matrices) are presented. For solving the matrix eigenvalue problem, first the methods of converting a general eigenvalue problem into a standard eigenvalue problem are presented. Then some of the popular methods used for solving the eigenvalue problem, including the Jacobi method, power method, and Rayleigh–Ritz subspace iteration method, are presented. For solving the equations of propagation problems, first the equations are converted into a set of simultaneous first-order differential equations with appropriate boundary conditions. Then methods for solving the first-order differential equations, including the fourth-order Runge–Kutta numerical method and the direct integration methods (finite difference method and Newmark method) as well as the mode superposition method are presented. The computational details of most of the methods are illustrated with examples. Finally, the feasibility of using parallel processing in finite element analysis is indicated.
+
+Read full chapter
+
+Purchase book
+Flow-Governing Equations and Mathematical Models
+Yu-Shu Wu, in Multiphase Fluid Flow in Porous and Fractured Reservoirs, 2016
+
+3.6.2 Numerical Methods
+Numerical methods have been the most used approaches for modeling multiphase flow in porous media, because the numerical methodology is able to handle the nonlinear nature of the governing equations for multiphase flow as well as complicated flow condition in reservoirs, which cannot be handled by other approaches in general. Significant progress has been made in development and application of numerical approaches in reservoir simulation (Peaceman, 1977; Thomas and Pierson, 1978; Aziz and Settari, 1979; Ertekin et al., 2001; Fanchi, 2005; Chen et al., 2006; Chen, 2007), and in groundwater literature (Huyakorn and Pinder, 1983; Istok, 1989; Helmig, 1997; Zheng and Bennett, 2002). The technical advances in numerical simulations have provided powerful quantitative tools for engineers, hydrologists, and scientists in studies of subsurface multiphase flow.
+
+There are different kinds of numerical approaches developed and used in the literature for solving flow and transport equations in porous media. When applied to multiphase flow in reservoirs, perhaps the most commonly used numerical techniques are the finite or integrated finite difference and the finite-element approaches. In addition, other numerical methods, such as the method of characteristics and boundary element method, have also found certain applications.
+
+Read full chapter
+
+Purchase book
+Design of Underground Structures
+Bai Yun, in Underground Engineering, 2019
+
+3.1.3.1 Numerical Methods
+Numerical methods have been adopted to design, analyze, and further estimate the deformations and behavior of underground structures. When an engineer is in charge of a new project, the more details he can obtain from its condition the more precise the calculation will be. Today, thanks to the growth of computers, underground engineers are able to adopt powerful numerical methods to analyze not only complex behaviors for both soil and rock medium but also make further estimations on the influences from different construction stages such as initial stress, ground behavior, excavation sequences, and support installation.
+
+Stress deformation of different elements for different behavior of materials such as elastic, elastoplastic, viscoplastic, and strain softening can be incorporated into the analysis.
+
+Almost every tunneling project requires numerical analysis to predict ground movement and to analyze the behavior of the surrounding ground in response to tunneling works. Among the numerical methods or numerical codes developed in recent decades and commonly used for underground excavation and tunneling are the FEM, finite difference method (FDM), and boundary element method (BEM), all based on the continuum approach. Table 3.4 summarizes the difference between FEM and FDM.
+
+Table 3.4. FEM and FDM differences
+
+Features	Finite element methods	Finite difference methods
+Field quantities (e.g., stress, displacement)	Vary throughout each element in a prescribed fashion using specific functions controlled by parameters	Every derivative in the set of governing equations is replaced directly by an algebraic expression at discrete points in space
+Computation method	Often combine the element matrices into a large global stiffness matrix	Regenerates the finite difference equations at each step of the calculation
+Method to solve algebraic equations	Explicit	Often implicit or matrix-oriented schemes
+Procedure	Divides the geometry into small elements and calculates the stresses and strains in those elements before assembling them back using theory of superposition	Divides the problem into small time steps and predicts the stresses and strains of the next time step based on the present time step using finite difference formulation
+Variables	Defined within elements	Undefined within elements
+Best for	Static loads, linear, small-strain problems	Dynamic problems, nonlinear, large-strain, physical instability
+These methods facilitate modeling of complex structures, taking into account both construction and ground conditions that cannot be analyzed using analytical methods.
+
+The FEM is used to analyze problems with material and geometric nonlinearities, complex boundary conditions, and nonhomogeneities. PHASES, MIDAS/GTX, PLAXIS, and UNWEDGE are some of the commercial computer programs implementing FEM available today. A FEM analysis involves the following steps:
+
+1.
+discretization of the region of interest;
+
+2.
+selection of displacement model;
+
+3.
+definition of strain–displacement and stress–strain relations;
+
+4.
+derivation of element equations;
+
+5.
+assembly and incorporation of boundary conditions;
+
+6.
+solutions of primary unknowns;
+
+7.
+computation of secondary unknowns; and
+
+8.
+interpretation of results.
+
+FDMs are numerical methods for solving differential equations by approximating them with difference equations, in which finite differences approximate the derivatives. It is the oldest and simplest technique and is considered a good method for dynamics and large deformations. It is briefly described as follows:
+
+•
+It requires knowledge of initial condition and/or boundary condition.
+
+•
+The derivatives in the governing equation are replaced by algebraic expressions in terms of field variables (stress or pressure, displacement, velocity), which are described at discrete points in space as nodes, but are not defined between the nodes or by elements.
+
+•
+No matrix operations are required.
+
+•
+The explicit method is generally used in which the solution is achieved by time-stepping using small intervals of time generating grid values at each time step.
+
+The BEM involves the discretization of the interior or exterior boundaries only and consists basically of definition and solution of a problem entirely in terms of surface values of traction and displacement. The BEM is classified as direct and indirect depending on the procedure used to construct relationships between the tractions and the displacements. Indirect formulation is used in rock engineering problems particularly with respect to underground structures (Sharma, 2009).
+
+Coupled FEBEM: The FEM and the BEM are two well-established numerical methods used for the analysis of underground openings. The advantages of both methods are utilized by adopting FEBEM in which finite elements are coupled with boundary elements (Sharma, 2009).
+
+Some of commercial software used in underground engineering is listed in Table 3.5.
+
+Table 3.5. Commercial software use in underground engineering
+
+Software	Method	Usage
+FLAC (fast Lagrangian analysis of continua)	FDM	General FDM
+ABAQUS	FEM	General FEM with some geotechnical relations
+ANSYS	FEM	Mechanical/structural
+PLAXIS	FEM	Geotechnical
+SIGMA/W	FEM	Geotechnical
+SEEP/W (FEM)	FEM	Seepage analysis
+MODFLOW (FEM)	FEM	Groundwater modeling
+FLAC and PLAXIS are most commonly used by advanced geotechnical consultants. The general modeling procedure for all these programs consists of five major steps:
+
+1.
+configuration of tunnel cross section and excavation type;
+
+2.
+specification of support system and ground treatment;
+
+3.
+definition of excavation and construction stages;
+
+4.
+configuration of mesh data with terrain and strata; and
+
+5.
+preparation of reports and output data.
+
+It is important to note that all these programs require users to have a sound understanding of the underlying numerical models and constitutive laws.
+
+Explicit and implicit methods are approaches used in numerical analysis for obtaining numerical solutions of time-dependent ordinary and partial differential equations, as is required in computer simulations of physical processes such as groundwater flow and the wave equation. Explicit methods calculate the state of a system at a later time from the state of the system at the current time, while implicit methods find a solution by solving an equation involving both the current state of the system and the later one. Mathematically, if Y(t) is the current system state and Y(t+?t) is the state at the later time (?t is a small time step), then, for an explicit method, Eqs. (3.18) and (3.19) should be used to find Y(t+?t).
+
+(3.18)Explicit methodY(t+?t)=F(Y(t))
+(3.19)Implicit methodG(Y(t),Y(t+?t))=0
+It is clear that implicit methods require extra computation (solving the above equation), and they can be much harder to implement. Implicit methods are used because many problems arising in real life are stiff, for which the use of an explicit method requires impractically small time steps ?t to keep the error in the result bounded (see numerical stability). For such problems, to achieve given accuracy, it takes much less computational time to use an implicit method with larger time steps, even taking into account that one needs to solve an equation of the form (Eq. 3.19) at each time step. In conclusion, whether one should use an explicit or implicit method depends on the problem to be solved. Table 3.6 compares these two methods.
+
+Table 3.6. Comparison of explicit and implicit solution methods (FLAC manual, Itasca)
+
+Explicit	Implicit
+Time step must be smaller than a critical value for stability	Time step can be arbitrarily large, with unconditionally stable schemes
+Small amount of computational effort per time step	Large amount of computational effort per time step
+No significant numerical damping introduced for dynamic solution	Numerical damping dependent on time step present with unconditionally stable schemes
+No iterations necessary to follow nonlinear constitutive law	Iterative procedure necessary to follow nonlinear constitutive law
+Provided that the time step criterion is always satisfied, nonlinear laws are always followed in a valid physical way	Always necessary to demonstrate that the abovementioned procedure is: (1) stable and (2) follows the physically correct path (for path-sensitive problems)
+Matrices are never formed. Memory requirements are always at a minimum. No bandwidth limitations	Stiffness matrices must be stored. Ways must be found to overcome associated problems such as bandwidth. Memory requirements tend to be large
+Since matrices are never formed, large displacements and strains are accommodated without additional computing effort	Additional computing effort needed to follow large displacements and strains
+Read full chapter
+
+Purchase book
+From micro to macro
+R.M. Sencu, ... Y.C. Wang, in Structural Integrity and Durability of Advanced Composites, 2015
+
+5.3 Numerical crack models
+Numerical methods capable of modeling crack growth can be broadly categorized (Su, Yang, & Liu, 2010) as discrete crack models explicitly separating the crack surfaces, smeared crack models based on continuum mechanics, and more indirect models (lattice, truss, fractals, etc.). Discrete crack models were mainly developed for 2D problems and only recently, complicated 3D fracture behaviour has been simulated mainly in concrete materials (Gasser & Holzapfel, 2005; Rahman & Chakraborty, 2011; Su et al., 2010). The simplified 3D damage simulations for unidirectional fibre composites presented in Mishnaevsky (2012) and Mishnaevsky and Brøndsted (2009) do not include discrete crack propagation. The broad assumptions of the different crack models are
+
+1.
+Discrete crack models based on re-meshing techniques (Ooi & Yang, 2009; Réthoré, Gravouil, & Combescure, 2004; Yang & Chen, 2004): a representative semi-analytical method based on a re-meshing routine is the scaled boundary finite element method (Ooi & Yang, 2009). The method is designed for modelling problems with discontinuities and singularities (Ooi & Yang, 2011).
+
+2.
+Smeared crack models in Pham, Al-Mahaidi, and Saouma (2006) involve an infinite number of parallel cracks of infinitesimal thickness that are distributed over the finite elements (Kwak & Filippou, 1990). The crack propagation is then introduced by reduction of the stiffness and strength of the material. A comprehensive literature review including limitations is given in Gálvez, Cervenka, Cendón, and Saouma (2002).
+
+3.
+Nodal enrichment models such as the extended finite element method (X-FEM) (Markus, 2007; Meschke & Dumstorff, 2007) endorse the concept of local nodal enrichment of the finite elements by partition, allowing discontinuous displacement fields to take place.
+
+4.
+Cohesive crack models are based on pre-embedding cohesive interface elements without re-meshing (Su, Yang, & Liu, 2010; Su et al., 2009; Xie & Waas, 2006; Yang & Xu, 2008; Yang et al., 2009). They assume the existence of a fracture process zone, originally introduced by Barenblatt (1959) and Dugdale (1960) for elasto-plastic fracture of ductile materials and later elaborated by Hillerborg, Modéer, and Petersson (1976) to include quasi-brittle materials in their ‘fictitious crack model’ and adopted by many others including Bažant and Oh (1983), de Borst (2003), Carpinteri (1989), Seagraves and Radovitzky (2010), Tvergaard and Hutchinson (1992) and Yang and Xu (2008).
+
+Read full chapter
+
+Purchase book
+Sparse Eigenanalysis
+Sergio Pissanetzky, in Sparse Matrix Technology, 1984
+
+6.2 The Rayleigh quotient
+Numerical methods only provide approximate results. If an approximation x for an eigenvector of A is available, is it possible to compute an approximation to the corresponding eigenvalue? First, we quote the following result: for any nonzero vectorx and any real number s define s = |Ax – s x|/|x|; then there exists an eigenvalue ? of A in the interval [s – s, s + s], or:
+
+(6.13)s-s=?=s+s·
+The width of the interval is 2s, and it depends on s. The width is minimized when s is chosen in such a way that the residual vector r = Ax – s x is perpendicular to x, as the two-dimensional example of Fig. 6.1 shows. This particular value of s is the Rayleigh quotient ?(x). From xTr = 0 is obtained:
+
+
+Sign in to download full-size image
+Figure 6.1. Two-dimensional example of a minimized residual vector.
+
+(6.14)?(x)=
+xTAx
+xTx
+ 
+·
+The Rayleigh quotient is the best approximation to an eigenvalue of A which can be obtained from the available information.
+
+For any nonzero x, ? (x) has the following property:
+
+(6.15)?min=?(x)=?max,
+where ?min and ?max are the minimum and the maximum eigenvalues of A, respectively. Equation (6.15) is the basis of a method for finding extreme eigenvalues by maximizing or minimizing the Rayleigh quotient ? (x) over all normalized x. The conjugate gradient algorithm can be used for this purpose, see for example Geradin (1971) or Longsine and McCormick (1981), who simultaneously minimize several Rayleigh quotients. Coordinate relaxation is one of the methods most commonly used to minimize a Rayleigh quotient. If xk is the current approximation to an eigenvector, the new iterate is xk + 1 = xk + aej, obtained from xk by simply adding a to its jth component. The value of a is chosen in such a way that ? (xk + 1) is minimized. In practice, convergence is made faster using coordinate over-relaxation, where xk + 1 =xk + ßa ej, a is such that ? (xk + a ej) is minimum, and ß is the over-relaxation parameter, usually in the range 1 = ß = 2. A survey of relaxation methods is found in Ruhe (1977). Schwartz (1977) iterates several vectors simultaneously. The extension to the generalized eigenproblem, Equation (6.2), is performed as follows. Let |u|B-1=(uTB-1u)1/2 for any vector u. For any nonzero vector x and any real number s define s=|Ax-sBx|B-1/|Bx|B-1; then there exists an eigenvalue ?of the pencil A, B in the interval [s –s, s+ s], or:
+
+(6.16)s-s=?=s+s·
+For any nonzero x the Rayleigh quotient is:
+
+(6.17)?(x)=
+xTAx
+xTBx
+ 
+and has the property that
+
+(6.18)?min=?(x)=?max,
+where ?min, ?max are the extreme eigenvalues of A, B. For x and s given, the residual vector is r = Ax – s Bx, and it has the property that rTx = 0 when s = ?(x). The methods of Rayleigh quotient minimization readily extend to the generalized eigenproblem, see for example Schwartz (1977), or the new techniques developed by Longsine and McCormick (1981), where the Rayleigh quotient is minimized over several independent vectors simultaneously.
+
+The concept of a scalar Rayleigh quotient can be generalized to that of a Rayleigh matrix, giving rise to the Rayleigh–Ritz approximation procedure, extensively used in the eigenanalysis of sparse matrices. This point is examined in Section 6.9.
+
+Read full chapter
+
+Purchase book
+Application of Fluid Flow Equations to Gas Systems
+Amanat U. Chaudhry, in Gas Well Testing Handbook, 2003
+
+2.14 Numerical Solutions of Partial Differential Equations
+Numerical methods must be used for cases where the partial differential equation and its boundary conditions cannot be linearized, where the reservoir shape is irregular, or when the reservoir is heterogeneous. In some complex situations, analytical solutions may be so difficult to apply that numerical methods are preferred. In this section a brief discussion of the numerical approach is presented including difference equations.
+
+Three-Dimensional Models
+Gas flow equations are different from those for liquid flow in that the equations of state that are used are quite different in functional form from those for liquids. The ideal gas law gives the equation of state for an ideal gas:
+
+pV=
+m
+M
+ 
+RT and 
+m
+V
+ 
+=
+M
+RT
+ 
+P=?
+where ? is the density.
+
+In the case of flow of a nonideal gas, the gas deviation factor zg is introduced into the equation of state to give
+
+(2-130)?=
+M
+RP
+ 
+?
+zg
+ 
+If we assume laminar flow, neglect gravity effects, and assume constant rock properties, Eq. 2-130 becomes
+
+(2-131)
+?
+?x
+ 
+(
+p
+µzg
+ 
+?p
+?x
+ 
+)+
+?
+?y
+ 
+(
+p
+µzg
+ 
+?p
+?y
+ 
+)+
+?
+?z
+ 
+(
+p
+µzg
+?p
+?z
+ 
+ 
+)=
+?
+k
+ 
+?
+?t
+ 
+(
+p
+zg
+ 
+)
+In field units Eq. 2-131 can be written as
+
+(2-132)
+?
+?x
+ 
+(
+p
+µzg
+ 
+?p
+?x
+ 
+)+
+?
+?y
+ 
+(
+p
+µzg
+ 
+?p
+?y
+ 
+)+
+?
+?z
+ 
+(
+p
+µzg
+?p
+?z
+ 
+ 
+)=
+?
+0.000264k
+ 
+?
+?t
+ 
+(
+p
+zg
+ 
+)
+In terms of pseudopressure, ?(p), the equation can be written as follows:
+
+(2-133)?(p)=2 
+p
+?
+p0 
+p
+µzg
+ 
+dp
+where p0 is a low base pressure. Now,
+
+?
+?t
+ 
+(
+p
+zg
+ 
+)=
+d(
+p
+zg
+ 
+)
+dp
+ 
+?p
+?t
+ 
+=
+cgp
+zg
+ 
+?p
+?t
+ 
+,
+because
+
+cg=
+1
+?
+ 
+d?
+dp
+ 
+=
+zg
+p
+ 
+d(
+p
+zg
+ 
+)
+dp
+ 
+Also note that
+
+??
+?t
+ 
+=
+??
+?p
+ 
+?p
+?t
+ 
+=
+2p
+µzg
+ 
+?p
+?t
+ 
+and
+
+??
+?x
+ 
+=
+2p
+µzg
+ 
+?p
+?x
+ 
+Similar expressions apply for 
+??
+?y
+ 
+ and 
+??
+?z
+ 
+. Thus Eq. 2-131 becomes
+
+(2-134)
+?
+?x
+ 
+(
+??
+?x
+ 
+)+
+?
+?y
+ 
+(
+??
+?y
+ 
+)+
+?
+?z
+ 
+(
+??
+?z
+ 
+)=
+?µcg
+0.000264k
+ 
+??
+?t
+ 
+Equations 2-131 and 2-134 are in three-dimensional form for single-phase flows and can be used for the study of completely heterogeneous reservoirs.
+
+Radial One-Dimensional Model
+For radial flow, the equivalent of Eq. 2-131 is
+
+(2-135)
+1
+r
+ 
+?
+?r
+ 
+(
+p
+µzg
+ 
+r
+?p
+?r
+ 
+)=
+?
+0.000264k
+ 
+?
+?t
+ 
+(
+p
+zg
+ 
+)
+In terms of pseudopressure, ?(p) is
+
+(2-136)
+1
+r
+ 
+?
+?r
+ 
+(r
+??
+?r
+ 
+)=
+?
+0.000264k
+ 
+??
+?t
+ 
+For single-well problems, the use of the cylindrical coordinates provides greater accuracy than other coordinate systems. For the study of multiwell systems it is usually necessary to use rectangular coordinates with closely spaced grid points near the well.
+
+Radial Two-Dimensional Coning Model
+Where vertical flow is important, a two-dimensional radial model must be considered. The equation to be solved in this case is
+
+(2-137)
+1
+r
+ 
+?
+?r
+ 
+(
+p
+µzg
+ 
+r
+?p
+?r
+ 
+)+
+?
+?z
+ 
+(
+p
+µzg
+ 
+r
+?p
+?z
+ 
+)=
+?
+0.000264k
+ 
+?
+?t
+ 
+(
+p
+zg
+ 
+)
+In terms of pseudopressure, ?(p) is
+
+(2-138)
+1
+r
+ 
+?
+?r
+ 
+(r
+??
+?r
+ 
+)+
+?
+?z
+ 
+(
+??
+?z
+ 
+)=
+?µcg
+0.000264k
+ 
+?
+?t
+ 
+(
+p
+zg
+ 
+)
+Models of this type can be used to study the effects of anisotropy on the transient pressure analysis of buildup and drawdown tests.
+
+Areal Two-Dimensional Models
+Multiwell problems can be solved through the solution of Eq. 2-139:
+
+(2-139)
+?
+?x
+ 
+(
+p
+zg
+ 
+hkx
+µ
+ 
+?p
+?x
+ 
+)+
+?
+?y
+ 
+(
+p
+zg
+ 
+hky
+µ
+ 
+?p
+?y
+ 
+)=
+?
+?t
+ 
+(
+?hp
+zg
+ 
+)+q(x,y,t)
+The injection or production from different wells is accounted for by the q term. The reservoir shape may be completely arbitrary and there may be different types of boundary conditions such as no-flow or constant pressure. This model can also be used for interference test analysis.
+
+Studies of this type for Darcy' flow have been reported in the literature, for example, by Carter.12
+
+Multiphase (Gas-Condensate Flow) Model
+In this section we outline a detailed derivation of an equation describing radial, and a multiphase mixture of gas, condensate, and water. We assume that a porous medium contains gas condensate and water, and that each phase has saturation-dependent effective permeability (kg, ko, and kw); time-dependent saturation (Sg, So, and Sw); and pressure-dependent viscosity (µg, µo, and µw). When gravitational forces and capillary pressures are negligible, the differential equation describing this type of flow is
+
+(2-140)
+1
+r
+ 
+?
+?r
+ 
+(r
+??
+?r
+ 
+)=
+?tct
+0.000264?t
+ 
+??
+?t
+ 
+where
+
+(2-141)ct=Sgcg+Soco+Swcw+cf
+ct is the effective total compressibility and is the sum of the fractional compressibilities. The fractional compressibility of a fluid is its compressibility multiplied by the fraction of the pore space that it occupies (that is, its saturation). The effective total mobility, (k/µ)t, is given in terms of the in situ permeability to each of the phases by
+
+(2-142)?t=(
+k
+µ
+ 
+)t=
+kg
+µg
+ 
++
+ko
+µo
+ 
++
+kw
+µw
+ 
+The in situ permeability to each phase is the product of the permeability of the formation and the relative permeability to that phase. This latter factor depends on the prevailing saturation conditions. The effective total production rate is simply the sum of the individual fluid flow rates
+
+(2-143)qt=qg+qo+qw
+Substituting these effective total properties and the total porosity, ft, for their single-phase equivalents in Eq. 2-108 makes it possible to use the solutions of this equation for multiphase (gas-condensate flow) problems.
+
+Compositional (Multicomponent) Model
+In a reservoir system there are generally several species of chemical compounds. These components vary in composition in different phases, and each phase flows at a different rate. Therefore a mass balance must be made on every flowing fraction instead of each phase. Figure 2-8 shows compositional mass balance on element. Detailed discussion and numerical equations can be found in Refs. 16 and 17.
+
+
+Sign in to download full-size image
+Figure 2-8. Composition mass balance on element (after Roebuck et al. © SPE, AIME 1969).16
+
+Compositional Mass Balance on Element
+There are N species of chemical compounds flowing into the reservoir element in three phases. With the element there are changes due to either or all of the following:
+
+1.
+Pressure change
+
+2.
+Production
+
+3.
+Injection
+
+Then we can write
+
+(2-144) 
+?
+?x
+ 
+(
+ko?o
+µo
+ 
+CMoj
+?po
+?x
+ 
++
+kg?g
+µg
+ 
+CMgj
+?pg
+?x
+ 
++
+kw?w
+µw
+ 
+CMwj
+?pw
+?x
+ 
+)	=
+?
+?t
+ 
+(?So?oCMoj+?Sg?gCMgj+?Sw?wCMwj) 
+Consider the conservation of mass applied to one compound. Let
+
+CMoj = mass fraction of jth component in oil
+
+CMgj = mass fraction of jth component in gas
+
+CMwj = mass fraction of jth component in water
+
+Equation 2-117 describes the flow of a single component, e.g., CH4 in a linear system without any sources or sinks. Equation 2-117 also shows that each term on the left represents the mass flux of the jth component in each phase, which is simply derived by the following:
+
+(2-145) Total mass flux = Density ×Volumetric rate	=?oqo=
+ko?o
+µo
+ 
+?po
+?x
+ 
+ 
+(2-146)Component mass flux =CMoj
+ko?o
+µo
+ 
+?po
+?x
+ 
+Similarly, the accumulation term embodies the changes in each phase of the specific component:
+
+Mass rate of change =
+Mass at time (t+?t)-Mass at time t
+?t
+ 
+A general equation for the N species under observation will be of the form
+
+(2-147)
+?
+?x
+ 
+( 
+3
+?
+i=1 
+ki??
+µi
+ 
+CMij
+?pi
+?x
+ 
+)=
+?
+?t
+ 
+( 
+3
+?
+i=1 ?Si?iCMij), j=1,…,N
+where
+
+i = represents the phases and
+
+j = the number of components.
+
+We must determine the number of independent variables in the system. These data are listed in Table 2-7 for an N-component system.
+
+Table 2-7.
+
+Unknown	Number
+Cmij	3N
+pi	3
+Si	3
+?I	3
+µI	3
+kI	3
+3N + 15
+Note: Cmij = 1, 2, 3 j = 1, …, N;
+
+total = 3N
+
+
+In order to solve the system we must have 3N + 15 independent relationships. These relationships come from several sources:
+
+1.
+Differential equations
+
+2.
+Phase equilibrium
+
+3.
+PVT data
+
+4.
+Relative permeability data
+
+5.
+Conservation principles
+
+6.
+Capillary data
+
+Relationship Development
+Develop the necessary relationships as follows:
+
+1.
+Write one partial differential equation for each component in the system, thus providing N relationships.
+
+2.
+Since the pore space is always fluid-filled, the fluid phase saturations must always sum to unity:
+(2-148)So+Sg+Sw=1
+
+This is one relationship.
+
+3.
+The mass fraction of each component in each fluid phase must sum to unity, since mass conservation of each component is required.
+
+Thus:
+(2-149)  
+N
+?
+j=1 CMoj=1	 
+N
+?
+j=1 CMgj=1	 
+N
+?
+j=1 CMwj=1 
+
+This provides three relationships.
+
+4.
+The following can be obtained from the PVT data.
+
+(2-150) µo=?(po,CMoj)	µg=?(pg,CMgj)	µw=?(pw,CMwj) 
+(2-151) ?o=?(po,CMoj)	?g=?(pg,CMgj)	?w=?(pw,CMwj) 
+
+Note: These provide six more relationships. Viscosity and density are computed experimentally or from well-known correlations, which relate these parameters to compositions and pressures.
+
+5.
+For mobility calculations, we need relative permeability data:
+(2-152) ko=?(Sg,So,Sw)	kg=?(Sg,So,Sw)	kw=?(Sg,So,Sw) 
+
+This provides three more relationships.
+
+6.
+For distribution of a component between its liquid and gaseous states, the equilibrium constant can be derived from thermodynamic principles. For example,
+(2-153) 
+CMgj
+CMoj
+ 
+=Kjgo	
+CMgj
+CMwj
+ 
+=Kjgw 
+
+These equilibrium constants are a function of several variables:
+(2-154) Kjgo=?(p,T,Cij)	Kjgw=?(p,T,Cij) 
+from which
+(2-155)
+Kjo
+Kjw
+ 
+=
+Kjgw
+Kjgo
+ 
+=Kgow
+
+Equations 2-154 and 2-155 provide an independent relationship when written for each component in the system.
+
+7.
+Capillary pressure provides the remaining relationship:
+(2-156) pg-po=pcgo=?(Sg,So,Sw)	po-pw=pcow=?(Sg,So,Sw) 
+
+These relationships are summarized in Table 2-8.
+
+Table 2-8.
+
+Relationship	Unknown	Equations
+Differential equation	N	2-147
+Phase equilibrium	2N	2-153
+PVT data	6	2-150 and 2-151
+Relative permeability	3	2-152
+S Mass fraction	3	2-149
+S Saturation	1	2-148
+Capillary pressure	2	2-156
+Therefore, according to Table 2-8, we have 3N + 15 independent unknown and 3N + 15 independent relationships that can be used to solve the system.
+
+Assumptions
+Several simplifying assumptions are usually made to make the problem more amenable to solution:
+
+1.
+Capillary pressure between oil and gas is generally neglected.
+
+2.
+Several components are grouped together, e.g., a system containing the following nine components will be grouped as shown below:
+C1?Component?1	 C2	C3	Ci4	Cin	Ci5	Cn5	C6 |Component?2	C7+?Component?3 
+
+3.
+The mass fraction of components present in the water is so small that the CMwj terms are also zero. This means that oil and gas are the only phases in which mass transfer occurs. The equation for the water present is still needed.
+
+Sources and Sinks
+Sources and sinks can be included in Eq. 2-139 by the addition of a term representing the source or sink:
+
+(2-157)
+?
+?x
+ 
+( 
+3
+?
+i=1 
+Ki?i
+µi
+ 
+CMij
+?pi
+?x
+ 
+)- 
+3
+?
+i=1 qiaijd(x)=
+?
+?t
+ 
+( 
+3
+?
+i=1 ?iSi?iCMij)
+where
+
+qi = Mass injection rate of phase in suitable units
+
+aij = Mass fraction of jth component in ith phase
+
+d(x) = Delta function
+
+The delta function d(x) is defined as follows:
+
+Production or injection in all at x : d(x) = 1
+
+No production or injection in all at x : d(x) = 0
+
+The locations of these wells are shown in Figure 2-9.
+
+
+Sign in to download full-size image
+Figure 2-9. Well locations.
+
+Procedure Outline for Solution of Flow Equations
+The solution of the compositional model is an iterative one. The process indicated in Figure 2-10 is essentially the solution outline.
+
+
+Sign in to download full-size image
+Figure 2-10. Solution Outline.
+
+Read full chapter
+
+Purchase book
+Elsevier logo
+About ScienceDirect
+Remote access
+Shopping cart
+Advertise
+Contact and support
+Terms and conditions
+Privacy policy
+We use cookies to help provide and enhance our service and tailor content and ads. By continuing you agree to the use of cookies.
+
+Copyright © 2019 Elsevier B.V. or its licensors or contributors. ScienceDirect ® is a registered trademark of Elsevier B.V.
+

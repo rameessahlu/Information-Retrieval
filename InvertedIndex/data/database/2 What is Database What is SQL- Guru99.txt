@@ -1,0 +1,163 @@
+What is Database? What is SQL? - Guru99
+
+What is Database? What is SQL?
+
+What You Will Learn: [hide]
+What is Data?
+What is a database?
+What is a Database Management System?
+Types of DBMS
+What is SQL?
+What is NoSQL ?
+Why it makes sense to learn SQL after NOSQL ?
+Before we learn about database , let's understand - 
+
+What is Data?
+In simple words data can be facts related to any object in consideration.
+
+For example your name, age, height, weight, etc are some data related to you.
+
+A picture , image , file , pdf etc can also be considered data.
+
+What is a Database?
+Database is a systematic collection of data. Databases support storage and  manipulation of data. Databases make data management easy. Let's discuss few examples.
+
+An online telephone directory would definitely use database to store data pertaining to people, phone numbers, other contact details, etc.
+
+Your electricity service provider is obviously using a database to manage billing , client related issues, to handle fault data, etc.
+
+Let's also consider the facebook. It needs to store, manipulate and present data related to members, their friends, member activities, messages, advertisements and lot more.
+
+We can provide countless number of examples for usage of databases .
+
+
+
+Click here if the video is not accessible
+
+What is a Database Management System (DBMS)?
+Database Management System (DBMS) is a collection of programs which enables its users to access database, manipulate data, reporting / representation of  data .
+
+It also helps to control access to the  database.
+
+Database Management Systems are not a new concept and as such had been first implemented in 1960s.
+
+Charles Bachmen's Integrated Data Store (IDS) is said to be the first DBMS in history.
+
+With time database technologies evolved a lot while usage and expected functionalities of databases have been increased immensely.
+
+Types of DBMS
+Let's see how the DBMS family got evolved with the time. Following diagram shows the evolution of DBMS categories.
+
+What is Database? What is SQL?
+
+There are 4 major types of DBMS. Let's look into them in detail.
+
+Hierarchical - this type of DBMS employs the "parent-child" relationship of storing data. This type of DBMS is rarely used nowadays. Its structure is like a tree with nodes representing records and branches representing fields. The windows registry used in Windows XP is an example of a hierarchical database. Configuration settings are stored as tree structures with nodes.
+Network DBMS - this type of DBMS supports many-to many relations. This usually results in complex database structures.  RDM Server is an example of a database management system that implements the network model.
+Relational DBMS - this type of DBMS defines database relationships in form of tables, also known as relations. Unlike network DBMS, RDBMS does not support many to many relationships.Relational DBMS usually have pre-defined data types that they can support. This is the most popular DBMS type in the market. Examples of relational database management systems include MySQL, Oracle, and Microsoft SQL Server database.
+Object Oriented Relation DBMS - this type supports storage of new data types. The data to be stored is in form of objects. The objects to be stored in the database have attributes (i.e. gender, ager) and methods that define what to do with the data. PostgreSQL is an example of an object oriented relational DBMS.
+What is SQL?
+Structured Query language (SQL) pronounced as "S-Q-L" or sometimes as "See-Quel"is actually the standard language for dealing with Relational Databases.
+
+
+
+
+SQL programming can be effectively used to insert, search, update, delete database records.
+
+That doesn't mean SQL cannot do things beyond that.
+
+In fact it can do lot of things including, but not limited to, optimizing and maintenance of databases. 
+
+Relational databases like MySQL Database, Oracle, Ms SQL server, Sybase, etc uses SQL ! How to use sql syntaxes?
+
+ SQL syntaxes used in these databases are almost similar, except the fact that some are using few different syntaxes and even proprietary SQL syntaxes.
+
+SQL Example
+
+ SELECT * FROM Members WHERE Age > 30 
+What is NoSQL ?
+NoSQL is an upcoming category of Database Management Systems. Its main characteristic is its non-adherence to Relational Database Concepts. NOSQL means "Not only SQL". 
+
+Concept of NoSQL databases grew with internet giants such as Google, Facebook, Amazon etc who deal with gigantic volumes of data.
+
+When you use relational database for massive volumes of data , the system starts getting slow in terms of response time.
+
+To overcome this , we could of course "scale up" our systems by upgrading our existing hardware.
+
+The alternative to the above problem would be to distribute our database load on multiple hosts as the load increases.
+
+This is known as "scaling out".
+
+ NOSQL database are non-relational databases that scale out better than relational databases and are designed with web applications in mind.
+
+They do not use SQL to query the data and do not follow strict schemas like relational models.With NoSQL, ACID (Atomicity, Consistency, Isolation, Durability) features are not guaranteed always
+
+
+
+Why it makes sense to learn SQL after NOSQL ?
+With the advantages of NOSQL databases outlined above that scale out better than relational models, you might be thinking why one would still want to learn about SQL database?
+
+Well, NOSQL databases are sort of highly specialized systems and have their special usage and limitations. NOSQL suit more for those who handles huge volumes of data. The vast majority, use relational databases and associated tools.
+
+Relational databases have the following advantages over NOSQL databases;
+
+SQL(relational) databases have a mature data storage and management model . This is crucial for enterprise users.
+SQL databases support the notion of views which allow users to only see data that they are authorized to view. The data that they are not authorized to see is kept hidden from them.
+SQL databases support stored procedure sql which allow database developers to implement part of the business logic into the database.
+SQL databases have better security models compared to NoSQL databases.
+The world has not deviated from use of relational databases. There is growing a demand for professionals who can handle relational databases. Thus learning databases and SQL still holds merit.
+
+Summary
+DBMS stands for Database Management System.
+We have four major types of DBMSs namely Hierarchical, Network, Relational, Object Oriented
+The most widely used DBMS is the relational model that saves data in table formats. It uses SQL as the standard query language
+SQL language is used to Sql query a database
+The database approach has many advantages when it comes to storing data compared to the traditional flat file based systems
+
+ 
+
+Next 
+YOU MIGHT LIKE:
+PL-SQL
+
+Oracle PL/SQL WHILE LOOP with Example
+What is While Loop? WHILE loop statement works similar to the Basic loop statement except the EXIT...
+
+Read more
+PL-SQL
+
+PL/SQL Tutorial for Beginners PDF
+Oracle PL/SQL is an extension of SQL language, designed for seamless processing of SQL statements...
+
+Read more
+SQLITE
+
+SQLite PDF
+SQLite is an open-source, embedded, relational database management system, designed circa 2000. It is...
+
+Read more
+SQL
+
+Top 50 SQL Interview Questions & Answers
+1. What is DBMS? A Database Management System (DBMS) is a program that controls creation,...
+
+Read more
+PL-SQL
+
+SQL Vs PL/SQL Vs T-SQL: Key Differences
+SQL is the standard language to query a database. PL SQL basically stands for "Procedural Language...
+
+Read more
+PL-SQL
+
+Oracle PL/SQL BULK COLLECT: FORALL Example
+What is BULK COLLECT? BULK COLLECT reduces context switches between SQL and PL/SQL engine and...
+
+Read more
+
+SQL Tutorials
+1) Introduction
+2) MySQL Workbench
+3) Database Designing
+4) Normalization
+5) ER Modeling

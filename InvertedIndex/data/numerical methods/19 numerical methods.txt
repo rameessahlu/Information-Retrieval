@@ -1,0 +1,44 @@
+Numerical Analysis and Applications
+ISSN: 1995-4239 (Print) 1995-4247 (Online)
+Description
+Numerical Analysis and Applications is the translation of the Russian periodical Sibirskii Zhurnal Vychislitel'noi Matematiki (Siberian Journal on Numerical Mathematics) published by the Publishing House of the Siberian Branch of the Russian Academy of Sciences since 1998.
+
+The aim of this journal is to provide the results of Research in numerical analysis applications to various fields of science and engineering.
+
+The main topics of the journal are
+
+- Theory and practice of computational methods, mathematical physics, and other applied fields;
+
+- Mathematical models of elasticity theory, hydrodynamics, fluid dynamics, and geophysics;
+
+- Parallelizing of algorithms;
+
+- Models and methods of bioinformatics.
+
+PEER REVIEW
+Numerical Analysis and Applications is a peer reviewed journal. We use a single blind peer review format. Our team of reviewers includes 94 experts from 8 countries (Russia, USA, Turkey, Kazakhstan, Bulgaria, Portugal, Germany, China). The average period from submission to first decision in 2018 was 60 days, and that from first decision to acceptance was 45 days. The rejection rate for submitted manuscripts in 2018 was 42%. The final decision on the acceptance of an article for publication is made by the Editorial Board.
+
+Any invited reviewer who feels unqualified or unable to review the manuscript due to the conflict of interests should promptly notify the editors and decline the invitation. Reviewers should formulate their statements clearly in a sound and reasoned way so that authors can use reviewer’s arguments to improve the manuscript. Personal criticism of the authors must be avoided. Reviewers should indicate in a review (i) any relevant published work that has not been cited by the authors, (ii) anything that has been reported in previous publications and not given appropriate reference or citation, (ii) any substantial similarity or overlap with any other manuscript (published or unpublished) of which they have personal knowledge.
+
+hide
+
+Browse Volumes & Issues
+Latest Articles
+No Access
+OriginalPaper
+
+Controllability of a New Nonparametric Statistical Criterion Alternative to the Wilcoxon—Mann—Whitney Test
+G. I. Salov (July 2019)
+
+No Access
+OriginalPaper
+
+A Modification of Numerical Methods for Stochastic Differential Equations with First Integrals
+T. A. Averina, K. A. Rybakov (July 2019)
+
+No Access
+OriginalPaper
+
+Mathematical Modeling of a Positive Connection in the p53-microRNA Tumor Marker System
+S. D. Senotrusova, O. F. Voropaeva (July 2019)
+

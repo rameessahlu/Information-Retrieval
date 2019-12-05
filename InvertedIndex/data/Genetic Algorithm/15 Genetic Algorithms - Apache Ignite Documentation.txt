@@ -1,0 +1,27 @@
+Genetic Algorithms
+SUGGEST EDITS
+Overview
+Genetic Algorithm (GA) represents? a subset of Ignite Machine Learning APIs. GA is a method of solving optimization problems by simulating the process of biological evolution. GAs are excellent for searching through large and complex data sets for an optimal solution. Real world applications of GAs include automotive design, computer gaming, robotics, investments, traffic/shipment routing and more.
+
+All genetic operations such as Fitness Calculation, Crossover, and Mutation are modeled as a ComputeTask for distributive behavior. Also, these ComputeTasks leverage Apache Ignite's Affinity Collocation to route ComputeJobs to respective nodes where Chromosomes are stored.
+
+The following diagram depicts the architecture of Genetic Algorithms:
+
+
+The following diagram depicts the steps performed by Genetic Algorithm:
+
+
+Usage Guide
+In order to begin using Genetic Algorithm, follow these steps:
+
+Create a GAConfiguration
+Define the Gene and Chromosome
+Implement a fitness function
+Define terminate condition
+Evolve the population
+We will use a HelloWorldGAExample to demonstrate.
+
+Our goal will be to derive the phrase: "HELLO WORLD"
+
+Create a GAConfiguration
+To begin, we create a GAConfiguration object. This class is utilized to customize the behavior of GA.

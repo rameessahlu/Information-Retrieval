@@ -1,0 +1,154 @@
+
+Scholarpedia is supported by Brain Corporation
+
+Numerical analysis
+
+Kendall E. Atkinson (2007), Scholarpedia, 2(8):3163.	doi:10.4249/scholarpedia.3163	revision #91599 [link to/cite this article]
+Post-publication activity
+
+Curator: Kendall E. Atkinson
+
+Dr. Kendall E. Atkinson, Department of Computer Science, Department of Mathematics, University of Iowa
+
+Numerical analysis is the area of mathematics and computer science that creates, analyzes, and implements algorithms for solving numerically the problems of continuous mathematics.  Such problems originate generally from real-world applications of algebra, geometry, and calculus, and they involve variables which vary continuously. These problems occur throughout the natural sciences, social sciences, medicine, engineering, and business. Beginning in the 1940's, the growth in power and availability of digital computers has led to an increasing use of realistic mathematical models in science, medicine, engineering, and business; and numerical analysis of increasing sophistication has been needed to solve these more accurate and complex mathematical models of the world. The formal academic area of numerical analysis varies from highly theoretical mathematical studies to computer science issues involving the effects of computer hardware and software on the implementation of specific algorithms.
+
+Contents [hide] 
+1 Areas of numerical analysis
+1.1 Systems of linear and nonlinear equations
+1.2 Approximation theory
+1.3 Numerical solution of differential and integral equations
+2 Some common viewpoints and concerns in numerical analysis
+3 Development of numerical methods
+3.1 Numerical solution of systems of linear equations
+3.2 Numerical solution of systems of nonlinear equations
+3.3 Numerical methods for solving differential and integral equations
+4 References
+5 See also
+Areas of numerical analysis
+A rough categorization of the principal areas of numerical analysis is given below, keeping in mind that there is often a great deal of overlap between the listed areas. In addition, the numerical solution of many mathematical problems involves some combination of some of these areas, possibly all of them. There are also a few problems which do not fit neatly into any of the following categories.
+
+Systems of linear and nonlinear equations
+Numerical solution of systems of linear equations. This refers to solving for x in the equation Ax=b with given matrix A and column vector b . The most important case has A a square matrix. There are both direct methods of solution (requiring only a finite number of arithmetic operations) and iterative methods (giving increased accuracy with each new iteration). This topic also includes the matrix eigenvalue problem for a square matrix A , solving for x and ? in the equation Ax=?x .
+Numerical solution of systems of nonlinear equations. This refers to rootfinding problems which are usually written as f(x)=0 with x a vector with n components and f(x) a vector with m components. The most important case has n=m .
+Optimization. This refers to minimizing or maximizing a real-valued function f(x) . The permitted values for x=(x1,…,xn) can be either constrained or unconstrained. The 'linear programming problem' is a well-known and important case; f(x) is linear, and there are linear equality and/or inequality constraints on x .
+Approximation theory
+Use computable functions p(x) to approximate the values of functions f(x) that are not easily computable or use approximations to simplify dealing with such functions. The most popular types of computable functions p(x) are polynomials, rational functions, and piecewise versions of them, for example spline functions. Trigonometric polynomials are also a very useful choice.
+
+Best approximations. Here a given function f(x) is approximated within a given finite-dimensional family of computable functions. The quality of the approximation is expressed by a functional, usually the maximum absolute value of the approximation error or an integral involving the error. Least squares approximations and minimax approximations are the most popular choices.
+Interpolation. A computable function p(x) is to be chosen to agree with a given f(x) at a given finite set of points x . The study of determining and analyzing such interpolation functions is still an active area of research, particularly when p(x) is a multivariate polynomial.
+Fourier series. A function f(x) is decomposed into orthogonal components based on a given orthogonal basis {f1,f2,…} , and then f(x) is approximated by using only the largest of such components. The convergence of Fourier series is a classical area of mathematics, and it is very important in many fields of application. The development of the Fast Fourier Transform in 1965 spawned a rapid progress in digital technology. In the 1990s wavelets became an important tool in this area.
+Numerical integration and differentiation. Most integrals cannot be evaluated directly in terms of elementary functions, and instead they must be approximated numerically. Most functions can be differentiated analytically, but there is still a need for numerical differentiation, both to approximate the derivative of numerical data and to obtain approximations for discretizing differential equations.
+Numerical solution of differential and integral equations
+These equations occur widely as mathematical models for the physical world, and their numerical solution is important throughout the sciences and engineering.
+
+Ordinary differential equations. This refers to systems of differential equations in which the unknown solutions are functions of only a single variable. The most important cases are initial value problems and boundary value problems, and these are the subjects of a number of textbooks. Of more recent interest are 'differential-algebraic equations', which are mixed systems of algebraic equations and ordinary differential equations. Also of recent interest are 'delay differential equations', in which the rate of change of the solution depends on the state of the system at past times.
+Partial differential equations. This refers to differential equations in which the unknown solution is a function of more than one variable. These equations occur in almost all areas of engineering, and many basic models of the physical sciences are given as partial differential equations. Thus such equations are a very important topic for numerical analysis. For example, the Navier-Stokes equations are the main theoretical model for the motion of fluids, and the very large area of 'computational fluid mechanics' is concerned with solving numerically these and other equations of fluid dynamics
+Integral equations. These equations involve the integration of an unknown function, and linear equations probably occur most frequently. Some mathematical models lead directly to integral equations; for example, the radiosity equation is a model for radiative heat transfer. Another important source of such problems is the reformulation of partial differential equations, and such reformulations are often called 'boundary integral equations'.
+Some common viewpoints and concerns in numerical analysis
+Most numerical analysts specialize in small sub-areas of the areas listed above, but they share some common concerns and perspectives. These include the following.
+
+The mathematical aspects of numerical analysis make use of the language and results of linear algebra, real analysis, and functional analysis.
+If you cannot solve a problem directly, then replace it with a 'nearby problem' which can be solved more easily. This is an important perspective which cuts across all types of mathematical problems. For example, to evaluate a definite integral numerically, begin by approximating its integrand using polynomial interpolation or a Taylor series, and then integrate exactly the polynomial approximation.
+All numerical calculations are carried out using finite precision arithmetic, usually in a framework of floating-point representation of numbers. What are the effects of using such finite precision computer arithmetic? How are arithmetic calculations to be carried out? Using finite precision arithmetic will affect how we compute solutions to all types of problems, and it forces us to think about the limits on the accuracy with which a problem can be solved numerically. Even when solving finite systems of linear equations by direct numerical methods, infinite precision arithmetic is needed in order to find a particular exact solution.
+There is concern with 'stability', a concept referring to the sensitivity of the solution of a given problem to small changes in the data or the given parameters of the problem. There are two aspects to this. First, how sensitive is the original problem to small changes in the data of the problem? Problems that are very sensitive are often referred to as 'ill-conditioned' or 'ill-posed', depending on the degree of sensitivity. Second, the numerical method should not introduce additional sensitivity that is not present in the original mathematical problem being solved. In developing a numerical method to solve a problem, the method should be no more sensitive to changes in the data than is true of the original mathematical problem.
+There is a fundamental concern with error, its size, and its analytic form. When approximating a problem, a numerical analyst would want to understand the behaviour of the error in the computed solution. Understanding the form of the error may allow one to minimize or estimate it. A 'forward error analysis' looks at the effect of errors made in the solution process. This is the standard way of understanding the consequences of the approximation errors that occur in setting up a numerical method of solution, e.g. in numerical integration and in the numerical solution of differential and integral equations. A 'backward error analysis' works backward in a numerical algorithm, showing that the approximating numerical solution is the exact solution to a perturbed version of the original mathematical problem. In this way the stability of the original problem can be used to explain possible difficulties in a numerical method. Backward error analysis has been especially important in understanding the behaviour of numerical methods for solving linear algebra problems.
+In order to develop efficient means of calculating a numerical solution, it is important to understand the characteristics of the computer being used. For example, the structure of the computer memory is often very important in devising efficient algorithms for large linear algebra problems. Also, parallel computer architectures lead to efficient algorithms only if the algorithm is designed to take advantage of the parallelism.
+Numerical analysts are generally interested in measuring the efficiency of algorithms. What is the cost of a particular algorithm? For example, the use of Gaussian elimination to solve a linear system Ax=b containing n equations will require approximately 2n3/3 arithmetic operations. How does this compare with other numerical methods for solving this problem? This topic is a part of the larger area of 'computational complexity'.
+Use information gained in solving a problem to improve the solution procedure for that problem. Often we do not fully understand the characteristics of a problem, especially very complicated and large ones. Such a solution process is sometimes referred to as being an 'adaptive procedure', and it can also be viewed as a feedback process.
+Development of numerical methods
+Numerical analysts and applied mathematicians have a variety of tools which they use in developing numerical methods for solving mathematical problems. An important perspective, one mentioned earlier, which cuts across all types of mathematical problems is that of replacing the given problem with a 'nearby problem' which can be solved more easily. There are other perspectives which vary with the type of mathematical problem being solved.
+
+Numerical solution of systems of linear equations
+Linear systems arise in many of the problems of numerical analysis, a reflection of the approximation of mathematical problems using linearization. This leads to diversity in the characteristics of linear systems, and for this reason there are numerous approaches to solving linear systems. As an example, numerical methods for solving partial differential equations often lead to very large 'sparse' linear systems in which most coefficients are zero. Solving such sparse systems requires methods that are quite different from those used to solve more moderate sized 'dense' linear systems in which most coefficients are non-zero.
+
+There are 'direct methods' and 'iterative methods' for solving all types of linear systems, and the method of choice depends on the characteristics of both the linear system and on the computer hardware being used. For example, some sparse systems can be solved by direct methods, whereas others are better solved using iteration. With iteration methods, the linear system is sometimes transformed to an equivalent form that is more amenable to being solved by iteration; this is often called 'pre-conditioning' of the linear system.
+
+With the matrix eigenvalue problem Ax=?x , it is standard to transform the matrix A to a simpler form, one for which the eigenvalue problem can be solved more easily and/or cheaply. A favorite choice are 'orthogonal transformations' because they are a simple and stable way to convert the given matrix A . Orthogonal transformations are also very useful in transforming other problems in numerical linear algebra. Of particular importance in this regard is the least squares solution of over-determined linear systems.
+
+The linear programming problem was solved principally by the 'simplex method' until new approaches were developed in the 1980s, and it remains an important method of solution. The simplex method is a direct method that uses tools from the numerical solution of linear systems.
+
+Numerical solution of systems of nonlinear equations
+With a single equation f(x)=0 , and having an initial estimate x0 of the root a , approximate f(x) by its tangent line at the point (x0,f(x0)) . Find the root of this tangent line as an approximation to the root a of the original equation f(x)=0 . This leads to 'Newton's iteration method',xn+1=xn-f(xn)f'(xn),n=0,1,…Other linear and higher degree approximations can be used, and these lead to alternative iteration methods. An important derivative-free approximation of Newton’s method is the 'secant method'.
+
+For a system of m nonlinear equations for a solution vector x in Rm , we approximate f(x) by its linear Taylor approximation about the initial estimate x0 . This leads to Newton's method for nonlinear systems,xn+1=xn-[f'(xn)]-1f(xn),n=0,1,…in which f'(x) denotes the Jacobian matrix, of order m×m for f(x) .
+
+In practice, the Jacobian matrix for f(x) is often too complicated to compute directly; instead the partial derivatives in the Jacobian matrix are approximated using 'finite differences'. This leads to a 'finite difference Newton method'. As an alternative strategy and in analogy with the development of the secant method for the single variable problem, there is a similar rootfinding iteration method for solving nonlinear systems. It is called 'Broyden’s method' and it uses finite difference approximations of the derivatives in the Jacobian matrix, avoiding the evaluation of the partial derivatives of f(x) .
+
+Numerical methods for solving differential and integral equations
+With such equations, there are usually at least two general steps involved in obtaining a nearby problem from which a numerical approximation can be computed; this is often referred to as 'discretization' of the original problem. The given equation will have a domain on which the unknown function is defined, perhaps an interval in one dimension and maybe a rectangle, ellipse, or other simply connected bounded region in two dimensions. Many numerical methods begin by introducing a mesh or grid on this domain, and the solution is to be approximated using this grid. Following this, there are several common approaches.
+
+One approach approximates the equation with a simpler equation defined on the mesh. For example, consider approximating the boundary value problemu''(s)=f(s,u(s)),0=s=1u(0)=u(1)=0.Introduce a set of mesh points sj=jh , j=0,1,…,n , with h=1/n for some given n=2 . Approximate the boundary value problem by1h2[u~n(sj+1)-2u~n(sj)+u~n(sj-1)]=f(sj,u~n(sj)),j=1,…,n-1u~n(0)=u~n(1)=0The second derivative in the original problem has been replaced by a numerical approximation to the second derivative. The new problem is a finite system of nonlinear equations, presumably amenable to solution by known techniques. The solution to this new problem is u~n , and it is defined on only the mesh points {sj} .
+
+A second approach to discretizing differential and integral equations is as follows. Choose a finite-dimensional family of functions, denoted here by F , with which to approximate the unknown solution function u . Write the given differential or integral equation as L(u)=0 , with L(v) a function for any function v , perhaps over a restricted class of functions v . The numerical method consists of selecting a function u~?F such that L(u~) is a small function in some sense. The various ways of doing this lead to 'Galerkin methods', 'collocation methods', and 'least square methods'.
+
+Yet another approach is to reformulate the equation L(u)=0 as an optimization problem. Such reformulations are a part of the classical area of mathematics known as the 'calculus of variations', a subject that reflects the importance in physics of minimization principles. The well-known 'finite element method' for solving elliptic partial differential equations is obtained in this way, although it often coincides with a Galerkin method.
+
+The approximating functions in F are often chosen as piecewise polynomial functions which are polynomial over the elements of the mesh chosen earlier. Such methods are sometimes called 'local methods'. When the approximating functions p?F are defined without reference to a grid, then the methods are sometimes called 'global methods' or 'spectral methods'. Examples of such F are sets of polynomials or trigonometric functions of some finite degree or less.
+
+With all three approaches to solving a differential or integral equations, the intent is that the resulting solution u~ be close to the desired solution u . The business of theoretical numerical analysis is to analyze such an algorithm and investigate the size of u-u~ .
+
+References
+For an historical account of early numerical analysis, see
+
+Herman Goldstine. A History of Numerical Analysis From the 16th Through the19th Century, Springer-Verlag, New York, 1977.
+For a current view of numerical analysis as taught at the undergraduate level, see
+
+Cleve Moler. Numerical Computing with MATLAB, SIAM Pub., Philadelphia, 2004.
+For a current view of numerical analysis as taught at the advanced undergraduate or beginning graduate level, see
+
+Alfio Quarteroni, Riccardo Sacco, and Fausto Saleri. Numerical Mathematics, Springer-Verlag, New York, 2000.
+Christoph W. Ueberhuber. Numerical Computation: Vol. 1: Methods, Software, and Analysis, Vol. 2: Methods, Software, and Analysis, Springer-Verlag, New York, 1997.
+For one perspective on a theoretical framework using functional analysis for studying many problems in numerical analysis, see
+
+Kendall Atkinson and Weimin Han. Theoretical Numerical Analysis: A Functional Analysis Framework, 2nd ed., Springer-Verlag, New York, 2005.
+As references for numerical linear algebra, see
+
+Gene Golub and Charles Van Loan. Matrix Computations, 3rd ed., Johns Hopkins University Press, 1996.
+Nicholas Higham. Accuracy and Stability of Numerical Algorithms, SIAM Pub., Philadelphia, 1996.
+For an introduction to practical numerical analysis for solving ordinary differential equations, see
+
+Lawrence Shampine, Ian Gladwell, Skip Thompson. Solving ODEs with Matlab, Cambridge University Press, Cambridge, 2003.
+For information on computing aspects of numerical analysis, see
+
+Michael Overton. Numerical computing with IEEE floating point arithmetic, SIAM Pub., Philadelphia, 2001.
+Suely Oliveira and David Stewart. Writing Scientific Software: A Guide to Good Style, Cambridge University Press, Cambridge, 2006.
+Internal references
+
+Olaf Sporns (2007) Complexity. Scholarpedia, 2(10):1623.
+Skip Thompson (2007) Delay-differential equations. Scholarpedia, 2(3):2367.
+James Meiss (2007) Dynamical systems. Scholarpedia, 2(2):1629.
+Eugene M. Izhikevich (2007) Equilibrium. Scholarpedia, 2(10):2014.
+Lawrence F. Shampine and Skip Thompson (2007) Initial value problems. Scholarpedia, 2(3):2861.
+Mark Aronoff (2007) Language. Scholarpedia, 2(5):3175.
+Philip Holmes and Eric T. Shea-Brown (2006) Stability. Scholarpedia, 1(10):1838.
+See also
+Sponsored by: Dr. Skip Thompson, Radford University, Radford, Virginia
+Sponsored by: Eugene M. Izhikevich, Editor-in-Chief of Scholarpedia, the peer-reviewed open-access encyclopedia
+Reviewed by: Anonymous
+Reviewed by: Dr. Lawrence F. Shampine, Mathematics Department at Southern Methodist University, Dallas, TX
+Accepted on: 2007-08-28 16:38:16 GMT
+Categories: Numerical AnalysisApplied Mathematics
+Log in / create accountPageDiscussionReadView sourceView history
+Search
+Search
+Main page
+About
+Propose a new article
+Instructions for Authors
+Random article
+FAQs
+Help
+Blog
+Focal areas
+Astrophysics
+Celestial mechanics
+Computational neuroscience
+Computational intelligence
+Dynamical systems
+Physics
+Touch
+More topics
+Activity
+Tools
+Powered by MediaWiki Powered by MathJax Creative Commons License
+This page was last modified on 21 October 2011, at 04:14.This page has been accessed 140,308 times."Numerical analysis" by Kendall E. Atkinson is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Permissions beyond the scope of this license are described in the Terms of UsePrivacy policyAbout ScholarpediaDisclaimers

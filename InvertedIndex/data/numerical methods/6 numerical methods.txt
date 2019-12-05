@@ -1,0 +1,90 @@
+What is numerical methods?
+Ad by DatadogHQ.com
+Monitor & optimize Cassandra performance.
+Get deep insights into database performance with end-to-end request tracing and built-in dashboards.
+Learn More
+7 Answers
+Raheem Elsayed
+Raheem Elsayed, Studying Power Systems Engineering
+Answered Jan 13, 2019 · Author has 576 answers and 139.7k answer views
+Numerical methods, is approximation fast solution for mathematical problems. Such problems can be in any field in engineering. So any result you get from it is approximated not exact, it give you the solution faster than normal ones, also it’s easy to be programmed.
+
+Here is some issues that numerical analysis is used in:
+
+Solving linear/non-linear equations and finding the real roots, many methods exist like: Bisection, Newton-Raphson ... etc.
+Fit some points to curve, good approximation and simple solution.
+Interpolation, great to get any value in between a table of values. It can solve the equ...
+Related QuestionsMore Answers Below
+What are the applications of numerical methods?
+What is the difference between Numerical methods and Numerical analysis?
+What are application of numerical methods in engineering?
+What is the difference between an analytical method and a numerical method?
+Why do we use the numerical methods and analysis?
+Ahmed Fawzy Elaraby
+Ahmed Fawzy Elaraby, Software Engineer at AvidBeam Technologies
+Answered Aug 12, 2016
+Numerical methods are mathematical methods that are used to approximate the solution of complicated problems so that the solution consists of only addition, subtraction and multiplication operations. Numerical methods are very useful because they are suitable for the use with computers because computer processors can only add, subtract and multiply.
+
+12.9k views · View 24 Upvoters
+Promoted by DuckDuckGo
+Is there a simple privacy law that actually makes sense?
+Gabriel Weinberg 
+Gabriel Weinberg, CEO/Founder DuckDuckGo. Co-author Super Thinking, Traction.
+Updated Nov 7, 2019
+Yes! Despite all the protestations you hear from Big Tech, there is a simple privacy law that makes sense without destroying the tech industry. Let me explain, but first, for context if you’re unfamiliar, you should know that DuckDuckGo (my company) has a vision to raise the standard of...(Continue Reading)
+Ben Schrift
+Ben Schrift, Software Development Engineer at Amazon
+Answered May 13, 2018
+Originally Answered: What is numerical method (computation method)?
+The term “numerical method” usually refers to a way of computing something that is usually symbolic using numbers.
+
+For example, consider the problem of computing a derivative:
+
+ddxf(x) where f(x)=x2
+
+If we were just doing math on paper we would compute this via one of the techniques from intro calculus and get
+
+ddxf(x)=2x
+
+A simple case like this could be solved by a computer symbolically (the way that we just solved it). However, it is often easier (and possibly computationally cheaper) to compute the derivative a different way (numerically), especially if the derivative is harder than x2.
+
+So what would a numerical solution look li...
+Omar Fabcooni
+Omar Fabcooni, B.A Engineering (2019)
+Answered Jun 15, 2018
+numerical methods in their basic format are mathematical algorithms that search for an approximation (solution) for a mathematical problem that usually can not found exactly. For example, finding an approximate solution for the square root of (2).However, the problem doesn't necessarily have non-exact solution it can also work for sqrt(4).
+
+usually these methods are written as codes in programming languages or can be already as libraries.
+
+5.1k views · View 7 Upvoters
+Related QuestionsMore Answers Below
+What is numerical analysis?
+What are the importance of numerical methods in engineering?
+What is the uses of numerical analysis in our life?
+What are Errors in numerical methods?
+What is numerical analysis and method?
+Aimal Khan
+Aimal Khan, Founder & CEO at TechLinu (2016-present)
+Answered Nov 10, 2018
+Numerical methods are techniques by which mathematical problems are formulated so that they can be solved with arithmetic operations.
+
+Numerical methods are scientific in the sense that they represent systematic techniques for solving mathematical problems.
+
+1k views
+Sponsored by Honey
+This Amazon upgrade finds you even more savings on Black Friday.
+Honey analyzes millions of products and sellers to ensure you've gotten the best Black Friday deals.
+Learn More
+Tipper Rumpf
+Tipper Rumpf, PhD dissertation, teaching, and current research
+Answered Apr 19, 2018 · Author has 2.9k answers and 865.9k answer views
+Here is a course website with videos of lectures, computer codes, and more. This will give you a good taste of some basic numerical methods.
+
+http://emlab.utep.edu/ee4386_530...
+
+3.4k views · View 2 Upvoters · Answer requested by Vikram Tupe
+Anibarya Sarkar
+Anibarya Sarkar, Msc,PGDBM, business analy Mathematics & Post Graduate Diploma in Business Management, University of Calcutt...
+Answered Dec 17, 2018 · Author has 99 answers and 28.8k answer views
+Numerical methods for ordinary differential equations are methods used to find numerical approximations to the solutions of ordinary differential equations (ODEs). Their use is also known as "numerical integration", although this term is sometimes taken to mean the computation of integrals.follow the Bank On GATE YouTube channel for best and point to point explanation of numerical methods and build up your knowledge.Thank you.
+

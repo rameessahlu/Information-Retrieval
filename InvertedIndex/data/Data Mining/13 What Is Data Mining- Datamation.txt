@@ -1,0 +1,18 @@
+What Is Data Mining? - Datamation
+
+What Is Data Mining?
+What Is Data Mining?
+By Cynthia Harvey, Posted February 7, 2019
+Data mining is the means by which organizations extract value from their data, and it has become increasingly central to maintaining a competitive edge in business.
+
+SHARE          
+Download the authoritative guide: Leading Big Data Vendors: Solutions to Power Your Business
+
+Download the authoritative guide: Big Data: Mining Data for Revenue
+
+SHARE
+A popular analogy proclaims that data is "the new oil," so think of data mining as drilling for and refining oil: Data mining is the means by which organizations extract value from their data.
+
+In more practical terms, data mining involves analyzing data to look for patterns, correlations, trends and anomalies that might be significant for a particular business. As such, it is closely related to Big Data, a larger term that encompasses the many uses of data analytics software (for instance, common apps like Zoho Analytics) to understand trends.
+
+Zoho Analytics can transform large amounts of raw data into actionable reports and dashboards. Track key business metrics, see long term trends, determine outliers, and discover hidden insights with a business intelligence platform trusted by some of the world's largest companies. Sign up for a free trial and see how Zoho can help manage your data.

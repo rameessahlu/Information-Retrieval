@@ -1,0 +1,45 @@
+12.3 Genetic Algorithms
+
+A genetic algorithm (GA) is an optimization tool that is based on concepts of evolution population biology (Mitchell 1998; Haupt, Haupt, and Haupt 1998). These algorithms have been shown to be able to locate the optimal or near-optimal solutions of complex functions (Mandal, Jeff Wu, and Johnson 2006). To effectively find optimal solutions the algorithm mimics the evolutionary process of a population by generating a candidate set of solutions for the optimization problem, allowing the solutions to reproduce and create new solutions (reproduction), and promoting competition to give the most fit solutions (i.e., optimal) the best chance to survive and populate the subsequent generation (natural selection). This process enables GAs harness good solutions over time to make better solutions, and has been shown to converge to an optimization plateau (Holland 1992).
+
+The problem of identifying an optimal feature subset is also a complex optimization problem as discussed in Section 10.2. Therefore, if the feature selection problem can be framed in terms of the concepts of evolutionary biology, then the GA engine can be applied to search for optimal feature subsets. In biology, each subject in the population is represented by a chromosome, which is constructed from a sequence of genes. Each chromosome is evaluated based on a fitness criterion. The better the fitnes, the more likely a chromosome will be chosen to use in reproduction to create the next generation of chromosomes. The reproduction stage involves the process of crossover and mutation, where two chromosomes exchange a subset of genes. A small fraction of the offsprings’ genes are then changed due to the process of mutation.
+
+For the purpose of feature selection, the population consists of all possible combinations of features for a particular data set. A chromosome in the population is a specific combination of features (i.e., genes), and the combination is represented by a string which has a length equal to the total number of features. The fitness criterion is the predictive ability of the selected combination of features. Unlike simulated annealing, the GA feature subsets are grouped into generations instead of considering one subset at a time. But a generation in a GAs is similar to an iteration in simulated annealing.
+
+In practice, the initial population of feature subsets needs to be large enough to contain a sufficient amount of diversity across the feature subset space. Often 50 or more randomly selected feature subsets are chosen to seed the initial generation. Our approach is to create random subsets of features that contain between 10% and 90% of the total number of features.
+
+Once the initial generation has been created, the fitness (or predictive ability) of each feature subset is estimated. As a toy example, consider a set of nine predictors (A though I) and an initial population of 12 feature subsets:
+
+ID										Performance	Probability (%)
+1			C			F				0.54	6.4
+2	A			D	E	F		H		0.55	6.5
+3				D						0.51	6.0
+4					E					0.53	6.2
+5				D			G	H	I	0.75	8.8
+6		B			E		G		I	0.64	7.5
+7		B	C			F			I	0.65	7.7
+8	A		C		E		G	H	I	0.95	11.2
+9	A		C	D		F	G	H	I	0.81	9.6
+10			C	D	E				I	0.79	9.3
+11	A	B		D	E		G	H		0.85	10.0
+12	A	B	C	D	E	F	G		I	0.91	10.7
+Each subset has an associated performance value and, in this case, larger values are better. Next, a subset of these features sets will be selected as parents to reproduce and form the next generation. A logical approach to selecting parents would be to choose the top-ranking features subsets as parents. However, this greedy approach often leads to lingering in a locally optimal solution. To avoid a local optimum, the selection of parents should be a function of the fitness criteria. The most common approach is to select parents is to use a weighted random sample with a probability of selection as a function of predictive performance performance. A simple way to compute the selection probability is to divide an individual feature subset’s performance value by the the sum of all the performance values. The rightmost column in the table above shows the results for this generation.
+
+Suppose subsets 6 and 12 were selected as parents for the next generation. For these parents to reproduce, their genes will undergo a process of crossover and mutation which will result in two new feature subsets. In single-point crossover, a random location between two predictors is chosen89. The parents then exchange features on one side of the crossover point90. Suppose that the crossover point was between predictors D and E represented here:
+
+ID									
+6		B			E		G		I
+12	A	B	C	D	E	F	G		I
+The resulting children of these parents would be:
+
+ID									
+13		B			E	F	G		I
+14	A	B	C	D	E		G		I
+One last modification that can occur for a newly created feature subset is a mutation. A small random probability (1%–2%) is generated for each possible feature. If a feature is selected in the mutation process, then its state is changed within the current feature subset. This step adds an additional protection to lingering in local optimal solutions. Continuing with the children generated above, suppose that feature I in feature subset 13 was seleted for mutation. Since this feature is already present in subset 13, it would be removed since it was identified for mutation. The resulting children to be evaluated for the next generation would then be:
+
+ID									
+13		B			E	F	G		
+14	A	B	C	D	E		G		I
+The process of selecting two parents to generate two more offspring would continue until the new generation is populated.
+
+The reproduction process does not gaurantee that the most fit chromosomes in the current generation will appear in the subsequent generation. This means that there is a chance that the subsequent generation may have less fit chromosomes. To ensure that the subsequent generation maintains the same fitness level, the best chromosome(s) can be carried, as is, into the subsequent generation. This process is called elitism. When elitism is used within a GA, the most fit solution across the observed generations will always be in the final generation. However, this process can cause the GA to linger longer in local optimums since the best chromosome will always have the highest probability of reproduction.

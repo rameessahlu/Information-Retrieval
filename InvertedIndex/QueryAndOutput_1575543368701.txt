@@ -1,0 +1,18 @@
+
+Query: machine
+OUTPUT:
+1 : machine learning
+  Snippet: Machine learningFrom Wikipedia, the free encyclopediaJump to navigationJump to searchFor the journal, see Machine Learning (journal)."Statistical learning" redirects here. For statistical learning in 
+2 : machine learning
+  Snippet: EDITION: USSearch MUST READ: Got an Oyster card? TfL just locked your account, wants you to reset your passwordPART OF A ZDNET SPECIAL FEATURE: MANAGING AI AND ML IN THE ENTERPRISEWhat is machine lear
+3 : machine learning
+  Snippet: What is Machine Learning? A Friendly Introduction for Aspiring Data Scientists and Managers Machine learning is ubiquitous in the industry these days. Organizations around the world are scrambling to 
+4 : machine learning
+  Snippet: machine learningMachine LearningWhat it is and why it mattersMachine learning is a method of data analysis that automates analytical model building. It is a branch of artificial intelligence based on 
+5 : machine learning
+  Snippet: This content is part of the Essential Guide:AI in IT tools promises better, faster, stronger opsDEFINITIONmachine learning (ML)Posted by: Margaret RouseWhatIs.com  Contributor(s): Ed BurnsMachine lear
+6 : machine learning
+  Snippet: What Is Machine Learning?Although it's far from the original vision of artificial intelligence, machine learning has brought us much closer to the ultimate goal of creating thinking machines. Here's h
+
+Precison: 0.85714287
+Recall:0.3

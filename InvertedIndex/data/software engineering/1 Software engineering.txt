@@ -1,0 +1,70 @@
+Definition of 'Software Engineering'
+
+
+Definition: Software engineering is a detailed study of engineering to the design, development and maintenance of software. Software engineering was introduced to address the issues of low-quality software projects. Problems arise when a software generally exceeds timelines, budgets, and reduced levels of quality. It ensures that the application is built consistently, correctly, on time and on budget and within requirements. The demand of software engineering also emerged to cater to the immense rate of change in user requirements and environment on which application is supposed to be working.
+
+Description: A software product is judged by how easily it can be used by the end-user and the features it offers to the user. An application must score in the following areas:-
+
+1) Operational: -This tells how good a software works on operations like budget , usability, efficiency, correctness ,functionality , dependability , security and safety.
+
+2) Transitional: - Transitional is important when an application is shifted from one platform to another. So, portability, reusability and adaptability come in this area.
+
+3) Maintenance: - This specifies how good a software works in the changing environment. Modularity, maintainability, flexibility and scalability come in maintenance part.
+
+Software Development Lifecycle or SDLC is a series of stages in software engineering to develop proposed software application, such as:
+
+1) Communication
+
+2) Requirement Gathering
+
+3) Feasibility Study
+
+4) System Analysis
+
+5) Software Design
+
+6) Coding
+
+7) Testing
+
+8) Integration
+
+9) Implementation
+
+10) Operations and maintenance
+
+11) Disposition
+
+Software engineering generally begins with the first step as a user-request initiation for a specific task or an output. He submits his requirement to a service provider organization. The software development team segregates user requirement, system requirement and functional requirements. The requirement is collected by conducting interviews of a user, referring to a database, studying the existing system etc. After requirement gathering, the team analyses if the software can be made to fulfil all the requirements of the user. The developer then decides a roadmap of his plan. System analysis also includes an understanding of software product limitations. As per the requirement and analysis, a software design is made. The implementation of software design starts in terms of writing program code in a suitable programming language. Software testing is done while coding by the developers and thorough testing is conducted by testing experts at various levels of code such as module testing, program testing, product testing, in-house testing and testing the product at user’s engagement and feedback.
+PREV DEFINITION
+Rapid Application Development
+Definition: The Rapid Application Development (or RAD) model is based on prototyping and iterative model with no (or less) specific planning. In general, RAD approach to software development means putting lesser emphasis on planning tasks and more emphasis on development and coming up with a prototype. In disparity to the waterfall model, which emphasizes meticulous specification and planning, the RAD approach means building on continuously evolving requirements, as more and more learnings are drawn as the development progresses. Description: RAD puts clear focus on prototyping, which acts as an alternative to design specifications. This means that RAD works well wherever there's a greater focus on user interface rather than non-GUI programs. The RAD model includes agile method and spiral model. Below phases are in rapid application development (RAD) model: 1. Business modeling: The information flow is identified between different business functions. 2. Data modeling: Information collected from business modeling is used to define data objects that are required for the business. 3. Process modeling: Data objects defined in data modeling are converted to establish the business information flow to achieve some specific business objective process descriptions for adding, deleting, modifying data objects that are given. 4. Application generation: The actual system is created and coding is done by using automation tools. This converts the overall concept, process and related information into actual desired output. This output is called a prototype as it’s still half-baked. 5. Testing and turnover: The overall testing cycle time is reduced in the RAD model as the prototypes are independently tested during every cycle. However, the overall flow of information, user interfaces and other program interfaces, and coaxials between these interfaces and the rest of data flow need to be tested as per acceptance process. Since most of the programming components have already been tested, it reduces the risk of any critical issue.
+Read More
+NEXT DEFINITION
+Software Maintenance
+Definition: Software maintenance is a part of Software Development Life Cycle. Its main purpose is to modify and update software application after delivery to correct faults and to improve performance. Software is a model of the real world. When the real world changes, the software requires alteration wherever possible. Description: Software maintenance is a vast activity which includes optimization, error correction, deletion of discarded features and enhancement of existing features. Since these changes are necessary, a mechanism must be created for estimation, controlling and making modifications. The essential part of software maintenance requires preparation of an accurate plan during the development cycle. Typically, maintenance takes up about 40-80% of the project cost, usually closer to the higher pole. Hence, a focus on maintenance definitely helps keep costs down. Software Maintenance Processes are: • The SM process includes a maintenance plan which contains software preparation, problem identification and find out about product configuration management. • The problem analysis process includes checking validity, examining it and coming up with a solution and finally getting all the required support to apply for modification. • The process acceptance by confirming the changes with the individual who raised the request. • The platform migration process, which is used if software is needed to be ported to another platform without any change in functionality. Some software points that affect maintenance cost include: • Structure of Software Program • Programming Language • Dependence on external environment • Staff reliability and availability
+Read More
+Related Definitions
+Web Server
+A web server is a computer that runs websites. It's a computer program that distributes web pages as they are requisitioned. The basic objective of the web server is to store, process and deliver web pages to the users. This intercommunication is done using Hypertext Transfer Protocol (HTTP). These web pages are mostly static content that includes HTML documents, images, style sheets, test etc. Ap
+
+Open Source
+A software for which the original source code is made freely available and may be redistributed and modified according to the requirement of the user. Open source software is that by which the source code or the base code is usually available for modification or enhancement by anyone for reusability and accessibility. Open source code is the part of software that mostly users don't ever see. Anyon
+
+Rapid Application Development
+The Rapid Application Development (or RAD) model is based on prototyping and iterative model with no (or less) specific planning. In general, RAD approach to software development means putting lesser emphasis on planning tasks and more emphasis on development and coming up with a prototype. In disparity to the waterfall model, which emphasizes meticulous specification and planning, the RAD approac
+
+Pseudocode
+Pseudocode is an informal way of programming description that does not require any strict programming language syntax or underlying technology considerations. It is used for creating an outline or a rough draft of a program. Pseudocode summarizes a program’s flow, but excludes underlying details. System designers write pseudocode to ensure that programmers understand a software project's requireme
+
+Software Maintenance
+Software maintenance is a part of Software Development Life Cycle. Its main purpose is to modify and update software application after delivery to correct faults and to improve performance. Software is a model of the real world. When the real world changes, the software requires alteration wherever possible. Description: Software maintenance is a vast activity which includes optimization, error
+
+Spiral Model
+The spiral model is similar to the incremental development for a system, with more emphasis placed on risk analysis. The spiral model has four phases: Planning, Design, Construct and Evaluation. A software project repeatedly passes through these phases in iterations (called Spirals in this model). Description: These phases are - Planning: This phase starts with the gathering of business requireme
+
+Prototype Model
+The Prototyping Model is a Systems Development Methodology (SDM) within which a paradigm output (or an early approximation of a final system or product) is constructed, tested, and then reworked. It is done till an appropriate paradigm is achieved to help develop the entire system or product. This model works best in situations when all the details or requirements are not known well in advance. It
+
+Systems Design
+Systems design is the process of defining elements of a system like modules, architecture, components and their interfaces and data for a system based on the specified requirements. It is the process of defining, developing and designing systems which satisfies the specific needs and requirements of a business or organization. Description: A systemic approach is required for a coherent and well

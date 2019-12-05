@@ -1,0 +1,25 @@
+What is a Database
+Database
+Updated: 11/16/2019 by Computer Hope
+Database
+Alternatively referred to as a databank or a datastore, and sometimes abbreviated as a DB, a database is a large quantity of indexed digital information. It can be searched, referenced, compared, changed or otherwise manipulated with optimal speed and minimal processing expense.
+
+A database is built and maintained by using a database programming language. The most common database language is SQL, but there are multiple "flavors" of SQL, depending on the type of database being used. Each flavor of SQL has differences in the SQL syntax and are designed to be used with a specific type of database. For example, an Oracle database uses PL/SQL and Oracle SQL (Oracle's version of SQL). A Microsoft database uses T-SQL (Transact-SQL).
+
+Tip
+A program that uses a database is sometimes referred to as a database-engine.
+
+Database components
+A database is made up of several main components.
+
+Schema - A database contains one or more schemas, which is basically a collection of one or more tables of data.
+Table - Each table contains multiple columns, which are similar to columns in a spreadsheet. A table can have as little as two columns and as many as 4,096, depending on the type of stored data.
+Column - Each column contains one of several types of data or values, like dates, numeric or integer values, and alphanumeric values (also known as varchar).
+Row - Data in a table is listed in rows, which are like rows of data in a spreadsheet. Often there are hundreds or thousands of rows of data in a table.
+How do you pronounce database?
+The pronunciation of "database" depends on how you pronounce the word "data," which varies globally. See our data definition for further information.
+
+Related pages
+Computer Hope could be considered a database of free computer information.
+Access, Addition record, Computer acronyms, Database terms, DBASE, DBMS, Distributed database, eXist, Flat file, FoxPro, MySQL, Pick, PostgreSQL, QBE, RDBMS, RDMS
+

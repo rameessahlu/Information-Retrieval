@@ -1,0 +1,69 @@
+numerical methods
+
+In numerical analysis, a numerical method is a mathematical tool designed to solve numerical problems. The implementation of a numerical method with an appropriate convergence check in a programming language is called a numerical algorithm.
+
+
+Contents
+1	Mathematical definition
+2	Consistency
+3	Convergence
+4	References
+Mathematical definition
+Let {\displaystyle F(x,y)=0}F(x,y)=0 be a well-posed problem, i.e. {\displaystyle F:X\times Y\rightarrow \mathbb {R} }{\displaystyle F:X\times Y\rightarrow \mathbb {R} } is a real or complex functional relationship, defined on the cross-product of an input data set {\displaystyle X}X and an output data set {\displaystyle Y}Y, such that exists a locally lipschitz function {\displaystyle g:X\rightarrow Y}{\displaystyle g:X\rightarrow Y} called resolvent, which has the property that for every root {\displaystyle (x,y)}(x,y) of {\displaystyle F}F, {\displaystyle y=g(x)}y=g(x). We define numerical method for the approximation of {\displaystyle F(x,y)=0}F(x,y)=0, the sequence of problems
+
+{\displaystyle \left\{M_{n}\right\}_{n\in \mathbb {N} }=\left\{F_{n}(x_{n},y_{n})=0\right\}_{n\in \mathbb {N} },}{\displaystyle \left\{M_{n}\right\}_{n\in \mathbb {N} }=\left\{F_{n}(x_{n},y_{n})=0\right\}_{n\in \mathbb {N} },}
+with {\displaystyle F_{n}:X_{n}\times Y_{n}\rightarrow \mathbb {R} }{\displaystyle F_{n}:X_{n}\times Y_{n}\rightarrow \mathbb {R} }, {\displaystyle x_{n}\in X_{n}}{\displaystyle x_{n}\in X_{n}} and {\displaystyle y_{n}\in Y_{n}}{\displaystyle y_{n}\in Y_{n}} for every {\displaystyle n\in \mathbb {N} }n\in \mathbb {N} . The problems of which the method consists need not be well-posed. If they are, the method is said to be stable or well-posed.[1]
+
+Consistency
+Necessary conditions for a numerical method to effectively approximate {\displaystyle F(x,y)=0}F(x,y)=0 are that {\displaystyle x_{n}\rightarrow x}x_{n}\rightarrow x and that {\displaystyle F_{n}}F_{n} behaves like {\displaystyle F}F when {\displaystyle n\rightarrow \infty }n\rightarrow \infty . So, a numerical method is called consistent if and only if the sequence of functions {\displaystyle \left\{F_{n}\right\}_{n\in \mathbb {N} }}{\displaystyle \left\{F_{n}\right\}_{n\in \mathbb {N} }} pointwise converges to {\displaystyle F}F on the set {\displaystyle S}S of its solutions:
+
+{\displaystyle \lim F_{n}(x,y+t)=F(x,y,t)=0,\quad \quad \forall (x,y,t)\in S.}{\displaystyle \lim F_{n}(x,y+t)=F(x,y,t)=0,\quad \quad \forall (x,y,t)\in S.}
+When {\displaystyle F_{n}=F,\forall n\in \mathbb {N} }{\displaystyle F_{n}=F,\forall n\in \mathbb {N} } on {\displaystyle S}S the method is said to be strictly consistent.[1]
+
+Convergence
+Denote by {\displaystyle \ell _{n}}\ell_n a sequence of admissible perturbations of {\displaystyle x\in X}x\in X for some numerical method {\displaystyle M}M (i.e. {\displaystyle x+\ell _{n}\in X_{n}\forall n\in \mathbb {N} }{\displaystyle x+\ell _{n}\in X_{n}\forall n\in \mathbb {N} }) and with {\displaystyle y_{n}(x+\ell _{n})\in Y_{n}}{\displaystyle y_{n}(x+\ell _{n})\in Y_{n}} the value such that {\displaystyle F_{n}(x+\ell _{n},y_{n}(x+\ell _{n}))=0}{\displaystyle F_{n}(x+\ell _{n},y_{n}(x+\ell _{n}))=0}. A condition which the method has to satisfy to be a meaningful tool for solving the problem {\displaystyle F(x,y)=0}F(x,y)=0 is convergence:
+
+{\displaystyle {\begin{aligned}&\forall \varepsilon >0,\exists n_{0}(\varepsilon )>0,\exists \delta _{\varepsilon ,n_{0}}{\text{ such that}}\\&\forall n>n_{0},\forall \ell _{n}:\|\ell _{n}\|<\delta _{\varepsilon ,n_{0}}\Rightarrow \|y_{n}(x+\ell _{n})-y\|\leq \varepsilon .\end{aligned}}}{\displaystyle {\begin{aligned}&\forall \varepsilon >0,\exists n_{0}(\varepsilon )>0,\exists \delta _{\varepsilon ,n_{0}}{\text{ such that}}\\&\forall n>n_{0},\forall \ell _{n}:\|\ell _{n}\|<\delta _{\varepsilon ,n_{0}}\Rightarrow \|y_{n}(x+\ell _{n})-y\|\leq \varepsilon .\end{aligned}}}
+One can easily prove that the point-wise convergence of {\displaystyle \{y_{n}\}_{n\in \mathbb {N} }}{\displaystyle \{y_{n}\}_{n\in \mathbb {N} }} to {\displaystyle y}y implies the convergence of the associated method.[1]
+
+References
+ Quarteroni, Sacco, Saleri (2000). Numerical Mathematics (PDF). Milano: Springer. p. 33.
+Categories: Numerical analysis
+Navigation menu
+Not logged inTalkContributionsCreate accountLog inArticleTalkReadEditView historySearch
+Search Wikipedia
+Main page
+Contents
+Featured content
+Current events
+Random article
+Donate to Wikipedia
+Wikipedia store
+Interaction
+Help
+About Wikipedia
+Community portal
+Recent changes
+Contact page
+Tools
+What links here
+Related changes
+Upload file
+Special pages
+Permanent link
+Page information
+Wikidata item
+Cite this page
+In other projects
+Wikibooks
+Print/export
+Create a book
+Download as PDF
+Printable version
+
+Languages
+Ceština
+Slovencina
+Edit links
+This page was last edited on 18 October 2019, at 13:28 (UTC).
+Text is available under the Creative Commons Attribution-ShareAlike License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.

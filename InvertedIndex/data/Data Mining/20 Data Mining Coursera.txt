@@ -1,0 +1,89 @@
+Data Mining | Coursera
+About this Specialization
+304,986 recent views
+The Data Mining Specialization teaches data mining techniques for both structured data which conform to a clearly defined schema, and unstructured data which exist in the form of natural language text. Specific course topics include pattern discovery, clustering, text retrieval, text mining and analytics, and data visualization. The Capstone project task is to solve real-world data mining challenges using a restaurant review data set from Yelp.
+
+Courses 2 - 5 of this Specialization form the lecture component of courses in the online Master of Computer Science Degree in Data Science. You can apply to the degree program either before or after you begin the Specialization.
+
+
+SHOW ALL
+SKILLS YOU WILL GAIN
+Data Clustering Algorithms
+Text Mining
+Data Visualization (DataViz)
+Data Mining
+100% online courses
+Start instantly and learn at your own schedule.
+Flexible Schedule
+Set and maintain flexible deadlines.
+Intermediate Level
+Approx. 5 months to complete
+Suggested 7 hours/week
+English
+Subtitles: English, Korean, Chinese (Simplified)
+
+
+
+
+
+
+
+
+
+How the Specialization Works
+Take Courses
+A Coursera Specialization is a series of courses that helps you master a skill. To begin, enroll in the Specialization directly, or review its courses and choose the one you'd like to start with. When you subscribe to a course that is part of a Specialization, you’re automatically subscribed to the full Specialization. It’s okay to complete just one course — you can pause your learning or end your subscription at any time. Visit your learner dashboard to track your course enrollments and your progress.
+
+Hands-on Project
+Every Specialization includes a hands-on project. You'll need to successfully finish the project(s) to complete the Specialization and earn your certificate. If the Specialization includes a separate course for the hands-on project, you'll need to finish each of the other courses before you can start it.
+
+Earn a Certificate
+When you finish every course and complete the hands-on project, you'll earn a Certificate that you can share with prospective employers and your professional network.
+
+how it works
+There are 6 Courses in this Specialization
+COURSE
+1
+Data Visualization
+
+4.5
+856 ratings
+•
+197 reviews
+Learn the general concepts of data mining along with basic methodologies and applications. Then dive into one subfield in data mining: pattern discovery. Learn in-depth concepts, methods, and applications of pattern discovery in data mining. We will also introduce methods for pattern-based classification and some interesting applications of pattern discovery. This course provides you the opportunity to learn skills and content to practice and engage in scalable pattern discovery methods on massive transactional data, discuss pattern evaluation measures, and study methods for mining diverse kinds of patterns, sequential patterns, and sub-graph patterns.
+
+SHOW ALL
+COURSE
+2
+Text Retrieval and Search Engines
+
+4.4
+555 ratings
+•
+116 reviews
+Recent years have seen a dramatic growth of natural language text data, including web pages, news articles, scientific literature, emails, enterprise documents, and social media such as blog articles, forum posts, product reviews, and tweets. Text data are unique in that they are usually generated directly by humans rather than a computer system or sensors, and are thus especially valuable for discovering knowledge about people’s opinions and preferences, in addition to many other kinds of knowledge that we encode in text. This course will cover search engine technologies, which play an important role in any data mining applications involving text data for two reasons. First, while the raw data may be large for any particular problem, it is often a relatively small subset of the data that are relevant, and a search engine is an essential tool for quickly discovering a small subset of relevant text data in a large text collection. Second, search engines are needed to help analysts interpret any patterns discovered in the data by allowing them to examine the relevant original text data to make sense of any discovered pattern. You will learn the basic concepts, principles, and the major techniques in text retrieval, which is the underlying science of search engines.
+
+SHOW ALL
+COURSE
+3
+Text Mining and Analytics
+
+4.4
+422 ratings
+•
+104 reviews
+This course will cover the major techniques for mining and analyzing text data to discover interesting patterns, extract useful knowledge, and support decision making, with an emphasis on statistical approaches that can be generally applied to arbitrary text data in any natural language with no or minimum human effort. Detailed analysis of text data requires understanding of natural language text, which is known to be a difficult task for computers. However, a number of statistical approaches have been shown to work well for the "shallow" but robust analysis of text data for pattern finding and knowledge discovery. You will learn the basic concepts, principles, and major algorithms in text mining and their potential applications.
+
+SHOW ALL
+COURSE
+4
+Pattern Discovery in Data Mining
+
+4.2
+217 ratings
+•
+44 reviews
+Learn the general concepts of data mining along with basic methodologies and applications. Then dive into one subfield in data mining: pattern discovery. Learn in-depth concepts, methods, and applications of pattern discovery in data mining. We will also introduce methods for data-driven phrase mining and some interesting applications of pattern discovery. This course provides you the opportunity to learn skills and content to practice and engage in scalable pattern discovery methods on massive transactional data, discuss pattern evaluation measures, and study methods for mining diverse kinds of patterns, sequential patterns, and sub-graph patterns.
+
+SHOW ALL
+Instructors

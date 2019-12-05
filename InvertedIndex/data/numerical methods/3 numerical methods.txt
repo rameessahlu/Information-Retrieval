@@ -1,0 +1,42 @@
+
+ 
+
+Approximate symbol
+ 
+
+WELCOME TO NUMERICAL METHODS - PART 1 of 2
+
+Numerical methods are techniques to approximate mathematical procedures (example of a mathematical procedure is an integral).  Approximations are needed because we either cannot solve the procedure analytically (example is the standard normal cumulative  distribution function)
+
+   Acknowledgement: http://en.wikipedia.org/wiki/Normal_distribution                    
+
+or because the analytical method is intractable (example is solving a set of a thousand simultaneous linear equations for a thousand unknowns for finding forces in a truss). 
+
+ In this Part 1 of a two-part course in numerical methods, you will
+
+Apply the numerical methods for the following mathematical procedures and topics - Differentiation, Nonlinear Equations, and Simultaneous Linear Equations. 
+Calculate errors and their relationship to the accuracy of the numerical solutions throughout the course.
+WHERE IS PART 2 OF 2 OF THIS COURSE?
+
+The Part 2 of 2 this two-part course in numerical methods will be at https://learn.canvas.net/courses/1189. That course will cover the following mathematical procedures and topics - Interpolation, Regression, Integration and Ordinary Differential Equations.
+
+WHAT IS NUMERICAL METHODS ABOUT?
+
+
+
+WHERE TO BEGIN
+
+This is a self-paced course and hence the pace is up to you.  The recommended schedule is two to three modules per week.  It is advisable to start from the beginning. Simply click here on Modules or in the left menu and you are ready to go.  Each module has a textbook chapter, several short digital audiovisual lectures, a multiple-choice test with complete solutions, and then two to three quizzes with 3 questions each for the final assessment.  You can jump to any module without having finished the previous modules.  To get started, please visit the course orientation page.
+
+LICENSE
+
+Creative Commons Attribution-NonCommercial-NoDerivs 3.0 Unported License (Links to an external site.).QuesCreative Commons Licensetions, suggestions or comments, contact http://autarkaw.com/contactus.html (Links to an external site.) 
+
+ ACKNOWLEDGEMENTS
+
+This material is based upon work supported by the National Science Foundation under Grant# 0126793 (Links to an external site.), 0341468 (Links to an external site.), 0717624 (Links to an external site.), 0836981 (Links to an external site.), (Links to an external site.) 0836916 (Links to an external site.), 0836805 (Links to an external site.).  Any opinions, findings, and conclusions or recommendations expressed in this material are those of the author(s) and do not necessarily reflect the views of the National Science Foundation.  Based on a work at Holistic Numerical Methods at http://mathforcollege.com/nm (Links to an external site.).  Thanks to canvas.netLinks to an external site. for hosting the MOOC.
+
+CC Attribution Non-Commercial No Derivatives
+This course content is offered under a CC Attribution Non-Commercial No DerivativesLinks to an external site. license. Content in this course can be considered under this license unless otherwise noted.
+ 
+Coming Up View Calendar

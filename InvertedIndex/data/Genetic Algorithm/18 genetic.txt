@@ -1,0 +1,44 @@
+Genetic Algorithm
+Genetic Algorithm, GA, Simple Genetic Algorithm, SGA, Canonical Genetic Algorithm, CGA.
+
+Taxonomy
+The Genetic Algorithm is an Adaptive Strategy and a Global Optimization technique. It is an Evolutionary Algorithm and belongs to the broader study of Evolutionary Computation. The Genetic Algorithm is a sibling of other Evolutionary Algorithms such as Genetic Programming, Evolution Strategies, Evolutionary Programming, and Learning Classifier Systems. The Genetic Algorithm is a parent of a large number of variant techniques and sub-fields too numerous to list.
+
+Inspiration
+The Genetic Algorithm is inspired by population genetics (including heredity and gene frequencies), and evolution at the population level, as well as the Mendelian understanding of the structure (such as chromosomes, genes, alleles) and mechanisms (such as recombination and mutation). This is the so-called new or modern synthesis of evolutionary biology.
+
+Metaphor
+Individuals of a population contribute their genetic material (called the genotype) proportional to their suitability of their expressed genome (called their phenotype) to their environment, in the form of offspring. The next generation is created through a process of mating that involves recombination of two individuals genomes in the population with the introduction of random copying errors (called mutation). This iterative process may result in an improved adaptive-fit between the phenotypes of individuals in a population and the environment.
+
+Strategy
+The objective of the Genetic Algorithm is to maximize the payoff of candidate solutions in the population against a cost function from the problem domain. The strategy for the Genetic Algorithm is to repeatedly employ surrogates for the recombination and mutation genetic mechanisms on the population of candidate solutions, where the cost function (also known as objective or fitness function) applied to a decoded representation of a candidate governs the probabilistic contributions a given candidate solution can make to the subsequent generation of candidate solutions.
+
+Procedure
+Algorithm (below) provides a pseudocode listing of the Genetic Algorithm for minimizing a cost function.
+
+Input: , , , 
+Output: 
+Population  InitializePopulation(, )
+EvaluatePopulation(Population)
+  GetBestSolution(Population)
+While (StopCondition())
+    Parents  SelectParents(Population, )
+    Children 
+    For (,   Parents)
+        ,   Crossover(, , )
+        Children  Mutate(, )
+        Children  Mutate(, )
+    End
+    EvaluatePopulation(Children)
+      GetBestSolution(Children)
+    Population  Replace(Population, Children)
+End
+Return ()
+Pseudocode for the Genetic Algorithm.
+Heuristics
+Binary strings (referred to as 'bitstrings') are the classical representation as they can be decoded to almost any desired representation. Real-valued and integer variables can be decoded using the binary coded decimal method, one's or two's complement methods, or the gray code method, the latter of which is generally preferred.
+Problem specific representations and customized genetic operators should be adopted, incorporating as much prior information about the problem domain as possible.
+The size of the population must be large enough to provide sufficient coverage of the domain and mixing of the useful sub-components of the solution [Goldberg1992].
+The Genetic Algorithm is classically configured with a high probability of recombination (such as 95%-99% of the selected population) and a low probability of mutation (such as  where  is the number of components in a solution) [Muhlenbein1992] [Back1993].
+The fitness-proportionate selection of candidate solutions to contribute to the next generation should be neither too greedy (to avoid the takeover of fitter candidate solutions) nor too random.
+Code Listing

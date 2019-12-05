@@ -1,0 +1,498 @@
+SOFTWARE ENGINEERING DEGREES & CAREERS
+How to Become a Software Engineer
+FacebookTwitterGoogle+
+EXPAND IN-PAGE
+NAVIGATION
+CHOOSE A PROGRAM
+
+
+
+GO
+SPONSORED SCHOOLS
+Was this page helpful? Yes No
+Software engineering is a field that is vitally important to computer technology as a whole. Without the software to run the computer hardware, that hardware is simply a clump of plastic, silicon and metal – perhaps useful as an overpriced paperweight.
+
+In the strictest sense, software engineering is the application of engineering principles to the design, development and implementation of software. Because software engineering is such as a unique, scientific and technically-driven field, special training and formal degrees are required. By getting a degree in software engineering, graduates can work in any number of fields creating video games, developing internet applications, running computer networks or implementing computer security measures for an organization. Find out more about software engineering degrees and careers, and learn about salaries and employment projections for this specialized field.
+
+WHAT DOES A SOFTWARE ENGINEER DO?
+SOFTWARE ENGINEERING BASICS
+Combining business sense with programming know-how, software engineers devise software application solutions for business problems. Software engineers work with different platforms, such as the Internet, mobile devices, and desktop computers.
+
+SOFTWARE ENGINEERING IN-DEPTH
+The practice of software engineering blends engineering, computing, project management, and software development. Software engineers manage a comprehensive list of critical functions across broad knowledge areas, such as Web and mobile applications, embedded systems, networking, data, security and systems administration. These critical functions span the entire development process, which often includes business needs and use analysis, design and development, implementation, quality assurance testing, and product release.
+
+As a profession, software engineering has two central specializations: software/systems development and applications development. Applications developers review the needs of a user to design and code computer applications for different platforms, such as Web, social media, and mobile. Software/systems engineers, on the other hand, use programming languages and frameworks to design and create systems that keep technology functioning correctly.
+
+SOFTWARE ENGINEER SALARIES
+The market demand for qualified software engineers has created an arms race for the top talent. Salary research from ComputerWorld, the Bureau of Labor Statistics and Robert Half International all reveal the same thing: Companies are willing to pay a premium to acquire top talent, with some annual salaries pushing northward of six figures. ComputerWorld’s 2015 IT salary survey reported average salaries of nearly $109,000 for software engineers, while Robert Half reported earnings that range from $96,000 to $147,000. The financial climate is good for individuals considering a career in the field — Robert Half projects salaries will climb by 6.6 percent in 2016.
+
+TOP CAREER IN SOFTWARE ENGINEERING	MEDIAN SALARY
+Software Engineer, Application	$95,510
+Software Engineer, Software	$102,880
+Source: Bureau of Labor Statistics, Occupational and Wage Estimates, 2014
+
+STEPS TO BECOMING A SOFTWARE ENGINEER
+Software engineering is an ever-changing profession, one that adapts as new technologies are developed. Because of its shifting nature, there are multiple entry points into the profession. Although no single path to becoming a software engineer exists, the steps below outline the general path to employment.
+
+1GET AN EDUCATION
+Completing a formal education is the first step toward becoming a software engineer. Prospective students can select from both traditional and nontraditional training programs to gain the education necessary to pursue entry-level positions. Some options include:
+
+ASSOCIATE DEGREE (TWO YEARS).
+Although employers typically prefer candidates with a four-year degree, an associate degree can open the door to entry-level jobs in the field. Students may choose to pursue majors in several related areas, such as software engineering technology or software systems engineering. Curriculum focuses on the core principles of software engineering, programming languages, and modern approaches to software development.
+
+BACHELOR’S DEGREE (FOUR YEARS).
+A bachelor’s degree in computer science, or a related field, is the traditional minimum degree preferred by employers. Bachelor’s degree programs expose students to a broader curriculum, one that provides a foundation in mathematics and computer science. Students develop a comprehensive understanding of programming, software architecture, and software testing. They may also take specialized courses in application areas, such as networking or embedded systems.
+
+CODING BOOTCAMP (8 TO 12 WEEKS).
+Coding bootcamps are a relatively new educational path for aspiring software engineers or developers. These programs typically last between eight and 12 weeks and place students into a hands-on, immersive learning environment. Upon graduation, students should be ready for entry-level careers as software engineers or developers.
+
+Popular Programs
+Sponsored
+Southern New Hampshire University
+BS - Computer Science:Software Engineering
+Purdue University Global
+BS - Information Technology: Programming and Software Development
+Capella University
+BS - Data Management (ABET-accredited)
+2DO AN INTERNSHIP
+Completing an internship provides students with real world experience. Technology companies may offer internships for students with a bachelor’s or master’s degree who are seeking to expand their skills in specific areas, such as Java, XML or SQL. Internships typically last between three and six months and allow students to work on specific projects or products related to their skills.
+
+3PURSUE A SPECIALIZATION
+Generally speaking, there are two specializations within software engineering: applications and software/systems development. However, distinct areas of practice exist within each of these areas. Software engineers may choose to become experts in a single programming language or type of development. Below is a list of example specialty areas to consider:
+
+Web developmentDevOpsMobile developmentTechnical stack (e.g., Python, Ruby)4PURSUE ENTRY-LEVEL CAREER OPPORTUNITIES
+After earning a computer science or related degree or completing a bootcamp program, the next step is to seek out entry-level employment. Because of the demand, software engineering has been rated one of the best entry-level careers available, according to Forbes. Although the dream job may be at Google, prospective software engineers can start with a small, local job hunt because, in the profession, experience is a critical commodity for career advancement.
+
+5GET CERTIFIED
+Although some certifications have lost their luster, they remain an integral part of the tech industry. Software engineering is precise and technical, and gaining certification verifies an applicant’s knowledge and abilities. Along with experience, certification can improve a person’s marketability in an increasingly competitive marketplace. Certifications are available from technology vendors (e.g., Microsoft, Cisco and Oracle) as well as professional organizations (e.g., IEEE) and are tailored to specific areas of practice.
+
+6ATTEND CONFERENCES
+Innovation drives change. That means software engineers need to stay abreast of the latest developments in both the general profession and their specialty. Attending conferences is a great way to network with other engineers and learn about new products, business practices, and technologies. Popular conferences for software engineers include the International Conference on Software Engineering and the International Conference on Automated Software Engineering.
+
+7EARN A GRADUATE DEGREE
+A graduate degree offers the opportunity to qualify for management and leadership positions in the industry. In addition, there is more to engineering than just programming. Software engineering calls upon interdisciplinary skills such as critical thinking, cost analysis and project management — skills that can be enhanced in a master’s program in computer science, computer engineering, information science or software engineering.
+
+SOFTWARE ENGINEERING DEGREES & CONCENTRATIONSMATCHING GOALS TO SOFTWARE ENGINEERING DEGREES 
+Career Goals and Educational Needs	Associate	Bachelor’s	Master’s	Doctorate	Online
+I am already working in the computer technology field, but I want to advance my career. Perhaps I could take on more responsibility by managing large software development projects or eventually working my way into a management position.
+
+I have no educational background in computer technology or computer science, but I’m pretty sure I want to become a software engineer and begin working in the field as soon as possible.
+
+I think I want to study software engineering, but I’m not 100% sure. I’d hate to waste four years and tons of money on a bachelor’s degree on something I may not end up enjoying. I’d love it if there’s a way I can get exposure to the fundamental software engineering classes without committing to four years of schooling.
+
+I have an extensive software engineering background, having worked in the private sector for many years. My experience has given me many ideas I would like to explore and research. Also, I may want to try my hand at teaching.
+
+I want to get work as a software engineer, but I can’t afford to move to attend school, nor do I have the time to attend on campus classes during the day. Additionally, I enjoy self-paced learning so I can speed through the stuff I understand, but take my time with more challenging material.
+
+ SOFTWARE ENGINEERING DEGREE LEVELS
+For those interested in a software engineering degree, there are many options to choose from on both the graduate and undergraduate levels. Depending on prior work and educational background, as well as professional aspirations, one degree will probably make more sense than the other. Let’s take a look at the software engineering degrees available.
+
+Software Engineering Associate Degrees
+An associate degree in software engineering takes about two years to complete. The associate degree can be a useful way for students who want a degree to take on an entry level software engineering position without spending the time and money getting a four-year degree. As an added bonus, some associate degrees can serve as stepping stones to getting a bachelor’s degree later on.
+
+Classes typically found in software engineering associate degree programs include:
+
+DATABASE MANAGEMENT SYSTEMS
+This course covers how database management systems work, as well as how to design, create and implement systems within an organization to meet their specific needs.
+
+Skills Gained
+Gaining familiarity in commonly used database management systems
+
+Learning the principles of relational, hierarchical and object-oriented databases
+
+Understanding the current trends in data management, such as data mining and business analytics
+
+WEB APPLICATION DEVELOPMENT
+The architectural design of web applications, as well as programming languages and technologies to help build web applications, are reviewed in this class.
+
+Skills Gained
+Designing a web application
+
+Implementation and testing client and server solutions
+
+Learning user-interface principles
+
+OPERATING SYSTEMS
+Foundational concepts, as well as fundamental principles of operating system design and operation, are examined in this class.
+
+Skills Gained
+Commonly used operating system programming languages
+
+Computer architecture design considerations
+
+File management techniques
+
+NETWORKING
+Teaches students the basic principles of networks, and the role software plays in their functionality and application.
+
+Skills Gained
+Network security protocols
+
+Types of networks
+
+Network design considerations
+
+Software Engineering Bachelor’s Degrees
+For students fresh out of high school (or shifting over from another career) who want to maximize their professional potential in software engineering and give themselves the best chance of finding ideal post-graduate employment, the bachelor’s in software engineering is worth pursuing. In fact, most entry-level software engineering positions will require this four-year degree. Some more advanced positions may require a master’s degree in software engineering. In that case, a bachelor’s degree could be a prerequisite to admission.
+
+Four of the typical classes that can be found at most software engineering bachelor’s degree programs are described below:
+
+OBJECT-ORIENTED SOFTWARE DEVELOPMENT
+Students will take an advanced programming language in order to solve common computer problems and tasks.
+
+Skills Gained
+Computer programming expressions
+
+Understanding how fields and methods work
+
+Programming logic
+
+COMPUTER SECURITY
+Students receive an overview of computer security. Ethical, legal and practical considerations will also be discussed.
+
+Skills Gained
+Disaster and data loss recovery
+
+User access methods
+
+Fundamentals of cryptography
+
+PROJECT MANAGEMENT
+Techniques and methods for designing and developing software projects on schedule and on budget should be covered in this class.
+
+Skills Gained
+Understanding project lifecycles
+
+Project planning
+
+Risk management
+
+USER INTERFACE
+By applying the concepts of human communication methods, students should learn how to create user-friendly software that can communicate with people.
+
+Skills Gained
+User interface design considerations
+
+Tailoring software to human user specifics
+
+Usability testing
+
+Software Engineering Master’s Degree
+Depending on the program, a master’s degree in software engineering takes about two years to complete. Many programs are designed for students who are working full-time. The master’s degree not only provides additional knowledge of the software engineering field, but also offers education in management and leadership, so that graduates can take on more complex projects, be able to successfully coordinate those projects and work well with a team.
+
+Students who enter a master’s degree program in software engineering can expect to cover classes such as these:
+
+MATHEMATICAL MODELING
+Mathematical modeling Students are introduced to mathematical models, which have applications in understanding and predicting natural phenomenon and human nature.
+
+Skills Gained
+Applying models to real world problems
+
+Identification of a particular mathematical model for a given situation
+
+Quantification of variables and intended results
+
+SOFTWARE DESIGN
+Software design Students should expect to examine different programming languages and learn how their particular characteristics can be applied to software creation.
+
+Skills Gained
+Reinforcement of object-oriented programming principles
+
+Critically analyze existing computer code
+
+Techniques to effectively and efficiently design programs
+
+SOFTWARE TESTING
+Tools and techniques for practical testing of software, as well as analyzing theoretical testing models, are the focus of this class.
+
+Skills Gained
+How to troubleshoot
+
+Methods of debugging
+
+Analyzing and interpreting test results
+
+SOFTWARE SYSTEM ARCHITECTURE
+Covers the fundamentals of software architecture paradigm and their application to the software development process.
+
+Skills Gained
+Identify software architectural techniques
+
+Analysis of software design
+
+Tools used for software architecture design
+
+Software Engineering PhD Degree
+While PhD programs in software engineering do exist, they are far less common than the bachelor’s or master’s degree. Usually taking at least four years to complete, PhD software engineering degrees are often research-oriented, culminating with a dissertation. In addition, students will take focused classes on very specific areas of software engineering, such as robotics, distributed systems, software security and quantitative research methods. A PhD is usually necessary for those who desire a career in research or academia, such as teaching at a college or university.
+
+By enrolling in a PhD software engineering program, students can tailor a curriculum that’s unique to them. As such, there are very few similar class schedules among students in the same program. However, the following courses would likely be helpful in the PhD course list:
+
+SOFTWARE MODELING AND DESIGN
+Principles for developing large scale software systems.
+
+Skills Gained
+Identification of design concepts to use when designing software
+
+Familiarity with the Unified Modeling Language
+
+Utilization of advanced object-oriented software architectures
+
+Understanding of various design notation
+
+ECONOMICS OF SOFTWARE ENGINEERING
+Students will be taught how to take profitability and economic considerations into account when designing and managing software
+
+Skills Gained
+Quantitative modeling of software lifecycle
+
+Cost-benefit analysis during software design
+
+Commonly used software evaluation metrics
+
+SOFTWARE ENGINEERING FOR THE INTERNET
+Principles on how to create useful and effective web-based software and applications are taught in this class
+
+Skills Gained
+Factors that make a useful interactive web application
+
+Client-server programming methods
+
+Understanding middleware
+
+EXPERIMENTATION IN SOFTWARE ENGINEERING
+This course covers how the scientific process can be applied to software engineering
+
+Skills Gained
+Utilizing the scientific method to conduct empirical studies
+
+Application of software engineering experimentation techniques
+
+Present findings in effective and compelling manner
+
+COMPONENTS OF A SUCCESSFUL SOFTWARE ENGINEERING CAREER: SKILLS, TOOLS AND TECHNOLOGY
+SKILLS
+Software engineers are expected to have a broad knowledge base and skill set in multiple proficiencies, including both nontechnical and technical areas.
+
+Nontechnical Skills.
+Because software engineers work non-engineers such as with vendors, customers, and other team members, employers value individuals who possess nontechnical skills. A good software engineer should be a:
+
+COLLABORATOR.
+Able to leverage the input of others to devise solutions.
+
+TEAM PLAYER.
+Works effectively in group settings.
+
+CREATIVE THINKER.
+Able to develop new approaches to development.
+
+PROBLEM-SOLVER.
+Understands complex issues and knows how to use technology to solve them.
+
+COMMUNICATOR.
+Can speak in both technical and nontechnical terms to a variety of audiences.
+
+Industry-Specific Skills.
+Software engineering requires a comprehensive technical skill set and knowledge base that ranges from understanding business requirements to testing products. Below is a list of the core software engineering competencies from the National Workforce Center for Emerging Technologies.
+
+SKILL	DESCRIPTION
+Software Requirements	The ability to determine the needs of the software user or objective of the software
+Software Design	The process of planning and developing specifications for software solutions
+Software Construction	The development of software through object-oriented programming (coding), testing and debugging
+Software Testing	The review of software systems or components prior to product release
+Software Maintenance	The process of modifying software products to make improvements or solve issues
+Software Configuration Management	The tracking and management of software changes
+Software Engineering Management	The management of the software development process, from design to product delivery
+Software Engineering Process	The methodology applied to software development (e.g., agile methodology, waterfall programming)
+Software Quality	The ability to create and maintain software that meets its functional requirements
+Software Engineering Economics	The knowledge of software costs, production estimation and current market trends
+According to Robert Half Technology, computer software engineers who possess valuable technical skills in the following programming, database, and Web areas may see a related increase in earning potential.
+
+SKILL AREA	% PAY INCREASE
+Java	9%
+C#	8%
+Java EE/J2EE	8%
+.NET	8%
+PHP	8%
+Web services	8%
+Hadoop	7%
+ASP	5%
+C++	5%
+DCOM/COM/Active X	5%
+Professional certifications in software engineering establish an individual’s qualifications within the field. Certifications demonstrate a conceptual understanding and technical expertise in specific areas of the profession. Software engineers can select from a variety of credentialing programs based on their career needs and professional goals. Below is a snapshot of potential certifications.
+
+C++ CERTIFICATION.
+The C++ Institute has designed multiple certification programs for both the C and C++ programming languages. Advancing in difficulty, there are associate, professional and senior examinations available for each programming language. Associate certifications are foundational in nature, demonstrating the candidate’s basic knowledge of C/C++ programming. Professional certifications are advanced, measuring the candidate’s understanding of complex C/C++ programing techniques. Senior is expert-level certification, testing the candidate’s knowledge of highly complex C/C++ coding problems. Certifications include:
+
+C Programming Language Certified Association (CLA)C Certified Professional Programmer (CLP)Certified Senior Programmer (CLS)C++ Certified Associate Programmer (CPA)C++ Certified Professional Programmer (CPP)C++ Certified Senior Programmer (CPS)IEEE PROFESSIONAL SOFTWARE DEVELOPER CERTIFICATION (PSD)
+Sponsored by the IEEE Computer Society, the Professional Software Developer Certification (PSD) tests the candidate’s knowledge of software engineering requirements, design, construction and testing.
+
+IEEE PROFESSIONAL SOFTWARE ENGINEERING PROCESS MASTER CERTIFICATION (PSEPM)
+The PSEPM measures the candidate’s critical knowledge of software engineering. A two-part examination, the first test covers software requirements, software construction and testing, software design, maintenance and configuration management. The second examination reviews software engineering management, software engineering processes, software models and methods, quality and engineering economics, and software project management.
+
+IEEE SOFTWARE ENGINEERING MASTER CERTIFICATION (PSEM)
+An advanced certification, the PSEM tests the candidate’s knowledge of software engineering principles as well as technical skills through an applied examination. The applied examination places the test taker in the position of a professional developer and requires the completion of two performance tasks, which are reviewed and rated.
+
+MICROSOFT CERTIFIED SOLUTIONS DEVELOPER (MCSD)
+The MCSD certification is designed for professionals working with Microsoft languages and enterprise development tools. The MCSD covers several certification areas, including Windows Store apps, Web applications, SharePoint applications, Azure Solutions Architect, application lifecycle management, and Universal Windows Platform.
+
+ 
+TOOLS AND TECHNOLOGY
+Software engineers have a multidisciplinary, multifunctional skill set that goes beyond programming languages to incorporate everything from project management to computer science. In turn, they rely on a variety of tools and technologies to leverage their technical talent, for example:
+
+Integrated Development Environment.
+The environment refers to the programming tools and applications used in software development. 
+Microsoft Visual Studio .NET
+Oracle Netbeans
+Eclipse
+DreamWeaver
+Object-Oriented Programming Languages.
+Software engineers use object-oriented programming languages in programming and software application development. Languages often include: 
+Python
+C++
+Ruby
+PHP
+Java
+Operating System Software
+Operating system software manages both the software and hardware resources of a computing system and is required by application programs to operate. Examples include: 
+Windows
+iOS
+Android
+Linux
+Program Testing Software.
+Program testing software is used to find bugs and validate applications operate as designed. Examples include: 
+LoadRunner
+Testcloud
+Jira
+Critiware
+Web Development Software
+Web development software is used in the production of websites and applications. Some of the commonly used development software includes: 
+Apache Tomcat
+WebMatrix
+Xamarin
+Coda
+CAREER TRENDS IN SOFTWARE ENGINEERING
+The demand for software engineers is driven by the emergence of the information economy and the need for technological solutions for both consumer- and enterprise-based markets. For example, Robert Half Technology reports that healthcare organizations are seeking new software solutions to improve patient care, while financial service organizations are looking for ways to provide more effective technology-driven services to customers. Coupled with these traditional industries, emerging markets — such as big data, mobile computing, and security — are creating new opportunities for software engineers. Finally, because the complex skills of a software engineer translate across any industry, it is a must-have position in nearly every business sector.
+
+RELATED CAREERS
+Below is a list of related career opportunities that are projected to experience double-digit employment growth between 2012 and 2022, according to the Bureau of Labor Statistics.
+
+Business Information Analyst
+Combining business knowledge with computing expertise, business information analysts help companies translate business needs into technical solutions. In their role, business information analysts draw upon an analytical skill set to research, plan and manage how information systems and software can be used to solve business problems.
+
+Job Growth :19%		Web Developer
+Web developers have a strong command of Internet conventions and Web applications. Using Web technologies and programming languages, such as JavaScript, HTML or AJAX, Web developers write code for websites, integrate backend systems (such as databases with websites) and develop new website features and applications.
+
+Job Growth :20%
+Help Desk Support Specialist
+Help desk support specialists have a comprehensive understanding of software, hardware and networking systems. They provide a variety of technical support to companies and their employees, from resolving hardware problems to managing software program installation to troubleshooting networking issues.
+
+Job Growth :20%		Computer Systems Analysts
+Computer systems analysts use an in-depth knowledge of hardware and software systems to determine how an organization can best utilize those resources to operate effectively. They assist companies in identifying technical infrastructure needs, research the design and installation of computing packages, and prepare cost-benefit analyses for information systems.
+
+Job Growth :25%
+Information Security Analyst
+Information security analysts are at the forefront of computer and network security, such as encryption technologies and firewall protection. They perform security audits, conduct risk assessments and make recommendations to improve the security of a company’s data systems. By identifying weaknesses, information security analysts develop appropriate security policies that keep data safe.
+
+Job Growth :37%		Database Administrator
+Database administrators have a technical foundation in database structure, installation and maintenance. With specific knowledge of relational database languages (e.g., Oracle, Microsoft SQL Server), they manage company databases, maintain database stability, perform database backups and modify the structure of databases in accordance with the company’s data needs.
+
+Job Growth :15%The hottest, most in-demand software engineering skill is currently mobile application development because of exploding growth in mobile networks, phones, and commerce. By 2017, the global mobile app market will be worth $77 billion, according to the University of Alabama at Birmingham, and the mobile Web market will be worth $850 billion by 2018 says mobile industry consulting firm Digi-Capital. As a result, mobile application developers possess skills that companies want. Below is a list of three spotlight careers in the software engineering field and their corresponding salary figures according to a Robert Half Technology survey.
+MOBILE APPLICATION DEVELOPER
+Median salary: $134,500
+Mobile application developers employ languages and platforms such as JavaScript, .NET and Objective-C to build applications and websites for mobile devices (e.g., iPhone, iPad, Samsung Galaxy). Working with mobile operating systems such as iOS and Android, developers design, code, test, debug and document the mobile application development process. A degree in computer science or computer engineering is recommended. In today’s mobile-first world, the increasing demand for personal and enterprise mobile apps has led to a crushing need for developers. Gartner Inc. projects that by the end of 2017 the market demand will outpace available talent for enterprise mobile app developers by at least five to one.
+
+QUALITY ASSURANCE ENGINEER
+Median salary: $76,000 (QA Engineer – Manual); $89,000 (QA Engineer – Automated)
+Quality assurance engineers devise and execute testing and quality review plans to identify issues during the software development process. With an understanding of the software development lifecycle and quality assurance principles, QA Engineers define the scope of testing, conduct manual and automated testing plans, and work closely with developers to identify areas of improvement. The Bureau of Labor Statistics has labeled the career field as an emerging and high-growth field, and it is expected to create 100,000 new jobs nationally between 2012 and 2022.
+
+APPLICATIONS ARCHITECT
+Median salary: $126,625
+Applications architects combine a knowledge of development tools and system architecture with business savvy and team leadership skills to coordinate the creation of enterprise-level applications. An important position, an applications architect serves as the team liaison that brings together user experience and front-end developers, programmers and quality assurance specialists on each project. A bachelor’s degree in computer science or information systems is traditionally required, and it is one of the best paying occupations in the information technology field.
+
+SOFTWARE ENGINEER JOB GROWTH, PROSPECTS, AND OUTLOOK
+Today, software accounts for 19 percent of the IT market in the United States, according to research from CompTIA. A convergence of several factors are contributing to the age of the software engineer: the shift to cloud-based infrastructure, the rise of mobile devices and computing, the explosion of big data analytics, the yet-to-be-tapped potential of social media, and the need for companies to provide managed services.
+
+WHAT DO RELATED OCCUPATIONS MAKE?
+Whether in online technology services, data storage, network management or security, technological innovation is driven by a central need: more effective and powerful computing solutions. Because programming languages and frameworks (e.g., HTML, SQL, Java, C++) cut across industry channels, individuals with both education and experience can stand out in today’s crowded and competitive IT marketplace. In turn, other tech roles are growing alongside software engineering, with salaries that can exceed $100,000 for experienced professionals.
+
+RELATED OCCUPATIONS: WHAT YOU NEED TO KNOW
+The need for high-skilled informational technology talent stretches across specializations, from information systems to networking, databases to business intelligence. An education in computer science and software development can lead to a variety of related career opportunities throughout the technology industry. Below is a list of example occupational avenues:
+
+BUSINESS INTELLIGENCE ANALYST
+18.6%
+Salary$90,860
+Education and Training:
+Bachelor's degree
+
+COMPUTER SYSTEMS ADMINISTRATOR
+11.7%
+Salary$79,770
+Education and Training:
+Bachelor's degree
+
+DATABASE ADMINISTRATORS
+15.1%
+Salary$82,280
+Education and Training:
+Bachelor's degree
+
+HELP DESK/USER SUPPORT
+20.2%
+Salary$51,500
+Education and Training:
+Some college, no degree
+
+INFORMATION SYSTEMS MANAGER
+15.3%
+Salary$136,280
+Education and Training:
+Bachelor's degree
+
+NETWORK SUPPORT SPECIALIST
+6.9%
+Salary$66,140
+Education and Training:
+Associate degree
+
+SYSTEMS ANALYST
+24.5%
+Salary$87,320
+Education and Training:
+Bachelor's degree
+
+TECHNICAL WRITER
+14.8%
+Salary$71,950
+Education and Training:
+Bachelor's degree
+
+Source: Bureau of Labor Statistics, Occupational and Employment Wages, 2014
+
+SOFTWARE ENGINEERING DEGREE & CAREER RESOURCES
+ABET
+ABET is a leading organization for accrediting undergraduate and graduate programs in science, technology and engineering fields.
+
+ 
+Association for Computing Machinery
+The ACM is the world’s largest computer society with the mission of promoting computer science and related fields in the educational and professional realms.
+
+ 
+CompTIA
+CompTIA promotes the interests of information technology professionals by advocating on their behalf and providing professional certifications and educational opportunities for those working in information technology.
+
+ 
+IEEE
+IEEE is a leading professional organization with the goal of helping humanity through the support of advanced technology.
+
+ 
+Institute for the Certification of Computing Professionals (ICCP)
+The ICCP is a non-profit organization that offers many internationally-recognized computer certifications.
+
+ 
+Software Engineering Radio
+This excellent podcast updates every two weeks or so with compelling expert guests and insider information on the world of software engineering, past, present and future.
+
+ 
+Try Engineering: Computer Software Engineer
+This site offers insight into a variety of engineering careers, including software engineer. This is a great basic description of what software engineers do.
+

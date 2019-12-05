@@ -1,0 +1,166 @@
+Information Retrieval - an overview | ScienceDirect Topics
+
+
+
+Information Retrieval
+Related terms:
+Network AdministratorAutomated MechanismDesign DocumentationOrganizational PersonnelSecurity OfficerSystem ConfigurationSystems Design
+View all Topics
+Download as PDF
+Set alert
+About this page
+Learn more about Information Retrieval
+Introduction
+Jiawei Han, ... Jian Pei, in Data Mining (Third Edition), 2012
+
+1.5.4 Information Retrieval
+Information retrieval (IR) is the science of searching for documents or information in documents. Documents can be text or multimedia, and may reside on the Web. The differences between traditional information retrieval and database systems are twofold: Information retrieval assumes that (1) the data under search are unstructured; and (2) the queries are formed mainly by keywords, which do not have complex structures (unlike SQL queries in database systems).
+
+The typical approaches in information retrieval adopt probabilistic models. For example, a text document can be regarded as a bag of words, that is, a multiset of words appearing in the document. The document's language model is the probability density function that generates the bag of words in the document. The similarity between two documents can be measured by the similarity between their corresponding language models.
+
+Furthermore, a topic in a set of text documents can be modeled as a probability distribution over the vocabulary, which is called a topic model. A text document, which may involve one or multiple topics, can be regarded as a mixture of multiple topic models. By integrating information retrieval models and data mining techniques, we can find the major topics in a collection of documents and, for each document in the collection, the major topics involved.
+
+Increasingly large amounts of text and multimedia data have been accumulated and made available online due to the fast growth of the Web and applications such as digital libraries, digital governments, and health care information systems. Their effective search and analysis have raised many challenging issues in data mining. Therefore, text mining and multimedia data mining, integrated with information retrieval methods, have become increasingly important.
+
+Read full chapter
+
+Purchase book
+Information research and the search process
+Barbara Blummer, Jeffrey M. Kenton, in Improving Student Information Search, 2014
+
+Information retrieval researchers
+Marchionini
+Information retrieval theorists verified the importance of information-seeking research in informing information retrieval design. Marchionini (1995) observed Dervin (1977) and Kuhlthau’s (1988) research highlighted the human-centered aspect of information seeking. He linked Dervin’s sense-making approach to “focusing attention on users’ needs” and noted its adoption in information science and communication “as a framework for studying the information seeking process” (p. 29). In addition, he maintained “Kuhlthau’s model remains robust across different age groups of learners” and it considered “the affective states” of information searchers (p. 29). Foremost, he underscored the importance of information-seeking research in highlighting the problem solving aspect of information seeking that included “communication acts” (p. 29).
+
+Vakkari
+Vakkari (2001b) included components of Kuhlthau’s (1993) research on the stages of information search process in the development of his task-based theory for information retrieval that emphasized information retrieval and searching activities. His hypothesis stated “stages of task performance are connected to the types of information searched for, to the changes of search tactics and terms and to relevance judgments” (p. 44). The author tested his hypothesis in a study of graduate students’ information search over a four-month period. The findings supported the role of Kuhlthau’s stages and especially “subjects’ mental model” in influencing the type of information sought, the selection of search terms, and the relevance criteria used to evaluate documents (p. 55). In his conclusion, Vakkari pointed to the validity of adopting Wilson’s (1999) suggestion of considering information retrieval from the perspective of information seeking.
+
+Read full chapter
+
+Purchase book
+Text Analysis
+David Nettleton, in Commercial Data Mining, 2014
+
+Information Retrieval Concepts
+Information retrieval concepts can be used when a business wants to automatically find documents relevant to a given set of keywords. Two of the most used concepts in the retrieval of textual information are term frequency and inverse document frequency. Term frequency refers to the number of times that a term t occurs in document d. The inverse document frequency is a measure of whether a term is common or rare in a given document corpus. It is obtained by dividing the total number of documents by the number of documents containing the term in the corpus. Once these two metrics have been calculated, they can be combined (multiplied) to get a new measure: the term frequency × the inverse document frequency. This value reflects how important a word is with respect to a given document in a corpus of documents. These metrics are often used by online search engines in order to retrieve the most relevant documents for a user query.
+
+For further reading about information retrieval, see:
+
+Baeza-Yates, R. and Ribeiro-Neto, B. 2011. Modern Information Retrieval: The Concepts and Technology behind Search, 2nd ed. New York: ACM Press Books. ISBN: 0321416910.
+
+Read full chapter
+
+Purchase book
+Medical Domain Search Ranking
+Bo Long, Yi Chang, in Relevance Ranking for Vertical Search Engines, 2014
+
+3.5 Conclusion
+Information retrieval of medical records in a clinical setting is especially challenging in various ways. The sophistication of the domain knowledge, the unique linguistic properties of the medical records, the complex information needs, and the barriers due to patient privacy protection have together limited the effectiveness of search engines for electronic health records. In this chapter we presented recent findings from the experience with our in-house EHR search engines and the TREC medical record track, which shed light on several effective practices for improving medical records search. Specifically, we highlighted three key approaches: concept-level relevance ranking, automatic query expansion, and collaborative search.
+
+There remain many challenging issues in effective information retrieval for medical records. A more accurate and robust natural language processing pipeline for medical records should largely improve the performance of EHR search engines. Such a pipeline should provide powerful tools for medical concept extraction, acronym resolution, word disambiguation, and negation and uncertainty detection.
+
+An even more urgent task is to better understand the information needs and search behaviors of the users of EHR search engines. In analogy to the query log analysis in Web search, which has long been proven a successful approach to enhancing the performance of Web search engines, better models and techniques utilizing the observations of search behaviors are anticipated to significantly enhance the effectiveness of EHR search engines.
+
+Finally, this chapter pointed out a potentially high-return approach, collaborative search, that is an alternative to the methods based on machine intelligence. With such an approach, the users of medical record search engines are enabled to preserve, disseminate, and promote search knowledge that leads to satisfactory search results. A promising future direction of medical information retrieval will be incentive-centered designs that better engage users with the collaborative search features.
+
+Read full chapter
+
+Purchase book
+A Survey on Regression Test-Case Prioritization
+Yiling Lou, ... Dan Hao, in Advances in Computers, 2019
+
+4.4 Information-Retrieval-Based Algorithm
+Information retrieval (abbreviated as IR) techniques [183] aim to obtain information needed from a collection of information resources, which have been fully studied in the last 40 years and applied to various domains, including software engineering. The main idea of information-retrieval-based algorithm is as follows: (1) it uses test case information such as execution information or source code of each test case to construct the corresponding document collection for each test case, namely, each document represents one test case; (2) it uses source code information (usually the changed part of source code) serving as the input query of IR, and IR will return a ranked list of the documents constructed in the first step, which in fact is a ranked list of test cases by the relevance to the input information.
+
+In particular, Nguyen et al. [184] proposed an IR-based approach to prioritizing test cases for web services, which used the identifier documents extracted from the execution trace to represent each test case and used the web service change description as the input query of IR.
+
+Kwon et al. [185] proposed an IR-based approach which adapted term frequency (TF) and inverse document frequency (IDF) to prioritize test cases. This approach considers not only code coverage information but also how many times a coverage element is executed by a test case (TF) and source code elements are tested by few test cases (IDF). Linear regression model is applied to weigh the value of the information.
+
+Later on, Saha et al. [186] proposed an IR-based approach to prioritize JUnit test cases. Their approach used the test source code to construct the relative document for each test case and used the changed code of the program under test as the input query to get a ranked list of test cases by their relevance to program changes.
+
+Read full chapter
+
+Purchase book
+The indexes
+Barbara Blummer, Jeffrey M. Kenton, in Improving Student Information Search, 2014
+
+Strategy
+Significance of a search strategy
+Information retrieval research highlights the importance of identifying a search strategy for success. Allan (2000) seemingly linked the presence of a search strategy to search results, commenting, “garbage in garbage out” (p. 9). He urged librarians to critique students’ search activities. For example, he suggested asking students what “tools they used needlessly or forgot to use,” “data they think likely to be worth gathering,” data that they didn’t include but should have, how they decided relevance, and how they may have been more “efficient or effective” (p. 15). Stronge et al. (2006) linked strategy formulation to users’ evaluation of the task that encompassed assessing the information need and considering different paths to obtain it. The authors highlighted the importance of evaluating the success of strategies used and selecting alternative strategies if needed. Likewise, Brand-Gruwel et al. (2005) argued that “the formulated search strategy facilitates the search for information” (p. 490).
+
+Comparisons of expert and novice search behaviors illustrate the importance of search strategies. Tabatabai and Luconi’s (1998) research focused on web-based problem solving, and they concluded that experts “started with a search plan” but novices “did not articulate a plan” (p. 391). Moreover, the authors characterized the latter’s strategies as primarily trial and error, and included a large number of return moves. Brand-Gruwel et al. (2005) observed that the “main difference between the experts and the novices” was the experts’ “attention to (re) formulation of the problem” while novices ignored this activity (p. 503). Sutcliffe et al. (2000) found that experts adopted consistent search strategies that included cycles of narrowing and broadening while novices searches were trial and error. The authors concluded “individuals can be successful by following a single good strategy even though their approach may be flawed” (p. 1228). Tabatabai and Shore (2005) found experts changed their strategies more frequently and “understood the rationale behind what they wanted to do next” (p. 233). On the other hand, they reported novices “relied more on trial and error” rather than “spending time exploring or planning” (p. 238).
+
+Research reveals students often fail to develop a search strategy prior to searching or do not modify ineffective search strategies. Simon’s (1995) study of graduate students’ search behaviors revealed these individuals failed to appreciate the importance of developing a search strategy for search success. According to the author, “strategies appeared to have developed as the searches progressed” (p. 78). Currie et al. (2010) observed undergraduate students’ information-seeking behavior and concluded that most of the participants “did not begin the search process identifying the major keywords and they did not connect key concepts with Boolean search terms” (p. 119). Korobili et al. (2011) surveyed students on their search behaviors and found that over one-third of searchers reported never or seldom modifying their search strategy. According to the authors, participants indicated they typically “change the keyword or keywords” or “choose another source” (p. 158).
+
+Holman (2011) characterized undergraduate students as haphazard in their search strategies. She stated that they employed simple searches “using names or short phrases” (p. 21) and narrowed searches by expanding keywords, although this was not used consistently. Holman maintained that students search suffered from the lack of a mental model of the search system. Likewise, Chu and Law (2008) characterized beginning graduate students as novice searchers who employed “plain English phrases” and lacked an understanding of the need to use a search statement that “combined key search terms and search operators” (p. 171). Similarly Korobili et al.’s (2011) survey of graduate students’ information-seeking behavior revealed that the majority employed phrases for locating information and seldom or never used Boolean operators.
+
+Read full chapter
+
+Purchase book
+Hashing-based large-scale medical image retrieval for computer-aided diagnosis
+X. Zhang, S. Zhang, in Machine Learning and Medical Imaging, 2016
+
+8.2 Related Work
+Information retrieval in medical images has been widely investigated in this community. For example, Comaniciu et al. (1999) proposed a content-based image-retrieval system that supports decision making in clinical pathology, in which a central module and fast color segmenter are used to extract features such as shape, area, and texture of the nucleus. System performance was assessed through a 10-fold cross-validated classification and compared with that of a human expert on a database containing 261 digitized specimens. Dy et al. (2003) described a new hierarchical approach of CBIR based on multiple feature sets and a two-step approach. The query image is classified into different classes with best discriminative features between the classes. Then similar images are searched in the predicted class with the features customized to distinguish subclasses. El-Naqa et al. (2004) proposed a hierarchical learning approach that consists of a cascade of a binary classifier and a regression module to optimize retrieval effectiveness and efficiency. They applied this to retrieve digital mammograms and evaluated it on 76 mammograms. Greenspan and Pinhas (2007) proposed a CBIR system that consists of a continuous and probabilistic image-representation scheme. It uses information-theoretic image matching via the Kullback-Leibler (KL) measure to match and categorize X-ray images by body region. Song et al. (2011) designed a hierarchical spatial matching-based image-retrieval method using spatial pyramid matching to effectively extract and represent the spatial context of pathological tissues. CBIR has also been employed for histopathological image analysis. For example, Schnorrenberg et al. (2000) extended the biopsy analysis support system to include indexing and content-based retrieval of biopsy slide images. A database containing 57 breast cancer cases was used for evaluation. Zheng et al. (2003) designed a CBIR system to retrieve images and their associated annotations from a networked microscopic pathology image database based on four types of image features. Akakin and Gurcan (2012) proposed a CBIR system using the multitiered approach to classify and retrieve microscopic images. It enables both multi-image query and slide-level image retrieval in order to protect the semantic consistency among the retrieved images. Foran et al. (2011) designed a CBIR system named ImageMiner for comparative analysis of tissue microarrays by harnessing the benefits of high-performance computing and grid technology.
+
+As emphasized in Zhou et al. (2008), scalability is the key factor in CBIR for medical image analysis. In fact, with the ever-increasing amount of annotated medical data, large-scale, data-driven methods provide the promise of bridging the semantic gap between images and diagnoses. However, the development of large-scale medical image analysis algorithms has lagged greatly behind the increasing quality and complexity of medical images. Specifically, owing to the difficulties in developing scalable CBIR systems for large-scale data sets, most previous systems have been tested on a relatively small number of cases. With the goal of comparing CBIR methods on a larger scale, ImageCLEF and VISCERAL provide benchmarks for medical image retrieval tasks (Müller et al., 2005; Langs et al., 2013; Hanbury et al., 2013). Recently, hashing methods have been intensively investigated in the machine learning and computer vision community for large-scale image retrieval (Wang et al., 2015). They enable fast approximated nearest neighbors (ANN) search to deal with the scalability issue. For example, locality sensitive hashing (LSH) (Andoni and Indyk, 2006) uses random projections to map data to binary codes, resulting in highly compact binary codes and enabling efficient comparison within a large database using the Hamming distance. Anchor graph hashing (AGH) (Liu et al., 2011) has been proposed to use neighborhood graphs which reveal the underlying manifold of features, leading to a high search accuracy. Recent research has focused on data-dependent hash functions, such as spectral graph partitioning and hashing (Weiss et al., 2009) and supervised hashing with kernels (Liu et al., 2012) incorporating the pairwise semantic similarity and dissimilarity constraints from labeled data. These hashing methods have also been employed to solve the dimensionality problem in medical image analysis. In particular, Zhang et al. (2014a, 2015c) built a scalable image-retrieval framework based on the supervised hashing technique and validated its performance on several thousand histopathological images acquired from breast microscopic tissues. It leverages a small amount of supervised information in learning to compress high-dimensional image feature vectors into only tens of binary bits with the informative signatures preserved. The supervised information is employed to bridge the semantic gap between low-level image features and high-level diagnostic information, which is critical to medical image analysis. Instead of hashing and searching the whole image, another approach is to segment all cells from histopathological images and conduct large-scale retrieval among cell images (Zhang et al., 2015d,e,f). This enables cell-level and fine-grained analysis, achieving high accuracy. In addition to using a single feature, it is also possible to fuse multiple types of features in a hashing framework to improve the accuracy of medical image retrieval. Specifically, a composite AGH algorithm (Liu et al., 2011) has been employed for retrieving medical images (Zhang et al., 2014b; Liu et al., 2014), for example, retrieving lung microscopic tissue images for the differentiation of adenocarcinoma and squamous carcinoma. Besides hashing-based methods, vocabulary trees have also been intensively investigated (Nister and Stewenius, 2006) and employed for medical image analysis (Jiang et al., 2015b, 2014).
+
+In this chapter, we introduce technical details of hashing-based large-scale image retrieval for computer-aided diagnosis, with the use case of histopathological image analysis.
+
+Read full chapter
+
+Purchase book
+Interface design and evaluation
+Iris Xie PhD, Krystyna K. Matusiak PhD, in Discover Digital Libraries, 2016
+
+Foundations for interface design
+The information retrieval (IR) process is an interaction process between users and IR systems. In a digital library environment, interface design needs to facilitate the interactions between users and digital libraries. Saracevic’s (1996, 1997) stratified interaction model highlights the interface (the platform for exchange) in which the interactions between users and systems take place. According to Ingwersen and Jarvelin’s (2005) integrated IS&R Research Framework, the interaction process can be further considered as the interactions among cognitive actors of all the stakeholders in the information retrieval and seeking process, which consist of the following human groups in the information creation, organization, dissemination, use process as well as interface design and retrieval engine design:
+
+•
+Creators of information objects
+
+•
+Indexers constructing representations of information objects to facilitate retrieval of information objects
+
+•
+Designers creating interfaces to facilitate users’ interaction with systems
+
+•
+Designers building retrieval engines and algorithms to facilitate users’ effective information retrieval
+
+•
+Gatekeepers determining the availability of information objects into a collection
+
+•
+Information seekers or searchers looking for information to accomplish their tasks
+
+•
+Dommunities representing a variety of groups in different organizational, social, and cultural contexts
+
+The critical challenge for interface design is how to offer an interface platform for users to interact with all the cognitive actors involved in the process. To be more specific, in Belkin’s (1996) episode model of interaction with text, he proposes an approach that shows how interface design can support different types of interactions by supporting various types of information-seeking strategies.
+
+Read full chapter
+
+Purchase book
+Algebraic Approaches to a Network-Type Private Information Retrieval
+Vladimir B. Balakirsky, Anahit R. Ghazaryan, in Emerging Trends in ICT Security, 2014
+
+Introduction
+Private information retrieval schemes are cryptographic protocols designed to safeguard the privacy of database users. They allow clients to retrieve records from public databases while completely hiding the identity of the retrieved records from database owners [1]. One of the earliest references for problems of this sort belongs to Rivest et al. [2]. Formalization of the private retrieval problem, which was studied by many authors, belongs to Chor et al. [3] and a number of surveys are available on the Internet. If the database is owned by one server and information-theoretic privacy is required, then there is no better solution than the trivial one when the server transmits the whole database to the user. However, if constraints on the privacy of the retrieval are relaxed, there are algorithms based on the use of computationally hard problems that have to be solved by the server to discover the data and the use of the so-called one-way hash functions. An implementation of these algorithms is usually time-consuming for the database user. Solutions to the multi-server private information retrieval problem are based on the encoding of the content of the database, as shown by Chor et al. [3]. In particular, Woodruff-Yekhanin [4] proposed solutions that are based on algebraic encoding.
+
+We use the ideas of the Woodruff-Yekhanin scheme and present a simple algebraic solution to a variant of the multi-server private information retrieval problem. Moreover, the database user in our scheme can be split between the user-sender, who sends the query to the servers, and the user-receiver, who decodes the retrieved bit. This network-type organization of information retrieval brings additional possibilities. As the server, which makes the decision associated with the corresponding bits, does not emit energy, its location cannot be discovered. Furthermore, the query is randomized by the user-sender, but parameters of the randomization should not be delivered to the user-receiver, which decodes the retrieved bit without knowledge of the query.
+
+The chapter is organized as follows: In the first section we describe the data processing scheme and discuss its constraints and complexities. In the second section we present algorithmic aspects of the approach, while we discuss their algebraic background in the third sections. Possible extensions of the setup are briefly discussed in the concluding section.
+
+Read full chapter
+
+Purchase book
+Privacy-Enhancing Technologies
+Simone Fischer-Hbner, Stefan Berthold, in Computer and Information Security Handbook (Third Edition), 2017
+
+Private Information Retrieval
+Private Information Retrieval (PIR) allows a user to retrieve an item (record) from a database server without revealing which item he is interested in (privacy of the item of interest is provided). A typical application example is a patent database, from which inventors would like to retrieve information without revealing their interests. A trivial approach would be to simply download the entire database and to make a local selection, which would be too costly, bandwidth-wise. In [41], one of the first PIR solutions was introduced, which requires the existence of t+1 noncooperating identical database servers (with n records each). To each server, one n-bit query vector (out of a set of t+1 query vectors) is sent via an encrypted channel, where each bit represents one record of the queried database: if the bit is one then the record is selected, otherwise not. The user creates t of the query vectors randomly. The remaining t+1st vector is calculated by (exclusive operator) XOR-ing (superposing) all random vectors and flipping the bit representing the record of interest. To each database, one of the query vectors is sent. All selected records are superposed (XOR-ed). The result is exactly the requested database item. If each of the bits in the t random query vectors are set to 1 with a probability of 0.5, then an adversary who has access to at most t of the requests or responses associated with the query vectors will gain no information about the database item that the user is retrieving.
+
+A disadvantage of a multidatabase solution is however that several identical databases must be obtained. Especially updates are complex, as changes should take place simultaneously. Besides information-theoretic PIR scheme with database replication, several single-database (computational) PIR schemes have been subsequently developed and advanced (see for instance [42,43] for surveys and references). Oblivious transfer [43] is private information retrieval, where additionally the user may not learn any item other than the one that he requested.
+
+Read full chapter

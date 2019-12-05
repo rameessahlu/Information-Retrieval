@@ -1,0 +1,83 @@
+The Rise of the Software Engineer
+Alex Silady SEP 20, 2018
+SHARE
+Twitter
+Facebook
+Google
+LinkedIn
+reddit
+software engineer
+
+A computer is only as good as the information that’s fed into it. That’s one of the truisms of programming that has held for as long as computers have existed, and ever since Charles Babbage and Ada Byron Lovelace designed the first “difference engine” in 1822, there has been a need for professionals to program them.
+
+
+But software programming and engineering has only been a widespread occupation since the 1980s. Computer systems had existed for governments and militaries throughout the mid- to late twentieth century, but it wasn’t until home and business computing came into existence that the demand for knowledgeable individuals in the programming field exploded.
+
+And explode it has, over the past decade, in what can be called the rise of the software engineer. A software engineer’s job involves writing code in one or more programming languages to produce any number of programs for both tech companies and the in-house computer technology of other businesses.
+
+Knowledge of mathematics and logic, as well as a propensity for creative thinking and the ability to make do with limited time or resources, are usually necessary. But all that’s required to qualify as a computer engineer is an undergraduate degree, although those who have graduate educations usually have stronger prospects.
+
+An Engineer’s Education
+In 2002, there were 117,011 baccalaureate degrees in the computer sciences conferred, and by 2012 there were 145,924 awarded, which represents a 24 percent increase.
+
+Overall, this is a smaller rate of growth than the national totals for undergraduate degrees – 1,244,171 Americans got bachelor’s degrees in 2002 and 1,791,046 in 2012 – a growth of 45%! But software engineers have been much more likely to find jobs in their chosen field.
+
+There were 677,900 software engineers in the United States in 2003, and 1,018,000 in 2013. This represents a 50 percent increase in jobs in the field, which is 12.5 times the overall rate of jobs growth throughout that period (from 127,567,910 jobs in the US in 2003 to 132,588,810 in 2013, or a 4 percent increase).
+
+Not only does focusing on a career as a software engineer mean you have more job opportunities, it can also mean a bigger paycheck… by a lot. The median salary for software engineers ($92,660) is about twice that of the median US salary overall ($46,440).
+
+There are still other professions that can be more profitable but many require many years of additional education. In comparison with some other common professional positions, the median salary of an accountant is $63,550; that of a lawyer is $113,350; that of a physician is $187,200; and that of a high school teacher is $55,050. While the median salary for a physician is twice that of the software engineer, it usually requires at least 8 years of schooling after college.
+
+Jon Bischke, the CEO of tech recruiting firm Entelo, wrote in an email, “When you combine this with record tech growth and revenues over the last ten years, there aren’t enough qualified software engineers to fill all of the jobs being created by such a boom. Just ask any recruiter! While the number of college students majoring in CS has been growing, it hasn’t been fast enough to keep up with the growth of (and caused by) these software and cloud-based businesses.”
+
+Strong Beginnings
+software engineer
+
+In fact, even for a software engineer just starting out, the financial climate is very good. The median starting salary for a programmer with no work experience is currently $54,900. That person can expect a 60 percent salary growth throughout his or her career, according to Forbes, which has rated software engineering the fourth best college degree in terms of short-term and long-term return on investment.
+
+During this economic recovery, we have heard a lot about recent college graduates having trouble finding jobs. But those with certain degrees will find their chances greatly improved.
+
+Software engineers face a 3.6 percent unemployment rate, and are thus only half as likely to be jobless as the general populace with an overall current unemployment rate of 7.3 percent. Accountants are unemployed at a rate of 4.2 percent, lawyers at 3.7 percent, doctors at 0.6 percent, and high school teachers at 3.0 percent.
+
+“There’s never been a better time to be a software engineer,” said Bischke. “There are more high-growth companies looking for top engineering talent than ever before, and there are nowhere near enough qualified candidates to fill all of their open roles. Because of this, companies are forced to pay a premium (and that’s putting it lightly) to acquire the top talent that is out there.”
+
+
+Where There Is Need…
+ 
+
+In the past, software engineering was only a viable career for those in Silicon Valley, but today the profession has well-paying centers spread across the West, North, and East. Three of the top five cities for software engineering salaries, according to US News and World Report, are outside of California.
+
+The top-paying city for this field in the United States is Sioux City, Iowa, with a median salary of $126,180 a year, and where the cost-of-living index as tabulated by census.gov is only 92 percent of the national average. This means software engineers here have a high salary and pay less for things like housing, utilities and transportation.
+
+Other cities with a strong climate for software engineers include Andover, MA ($121,750 average salary, 122 percent national cost of living), Newark, NJ ($121,630 average salary, 130 percent national cost of living), San Jose, CA ($116,610 average salary, 156 percent national cost of living), and Bakersfield, CA ($114,450 average salary, 128 percent national cost of living).
+
+Part of this spreading out is due to the fact that tech startups are now able to crop up wherever their founders settle down, which subverts the old Silicon Valley model. In addition, as companies not directly related to technology develop more sophisticated websites, they have more and more need to hire their own software engineers to maintain proprietary programs.
+
+In the case of Sioux City, Iowa, the MidAmerican Energy Company in particular requires the expertise of software engineers in order to support its power grid.
+
+The Wide-Open Future
+software engineers
+
+So does 50 percent job growth over 10 years mean that a saturation of software engineers is approaching, and that growth will plateau? Experts say that’s hardly the case.
+
+While the job increases have certainly slowed, the fact remains that this field is doing much better than the overall average in terms of job creation. While the projected average job growth for the entire country is 11 percent over the next decade, in the field of software engineering it is predicted to be 22 percent.
+
+Compare this to a projected 13 percent for accountants, 10 percent for lawyers, 18 percent for physicians, and 6 percent for high school teachers. This means that among these positions, there will be the absolute most new job opportunities for software engineers by a healthy margin.
+
+Only doctors beat out software engineers on the list in terms of both salary and job security, but in order to practice medicine, one needs an MD, which, as previously noted, involves many more years of schooling beyond an undergraduate education; meanwhile, software engineers can begin making a healthy salary as soon as they have their Bachelor of Science.
+
+Todd Rhoad, managing director of Atlanta-based career consultancy BT Consulting, maintains that the expansion of the internet in rural areas of multiple countries will buoy the job prospects of software engineers worldwide for years to come.
+
+“As more countries engage in the Internet and related technologies, the demand will continue to grow,” Rhoad wrote in an email. “However, it takes quite a few years to gain the financial support to purchase and launch a satellite, including all of the ground infrastructure required to distribute the information to users.” Software engineers are the custodians of that ground infrastructure and are critical to its survival.
+
+As long as computers and computing continue to evolve, there will also be lots of need for well-trained software engineers. As hardware technology gets stronger and stronger, it can support ever more complex and demanding software, and computer companies will strive to push the hardware’s limits so that they can attract customers by delivering the most powerful machines.
+
+“Software engineering has already made a large transition from coding to maintaining large complex systems,” Rhoad said. “Eventually, the challenge will become one of human limits to manage such complexity. The systems will grow more complicated but our human ability will remain the same, which infers the need to change our engineering and mathematical approaches. As the level of complexity grows, so does the future for software engineering.  Software engineers will easily continue their rollercoaster demand for the next 50 years.”
+
+Asked about where software engineers will see the most growth, Jon Bischke of Entelo cited “Software as a Service (SaaS), particularly those with a [business-to-business] model,” which refers to applications that are remotely hosted on a cloud network. “Not only do you have growth in jobs created at the software and cloud companies themselves, but you also see similar growth in the companies that they serve… who are often building software themselves! It’s a virtuous cycle that leads to jobs being created on both sides of the market. This type of self-sustaining ecosystem shows no signs of slowing down any time soon.”
+
+And as the software grows in scope, greater human efforts (by more and more people) will be needed to create and maintain it, meaning the rise of the software engineer will continue unabated. Rhoad suggests that people in this field – resourceful and well-trained ones – will be needed more than ever as software engineers’ roles expand.
+
+“The greatest challenge to software engineering in the future is that software engineer’s roles are growing as organizations flatten out.  Yep, they get to wear more hats than they did in their past.  This reduces their ability to write code. The future of software engineering will be focused on solving the problems that face them, which includes figuring out how we want the world to look and how we can make it happen despite the obstacles put up by our mathematical foundations and organizations’ transformations.”
+
+Update: If you have financial questions beyond software engineering, SmartAsset can help. So many people reached out to us looking for tax and long-term financial planning help, we started our own matching service to help you find a financial advisor. A financial advisor can help with everything from building your portfolio to creating a retirement budget. The SmartAsset matching tool can help you find a person to work with to meet your needs. First you’ll answer a series of questions about your situation and your goals. Then the program will narrow down your options to three fiduciaries who suit your needs. You can then read their profiles to learn more about them, interview them on the phone or in person and choose who to work with in the future. This allows you to find 

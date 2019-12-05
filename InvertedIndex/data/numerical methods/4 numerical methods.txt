@@ -1,0 +1,56 @@
+Numerical analysis
+MATHEMATICS
+WRITTEN BY: Kendall E. Atkinson
+See Article History
+Alternative Titles: numerical methods, quantitative analysis
+Numerical analysis, area of mathematics and computer science that creates, analyzes, and implements algorithms for obtaining numerical solutions to problems involving continuous variables. Such problems arise throughout the natural sciences, social sciences, engineering, medicine, and business. Since the mid 20th century, the growth in power and availability of digital computers has led to an increasing use of realistic mathematical models in science and engineering, and numerical analysis of increasing sophistication is needed to solve these more detailed models of the world. The formal academic area of numerical analysis ranges from quite theoretical mathematical studies to computer science issues.
+
+With the increasing availability of computers, the new discipline of scientific computing, or computational science, emerged during the 1980s and 1990s. The discipline combines numerical analysis, symbolic mathematical computations, computer graphics, and other areas of computer science to make it easier to set up, solve, and interpret complicated mathematical models of the real world.
+
+Common Perspectives In Numerical Analysis
+Numerical analysis is concerned with all aspects of the numerical solution of a problem, from the theoretical development and understanding of numerical methods to their practical implementation as reliable and efficient computer programs. Most numerical analysts specialize in small subfields, but they share some common concerns, perspectives, and mathematical methods of analysis. These include the following:
+
+
+When presented with a problem that cannot be solved directly, they try to replace it with a “nearby problem” that can be solved more easily. Examples are the use of interpolation in developing numerical integration methods and root-finding methods.
+There is widespread use of the language and results of linear algebra, real analysis, and functional analysis (with its simplifying notation of norms, vector spaces, and operators).
+There is a fundamental concern with error, its size, and its analytic form. When approximating a problem, it is prudent to understand the nature of the error in the computed solution. Moreover, understanding the form of the error allows creation of extrapolation processes to improve the convergence behaviour of the numerical method.
+Numerical analysts are concerned with stability, a concept referring to the sensitivity of the solution of a problem to small changes in the data or the parameters of the problem. Consider the following example. The polynomial
+p(x) = (x - 1)(x - 2)(x - 3)(x - 4)(x - 5)(x - 6)(x - 7),
+or expanded,
+p(x) = x7 - 28x6 + 322x5 - 1,960x4 - 6,769x3 - 13,132x2 + 13,068x - 5,040
+has roots that are very sensitive to small changes in the coefficients. If the coefficient of x6 is changed to -28.002, then the original roots 5 and 6 are perturbed to the complex numbers 5.459 0.540i—a very significant change in values. Such a polynomial p(x) is called unstable or ill-conditioned with respect to the root-finding problem. Numerical methods for solving problems should be no more sensitive to changes in the data than the original problem to be solved. Moreover, the formulation of the original problem should be stable or well-conditioned.
+Numerical analysts are very interested in the effects of using finite precision computer arithmetic. This is especially important in numerical linear algebra, as large problems contain many rounding errors.
+Numerical analysts are generally interested in measuring the efficiency (or “cost”) of an algorithm. For example, the use of Gaussian elimination to solve a linear system Ax = b containing n equations will require approximately 2n3/3 arithmetic operations. Numerical analysts would want to know how this method compares with other methods for solving the problem.
+Modern Applications And Computer Software
+Advertisement
+
+Numerical analysis and mathematical modeling are essential in many areas of modern life. Sophisticated numerical analysis software is commonly embedded in popular software packages (e.g., spreadsheet programs) and allows fairly detailed models to be evaluated, even when the user is unaware of the underlying mathematics. Attaining this level of user transparency requires reliable, efficient, and accurate numerical analysis software, and it requires problem-solving environments (PSE) in which it is relatively easy to model a given situation. PSEs are usually based on excellent theoretical mathematical models, made available to the user through a convenient graphical user interface.
+
+Facts Matter. Support the truth and unlock all of Britannica’s content.
+Subscribe Today
+Applications
+Computer-aided engineering (CAE) is an important subject within engineering, and some quite sophisticated PSEs have been developed for this field. A wide variety of numerical analysis techniques is involved in solving such mathematical models. The models follow the basic Newtonian laws of mechanics, but there is a variety of possible specific models, and research continues on their design. One important CAE topic is that of modeling the dynamics of moving mechanical systems, a technique that involves both ordinary differential equations and algebraic equations (generally nonlinear). The numerical analysis of these mixed systems, called differential-algebraic systems, is quite difficult but necessary in order to model moving mechanical systems. Building simulators for cars, planes, and other vehicles requires solving differential-algebraic systems in real time.
+
+
+Another important application is atmospheric modeling. In addition to improving weather forecasts, such models are crucial for understanding the possible effects of human activities on the Earth’s climate. In order to create a useful model, many variables must be introduced. Fundamental among these are the velocity V(x, y, z, t), pressure P(x, y, z, t), and temperature T(x, y, z, t), all given at position (x, y, z) and time t. In addition, various chemicals exist in the atmosphere, including ozone, certain chemical pollutants, carbon dioxide, and other gases and particulates, and their interactions have to be considered. The underlying equations for studying V(x, y, z, t), P(x, y, z, t), and T(x, y, z, t) are partial differential equations; and the interactions of the various chemicals are described using some quite difficult ordinary differential equations. Many types of numerical analysis procedures are used in atmospheric modeling, including computational fluid mechanics and the numerical solution of differential equations. Researchers strive to include ever finer detail in atmospheric models, primarily by incorporating data over smaller and smaller local regions in the atmosphere and implementing their models on highly parallel supercomputers.
+
+Modern businesses rely on optimization methods to decide how to allocate resources most efficiently. For example, optimization methods are used for inventory control, scheduling, determining the best location for manufacturing and storage facilities, and investment strategies.
+
+Computer software
+Software to implement common numerical analysis procedures must be reliable, accurate, and efficient. Moreover, it must be written so as to be easily portable between different computer systems. Since about 1970, a number of government-sponsored research efforts have produced specialized, high-quality numerical analysis software.
+
+The most popular programming language for implementing numerical analysis methods is Fortran, a language developed in the 1950s that continues to be updated to meet changing needs. Other languages, such as C, C++, and Java, are also used for numerical analysis. Another approach for basic problems involves creating higher level PSEs, which often contain quite sophisticated numerical analysis, programming, and graphical tools. Best known of these PSEs is MATLAB, a commercial package that is arguably the most popular way to do numerical computing. Two popular computer programs for handling algebraic-analytic mathematics (manipulating and displaying formulas) are Maple and Mathematica.
+
+
+SpaceNext50
+
+Numerical analysis
+QUICK FACTS
+KEY PEOPLE
+James H. Wilkinson
+William Morton Kahan
+RELATED TOPICS
+Mathematics
+Finite element method
+Finite difference method
+

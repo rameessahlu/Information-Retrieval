@@ -1,0 +1,18 @@
+Big data has become a major component in the tech world today thanks to the actionable insights and results businesses can glean. However, the creation of such large datasets also requires understanding and having the proper tools on hand to parse through them to uncover the right information. To better comprehend big data, the fields of data science and analytics have gone from largely being relegated to academia, to instead becoming integral elements of Business Intelligence and big data analytics tools.
+
+However, it can be confusing to differentiate between data analytics and data science. Despite the two being interconnected, they provide different results and pursue different approaches. If you need to study data your business is producing, it’s vital to grasp what they bring to the table, and how each is unique. To help you optimize your big data analytics, we break down both categories, examine their differences, and reveal the value they deliver.
+
+What Is Data Science?
+Data science is a multidisciplinary field focused on finding actionable insights from large sets of raw and structured data. The field primarily fixates on unearthing answers to the things we don’t know we don’t know. Data science experts use several different techniques to obtain answers, incorporating computer science, predictive analytics, statistics, and machine learning to parse through massive datasets in an effort to establish solutions to problems that haven’t been thought of yet.
+
+Data scientists’ main goal is to ask questions and locate potential avenues of study, with less concern for specific answers and more emphasis placed on finding the right question to ask. Experts accomplish this by predicting potential trends, exploring disparate and disconnected data sources, and finding better ways to analyze information.
+
+Full Stack vs. Data Visualization
+What Is Data Analytics?
+Data analytics focuses on processing and performing statistical analysis on existing datasets. Analysts concentrate on creating methods to capture, process, and organize data to uncover actionable insights for current problems, and establishing the best way to present this data. More simply, the field of data and analytics is directed toward solving problems for questions we know we don’t know the answers to. More importantly, it’s based on producing results that can lead to immediate improvements.
+
+Data analytics also encompasses a few different branches of broader statistics and analysis which help combine diverse sources of data and locate connections while simplifying the results.
+
+See Sisense analytics in action:
+
+Profit & Loss - Financial Dashboard

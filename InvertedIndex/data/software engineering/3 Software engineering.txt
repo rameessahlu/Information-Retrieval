@@ -1,0 +1,182 @@
+Software engineer
+From Wikipedia, the free encyclopedia
+Jump to navigationJump to search
+
+A software engineer writing Java code
+A software engineer is a person who applies the principles of software engineering to the design, development, maintenance, testing, and evaluation of computer software.
+
+Prior to the mid-1970s, software practitioners generally called themselves computer scientists, computer programmers or software developers, regardless of their actual jobs. Many people prefer to call themselves software developer and programmer, because most widely agree what these terms mean, while the exact meaning of software engineer is still being debated.
+
+
+Contents
+1	Education
+1.1	Other degrees
+2	Profession
+2.1	Employment
+2.2	Impact of globalization
+2.3	Prizes
+3	Use of the title "Engineer"
+3.1	Origin of the term
+3.2	Suitability of the term
+3.3	Regulatory classification
+3.3.1	Canada
+3.3.2	Europe
+3.3.3	France
+3.3.4	Iceland
+3.3.5	New Zealand
+3.3.6	United States
+4	See also
+5	References
+Education
+Globe icon.
+The examples and perspective in this article may not represent a worldwide view of the subject. You may improve this article, discuss the issue on the talk page, or create a new article, as appropriate. (November 2010) (Learn how and when to remove this template message)
+Half of all practitioners today have degrees in computer science, information systems, or information technology. A small, but growing, number of practitioners have software engineering degrees. In 1987, Imperial College London introduced the first three-year software engineering Bachelor's degree in the UK and the world; in the following year, the University of Sheffield established a similar program.[1] In 1996, the Rochester Institute of Technology established the first software engineering bachelor's degree program in the United States, however, it did not obtain ABET accreditation until 2003, the same time as Rice University, Clarkson University, Milwaukee School of Engineering and Mississippi State University obtained theirs.[2] In 1997, PSG College of Technology in Coimbatore, India was the first to start a five-year integrated Master of Science degree in Software Engineering.[citation needed]
+
+Since then, software engineering undergraduate degrees have been established at many universities. A standard international curriculum for undergraduate software engineering degrees was recently[when?] defined by the CCSE. As of 2004, in the U.S., about 50 universities offer software engineering degrees, which teach both computer science and engineering principles and practices. The first software engineering Master's degree was established at Seattle University in 1979. Since then graduate software engineering degrees have been made available from many more universities. Likewise in Canada, the Canadian Engineering Accreditation Board (CEAB) of the Canadian Council of Professional Engineers has recognized several software engineering programs.
+
+In 1998, the US Naval Postgraduate School (NPS) established the first doctorate program in Software Engineering in the world.[citation needed] Additionally, many online advanced degrees in Software Engineering have appeared such as the Master of Science in Software Engineering (MSE) degree offered through the Computer Science and Engineering Department at California State University, Fullerton. Steve McConnell opines that because most universities teach computer science rather than software engineering, there is a shortage of true software engineers.[3] ETS University and UQAM (Université du Québec à Montréal) were mandated by IEEE to develop the Software Engineering Body of Knowledge (SWEBOK), which has become an ISO standard describing the body of knowledge covered by a software engineer.[4]
+
+Other degrees
+In business, some software engineering practitioners have MIS or computer information systems degrees. In embedded systems, some have electrical engineering, electronics engineering, computer science with emphasis in "embedded systems" or computer engineering degrees, because embedded software often requires a detailed understanding of hardware. In medical software, practitioners may have medical informatics, general medical, or biology degrees.[citation needed]
+
+Some practitioners have mathematics, science, engineering, or technology (STEM) degrees. Some have philosophy (logic in particular) or other non-technical degrees.[citation needed] For instance, Barry Boehm earned degrees in mathematics. And, others have no degrees.[citation needed]
+
+Profession
+Employment
+See also: Software engineering demographics
+Most software engineers work as employees or contractors. Software engineers work with businesses, government agencies (civilian or military), and non-profit organizations. Some software engineers work on their own as consulting software engineers. Some organizations have specialists to perform all of the tasks in the software development process. Other organizations separate software engineers based on specific software-engineering tasks. These companies sometimes hire interns (possibly university or college students) over a short time. In large projects, software engineers are distinguished from people who specialize in only one role because they take part in the design as well as the programming of the project. In small projects, software engineers will usually fill several or all roles at the same time. Specializations include:
+
+in industry (analysts, architects, developers, testers, technical support, managers)
+in academia (educators, researchers)
+Impact of globalization
+Most students in the developed world have avoided degrees related to software engineering because of the fear of offshore outsourcing (importing software products or services from other countries) and of being displaced by foreign visa workers.[5] Although government statistics do not currently show a threat to software engineering itself; a related career, computer programming does appear to have been affected.[6][7] Often one is expected to start out as a computer programmer before being promoted to software engineer. Thus, the career path to software engineering may be rough, especially during recessions.
+
+Some career counselors suggest a student also focus on "people skills" and business skills rather than purely technical skills because such "soft skills" are allegedly more difficult to offshore. Reasonable command over reading, writing & speaking English is asked by most of employers.[8] It is the quasi-management aspects of software engineering that appear to be what has kept it from being impacted by globalization.[9]
+
+Prizes
+There are several prizes in the field of software engineering:[10]
+
+The Codie awards is a yearly award issued by the Software and Information Industry Association for excellence in software development within the software industry.
+Jolt Awards are awards in the software industry.
+Stevens Award is a software engineering award given in memory of Wayne Stevens.
+Use of the title "Engineer"
+Main articles: Software engineering professionalism and Regulation and licensure in engineering
+Origin of the term
+Margaret Hamilton promoted the term "software engineering" during her work on the Apollo program. The term "engineering" was used to acknowledge that the work should be taken just as seriously as other contributions toward the advancement of technology. Hamilton details her use of the term:
+
+When I first came up with the term, no one had heard of it before, at least in our world. It was an ongoing joke for a long time. They liked to kid me about my radical ideas. It was a memorable day when one of the most respected hardware gurus explained to everyone in a meeting that he agreed with me that the process of building software should also be considered an engineering discipline, just like with hardware. Not because of his acceptance of the new "term" per se, but because we had earned his and the acceptance of the others in the room as being in an engineering field in its own right.[11]
+
+Suitability of the term
+One could argue that software engineering implies a certain level of academic training, professional discipline, adherence to formal processes, and especially legal liability that often are not applied in cases of software development. A common analogy is that working in construction does not make one a civil engineer, and so writing code does not make one a software engineer. Furthermore, because computing doesn't utilize the methods of mathematical physics common to all conventional engineering disciplines, it is more appropriate to call those engaged in this occupation as software developers or similar.
+
+In 1978, computer scientist E. W. Dijkstra wrote in a paper that the coining of the term software engineer was not useful since it was an inappropriate analogy:
+The existence of the mere term has been the base of a number of extremely shallow—and false—analogies, which just confuse the issue... Computers are such exceptional gadgets that there is good reason to assume that most analogies with other disciplines are too shallow to be of any positive value, are even so shallow that they are only confusing.[12]
+
+In each of the last few decades, at least one radical new approach has entered the mainstream of software development (e.g. Structured Programming, Object Orientation), implying that the field is still changing too rapidly to be considered an engineering discipline. Proponents argue that the supposedly radical new approaches are evolutionary rather than revolutionary.[citation needed]
+
+Individual commentators have disagreed sharply on how to define software engineering or its legitimacy as an engineering discipline. David Parnas has said that software engineering is, in fact, a form of engineering.[13][14] Steve McConnell has said that it is not, but that it should be.[15] Donald Knuth has said that programming is an art and a science.[16] Edsger W. Dijkstra claimed that the terms software engineering and software engineer have been misused[improper synthesis?] and should be considered harmful, particularly in the United States.[17]
+
+Regulatory classification
+Canada
+In Canada the use of the job title Engineer is controlled in each province by self-regulating professional engineering organizations who are also tasked with enforcement of the governing legislation. The intent is that any individual holding themselves out as an engineer has been verified to have been educated to a certain accredited level and their professional practice is subject to a code of ethics and peer scrutiny. It is also illegal to use the title Engineer in Canada unless an individual is licensed.
+
+In Ontario, the Professional Engineers Act[18] stipulates a minimum education level of a three-year diploma in technology from a College of Applied Arts and Technology or a degree in a relevant science area.[19] However, engineering undergraduates and all other applicants are not allowed to use the title of engineer until they complete the minimum amount of work experience of four years in addition to completing the Professional Practice Examination (PPE). If the applicant does not hold an undergraduate engineering degree then they may have to take the Confirmatory Practice Exam or Specific Examination Program unless the exam requirements are waived by a committee.[20][21]
+
+IT professionals with degrees in other fields (such as computer science or information systems) are restricted from using the title Software Engineer, or wording Software Engineer in a title, depending on their province or territory of residence.[citation needed]
+
+In some instances, cases have been taken to court regarding the illegal use of the protected title Engineer.[22]
+
+Europe
+Throughout the whole of Europe, suitably qualified engineers may obtain the professional European Engineer qualification.
+
+France
+In France, the term ingénieur (engineer) is not a protected title and can be used by anyone, even by those who do not possess an academic degree.
+
+However, the title Ingénieur Diplomé (Graduate Engineer) is an official academic title that is protected by the government and is associated with the Diplôme d'Ingénieur, which is one of the most prestigious academic degrees in France.
+
+Iceland
+The use of the title tölvunarfræðingur (computer scientist) is protected by law in Iceland.[23] Software engineering is taught in Computer Science departments in Icelandic universities. Icelandic law state that a permission must be obtained from the Minister of Industry when the degree was awarded abroad, prior to use of the title. The title is awarded to those who have obtained a BSc degree in Computer Science from a recognized higher educational institution.[24]
+
+New Zealand
+In New Zealand, the Institution of Professional Engineers New Zealand (IPENZ), which licenses and regulates the country's chartered engineers (CPEng), recognizes software engineering as a legitimate branch of professional engineering and accepts application of software engineers to obtain chartered status provided he or she has a tertiary degree of approved subjects. Software Engineering is included whereas Computer Science is normally not.[25]
+
+United States
+The Bureau of Labor Statistics (BLS) classifies computer software engineers as a subcategory of "computer specialists", along with occupations such as computer scientist, Programmer, Database administrator and Network administrator.[26] The BLS classifies all other engineering disciplines, including computer hardware engineers, as engineers.[27]
+
+Many states prohibit unlicensed persons from calling themselves an Engineer, or from indicating branches or specialties not covered licensing acts.[28][29][30][31][32][33][34][35][36][37] In many states, the title Engineer is reserved for individuals with a Professional Engineering license indicating that they have shown minimum level of competency through accredited engineering education, qualified engineering experience, and engineering board's examinations.[38][39][30][31][32][33][34][35][36][37]
+
+In April 2013 the National Council of Examiners for Engineering and Surveying (NCEES) began offering a Professional Engineer (PE) exam for Software Engineering. The exam was developed in association with the IEEE Computer Society.[40] NCEES ended the exam in April 2019 due to lack of participation.[41]
+
+See also
+	Wikimedia Commons has media related to Software engineers.
+Bachelor of Science in Information Technology
+Bachelor of Software Engineering
+Consulting software engineer
+Release Engineer
+Software Engineering Institute
+References
+ Cowling, A. J. 1999. The first decade of an undergraduate degree program in software engineering. Ann. Softw. Eng. 6, 1–4 (Apr. 1999), 61–90.
+ "ABET Accredited Engineering Programs". April 3, 2007. Retrieved April 3, 2007.
+ McConnell, Steve (July 10, 2003). Professional Software Development: Shorter Schedules, Higher Quality Products, More Successful Projects, Enhanced Careers. ISBN 978-0-321-19367-4.
+ Software Engineering – Guide to the Software Engineering Body of Knowledge (SWEBOK), International Organization for Standardization, 2005, retrieved March 25, 2014
+ "IT news, careers, business technology, reviews". Computerworld.
+ "Computer Programmers".
+ "Software developer growth slows in North America | InfoWorld | News | 2007-03-13 | By Robert Mullins, IDG News Service". Archived from the original on April 4, 2009.
+ "Hot Skills, Cold Skills". Archived from the original on February 22, 2014.
+ Dual Roles: The Changing Face of IT
+ Some external links:
+SIGSOFT Awards
+ICSE's Most Influential Paper Award
+A list of various Software Engineering (and SE-related) Awards
+ Lawrence, Snyder (2017). Fluency with information technology : skills, concepts, & capabilities ([Seventh edition] ed.). NY, NY. ISBN 978-0134448725. OCLC 960641978.
+ "E.W.Dijkstra Archive: The pragmatic engineer versus the scientific designer. (EWD 690)". www.cs.utexas.edu.
+ Parnas, David L. (1998). "Software Engineering Programmes are not Computer Science Programmes". Annals of Software Engineering. 6: 19–37. doi:10.1023/A:1018949113292., p. 19: "Rather than treat software engineering as a subfield of computer science, I treat it as an element of the set, {Civil Engineering, Mechanical Engineering, Chemical Engineering, Electrical Engineering,....}."
+ Parnas, David L. (1998). "Software Engineering Programmes are not Computer Science Programmes". Annals of Software Engineering. 6: 19–37. doi:10.1023/A:1018949113292., p. 20: "This paper argues that the introduction of accredited professional programs in software engineering, programmes that are modelled on programmes in traditional engineering disciplines will help to increase both the quality and quantity of graduates who are well prepared, by their education, to develop trustworthy software products."
+ McConnell, Steve (August 2003). Professional Software Development: Shorter Schedules, Better Projects, Superior Products, Enhanced Careers. Boston, MA: Addison-Wesley. ISBN 0-321-19367-9., p. 39: "In my opinion, the answer to that question is clear: Professional software development should be engineering. Is it? No. But should it be? Unquestionably, yes. "
+ Knuth, Donald (1974). "Computer Programming as an Art" (PDF). Communications of the ACM. 17 (12): 667–673. doi:10.1145/361604.361612.Transcript of the 1974 Turing Award lecture.
+ Dijkstra, Edsger W; transcribed by Mario Béland (November 23, 2004) [First published December 3, 1993]. "There is still a war going on (manuscript Austin, 3 December 1993)". E. W. Dijkstra Archive. The University of Texas at Austin, Department of Computer Sciences. Retrieved February 17, 2007. When the term was coined in 1968 by F.L. Bauer of the Technological University of Munich, I welcomed it. [. . .] I interpreted the introduction of the term "software engineering" as an apt reflection of the fact that the design of software systems was an activity par excellence for the mathematical engineer. [. . .]. As soon the term arrived in the USA, it was relieved of all its technical content. It had to be so for in its original meaning it was totally unacceptable [. . .] In the meantime, software engineering has become an almost empty term, as was nicely demonstrated by Data General who overnight promoted all its programmers to the exalted rank of "software engineer"!
+ "Professional Engineers Act". July 24, 2014.
+ "Academic Requirements". www.peo.on.ca.
+ "Confirmatory Exam Program". www.peo.on.ca.
+ "mybtechdegree.ca". mybtechdegree.ca.
+ 'Professional Engineers of Ontario' – "Quebec Engineers win court battle against Microsoft"
+ "Lög um löggildingu nokkurra starfsheita sérfræðinga í tækni- og hönnunargreinum" (in Icelandic). Parliament of Iceland – Althing. March 11, 1996. Retrieved August 25, 2014.
+ "Lög um breytingu á lögum nr. 8/1996, um löggildingu nokkurra starfsheita sérfræðinga í tækni- og hönnunargreinum, með síðari breytingum". Alþingi. Retrieved October 3, 2016.
+ "Good Practice Guidelines for Software Engineering in New Zealand" (PDF). IPENZ.
+ U.S Department of Labor and Statistics The 2000 Standard Occupational Classification (SOC) System: 15-0000 Computer and Mathematical Occupations
+ U.S Department of Labor and Statistics The 2000 Standard Occupational Classification (SOC) System: 17-0000 Architecture and Engineering Occupations
+ Florida Board of Professional Engineering. "The 2019 Florida Statutes".
+ PROFESSIONAL ENGINEERS AND LAND SURVEYORS. "O.C.G.A. § 43-15-1" (PDF).
+ NJ Engineering Board. "NEW JERSEY ADMINISTRATIVE CODE TITLE 13 LAW AND PUBLIC SAFETY CHAPTER 4 0" (PDF).
+ SC Engineering Law. "Code of Laws - Title 40 - Chapter 22 - Engineers and Surveyors".
+ AL Engineering Law. "Alabama Law Regulating Practice of Engineering and Land Surveying" (PDF).
+ VW Engineering Law. "West Virginia Engineering Law Stautes and Rules" (PDF).
+ OK Engineering Law. "Oklahoma Statutes, Rules and Ethics for Professional Engineers" (PDF).
+ NV Engineering Law. "NRS: Chapter 625 - Professional Engineers and Land Surveyors". Unlawful practice of engineering.
+ MS Engineering Law. "Part 901: Rules and Regulations of the Mississippi Board of Licensure for Professional Engineers and Surveyors" (PDF).
+ IL Engineering Law. "225 ILCS 325/  Professional Engineering Practice Act of 1989".
+ Florida Board of Professional Engineering. "Chapter 471" (PDF).
+ GEORGIA BOARD OF PROFESSIONAL ENGINEERS AND LAND SURVEYORS. "O.C.G.A. § 43-15-1" (PDF).
+ "New Software Engineering Exam Approved for Licensure". IEEE Computer Society. May 4, 2012. Retrieved August 6, 2018.
+ "NCEES discontinuing PE Software Engineering exam". National Council of Examiners for Engineering and Surveying. March 13, 2018. Retrieved August 6, 2018.
+vte
+Software engineering
+Fields	
+Computer programmingRequirements engineeringSoftware deploymentSoftware designSoftware maintenanceSoftware testingSystems analysisFormal methods
+Concepts	
+Data modelingEnterprise architectureFunctional specificationModeling languageOrthogonalityProgramming paradigmSoftwareSoftware archaeologySoftware architectureSoftware configuration managementSoftware development methodologySoftware development processSoftware qualitySoftware quality assuranceSoftware verification and validationStructured analysis
+Orientations	
+AgileAspect-orientedObject orientationOntologyService orientationSDLC
+Models	
+Developmental	
+AgileEUPExecutable UMLIncremental modelIterative modelPrototype modelRADUPScrumSpiral modelV-ModelWaterfall modelXP
+Other	
+SPICECMMIData modelER modelFunction modelInformation modelMetamodelingObject modelSystems modelView model
+Languages	
+IDEFUMLUSLSysML
+Software
+engineers
+Victor BasiliKent BeckGrady BoochFred BrooksBarry BoehmPeter ChenDanese CooperWard CunninghamTom DeMarcoEdsger W. DijkstraDelores M. EtterMartin FowlerAdele GoldstineMargaret HamiltonC. A. R. HoareLois HaibtMary Jean HarroldGrace HopperWatts HumphreyMichael A. JacksonIvar JacobsonAlan KayNancy LevesonStephen J. MellorBertrand MeyerDavid ParnasTrygve ReenskaugWinston W. RoyceJames RumbaughMary ShawPeri TarrElaine WeyukerNiklaus WirthEdward Yourdon
+Related fields	
+Computer scienceComputer engineeringProject managementRisk managementSystems engineering
+Category CategoryCommons page Commons

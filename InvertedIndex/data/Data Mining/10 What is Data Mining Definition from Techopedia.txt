@@ -1,0 +1,17 @@
+Data Mining
+
+Definition - What does Data Mining mean?
+Data mining is the process of analyzing hidden patterns of data according to different perspectives for categorization into useful information, which is collected and assembled in common areas, such as data warehouses, for efficient analysis, data mining algorithms, facilitating business decision making and other information requirements to ultimately cut costs and increase revenue.
+
+Data mining is also known as data discovery and knowledge discovery.
+
+
+[Free eBook] An Introduction to Microsoft Azure and the Microsoft Cloud
+Techopedia explains Data Mining
+The major steps involved in a data mining process are:
+
+Extract, transform and load data into a data warehouse
+Store and manage data in a multidimensional databases
+Provide data access to business analysts using application software
+Present analyzed data in easily understandable forms, such as graphs
+The first step in data mining is gathering relevant data critical for business. Company data is either transactional, non-operational or metadata. Transactional data deals with day-to-day operations like sales, inventory and cost etc. Non-operational data is normally forecast, while metadata is concerned with logical database design. Patterns and relationships among data elements render relevant information, which may increase organizational revenue. Organizations with a strong consumer focus deal with data mining techniques providing clear pictures of products sold, price, competition and customer demographics.

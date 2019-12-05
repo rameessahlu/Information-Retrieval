@@ -1,0 +1,270 @@
+Data mining is a powerful new technology with great potential to help companies focus on the most important information in the data they have collected about the behavior of their customers and potential customers. It discovers information within the data that queries and reports can't effectively reveal. This paper explores many aspects of data mining in the following areas:
+
+Data Rich, Information Poor
+Data Warehouses
+What is Data Mining?
+What Can Data Mining Do?
+The Evolution of Data Mining
+How Data Mining Works
+Data Mining Technologies
+Real-World Examples
+The Future of Data Mining
+Privacy Concerns
+Explore Further on the Internet
+
+
+Data Rich, Information Poor
+The amount of raw data stored in corporate databases is exploding. From trillions of point-of-sale transactions and credit card purchases to pixel-by-pixel images of galaxies, databases are now measured in gigabytes and terabytes. (One terabyte = one trillion bytes. A terabyte is equivalent to about 2 million books!) For instance, every day, Wal-Mart uploads 20 million point-of-sale transactions to an A&T massively parallel system with 483 processors running a centralized database. Raw data by itself, however, does not provide much information. In today's fiercely competitive business environment, companies need to rapidly turn these terabytes of raw data into significant insights into their customers and markets to guide their marketing, investment, and management strategies.
+
+Data Warehouses
+The drop in price of data storage has given companies willing to make the investment a tremendous resource: Data about their customers and potential customers stored in "Data Warehouses." Data warehouses are becoming part of the technology. Data warehouses are used to consolidate data located in disparate databases. A data warehouse stores large quantities of data by specific categories so it can be more easily retrieved, interpreted, and sorted by users. Warehouses enable executives and managers to work with vast stores of transactional or other data to respond faster to markets and make more informed business decisions. It has been predicted that every business will have a data warehouse within ten years. But merely storing data in a data warehouse does a company little good. Companies will want to learn more about that data to improve knowledge of customers and markets. The company benefits when meaningful trends and patterns are extracted from the data.
+
+What is Data Mining?
+Data mining, or knowledge discovery, is the computer-assisted process of digging through and analyzing enormous sets of data and then extracting the meaning of the data. Data mining tools predict behaviors and future trends, allowing businesses to make proactive, knowledge-driven decisions. Data mining tools can answer business questions that traditionally were too time consuming to resolve. They scour databases for hidden patterns, finding predictive information that experts may miss because it lies outside their expectations.
+
+Data mining derives its name from the similarities between searching for valuable information in a large database and mining a mountain for a vein of valuable ore. Both processes require either sifting through an immense amount of material, or intelligently probing it to find where the value resides.
+
+What Can Data Mining Do?
+Although data mining is still in its infancy, companies in a wide range of industries - including retail, finance, heath care, manufacturing transportation, and aerospace - are already using data mining tools and techniques to take advantage of historical data. By using pattern recognition technologies and statistical and mathematical techniques to sift through warehoused information, data mining helps analysts recognize significant facts, relationships, trends, patterns, exceptions and anomalies that might otherwise go unnoticed.
+
+For businesses, data mining is used to discover patterns and relationships in the data in order to help make better business decisions. Data mining can help spot sales trends, develop smarter marketing campaigns, and accurately predict customer loyalty. Specific uses of data mining include:
+
+Market segmentation - Identify the common characteristics of customers who buy the same products from your company.
+Customer churn - Predict which customers are likely to leave your company and go to a competitor.
+Fraud detection - Identify which transactions are most likely to be fraudulent.
+Direct marketing - Identify which prospects should be included in a mailing list to obtain the highest response rate.
+Interactive marketing - Predict what each individual accessing a Web site is most likely interested in seeing.
+Market basket analysis - Understand what products or services are commonly purchased together; e.g., beer and diapers.
+Trend analysis - Reveal the difference between a typical customer this month and last.
+Data mining technology can generate new business opportunities by:
+
+Automated prediction of trends and behaviors: Data mining automates the process of finding predictive information in a large database. Questions that traditionally required extensive hands-on analysis can now be directly answered from the data. A typical example of a predictive problem is targeted marketing. Data mining uses data on past promotional mailings to identify the targets most likely to maximize return on investment in future mailings. Other predictive problems include forecasting bankruptcy and other forms of default, and identifying segments of a population likely to respond similarly to given events.
+
+Automated discovery of previously unknown patterns: Data mining tools sweep through databases and identify previously hidden patterns. An example of pattern discovery is the analysis of retail sales data to identify seemingly unrelated products that are often purchased together. Other pattern discovery problems include detecting fraudulent credit card transactions and identifying anomalous data that could represent data entry keying errors.
+
+Using massively parallel computers, companies dig through volumes of data to discover patterns about their customers and products. For example, grocery chains have found that when men go to a supermarket to buy diapers, they sometimes walk out with a six-pack of beer as well. Using that information, it's possible to lay out a store so that these items are closer.
+
+AT&T, A.C. Nielson, and American Express are among the growing ranks of companies implementing data mining techniques for sales and marketing. These systems are crunching through terabytes of point-of-sale data to aid analysts in understanding consumer behavior and promotional strategies. Why? To gain a competitive advantage and increase profitability!
+
+Similarly, financial analysts are plowing through vast sets of financial records, data feeds, and other information sources in order to make investment decisions. Health-care organizations are examining medical records to understand trends of the past so they can reduce costs in the future.
+
+The Evolution of Data Mining
+Data mining is a natural development of the increased use of computerized databases to store data and provide answers to business analysts.
+
+Evolutionary Step
+
+Business Question
+
+Enabling Technology
+
+Data Collection (1960s)
+
+"What was my total revenue in the last five years?"
+
+computers, tapes, disks
+
+Data Access (1980s)
+
+"What were unit sales in New England last March?"
+
+faster and cheaper computers with more storage, relational databases
+
+Data Warehousing and Decision Support
+
+"What were unit sales in New England last March? Drill down to Boston."
+
+faster and cheaper computers with more storage, On-line analytical processing (OLAP), multidimensional databases, data warehouses
+
+Data Mining
+
+"What's likely to happen to Boston unit sales next month? Why?"
+
+faster and cheaper computers with more storage, advanced computer algorithms
+
+
+Traditional query and report tools have been used to describe and extract what is in a database. The user forms a hypothesis about a relationship and verifies it or discounts it with a series of queries against the data. For example, an analyst might hypothesize that people with low income and high debt are bad credit risks and query the database to verify or disprove this assumption. Data mining can be used to generate an hypothesis. For example, an analyst might use a neural net to discover a pattern that analysts did not think to try - for example, that people over 30 years old with low incomes and high debt but who own their own homes and have children are good credit risks.
+
+How Data Mining Works
+How is data mining able to tell you important things that you didn't know or what is going to happen next? That technique that is used to perform these feats is called modeling. Modeling is simply the act of building a model (a set of examples or a mathematical relationship) based on data from situations where the answer is known and then applying the model to other situations where the answers aren't known. Modeling techniques have been around for centuries, of course, but it is only recently that data storage and communication capabilities required to collect and store huge amounts of data, and the computational power to automate modeling techniques to work directly on the data, have been available.
+
+As a simple example of building a model, consider the director of marketing for a telecommunications company. He would like to focus his marketing and sales efforts on segments of the population most likely to become big users of long distance services. He knows a lot about his customers, but it is impossible to discern the common characteristics of his best customers because there are so many variables. From his existing database of customers, which contains information such as age, sex, credit history, income, zip code, occupation, etc., he can use data mining tools, such as neural networks, to identify the characteristics of those customers who make lots of long distance calls. For instance, he might learn that his best customers are unmarried females between the age of 34 and 42 who make in excess of $60,000 per year. This, then, is his model for high value customers, and he would budget his marketing efforts to accordingly.
+
+Data Mining Technologies
+The analytical techniques used in data mining are often well-known mathematical algorithms and techniques. What is new is the application of those techniques to general business problems made possible by the increased availability of data and inexpensive storage and processing power. Also, the use of graphical interfaces has led to tools becoming available that business experts can easily use.
+
+Some of the tools used for data mining are:
+
+Artificial neural networks - Non-linear predictive models that learn through training and resemble biological neural networks in structure.
+
+Decision trees - Tree-shaped structures that represent sets of decisions. These decisions generate rules for the classification of a dataset.
+
+Rule induction - The extraction of useful if-then rules from data based on statistical significance.
+
+Genetic algorithms - Optimization techniques based on the concepts of genetic combination, mutation, and natural selection.
+
+Nearest neighbor - A classification technique that classifies each record based on the records most similar to it in an historical database.
+
+Real-World Examples
+Details about who calls whom, how long they are on the phone, and whether a line is used for fax as well as voice can be invaluable in targeting sales of services and equipment to specific customers. But these tidbits are buried in masses of numbers in the database. By delving into its extensive customer-call database to manage its communications network, a regional telephone company identified new types of unmet customer needs. Using its data mining system, it discovered how to pinpoint prospects for additional services by measuring daily household usage for selected periods. For example, households that make many lengthy calls between 3 p.m. and 6 p.m. are likely to include teenagers who are prime candidates for their own phones and lines. When the company used target marketing that emphasized convenience and value for adults - "Is the phone always tied up?" - hidden demand surfaced. Extensive telephone use between 9 a.m. and 5 p.m. characterized by patterns related to voice, fax, and modem usage suggests a customer has business activity. Target marketing offering those customers "business communications capabilities for small budgets" resulted in sales of additional lines, functions, and equipment.
+
+The ability to accurately gauge customer response to changes in business rules is a powerful competitive advantage. A bank searching for new ways to increase revenues from its credit card operations tested a nonintuitive possibility: Would credit card usage and interest earned increase significantly if the bank halved its minimum required payment? With hundreds of gigabytes of data representing two years of average credit card balances, payment amounts, payment timeliness, credit limit usage, and other key parameters, the bank used a powerful data mining system to model the impact of the proposed policy change on specific customer categories, such as customers consistently near or at their credit limits who make timely minimum or small payments. The bank discovered that cutting minimum payment requirements for small, targeted customer categories could increase average balances and extend indebtedness periods, generating more than $25 million in additional interest earned,
+
+Merck-Medco Managed Care is a mail-order business which sells drugs to the country's largest health care providers: Blue Cross and Blue Shield state organizations, large HMOs, U.S. corporations, state governments, etc. Merck-Medco is mining its one terabyte data warehouse to uncover hidden links between illnesses and known drug treatments, and spot trends that help pinpoint which drugs are the most effective for what types of patients. The results are more effective treatments that are also less costly. Merck-Medco's data mining project has helped customers save an average of 10-15% on prescription costs.
+
+The Future of Data Mining
+In the short-term, the results of data mining will be in profitable, if mundane, business related areas. Micro-marketing campaigns will explore new niches. Advertising will target potential customers with new precision.
+
+In the medium term, data mining may be as common and easy to use as e-mail. We may use these tools to find the best airfare to New York, root out a phone number of a long-lost classmate, or find the best prices on lawn mowers.
+
+The long-term prospects are truly exciting. Imagine intelligent agents turned loose on medical research data or on sub-atomic particle data. Computers may reveal new treatments for diseases or new insights into the nature of the universe. There are potential dangers, though, as discussed below.
+
+Privacy Concerns
+What if every telephone call you make, every credit card purchase you make, every flight you take, every visit to the doctor you make, every warranty card you send in, every employment application you fill out, every school record you have, your credit record, every web page you visit ... was all collected together? A lot would be known about you! This is an all-too-real possibility. Much of this kind of information is already stored in a database. Remember that phone interview you gave to a marketing company last week? Your replies went into a database. Remember that loan application you filled out? In a database. Too much information about too many people for anybody to make sense of? Not with data mining tools running on massively parallel processing computers! Would you feel comfortable about someone (or lots of someones) having access to all this data about you? And remember, all this data does not have to reside in one physical location; as the net grows, information of this type becomes more available to more people.
+
+Check out:
+
+http://www.kron.com/nc4/contact4/stories/computer_privacy.html
+
+http://www.privacyrights.org
+
+http://www.cfp.org
+
+ 
+Explore Further on the Internet
+ 
+
+Introduction to Data Mining
+
+http://www-pcc.qub.ac.uk/tec/courses/datamining/stu_notes/dm_book_1.html
+
+Information about data mining research, applications, and tools:
+
+http://info.gte.com/kdd/
+
+http://www.kdnuggets.com
+
+http://www.ultragem.com/
+
+http://www.cs.bham.ac.uk/~anp/TheDataMine.html
+
+http://www.think.com/html/data_min/data_min.htm
+
+http://direct.boulder.ibm.com/bi/
+
+http://www.software.ibm.com/data/
+
+http://coral.postech.ac.kr/~swkim/software.html
+
+http://www.cs.uah.edu/~infotech/mineproj.html
+
+http://info.gte.com/~kdd/index.html
+
+http://info.gte.com/~kdd/siftware.html
+
+http://iris.cs.uml.edu:8080/
+
+http://www.datamining.com/datamine/welcome.htm
+
+ 
+
+Data Sets to test data mining algorithms:
+
+http://www.scs.unr.edu/~cbmr/research/data.html
+
+ 
+
+Data mining journal (Read Usama M. Fayyad's editorial.):
+
+http://www.research.microsoft.com/research/datamine/
+
+ 
+
+Interesting application of data mining:
+
+http://www.nba.com/allstar97/asgame/beyond.html
+
+ 
+
+Data mining papers:
+
+http://www.satafe.edu/~kurt/index.shtml
+
+http://www.cs.bham.ac.uk/~anp/papers.html
+
+http://coral.postech.ac.kr/~swkim/old_papers.html
+
+ 
+
+Data mining conferences:
+
+http://www-aig.jpl.nasa.gov/kdd97
+
+http://www.cs.bahm.ac.uk/~anp/conferences/html
+
+ 
+
+Conference on very large databases:
+
+http://www.vldb.com/homepage.htm
+
+ 
+
+Sites for datamining vendors and products:
+
+American Heuristics (Profiler)
+
+http://www.heuristics.com
+
+Angoss software (Knowledge Seeker)
+
+http://www.angoss.com
+
+Attar Software (XpertRule Profiler)
+
+http://www.attar.com
+
+Business Objects (BusinessMiner)
+
+http://www.businessobjects.com
+
+DataMind (DataMind Professional)
+
+http://www.datamind.com
+
+HNC Software (DataMarksman, Falcon)
+
+http://www.hncs.com
+
+HyperParallel (Discovery)
+
+http://www.hyperparallel.com
+
+Information Discovery Inc. (Information Discovery System)
+
+http://www.datamining.com
+
+Integral Solutions (Clementine)
+
+http://www.isl.co.uk/index.html
+
+IBM (Intelligent Data Miner)
+
+http://www.ibm.com/Stories/1997/04/data1.html
+
+Lucent Technologies (Interactive Data Visualization)
+
+http://www.lucent.com
+
+NCR (Knowledge Discovery Benchmark)
+
+http://www.ncr.com
+
+NeoVista Sloutions (Decision Series)
+
+http://www.neovista.com
+
+Nestor (Prism)
+
+http://www.nestor.com
+
+Pilot Software (Pilot Discovery Server)

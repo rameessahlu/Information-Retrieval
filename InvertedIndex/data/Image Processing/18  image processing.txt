@@ -1,0 +1,40 @@
+Igor Pro contains a full set of operations and functions for scientific image analysis applications which make it an ideal cross-platform tool for image acquisition, display and processing.
+
+Image acquisition can be as simple as loading multi-dimensional data from disk file or as complicated as using an XOP to grab live video frames to disk (see XOP Toolkit for information on creating your own XOP). In both cases the images can be displayed on the screen for visual inspection and analysis or they could be automatically analyzed without user intervention. The processing and analysis stage depends on the nature of the images and the information of interest.
+
+The main component of the image processing tools are the ImageXXX operations which are supplemented by the image processing procedure files. The latter are combined as the Image Processing Package which you can load from Analysis menu. In addition to the dedicated ImageXXX operations you can also take advantage of general analysis functions such as FFT and curve fitting in image processing applications. Rounding up the list of built-in operations is MatrixOP which provides efficient means for formulating and performing mathematical operations on images.
+
+Image display can be as simple as placing an RGB image in a graph window or as complicated as creating an overlay of multiple images combined with contour lines and legend. Being able to display images in false color or using a non-linear level mapping is sometimes helpful when trying to visually analyze images.
+
+The conventional approach to image processing involves the following steps:
+
+(1) image transformations and color conversions where the acquired image is converted into standard form in colorspace and in range.
+
+(2) Image filtering (cleaning up the image to improve S/N ratio) can be accomplished using localized filters or mathematical transforms.
+
+(3) Threshold operation to convert the image from a gray-scale to a binary form.
+
+(4) Morphological filtering usually follows the threshold operations but some morphological operations can actually precede the threshold step. Typical morphological filters include: erosion/dilation, opening/closing, tophat and watershed.
+
+(5) Particle analysis is the operation where the filtered binary image is analyzed by quantifying various spatial properties of different "particles" (i.e., spots or regions) in the image. The spatial measurements include location, area, perimeter and moments for calculating a fitting ellipse.
+
+
+Forum
+
+
+Support
+
+
+Gallery
+
+IGOR PRO 8
+Learn More
+
+IGOR XOP TOOLKIT
+Learn More
+
+IGOR NIDAQ TOOLS MX
+Learn More
+
+WaveMetrics
+Scientific graphic and data analysis software for scientists and engineers

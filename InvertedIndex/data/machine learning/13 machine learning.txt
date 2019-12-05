@@ -1,0 +1,41 @@
+What is machine learning?
+Machine-learning algorithms find and apply patterns in data. And they pretty much run the world.
+by Karen Hao
+Nov 17, 2018
+Machine-learning algorithms are responsible for the vast majority of the artificial intelligence advancements and applications you hear about. (For more background, check out our first flowchart on "What is AI?" here.)
+
+What is the definition of machine learning?
+Machine-learning algorithms use statistics to find patterns in massive* amounts of data. And data, here, encompasses a lot of things—numbers, words, images, clicks, what have you. If it can be digitally stored, it can be fed into a machine-learning algorithm.
+
+Machine learning is the process that powers many of the services we use today—recommendation systems like those on Netflix, YouTube, and Spotify; search engines like Google and Baidu; social-media feeds like Facebook and Twitter; voice assistants like Siri and Alexa. The list goes on.
+
+Sign up for The Algorithm — artificial intelligence, demystified
+Enter your email
+Also stay updated on MIT Technology Review initiatives and events?YesNo
+In all of these instances, each platform is collecting as much data about you as possible—what genres you like watching, what links you are clicking, which statuses you are reacting to—and using machine learning to make a highly educated guess about what you might want next. Or, in the case of a voice assistant, about which words match best with the funny sounds coming out of your mouth.
+
+Frankly, this process is quite basic: find the pattern, apply the pattern. But it pretty much runs the world. That’s in big part thanks to an invention in 1986, courtesy of Geoffrey Hinton, today known as the father of deep learning.
+
+What is deep learning?
+Deep learning is machine learning on steroids: it uses a technique that gives machines an enhanced ability to find—and amplify—even the smallest patterns. This technique is called a deep neural network—deep because it has many, many layers of simple computational nodes that work together to munch through data and deliver a final result in the form of the prediction.
+
+What are neural networks?
+
+Neural networks were vaguely inspired by the inner workings of the human brain. The nodes are sort of like neurons, and the network is sort of like the brain itself. (For the researchers among you who are cringing at this comparison: Stop pooh-poohing the analogy. It’s a good analogy.) But Hinton published his breakthrough paper at a time when neural nets had fallen out of fashion. No one really knew how to train them, so they weren’t producing good results. It took nearly 30 years for the technique to make a comeback. And boy, did it make a comeback.
+
+What is supervised learning?
+One last thing you need to know: machine (and deep) learning comes in three flavors: supervised, unsupervised, and reinforcement. In supervised learning, the most prevalent, the data is labeled to tell the machine exactly what patterns it should look for. Think of it as something like a sniffer dog that will hunt down targets once it knows the scent it’s after. That’s what you’re doing when you press play on a Netflix show—you’re telling the algorithm to find similar shows.
+
+What is unsupervised learning?
+In unsupervised learning, the data has no labels. The machine just looks for whatever patterns it can find. This is like letting a dog smell tons of different objects and sorting them into groups with similar smells. Unsupervised techniques aren’t as popular because they have less obvious applications. Interestingly, they have gained traction in cybersecurity.
+
+What is reinforcement learning?
+Lastly, we have reinforcement learning, the latest frontier of machine learning. A reinforcement algorithm learns by trial and error to achieve a clear objective. It tries out lots of different things and is rewarded or penalized depending on whether its behaviors help or hinder it from reaching its objective. This is like giving and withholding treats when teaching a dog a new trick. Reinforcement learning is the basis of Google’s AlphaGo, the program that famously beat the best human players in the complex game of Go.
+
+That’s it. That's machine learning. Now check out the flowchart above for a final recap.
+
+*Note: Okay, there are technically ways to perform machine learning on smallish amounts of data, but you typically need huge piles of it to achieve good results.
+
+___
+
+This originally appeared in our AI newsletter The Algorithm. To have it directly delivered to your inbox, subscribe here for free.

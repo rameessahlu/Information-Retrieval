@@ -1,0 +1,8 @@
+What Is Data Analytics?
+The term data analytics refers to the process of examining datasets to draw conclusions about the information they contain. Data analytic techniques enable you to take raw data and uncover patterns to extract valuable insights from it.
+
+Today, many data analytics techniques use specialized systems and software that integrate machine learning algorithms, automation and other capabilities.
+
+Data Scientists and Analysts use data analytics techniques in their research, and businesses also use it to inform their decisions. Data analysis can help companies better understand their customers, evaluate their ad campaigns, personalize content, create content strategies and develop products. Ultimately, businesses can use data analytics to boost business performance and improve their bottom line.
+
+For businesses, the data they use may include historical data or new information they collect for a particular initiative. They may also collect it first-hand from their customers and site visitors or purchase it from other organizations. Data a company collects about its own customers is called first-party data, data a company obtains from a known organization that collected it is called second-party data, and aggregated data a company buys from a marketplace is called third-party data. The data a company uses may include information about an audience’s demographics, their interests, behaviors and more.

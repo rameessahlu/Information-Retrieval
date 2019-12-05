@@ -1,0 +1,20 @@
+Database Definition
+Database
+
+ 
+A database is a data structure that stores organized information. Most databases contain multiple tables, which may each include several different fields. For example, a company database may include tables for products, employees, and financial records. Each of these tables would have different fields that are relevant to the information stored in the table.
+
+Nearly all e-commerce sites uses databases to store product inventory and customer information. These sites use a database management system (or DBMS), such as Microsoft Access, FileMaker Pro, or MySQL as the "back end" to the website. By storing website data in a database, the data can be easily searched, sorted, and updated. This flexibility is important for e-commerce sites and other types of dynamic websites.
+
+Early databases were relatively "flat," which means they were limited to simple rows and columns, like a spreadsheet. (See also "flat file database"). However, today's relational databases allow users to access, update, and search information based on the relationship of data stored in different tables. Relational databases can also run queries that involve multiple databases. While early databases could only store text or numeric data, modern databases also let users store other data types such as sound clips, pictures, and videos.
+
+
+ 
+Updated: October 27, 2009
+Cite this definition:
+
+APAMLAChicagoHTMLLink
+TechTerms - The Tech Terms Computer Dictionary
+This page contains a technical definition of Database. It explains in computing terminology what Database means and is one of many software terms in the TechTerms dictionary.
+
+All definitions on the TechTerms website are written to be technically accurate but also easy to understand. If you find this Database definition to be helpful, you can reference it using the citation links above. If you think a term should be updated or added to the TechTerms dictionary, please email TechTerms!

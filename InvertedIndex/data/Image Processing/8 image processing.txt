@@ -1,0 +1,93 @@
+Digital Image Processing
+Search MathWorks.com
+Search MathWorks.com
+Trial software
+ 
+Contact sales
+Process digital images with computer algorithms
+Digital image processing is the use of computer algorithms to create, process, communicate, and display digital images. Digital image processing algorithms can be used to:
+
+Convert signals from an image sensor into digital images
+Improve clarity, and remove noise and other artifacts
+Extract the size, scale, or number of objects in a scene
+Prepare images for display or printing
+Compress images for communication across a network
+The following images illustrate a few of these examples:
+
+Removing noise using a Wiener Filter
+Removing noise using a Wiener Filter.
+Counting circular objects in an image
+Counting circular objects in an image.
+Effective techniques for processing digital images include using algorithms and tools that provide a comprehensive environment for data analysis, visualization, and algorithm development.
+
+For more information, see Image Processing Toolbox™.
+
+Examples and How To
+What Is Image Processing Toolbox? (2:03) - Video
+Color-Based Segmentation with Live Image Acquisition (5:11) - Video
+Dilation Algorithms and Morphology - Blog
+Applying Contrast Enhancement Techniques - Example
+Performing Edge Detection and Morphological Operations - Example
+Identifying Round Objects - Example
+Software Reference
+Analyzing and Enhancing Images - Documentation
+Spatial Transformations - Documentation
+Image Deblurring - Documentation
+Color Image Processing - Documentation
+Morphological Operations - Documentation
+Image Processing Tool - MATLAB App
+Finding Circles Tool - MATLAB App
+Integrating MATLAB and C/C++
+See also: Steve on Image Processing, Digital Image Processing Using MATLAB (book), image enhancement, image segmentation, image transform, image analysis, geometric transformation and image registration, image processing and computer vision, feature extraction, stereo vision, optical flow, color profile, image analysis, image thresholding, edge detection, image registration, ransac, pattern recognition, affine transformation, lab color, point cloud, 3D Image Processing
+
+Download Image Processing Resource Kit
+Image Processing Resource Kit
+Explore Products
+
+MATLAB
+Simulink
+Student Software
+Hardware Support
+File Exchange
+Try or Buy
+
+Downloads
+Trial Software
+Contact Sales
+Pricing and Licensing
+How to Buy
+Learn to Use
+
+Documentation
+Tutorials
+Examples
+Videos and Webinars
+Training
+Get Support
+
+Installation Help
+Answers
+Consulting
+License Center
+About MathWorks
+
+Careers
+Newsroom
+Social Mission
+Contact Us
+About MathWorks
+MathWorks
+
+Accelerating the pace of engineering and science
+
+MathWorks is the leading developer of mathematical computing software for engineers and scientists.
+
+Discover…
+
+United States
+Patents
+Trademarks
+Privacy Policy
+Preventing Piracy
+Application Status
+© 1994-2019 The MathWorks, Inc.

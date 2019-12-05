@@ -1,0 +1,71 @@
+software engineering
+
+Posted by: Margaret Rouse
+WhatIs.com
+  
+Contributor(s): Matthew Haughn
+
+Software engineering is the application of principles used in the field of engineering, which usually deals with physical systems, to the design, development, testing, deployment and management of software systems.
+
+
+The field of software engineering applies the disciplined, structured approach to programming that is used in engineering to software development with the stated goal of improving the quality, time and budget efficiency, along with the assurance of structured testing and engineer certification.
+
+Software engineering is typically used for large and intricate software systems rather than single applications or programs. Development, however, is simply one phase of the process. While a software engineer is typically responsible for the design of systems, programmers are often responsible for coding its implementation.
+
+Software engineering involves a number of fields that cover the process of engineering software and certification including: requirements gathering, software design, software construction, software maintenance, software configuration management, software engineering managent, software development process management and creation, software engineering models and methods, software quality, software engineering professional practices as well as foundational computing and mathematical and engineering study.
+
+Though the original use of the term is uncertain, the first software engineering conference was held and sponsored by NATO in 1968. The conference addressed the inconsistency and unreliability in software development as well as the need for better quality and reliability. The conference gathered international experts who agreed the systematic approach of physical world engineering should be applied to software development, as it already was developed with those goals in mind.
+
+The Software Engineering Institute (SEI) is one organization that works with U.S. engineers, enterprise, education and government institutions to improve the efficiency of the work of software engineering projects and processes and it home to the Computer Emergency Response Team (CERT).
+
+This was last updated in November 2016
+Continue Reading About software engineering
+How to become a software engineer
+Video: The need for more software engineers
+Software engineer shortages lead to rising salaries
+What is software engineering?
+Software engineering -- but not as we know it
+Related Terms
+container repository
+A container repository is a collection of related container images used to provide different versions of an application. See complete definition
+finite element analysis (FEA)
+Finite element analysis (FEA) is the use of calculations, models and simulations to predict and understand how an object might ... See complete definition
+Jenkins
+Jenkins is an open source continuous integration/continuous delivery and deployment (CI/CD) automation software DevOps tool ... See complete definition
+Word of the Day
+corporate activism
+Corporate activism is a public stance taken by a large enterprise to positively impact social change or legislation. According to some estimates, corporate activism through "cause marketing" will contribute more than $1.5 billion to charitable organizations this year.
+
+Word of the Day Archive
+20 Newest and Updated Terms
+Platform as a Service (PaaS)
+container repository
+TCP (Transmission Control Protocol)
+team collaboration tools
+CloudOps (cloud operations)
+finite element analysis (FEA)
+remote wipe
+application containerization (app containerization)
+DMZ (networking)
+quantum supremacy
+augmented learning
+cost per engagement (CPE)
+asset turnover ratio
+Microsoft Power Platform
+days sales outstanding (DSO)
+virtual desktop infrastructure (VDI)
+IT operations
+Jenkins
+Agile Software Development
+Australian Assistance and Access Bill
+Join the conversation 2 comments
+
+ Send me notifications when other members comment.
+Add My Comment
+Oldest 
+[-] karimadly - 27 Sep 2018 3:57 AM
+I agree
+ 
+[-] ashenafig - 12 Aug 2019 4:09 AM
+Hi sir is that possible to join PHD in Engineering with master of MBA and having Bsc  in software Engineering?
+ 

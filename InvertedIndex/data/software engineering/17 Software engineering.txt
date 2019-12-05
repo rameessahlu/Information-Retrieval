@@ -1,0 +1,156 @@
+How to become a software engineer: A cheat sheet
+
+by Macy Bayern in Software  on April 24, 2019, 7:20 AM PST
+If you are looking to pursue a career in software engineering and aren't sure where to begin, here's your guide to salaries, job markets, skills, and common interview questions in the field.
+
+More for CXOs
+What is the CIO's role in cybersecurity leadership?
+6 questions the C-suite must answer to achieve digital transformation
+Vendor contract renewal planner (TechRepublic Premium)
+How to manage IT during mergers and acquisitions (free PDF)
+Members of Generation Z--those born from 1997 and onward--are the latest entering the job market. The oldest members of Gen Z are entering the market during an interesting time, with the US unemployment rate at an impressive low and employers fighting to attain and retain lucrative talent.
+
+However, this young talent is chasing one profession in particular: Software engineering. Software engineer applications accounted for 19% of all job applications from Gen Zers in the US, making it the most in-demand job among that generation, according to a recent Glassdoor report.
+
+To help those interested in the industry figure out how to launch a career in software engineering, we compiled the most important details and resources. For a free PDF version of this software engineering career guide, download this ebook. This article will be updated on a regular basis. (Note: This article about how to become a software engineer is available as a free PDF download.)
+
+SEE: How iRobot used data science, cloud, and DevOps to design its next-gen smart home robots (cover story PDF) (TechRepublic)
+
+Why is there an increased demand for software engineers?
+Software engineer and developer job positions dominated Glassdoor's list of the 10 most in-demand tech jobs of 2019. The global demand for engineers is skyrocketing year over year, with demand for blockchain engineers increasing at 517% and security engineers at 132%, according to Hired's 2019 State of Software Engineers report.
+
+The demand for software engineers correlates with the ebbs and flows of new technology. For example, the explosion of blockchain in the past year has resulted in a need for software engineers with blockchain skills, the report found.
+
+SEE: All of TechRepublic's cheat sheets and smart person's guides
+
+Most companies are trying to stay competitive, resulting in a greater investment in technology, across all sectors, according to Glassdoor's Economic Research Blog. As more companies are trying to transform into tech companies, software engineers are needed in those industries (retail, finance, manufacturing, etc.) to plan, manage, and launch the software.
+
+Additional resources
+
+IT jobs in 2020: A leader's guide (ZDNet/TechRepublic special report) | Download the free PDF version (TechRepublic)
+The 15 most in-demand blockchain jobs (TechRepublic)
+She persisted: Transforming software engineering at Autodesk (ZDNet)
+The state of women in computer science: An investigative report (cover story PDF) (TechRepublic)
+Low-code platforms: An insider's guide (free PDF) (TechRepublic)
+Video: How machine learning is going to change software engineering (TechRepublic)
+Why open source software adoption is accelerating in the enterprise (TechRepublic)
+Hottest jobs in tech: More must-read coverage (TechRepublic on Flipboard)
+What does a software engineer do?
+Software engineers are responsible for building, developing, launching, and maintaining software products and systems, according to Indeed's career guide. Software systems include operating systems, business applications, connected hardware, networking systems, and mobile and web applications.
+
+SEE: Python is eating the world: How one developer's side project became the hottest programming language on the planet (cover story PDF) (TechRepublic)
+
+Software engineers and software developers are interconnected, but mutually exclusive. Software developers help maintain existing software performance, recommend improvements, and develop updates or new software programs in code. The key difference is in the word "engineer," because engineers are involved in the development of software, but developers don't necessarily have the engineering background to be involved in that part of the process.
+
+Additional resources
+
+Good news, programmers: There will be 253,000 new software developer jobs by 2026 (TechRepublic)
+Study: The 4 software development trends that will dominate 2019 (TechRepublic)
+Here's why younger developers can't stand new programming languages (TechRepublic)
+10 ways to prevent developer burnout (free PDF) (TechRepublic)
+How to become an IoT developer: 6 tips (TechRepublic)
+How to become an Alexa developer: A cheat sheet (TechRepublic)
+How to become a Unity developer for VR and AR (TechRepublic)
+What are some software engineer job roles?
+Software engineers can choose from a number of different career paths. Here are the nine most popular software engineering jobs, and their growth rates year over year, according to the Hired report.
+
+Blockchain engineer (517%)
+Security engineer (132%)
+Embedded engineer (76%)
+Data engineer (38%)
+Back end engineer (33%)
+Machine learning engineer (27%)
+Mobile engineer (15%)
+Full stack engineer (7%)
+Front end engineer (4%)
+Additional resources
+
+How to build a successful developer career (free PDF) (TechRepublic)
+How to become a machine learning engineer: A cheat sheet (TechRepublic)
+Cheat sheet: How to become a cybersecurity pro (TechRepublic)
+Cheat sheet: How to become a data scientist (TechRepublic)
+How to build a successful career as a cloud engineer (free PDF) (TechRepublic)
+Job description: DevOps engineer (Tech Pro Research)
+Job description: Systems engineer (Tech Pro Research)
+Job description: Full stack developer (Tech Pro Research)
+What programming languages or other skills are best to learn to become a software engineer?
+Software engineers typically have at least a bachelor's degree in software engineering or information technology. Those in the field are often well versed in software development, and have extensive experience working with various programming languages such as Python, Java, and C++.
+
+The fastest-growing skills in 2019 for software engineers include experience with Flutter, Android design, NUXT.JS, continuous integration and development, and angular material, according to a LinkedIn report.
+
+SEE: Programming languages and developer career resources coverage (TechRepublic on Flipboard)
+
+For software engineers in management positions, or those trying to reach management level, soft skills are becoming increasingly important. To fuel high-performing teams, software engineering managers skill sets must include people management, leadership, team management, team building, and strategic planning, the LinkedIn report found.
+
+Additional resources
+
+Most popular programming languages: C++ knocks Python out of top three (TechRepublic)
+The most loved and most disliked programming languages revealed in Stack Overflow survey (TechRepublic)
+The worst programming languages to learn in 2019 (TechRepublic)
+The 10 most in-demand programming languages across the globe (TechRepublic)
+In software development, empathy becomes a priority (ZDNet)
+DevOps: A cheat sheet (TechRepublic)
+What is the average salary for a software engineer?
+Software engineers are projected to be one of the highest-paying tech jobs of 2019. As of April 2019, software engineers in the US earn an average of $107,972 per year, according to Indeed. Software engineers just starting out in the US have a median base pay of $88,280, according to data from Glassdoor.
+
+For software engineers looking to make the big bucks, here are the most in-demand software engineer job positions, said a Triplebyte report:
+
+Full stack generalist software engineer
+Back end software engineer
+Front end software engineer
+Data engineer
+Android engineer
+Additional resources
+
+Salaries for blockchain engineers are soaring as demand for expertise explodes (TechRepublic)
+Best-paying programming languages, skills: Here are the top earners (ZDNet)
+11 tech jobs where you can earn a salary of over $200K (TechRepublic)
+How developers can negotiate a higher salary in a job interview: 6 tips (TechRepublic)
+How to get the raise you deserve: A 5 step plan (TechRepublic)
+Photos: 10 tech companies with amazing employee perks (TechRepublic)
+What are the hottest markets for software engineer jobs?
+The five highest paying cities in the US for software engineers in 2019 and their average salaries, according to ZipRecruiter, are as follows (as of this writing):
+
+San Francisco, CA ($109,175)
+San Jose, CA ($105,052)
+New York City, NY ($102,010)
+Seattle, WA ($101,175)
+Boston, MA ($100,955)
+Additional resources
+
+10 mobile apps to simplify your job search (free PDF) (TechRepublic)
+London is still top for software developers, but European rivals are catching up fast (ZDNet)
+When traveling to San Francisco, use these apps to guide you (Download.com)
+When traveling to Seattle, use these apps to guide you (Download.com)
+When traveling to New York City, use these apps to guide you (Download.com)
+80% of tech workers consider moving to a new city for work (TechRepublic)
+How to help new hires acclimate to their new city (TechRepublic)
+Remote work changes how employees live their lives, view work-life balance (TechRepublic)
+What are typical software engineer interview questions?
+Some questions that a software engineer can expect during a job interview, according to Indeed, include:
+
+What programming languages have you used in the past? What are your top two programming languages?
+How much are you coding on a daily basis? If you do not code on a daily basis, what is typical in your role?
+How comfortable are you in a startup environment, or do you prefer working in a more established company?
+What distinguishes a great software engineer from a good one? Do you feel you have those qualities?
+What's the most important thing to look for or check when reviewing another team member's code?
+In your opinion, what are the principles of good software engineering? What are some basic principles everyone should follow?
+If needed, how would you go about designing scalable applications? Walk us through your process.
+Additional resources
+
+Interview tips: How to land your next tech job (free PDF) (TechRepublic)
+10 tech interview and hiring horror stories (TechRepublic)
+How to make a lasting impression in a tech interview: 3 tips (TechRepublic)
+3 big mistakes to avoid in an in-person interview (TechRepublic)
+Where can I find resources for a career in software engineering?
+There are many different paths to becoming a software engineer, and most take the one less traveled, according to Hired's previously mentioned 2019 State of Software Engineering report.
+
+While 46% of respondents start their software engineering careers by earning a bachelor's degree in computer science, one in five said they are instead self-taught. Some 13% of respondents said they took a more hybrid approach, taking advantage of developer bootcamps through companies like General Assembly and Hack Reactor, the report found.
+
+In terms of learning top programming languages, sites like GitHub offer plenty of guides and resources to get started.
+
+SEE: The truth about MooCs and bootcamps: Their biggest benefit isn't creating more coders (cover story PDF) (TechRepublic)
+
+Coding bootcamps have proven to be extremely beneficial for software engineers: 76% of bootcamp graduates said the courses helped prepare them for their software engineering job. Bootcamps are a great resource for software engineers looking to reskill, upskill, or break into the field, the Hired report added.
+
+For prospective software engineers who want more in-depth knowledge on the topic, EdX offers plenty of courses and degree plans for software engineers. The best part is all courses are online, which could be helpful for working professionals and parents. EdX has introductory courses to software engineering, as well as advanced certificate programs.

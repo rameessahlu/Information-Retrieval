@@ -1,0 +1,72 @@
+Graph Optimization via Genetic Algorithm
+Genetic algorithms [1, 2, 5] have become a viable solution to strategically perform a global search by means of many local searches. The basis of the genetic algorithm methods is derived from the mechanisms of evolution and natural genetics. The genetic algorithm that is being used as one of these kernel benchmarks is a fairly simple version. Many modifications are possible that can enhance the performance for a given application, and some small enhancements have been made to enhance the performance of this benchmark.
+
+A genetic algorithm works by building a population of chromosomes which is a set of possible solutions to the optimization problem. Within a generation of a population, the chromosomes are randomly altered in hopes of creating new chromosomes that have better evaluation scores. The next generation population of chromosomes is randomly selected from the current generation with selection probability based on the evaluation score of each chromosome. The simple genetic algorithm follows the structure depicted in Figure 1. Each of these operations will be described in the following subsections.
+
+Simple Genetic Algorithm ()
+{
+	Initialization;
+	Evaluation;
+	while termination criterion has not been reached
+	{
+		Selection_and_Reproduction;
+		Crossover;
+		Mutation;
+		Evaluation;
+	}
+}
+Figure 1. Structure of a simple genetic algorithm.
+Initialization
+Initialization involves setting the parameters for the algorithm, creating the scores for the simulation, and creating the first generation of chromosomes. In this benchmark, seven parameters are set:
+
+the genes value (Genes) is the number of variable slots on a chromosome;
+the codes value (Codes) is the number of possible values for each gene;
+the population size (PopSize) is the number of chromosomes in each generation;
+crossover probability (CrossoverProb) is the probability that a pair of chromosomes will be crossed;
+mutation probability (MutationProb) is the probability that a gene on a chromosome will be mutated randomly;
+the maximum number of generations (MaxGenerations) is a termination criterion which sets the maximum number of chromosome populations that will be generated before the top scoring chromosome will be returned as the search answer; and
+the generations with no change in highest-scoring (elite) chromosome (GensNoChange) is the second termination criterion which is the number of generations that may pass with no change in the elite chromosome before that elite chromosome will be returned as the search answer.
+The scores matrix for the simulation, which is generated in the GenAlgGen script, is the set of scores for which the best solution is to be found. The attempted optimization is to find the code for each gene in the solution chromosome that maximizes the average score for the chromosome. Finally, the first generation of chromosomes are generated randomly.
+Evaluation
+Each of the chromosomes in a generation must be evaluated for the selection process. This is accomplished by looking up the score of each gene in the chromosome, adding the scores up, and averaging the score for the chromosome. As part of the evaluation process, the elite chromosome of the generation is determined.
+
+Selection and Reproduction
+Chromosomes for the next generation are selected using the roulette wheel selection scheme [5] to implement proportionate random selection. Each chromosome has a probability of being chosen equal to its score divided by the sum of the scores of all of the generation’s chromosomes. In order to avoid losing ground in finding the highest-scoring chromosome, elitism [5] has been implemented in this benchmark. Elitism reserves two slots in the next generation for the highest scoring chromosome of the current generation, without allowing that chromosome to be crossed over in the next generation. In one of those slots, the elite chromosome will also not be subject to mutation in the next generation.
+
+Crossover
+In the crossover phase, all of the chromosomes (except for the elite chromosome) are paired up, and with a probability CrossoverProb, they are crossed over. The crossover is accomplished by randomly choosing a site along the length of the chromosome, and exchanging the genes of the two chromosomes for each gene past this crossover site.
+
+Mutation
+After the crossover, for each of the genes of the chromosomes (except for the elite chromosome), the gene will be mutated to any one of the codes with a probability of MutationProb. With the crossover and mutations completed, the chromosomes are once again evaluated for another round of selection and reproduction.
+
+Termination
+The loop of chromosome generations is terminated when certain conditions are met. When the termination criteria are met, the elite chromosome is returned as the best solution found so far. For this benchmark, there are two criteria: if the number of generation has reached a maximumnumber, MaxGenerations, or if the elite solution has not changed for a certain number of generations, GensNoChange.
+
+Implementation Notes
+Genetic algorithms are being used around the world for an enormous variety of applications. However, this benchmark of genetic algorithms has been designed with two specific purposes in mind: matching computational tasks with processing units in a general independent task environment and in signal processing pipeline tasks. For the general independent task environment, the genes of the chromosomes are the computational tasks which have arrived in the order of their gene’s number, and the codes are the possible processing units upon which the computational tasks can be executed. Similarly, for the signal processing pipeline tasks, the genes of the chromosomes are the pipelined tasks that constitute a signal processing chain, and the codes are the computational unit mappings upon which the pipeline stage tasks can be run. The scores for each code in a given gene position represents a goodness factor (for computational efficiency, execution time, or some other measure) ranging from zero to one (one being best). The goal then is to find the mapping of tasks onto processors that yields the best score, in this case a perfect score of one.
+
+The random number generator for the genetic algorithm is assumed to be the one defined in VSIPL [4, p. 245]. This generator is used because the implementation is available and the workload is easily calculable (based on the discussion in the standard, we assume 11 ops per random number generated). Use of this random number generator is not required. However, if a different random number generator is used, the workload given in Table 1 should be altered accordingly. For this kernel benchmark, four parameter sets have been included. These sets are shown in Table 1. Sets 1 and 2 are sample parameters for the general independent task scenario while sets 3 and 4 are sample parameters for the digital signal processing pipeline task scenario. For this kernel, we define the workload in operations (rather than floating-point operations) per generation. The workload is related to the number of genes and the population size per generation.
+
+Parts of the genetic algorithm code are embarrassingly parallel, including the crossover and mutation sections. Most of the evaluation section is also embarrassingly parallel, except for the elite chromosome determination portion. However, the selection and reproduction section cannot be conducted in a parallel manner since a view of the entire population is necessary. More discussion on parallelizing and distributing genetic algorithms can be found in [3].
+
+Table 1: Parameter sets for the Genetic Algorithm Kernel Benchmark.
+Name	Description	Set 1	Set 2	Set 3	Set 4	Units
+Codes	Number of code types for a gene	4	8	100	1000	codes
+Genes	Number of genes on a chromosome	8	96	5	10	genes
+PopSize	Number of chromosomes in a generation	50	200	100	400	chromosomes
+CrossoverProb	Probability of crossing over a pair of chromosomes	0.01	0.002	0.02	0.03
+MutationProb	Probability of mutating a chromosome	0.60	0.60	0.60	0.30
+MaxGenerations	Maximum number of generations	500	2000	500	5000	generations
+GensNoChange	Maximum number of generations with no change in elite chromosome	50	150	50	500	generations
+Ops per generation	1750	77400	2300	17200	operations
+Random numbers per generation	898	38798	1198	8798	numbers
+Ops for random number generation	9878	426778	13178	96778	operations
+Workload	Total Ops	11628	504178	15478	113978	operations
+References
+1. Lawrence Davis, editor. Handbook of Genetic Algorithms. Van Nostrand Reinhold, New York, 1991.
+2. David E. Goldberg, editor. Genetic Algorithms in Search, Optimization, and Machine Learning. Van Nostrand Reinhold, New York, 1991.
+3. Jose L. Ribeiro Filho, Philip C. Treleaven, and Cesare Alippi. Genetic-algorithm programming environments. IEEE Computer, 27(6):28–43, June 1994.
+4. David A. Schwartz, Randall R. Judd, William J. Harrod, and Dwight P. Manley. Vector, signal, and image processing library (VSIPL) 1.0 application programmer’s interface. Technical report, Georgia Tech Research Corporation, 2000. http://www.vsipl.org.
+5. M. Srinivas and Lalit M. Patnaik. Genetic algorithms: A survey. IEEE Computer, 27(6):17–26, June 1994.
+Contact hpec-admin@omg.org
+©2001-2006 Lincoln Laboratory, Massachusetts Institute of Techn

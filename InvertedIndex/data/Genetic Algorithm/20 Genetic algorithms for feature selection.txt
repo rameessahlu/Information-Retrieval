@@ -1,0 +1,36 @@
+Genetic algorithms for feature selection
+Genetic algorithms for feature selection
+By Fernando Gomez and Alberto Quesada Artelnics.
+
+
+Many common applications of machine learning, from customer targeting to medical diagnosis, arise from complex relationships between features (also-called input variables or characteristics).
+
+Feature selection, or input selection, is the process of finding the most relevant inputs for a predictive model. These techniques can be used to identify and remove unneeded, irrelevant and redundant features that do not contribute or decrease the accuracy of the predictive model.
+
+Problem formulation
+Mathematically, inputs selection is formulated as a combinatorial optimization problem. Here the function to optimize is the generalization performance of the predictive model, represented by the error on the selection instances of a data set. The design variables are the inclusion (1) or the exclusion (0) of the input variables in the neural network.
+
+An exhausttive selection of features would evaluate lots of different combinations (2N, where N is the number of features). This process requires lots of computational work and, if the number of features is big, becomes impracticable. Therefore, we need intelligent methods that allow the selection of features in practice.
+
+Genetic algorithms
+One of the most advanced algorithms for feature selection is the genetic algorithm. This is a stochastic method for function optimization based on the mechanics of natural genetics and biological evolution. In this article we show how genetic algorithms can be applied to optimize the performance of a predictive model, by selecting the most relevant features.
+
+In nature, the genes of organisms tend to evolve over successive generations to better adapt to the environment. The Genetic Algorithm is an heuristic optimization method inspired by that procedures of natural evolution.
+
+In feature selection, the function to optimize is the generalization performance of a predictive model. More specifically, we want to minimize the error of the model on an independent data set not used to create the model. This function is called the selection error. The design variables are the presence (1) or absence (0) of every possible feature in the model.
+
+Genetic algorithms operate on a population of individuals to produce better and better approximations. At each generation, a new population is created by the process of selecting individuals according to their level of fitness in the problem domain, and recombining them together using operators borrowed from natural genetics. The offspring might also undergo mutation.
+
+This process leads to the evolution of populations of individuals that are better suited to their environment than the individuals that they were created from, just as in natural adaptation. A state diagram for the training process with the genetic algorithm is depicted next.
+
+Genetic algorithm state diagram
+In our case, each individual in the population represents a predictive model. The number of genes is the total number of features in the data set. Genes here are binary values, and represent the inclusion or not of particular features in the model. The number of individuals, or population size, must be chosen for each application. Usually, this is set to be 10N, being N the number of features.
+
+Now we describe in detail the operators and the corresponding parameters used by the genetic algorithm.
+
+1. Initialization
+The fist step is to create and initialize the individuals in the population. As the genetic algorithm is a stochastic optimization method, the genes of the individuals are usually initialized at random.
+
+to illustrate this operator, consider a predictive model represented by a neural network with 6 possible features. If we generate a population of 4 individuals, then we have 4 different neural networks with random features. The next figure illustrates this population.
+
+Genetic algorithm population

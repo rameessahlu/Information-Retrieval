@@ -1,0 +1,157 @@
+What is a Software Engineer?
+Software engineering is a branch of computer science which includes the development and building of computer systems software and applications software. Computer systems software is composed of programs that include computing utilities and operations systems. Applications software consists of user-focused programs that include web browsers, database programs, etc.
+
+There is a lot of investment going into software engineering at the moment due to the increasing reliance on mobile technology, venture capital-backed start-ups, the growing complexity of technology, and emerging industries. The demand for skilled and qualified software engineers seems to have no end. This demand is strengthened by a changing economic landscape and fueled by the need for technology solutions. With billions of physical devices around the world that are now connected to the internet and that are collecting and sharing data, all industries are quickly becoming technology driven industries.
+
+Software engineers have extensive knowledge of programming languages, software development, and computer operating systems, and they apply engineering principles to software creation. By applying these engineering principles to every stage of the development process, from requirements analysis to the software process, they can create customized systems for individual clients. Just as a civil engineer will make sure that a bridge has a solid foundation, a software engineer will also begin with a thorough study of requirements and work through the development process in a systematic way.
+
+In this article:
+What is a Software Engineer?
+What does a Software Engineer do?
+What is the workplace of a Software Engineer like?
+What career options are available for a software engineer?
+What is the difference between a software engineer and a software developer?
+What does it take to succeed as a software engineer?
+What does a Software Engineer do?
+A software engineer is engaged in computer software development, and applies engineering principles to software creation.
+
+Software engineers are highly sought after. Developers that live in high demand areas often receive many inquiries a month from recruiters and head hunters. A software engineer applies mathematical analysis and the principles of computer science in order to design and develop computer software.
+
+There are many types of software that a software engineer can develop, such as operating systems, computer games, middleware, business applications and network control systems. Changes in technology and new areas of specialization keeps this profession evolving at a rapid pace.
+
+When working with a client, a software engineer will typically analyze the client's needs, then design, test, and develop the computer software in order to meet those needs. They are experts in computing systems, software structure, and recognizing the limitations of the existing hardware. The process is complicated and intricate, therefore the use of diagrams, flowcharts, and the creation of algorithms to tell the computer what to do are created. Converting these instructions into a computer language (coding/programming) is usually the responsibility of a computer programmer.
+
+Software engineers must also possess interpersonal skills, and be able to effectively communicate with users in order to train, test, and debug software all the way to the end product. They are often involved from the early stages of software planning right through to the testing, development, training, and support stages.
+
+Software engineers can be divided into two categories:
+
+Applications Engineers
+Applications engineers create or adapt applications for businesses and organizations by analyzing the end user's needs. They will design, build, install, and maintain these applications or programs.
+
+Systems Engineers
+Systems engineers coordinate the creation, maintenance and growth of a business or organization's computer systems. They coordinate each department's needs, suggest technical direction, and set up any networks that link up computers with the company.
+
+Being a software engineer is a great career choice for someone who is exceptionally good at both left and right-brained thinking (analytical skills as well as problem-solving skills). Software engineers are instinctive problem-solvers, good at working with others and focused on seeing issues through to their successful completion.
+
+A software engineer should be well-versed in:
+- Programming and coding
+- Fundamentals of computer science
+- Design and architecture
+- Algorithms and data structures
+- Information analysis
+- Debugging software
+- Testing software
+
+Are you suited to be a software engineer?
+Software engineers have distinct personalities. They tend to be investigative individuals, which means they’re intellectual, introspective, and inquisitive. They are curious, methodical, rational, analytical, and logical. Some of them are also conventional, meaning they’re conscientious and conservative.
+
+Does this sound like you? Take our free career test to find out if software engineer is one of your top career matches.
+
+Take the free test now Learn more
+What is the workplace of a Software Engineer like?
+With such unprecedented growth in a multitude of industries, software engineers can pursue careers in any number of areas, including technology, healthcare, automotive manufacturing, green energy, remote sensing, aeronautics, government, non-profit, and finance.
+
+Software engineers can work as either employees or as contractors. They typically work in comfortable settings, but it is sometimes a stressful job that involves long hours and tight deadlines.
+
+What career options are available for a software engineer?
+Technology is growing at a rapid pace, and opportunities in software development are growing right along with it. For software engineers with an appetite to develop valuable interpersonal skills, management roles are widely available. Interpersonal skills (or soft skills) include communication, conflict management, empathy, leadership, listening, negotiation, a positive attitude, and being able to work as part of a team.
+
+Individuals who are technically skilled communicators have many options available to them. They can, in time, qualify for a variety of roles, including Senior Engineer, Team Lead, Architect, Manager and can eventually make their way to senior management. The pace of a career path progression depends on someone demonstrating technical ability, inner drive, analytical thinking and excellent communication skills.
+
+A software engineer's career path could look something like this:
+
+Junior Web Developer
+This is a starting or ground-floor position that an individual right out of college or an accelerated course could get with little to no computer programming experience. One can start applying for job postings as a junior web developer with a working knowledge of HTML, CSS, JavaScript, and jQuery. Any number of online coding schools or in-person programs and dev bootcamps offer classes in these programming languages.
+
+Requirements for a junior web developer include: being able to write simple scripts; having an understanding of the expected application lifecycle; and possessing a basic understanding of database and application services, such as caching and queues.
+
+There may be occasions when junior web developers feel overwhelmed when they are asked to write complicated applications. Other days they may wonder why they are doing similar work to a senior web developer and not getting promoted. Both scenarios are completely normal. However, the biggest difference between a junior and senior developer is their level of experience.
+
+Software Web Developer, Sr. Software Web Developer
+A software web developer, or senior software web developer is someone who has: several years of professional programming experience; can write complex code; possesses a thorough understanding of databases, application services and application lifecycle development; and has become proficient at creating entire applications. Much of a software engineer’s career path will involve spending several years as a senior web developer.
+
+People who don’t like the idea of management and prefer to stick with writing code can spend many years or even their entire career as a senior web developer. However, this position can also be a great jumping off point to a position as a software engineer or a manager, such as lead software engineer or CTO (chief technical officer) of a startup.
+
+Lead Software Engineer, Technical Architect
+For someone who wants to take on additional responsibility and more of a challenge, but is not interested in team management, a lead software engineer or architect role may be a great fit.
+
+Lead engineers are looked to for guidance and direction by other engineers and programmers, and the role is seen as a mid-level management position. Lead engineers still write code, but also collaborate with others regarding work flow priorities and implement final decisions. They have years of programming experience, expertise in a specific subject matter, and can think of, plan, and build appropriate software to solve complicated problems.
+
+Architects still write code occasionally as well, however they are mainly responsible for designing complex systems that other web developers will implement. The role of architect is a technical one and not usually a stepping stone to something more - often thought of as the highest position on the technical side of things.
+
+Development Team Lead, Software Development Manager
+Management is the next step along the software engineer's career path that can involve different focuses and responsibilities. These can include managing teams of developers, managing large-scale projects, and hiring and firing developers.
+
+Mid-level managers (like lead software engineers) keep track of productivity and workflow in the department and report to a senior manager. A senior manager coordinates the needs of the project leader with the development team, which requires excellent people skills and the ability to resolve conflict effectively. The senior manager’s job is also to add or terminate employees to the team whenever necessary which can be a challenge at first, but a powerful leadership skill when mastered.
+
+Director, Vice President, Chief Technology Officer
+Senior management (which can include titles such as director, vice president, or chief technology officer) report to the CEO or to the company's board of directors. They oversee the work of other managers and often have some responsibility towards setting strategic and corporate direction. Some executive type responsibilities may include setting goals and initiatives, developing long-term strategies, and holding various departments accountable for specific measurable objectives. Senior managers are also responsible for supervising, hiring, and firing mid-level managers.
+
+If managing people is just not something you are interested in, a career as a software engineer still provides such a decent level of income that you can still be a team contributor and have a rewarding career.
+
+What is the difference between a software engineer and a software developer?
+Software engineers take part in software development by connecting the client’s needs with technological solutions.
+
+One of the main differences between software engineering and software development is job function. Software engineering applies engineering principles to create software, therefore software engineers take part in software development by connecting the client’s needs with technological solutions. They systematically develop processes to provide specific functions by using engineering concepts to develop software.
+
+On the other hand, software developers are responsible for the entire development process and are the driving creative force behind programs. They typically work together with the client to create a conceptual design and then have computer programmers create the programming code needed to run the software. The computer programmers along with the software developers will test and fix problems together and the developers will provide project leadership and technical guidance through each stage of the software development life cycle.
+
+To sum things up, a software engineer is often involved with software development, but very few software developers are engineers. The main difference between software engineering and software development is that one oversees the engineering while the other focuses on creating functional programs.
+
+See Also Web Developer
+What does it take to succeed as a software engineer?
+Attracted by high salaries, strong employment opportunities, and a chance to build things that can change the world, more people than ever are choosing software engineering as a career choice. However, succeeding in this career requires more than just great coding ability. The best software engineers bring specific qualities and attributes to the job that make them stand out from everyone else.
+
+Working well with others
+There are many media portrayals of a lone-wolf that stays up all night coding furiously in isolation. This stereotype represents coders as exceptionally smart but emotionally stunted. Unfortunately this type of temperament doesn't work well in real life. Software engineers who know how to work well with others are much more likely to be successful in their careers than lone wolves are.
+
+A software engineer's job is to figure problems out and to produce a great product, not just to write as many amazing lines of code as possible. That means communicating with other engineers, developers, managers, quality control people, customers, etc. and treating them with respect and understanding. The better your relationships are with your team, the better your own work will be.
+
+Letting go of the ego
+Not bringing your ego to work with you and staying humble can be difficult at times. No matter how good you think you are at what you do, it's inevitable that you will make mistakes along with some bad decisions. Accepting constructive criticism from your peers when errors are pointed out and accepting responsibility for your mistakes will make you a much better engineer in the long run. Possessing a humble attitude is the only way you'll be able to channel other people's feedback into improving, learning, and making yourself a better software engineer and person.
+
+Not putting out mediocre work
+Software engineers who pay attention to details tend to write higher-quality code. They tend to step back and catch mistakes, instead of rushing and cutting corners. Those that feel a personal sense of ownership and pride when it comes to their work tend to be more successful in this career. Putting effort into what you're doing wards off mediocrity and gives you that push to produce high-quality work and not get too complacent. Also, sharpening your skills by learning new languages or keeping abreast of any new data structures or algorithms can keep things interesting and fresh.
+
+Being naturally curious and interested
+People who love to learn are constantly improving and exploring new and better ways to do things. By listening to podcasts, reading blogs, or going to conferences, you can stay on top of the latest trends in software engineering and be looped into topics that will make you a stronger and more well-rounded engineer. By being open to new things, new ideas and approaches to solving problems may come to you that wouldn't have occurred to you otherwise.
+
+Developing soft skills
+Soft skills are fast becoming hard skills in this ever-changing world. It’s simply not enough to be highly skilled as a software engineer without developing skills that help you get along with your team effectively. These skills have a significant impact on a your attitude which ultimately ties back to your success. The skills for success tend to be fairly consistent - adaptability, problem-solving, self-management, attention to detail, creativity, communication, collaboration, work ethic, empathy, and organization are just a few. Keeping these qualities in mind can help any engineer improve, no matter how experienced.
+
+Seeing the big picture
+Understanding and balancing the day-to-day steps that are required to get to a goal yet not losing sight of the long-term vision is key to being a successful software engineer. By practicing this skill and thinking ahead, you will be able to see how each individual component will eventually contribute to the product as a whole and how each element will interact with each other. The ability to weigh out the long- and short-term outlook and see how certain decisions can influence the scope and direction of a project is a key attribute. Being able to adapt and prevent a project from derailing is what separates really good engineers from mediocre ones.
+
+Software Engineers are also known as:
+Software Developer Software Architect Software Development Engineer Computer Software Engineer
+
+Was this helpful?
+Up Next
+Software engineer salary
+The average salary for software engineers in the United States is around $92,823 per year. Salaries typically start from $55,235 and go up to $155,990.
+
+Read more
+
+Software Engineer Thumbnail
+Software Engineer
+Avg Salary
+$93k
+Growth
+31
+%
+Satisfaction
+Medium
+Your Compatibility
+Overview
+Salary
+Job Market
+How to Become
+Jobs
+Education
+Further Resources
+Satisfaction
+Personality
+Demographics
+Work Environment
+Explore related careers
+Slide 1 of 6

@@ -1,0 +1,37 @@
+Encyclopedia
+
+SEARCH ENCYCLOPEDIA
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+L
+M
+N
+O
+P
+Q
+R
+S
+T
+U
+V
+W
+X
+Y
+Z
+0-9
+MISC
+Definition of: image processing
+(1) Using an application to improve or alter an image. See paint program, image editor and image filter.
+(2) Image processing is an umbrella term for many functions that analyze images or convert one representation of an image into another. Although certain kinds of analog processing were performed in the past, today image processing is done in the digital domain. It is used in many fields, including surveillance, medical imaging, machine vision, robotics, computer-generated imagery (CGI), videoconferencing and satellite data analysis. Image processing is a subset of digital signal processing (see DSP).
+
+Applications that Process Images
+Face, fingerprint and iris recognition are image processing applications. A digital camera and scanner convert the view captured by the lens into a digital image file such as a JPEG (see digital camera and image filter). In video playback, the compressed video data are decoded back into full image frames for viewing (see video codec). For display and printing, graphics routines convert the data into the required matrix of pixels for the monitor or dots for the printer (see render). See imaging.

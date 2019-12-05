@@ -1,0 +1,144 @@
+Coursera
+Explore
+What do you want to learn?
+
+For Enterprise
+Log In
+
+
+National Research University Higher School of Economics
+AboutSyllabusReviewsInstructorsEnrollment OptionsFAQ
+About this Course
+23,928 recent views
+Numerical computations historically play a crucial role in natural sciences and engineering. These days however, it’s not only traditional «hard sciences»: whether you do digital humanities or biotechnology, whether you design novel materials or build artificial intelligence systems, virtually any quantitative work involves some amount of numerical computing .
+
+These days, you hardly ever implement the whole computation yourselves from scratch. We rely on libraries which package tried-and-tested, battle-hardened numerical primitives. It is vanishingly rare however that a library contains a single pre-packaged routine which does all what you need. Numerical computing involves assembling these building blocks into computational pipelines.
+This kind of work requires a general understanding of basic numerical methods, their strengths and weaknesses, their limitations and their failure modes. 
+
+And this is exactly what this course is about. It is meant to be an introductory, foundational course in numerical analysis, with the focus on basic ideas. We will review and develop basic characteristics of numerical algorithms (convergence, approximation, stability, computational complexity and so on), and will illustrate them with several classic problems in numerical mathematics. You will also work on implementing abstract mathematical constructions into working prototypes of numerical code. Upon completion of this course, you will have an overview of the main ideas of numerical computing, and will have a solid foundation for reading up on and working with more advanced numerical needs of your specific subject area.
+As prerequisites for this course, we assume a basic command of college-level mathematics (linear algebra and calculus, mostly), and a basic level of programming proficiency.
+
+Do you have technical problems? Write to us: coursera@hse.ru
+
+SHOW LESS
+100% online
+Start instantly and learn at your own schedule.
+Flexible deadlines
+Reset deadlines in accordance to your schedule.
+Intermediate Level
+Basic command of college-level mathematics (linear algebra and calculus). Basic level of programming proficiency: python programming language.
+
+Approx. 21 hours to complete
+Suggested: 7 weeks of study, 5-6
+hours/week
+English
+Subtitles: English
+
+
+
+
+
+
+
+
+
+Syllabus - What you will learn from this course
+WEEK
+1
+5 hours to complete
+Machine arithmetics. Systems of linear algebraic equations.
+10 videos (Total 60 min), 2 readings, 2 quizzes
+WEEK
+2
+3 hours to complete
+Numerical linear algebra.
+12 videos (Total 72 min), 1 reading, 1 quiz
+WEEK
+3
+3 hours to complete
+Non-linear algebraic equations.
+11 videos (Total 71 min), 1 quiz
+WEEK
+4
+3 hours to complete
+Iterative method for linear systems.
+8 videos (Total 55 min), 1 reading, 1 quiz
+4.9
+
+4 Reviews
+Top reviews from Introduction to numerical analysis
+By DD•SEP 6TH 2019
+Great course with useful homework assignments in Jupyter notebook. Highly recommended!
+
+Instructor
+Evgeni Burovski
+Assistant professor
+School of Applied mathematics, MIEM
+About National Research University Higher School of Economics
+National Research University - Higher School of Economics (HSE) is one of the top
+research universities in Russia. Established in 1992 to promote new research and
+teaching in economics and related disciplines, it now offers programs at all levels of
+university education across an extraordinary range of fields of study including
+business, sociology, cultural studies, philosophy, political science, international
+relations, law, Asian studies, media and communicamathematics, engineering, and
+more. Learn more on www.hse.ru
+Start Learning Today
+Financial aid available
+
+4,498 already enrolled!
+Shareable onLinkedIn
+You can share your Course Certificates in the Certifications section of your LinkedIn profile, on printed resumes, CVs, or other documents.
+Frequently Asked Questions
+When will I have access to the lectures and assignments?
+
+
+What will I get if I purchase the Certificate?
+
+
+What is the refund policy?
+
+
+Is financial aid available?
+
+
+More questions? Visit the Learner Help Center.
+
+Coursera
+Coursera provides universal access to the world’s best education, partnering with top universities and organizations to offer courses online.
+© 2019 Coursera Inc. All rights reserved.
+Download on the App Store
+Get it on Google Play
+COURSERA
+About
+Leadership
+Careers
+Catalog
+Certificates
+MasterTrack™ Certificates
+Degrees
+For Enterprise
+For Government
+For Campus
+COMMUNITY
+Learners
+Partners
+Developers
+Beta Testers
+Translators
+CONNECT
+Blog
+Facebook
+LinkedIn
+Twitter
+Instagram
+YouTube
+Tech Blog
+MORE
+Terms
+Privacy
+Help
+Accessibility
+Press
+Contact
+Directory
+Affiliates

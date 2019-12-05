@@ -1,0 +1,152 @@
+How to do Data Mining
+The accepted data mining process involves six steps:
+Business understanding
+
+The first step is establishing the goals of the project are and how data mining can help you reach that goal. A plan should be developed at this stage to include timelines, actions, and role assignments.
+
+Data understanding
+
+Data is collected from all applicable data sources in this step. Data visualization tools are often used in this stage to explore the properties of the data to ensure it will help achieve the business goals.
+
+Data preparation
+
+Data is then cleansed, and missing data is included to ensure it is ready to be mined. Data processing can take enormous amounts of time depending on the amount of data analyzed and the number of data sources. Therefore, distributed systems are used in modern database management systems (DBMS) to improve the speed of the data mining process rather than burden a single system. They’re also more secure than having all an organization’s data in a single data warehouse. It’s important to include failsafe measures in the data manipulation stage so data is not permanently lost.
+
+Data Modeling
+
+Mathematical models are then used to find patterns in the data using sophisticated data tools.
+
+Evaluation
+
+The findings are evaluated and compared to business objectives to determine if they should be deployed across the organization.
+
+Deployment
+
+In the final stage, the data mining findings are shared across everyday business operations. An enterprise business intelligence platform can be used to provide a single source of the truth for self-service data discovery.
+
+Data Mining Process
+Benefits of Data Mining
+Automated Decision-Making
+
+Data Mining allows organizations to continually analyze data and automate both routine and critical decisions without the delay of human judgment. Banks can instantly detect fraudulent transactions, request verification, and even secure personal information to protect customers against identity theft. Deployed within a firm’s operational algorithms, these models can collect, analyze, and act on data independently to streamline decision making and enhance the daily processes of an organization.
+
+Accurate Prediction and Forecasting
+
+Planning is a critical process within every organization. Data mining facilitates planning and provides managers with reliable forecasts based on past trends and current conditions. Macy’s implements demand forecasting models to predict the demand for each clothing category at each store and route the appropriate inventory to efficiently meet the market’s needs.
+
+Cost Reduction
+
+Data mining allows for more efficient use and allocation of resources. Organizations can plan and make automated decisions with accurate forecasts that will result in maximum cost reduction. Delta imbedded RFID chips in passengers checked baggage and deployed data mining models to identify holes in their process and reduce the number of bags mishandled. This process improvement increases passenger satisfaction and decreases the cost of searching for and re-routing lost baggage.
+
+Customer Insights
+
+Firms deploy data mining models from customer data to uncover key characteristics and differences among their customers. Data mining can be used to create personas and personalize each touchpoint to improve overall customer experience. In 2017, Disney invested over one billion dollars to create and implement “Magic Bands.” These bands have a symbiotic relationship with consumers, working to increase their overall experience at the resort while simultaneously collecting data on their activities for Disney to analyze to further enhance their customer experience.
+
+Challenges of Data Mining
+While a powerful process, data mining is hindered by the increasing quantity and complexity of big data. Where exabytes of data are collected by firms every day, decision-makers need ways to extract, analyze, and gain insight from their abundant repository of data.
+Big Data
+
+The challenges of big data are prolific and penetrate every field that collects, stores, and analyzes data. Big data is characterized by four major challenges: volume, variety, veracity, and velocity. The goal of data mining is to mediate these challenges and unlock the data’s value.
+
+Volume describes the challenge of storing and processing the enormous quantity of data collected by organizations. This enormous amount of data presents two major challenges: first, it is more difficult to find the correct data, and second, it slows down the processing speed of data mining tools.
+
+Variety encompasses the many different types of data collected and stored. Data mining tools must be equipped to simultaneously process a wide array of data formats. Failing to focus an analysis on both structured and unstructured data inhibits the value added by data mining.
+
+Velocity details the increasing speed at which new data is created, collected, and stored. While volume refers to increasing storage requirement and variety refers to the increasing types of data, velocity is the challenge associated with the rapidly increasing rate of data generation.
+
+Finally, veracity acknowledges that not all data is equally accurate. Data can be messy, incomplete, improperly collected, and even biased. With anything, the quicker data is collected, the more errors will manifest within the data. The challenge of veracity is to balance the quantity of data with its quality.
+
+Over-Fitting Models
+
+Over-fitting occurs when a model explains the natural errors within the sample instead of the underlying trends of the population. Over-fitted models are often overly complex and utilize an excess of independent variables to generate a prediction. Therefore, the risk of over-fitting is heighted by the increase in volume and variety of data. Too few variables make the model irrelevant, where as too many variables restrict the model to the known sample data. The challenge is to moderate the number of variables used in data mining models and balance its predictive power with accuracy.
+
+Data Mining Challenges
+Cost of Scale
+
+As data velocity continues to increase data’s volume and variety, firms must scale these models and apply them across the entire organization. Unlocking the full benefits of data mining with these models requires significant investment in computing infrastructure and processing power. To reach scale, organizations must purchase and maintain powerful computers, servers, and software designed to handle the firm’s large quantity and variety of data.
+
+Privacy and Security
+
+The increased storage requirement of data has forced many firms to turn toward cloud computing and storage. While the cloud has empowered many modern advances in data mining, the nature of the service creates significant privacy and security threats. Organizations must protect their data from malicious figures to maintain the trust of their partners and customers.
+
+With data privacy comes the need for organizations to develop internal rules and constraints on the use and implementation of a customer’s data. Data mining is a powerful tool that provides businesses with compelling insights into their consumers. However, at what point do these insights infringe on an individual’s privacy? Organizations must weigh this relationship with their customers, develop policies to benefit consumers, and communicate these policies to the consumers to maintain a trustworthy relationship.
+
+Types of Data Mining
+Data mining has two primary processes: supervised and unsupervised learning.
+Supervised Learning
+
+The goal of supervised learning is prediction or classification. The easiest way to conceptualize this process is to look for a single output variable. A process is considered supervised learning if the goal of the model is to predict the value of an observation. One example is spam filters, which use supervised learning to classify incoming emails as unwanted content and automatically remove these messages from your inbox.
+
+Common analytical models used in supervised data mining approaches are:
+
+Linear Regressions
+
+Linear regressions predict the value of a continuous variable using one or more independent inputs. Realtors use linear regressions to predict the value of a house based on square footage, bed-to-bath ratio, year built, and zip code.
+
+Logistic Regressions
+
+Logistic regressions predict the probability of a categorical variable using one or more independent inputs. Banks use logistic regressions to predict the probability that a loan applicant will default based on credit score, household income, age, and other personal factors.
+
+Time Series
+
+Time series models are forecasting tools which use time as the primary independent variable. Retailers, such as Macy’s, deploy time series models to predict the demand for products as a function of time and use the forecast to accurately plan and stock stores with the required level of inventory.
+
+Classification or Regression Trees
+
+Classification Trees are a predictive modeling technique that can be used to predict the value of both categorical and continuous target variables. Based on the data, the model will create sets of binary rules to split and group the highest proportion of similar target variables together. Following those rules, the group that a new observation falls into will become its predicted value.
+
+Neural Networks
+
+- A neural network is an analytical model inspired by the structure of the brain, its neurons, and their connections. These models were originally created in 1940s but have just recently gained popularity with statisticians and data scientists. Neural networks use inputs and, based on their magnitude, will “fire” or “not fire” its node based on its threshold requirement. This signal, or lack thereof, is then combined with the other “fired” signals in the hidden layers of the network, where the process repeats itself until an output is created. Since one of the benefits of neural networks is a near-instant output, self-driving cars are deploying these models to accurately and efficiently process data to autonomously make critical decisions.
+
+K-Nearest Neighbor
+
+The K-nearest neighbor method is used to categorize a new observation based on past observations. Unlike the previous methods, k-nearest neighbor is data-driven, not model-driven. This method makes no underlying assumptions about the data nor does it employ complex processes to interpret its inputs. The basic idea of the k-nearest neighbor model is that it classifies new observations by identifying its closest K neighbors and assigning it the majority’s value. Many recommender systems nest this method to identify and classify similar content which will later be pulled by the greater algorithm.
+
+Types of Data Mining
+Unsupervised Learning
+
+Unsupervised tasks focus on understanding and describing data to reveal underlying patterns within it. Recommendation systems employ unsupervised learning to track user patterns and provide them with personalized recommendations to enhance their customer experience.
+
+Common analytical models used in unsupervised data mining approaches are:
+
+Clustering
+
+Clustering models group similar data together. They are best employed with complex data sets describing a single entity. One example is lookalike modeling, to group similarities between segments, identify clusters, and target new groups who look like an existing group.
+
+Association Analysis
+
+Association analysis is also known as market basket analysis and is used to identify items that frequently occur together. Supermarkets commonly use this tool to identify paired products and spread them out in the store to encourage customers to pass by more merchandise and increase their purchases.
+
+Principal Component Analysis
+
+Principal component analysis is used to illustrate hidden correlations between input variables and create new variables, called principal components, which capture the same information contained in the original data, but with less variables. By reducing the number of variables used to convey the same level information, analysts can increase the utility and accuracy of supervised data mining models.
+
+Supervised and Unsupervised Approaches in Practice
+
+While you can use each approach independently, it is quite common to use both during an analysis. Each approach has unique advantages and combine to increase the robustness, stability, and overall utility of data mining models. Supervised models can benefit from nesting variables derived from unsupervised methods. For example, a cluster variable within a regression model allows analysts to eliminate redundant variables from the model and improve its accuracy. Because unsupervised approaches reveal the underlying relationships within data, analysts should use the insights from unsupervised learning to springboard their supervised analysis.
+
+Data Mining Trends
+Language Standardization
+
+Similar to the way that SQL evolved to become the preeminent language for databases, users are beginning to demand a standardization among data mining. This push allows users to conveniently interact with many different mining platforms while only learning one standard language. While developers are hesitant to make this change, as more users continue to support it, we can expect a standard language to be developed within the next few years.
+
+Scientific Mining
+
+With its proven success in the business world, data mining is being implemented in scientific and academic research. Psychologists now use association analysis to track and identify broader patterns in human behavior to support their research. Economists similarly employ forecasting algorithms to predict future market changes based on present-day variables.
+
+Complex Data Objects
+
+As data mining expands to influence other departments and fields, new methods are being developed to analyze increasingly varied and complex data. Google experimented with a visual search tool, whereby users can conduct a search using a picture as input in place of text. Data mining tools can no longer just accommodate text and numbers, they must have the capacity to process and analyze a variety of complex data types.
+
+Increased Computing Speed
+
+As data size, complexity, and variety increase, data mining tools require faster computers and more efficient methods of analyzing data. Each new observation adds an extra computation cycle to an analysis. As the quantity of data increases exponentially, so do the number of cycles needed to process the data. Statistical techniques, such as clustering, were built to efficiently handle a few thousand observations with a dozen variables. However, with organizations collecting millions of new observations with hundreds of variables, the calculations can become too complex for many computers to handle. As the size of data continues to grow, faster computers and more efficient methods are needed to match the required computing power for analysis.
+
+Web mining
+
+With the expansion of the internet, uncovering patterns and trends in usage is a great value to organizations. Web mining uses the same techniques as data mining and applies them directly on the internet. The three major types of web mining are content mining, structure mining, and usage mining. Online retailers, such as Amazon, use web mining to understand how customers navigate their webpage. These insights allow Amazon to restructure their platform to improve customer experience and increase purchases.
+
+The proliferation of web content was the catalyst for the World Wide Web Consortium (W3C) to introduce standards for the Semantic Web. This provides a standardized method to use common data formats and exchange protocols on the web. This makes data more easily shared, reused, and applied across regions and systems. This standardization makes it easier to mine large quantities of data for analysis.
+
+Data Mining Tools

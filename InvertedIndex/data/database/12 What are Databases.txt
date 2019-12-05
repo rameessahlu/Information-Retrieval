@@ -1,0 +1,46 @@
+What are Databases? - Examples & Types
+Chapter 11 /  Lesson 12   Transcript
+Video 
+Quiz 
+Course
+ Save  Timeline Autoplay  Speed Normal487K views
+Maitreyee
+Teacher
+United States
+02/04/2018
+Beautifully structured, analysed and explained. Easy to follow! Thank you
+Recommended Lessons and Courses for You
+Related LessonsRelated Courses
+Flat File Database: Definition & Example
+Flat File Database: Definition & Example
+Medical Terminology for Tissues, Organs & Glands
+Medical Terminology for Tissues, Organs & Glands
+What is a Relational Database? - Elements, Design & Advantages
+What is a Relational Database? - Elements, Design & Advantages
+Database Concepts and Structures: The Elements That Make Up a Database
+Database Concepts and Structures: The Elements That Make Up a Database
+Lesson Transcript
+Instructor: Szymon Machajewski
+Szymon has a PhD in Education, an MS in Information Management and a BS in Computer Science. He has taught Computer Science at a number of Higher Education institutions.
+
+In this lesson, we'll be looking at databases, which are computer mechanisms for storing and retrieving data. Test your knowledge following the lesson with a quiz.
+Defining Databases
+Databases are basically containers for data. Because a public library stores books, we could also say that a library is a database of books. But strictly defined, databases are computer structures that save, organize, protect, and deliver data. A system that contains databases is called a database management system, or DBM. The typical diagram representation for a database is a cylinder.
+
+Types of Databases
+The simplest form of databases is a text database. When data is organized in a text file in rows and columns, it can be used to store, organize, protect, and retrieve data. Saving a list of names in a file, starting with first name and followed by last name, would be a simple database. Each row of the file represents a record. You can update records by changing specific names, you can remove rows by deleting lines, and you can add new rows by adding new lines.
+
+Desktop database programs are another type of database that's more complex than a text database but intended for a single user. A Microsoft Excel spreadsheet or Microsoft Access are good examples of desktop database programs. These programs allow users to enter data, store it, protect it, and retrieve it when needed. The benefit of desktop database programs over text databases is the speed of changing data, and the ability to store large amounts of data while keeping performance of the system manageable.
+
+Relational databases are the most common database systems. They include databases like SQL Server, Oracle Database, Sybase, Informix, and MySQL. The relational database management systems (RDMS) feature much better performance for managing data over desktop database programs. For example, they allow multiple users (even thousands!) to work with the data at the same time, creating advanced security for access to the data. RDBMS systems store data in columns and rows, which in turn make up tables. A table in RDBMS is like a spreadsheet. A set of tables makes up a schema. A number of schemas create a database. Many databases can be created on a single server.
+
+The most innovative structures for storing data today are NoSQL and object-oriented databases. These do not follow the table/row/column approach of RDBMS. Instead, they build bookshelves of elements and allow access per bookshelf. So, instead of tracking individual words in books, NoSQL and object-oriented databases narrow down the data you are looking for by pointing you to the bookshelf, then a mechanical assistant works with the books to identify the exact word you are looking for. NoSQL specifically attempts to simplify bookshelves by storing data in a denormalized way; this means storing it in large chunks.
+
+Normalization is a database business process to break up data into the smallest possible parts. Instead of storing first and last name in one bucket, or field, normalization requires that you store the first name separately from the last name. This is helpful if you want to sort the data by last name or by first name. RDBMS systems require that data is normalized.
+
+Databases Categorized by Local Design
+Depending on how databases are designed, they can be divided into operational databases and database warehouses. When databases store everyday data with fast updates, they're transactional or operational. These are most common. For example, inventory databases and product databases are all operational. Such databases require high speed of writing and high speed of reading. This makes them special and very sensitive to performance.
+
+ To unlock this lesson you must be a Study.com Member. Create your account
+
+Register to view this lesson

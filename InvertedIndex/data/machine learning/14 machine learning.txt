@@ -1,0 +1,476 @@
+
+EDITION: US
+Search
+ MUST READ: Got an Oyster card? TfL just locked your account, wants you to reset your password
+PART OF A ZDNET SPECIAL FEATURE: MANAGING AI AND ML IN THE ENTERPRISE
+What is machine learning? Everything you need to know
+This guide explains what machine learning is, how it is related to artificial intelligence, how it works and why it matters.
+
+
+Nick Heath
+By Nick Heath | September 14, 2018 -- 15:35 GMT (08:35 PDT) | Topic: Managing AI and ML in the Enterprise
+
+SPECIAL FEATURE
+Special Feature: Managing AI and ML in the Enterprise
+Special Feature: Managing AI and ML in the Enterprise
+
+This ebook, based on the latest ZDNet / TechRepublic special feature, advises CXOs on how to approach AI and ML initiatives, figure out where the data science team fits in, and what algorithms to buy versus build.
+
+Read More
+
+Machine learning is enabling computers to tackle tasks that have, until now, only been carried out by people.
+
+From driving cars to translating speech, machine learning is driving an explosion in the capabilities of artificial intelligence -- helping software make sense of the messy and unpredictable real world.
+
+But what exactly is machine learning and what is making the current boom in machine learning possible?
+
+WHAT IS MACHINE LEARNING?
+At a very high level, machine learning is the process of teaching a computer system how to make accurate predictions when fed data.
+
+Those predictions could be answering whether a piece of fruit in a photo is a banana or an apple, spotting people crossing the road in front of a self-driving car, whether the use of the word book in a sentence relates to a paperback or a hotel reservation, whether an email is spam, or recognizing speech accurately enough to generate captions for a YouTube video.
+
+ADVERTISING
+
+The key difference from traditional computer software is that a human developer hasn't written code that instructs the system how to tell the difference between the banana and the apple.
+
+Instead a machine-learning model has been taught how to reliably discriminate between the fruits by being trained on a large amount of data, in this instance likely a huge number of images labelled as containing a banana or an apple.
+
+Upgrade your network to deliver flawless customer experiences
+Friction in your supply and fulfillment chain can lead to lost business. Keep customers happy by ensuring your network supports every interaction.
+Sponsored by Comcast Business
+Data, and lots of it, is the key to making machine learning possible.
+
+Blockchain, AI, machine learning: What do CIOs really think are the most exciting tech trends?
+How to use machine learning to accelerate your IoT initiatives
+WHAT IS THE DIFFERENCE BETWEEN AI AND MACHINE LEARNING?
+Machine learning may have enjoyed enormous success of late, but it is just one method for achieving artificial intelligence.
+
+At the birth of the field of AI in the 1950s, AI was defined as any machine capable of performing a task that would typically require human intelligence.
+
+AI systems will generally demonstrate at least some of the following traits: planning, learning, reasoning, problem solving, knowledge representation, perception, motion, and manipulation and, to a lesser extent, social intelligence and creativity.
+
+Alongside machine learning, there are various other approaches used to build AI systems, including evolutionary computation, where algorithms undergo random mutations and combinations between generations in an attempt to "evolve" optimal solutions, and expert systems, where computers are programmed with rules that allow them to mimic the behavior of a human expert in a specific domain, for example an autopilot system flying a plane.
+
+WHAT ARE THE MAIN TYPES OF MACHINE LEARNING?
+Machine learning is generally split into two main categories: supervised and unsupervised learning.
+
+WHAT IS SUPERVISED LEARNING?
+This approach basically teaches machines by example.
+
+During training for supervised learning, systems are exposed to large amounts of labelled data, for example images of handwritten figures annotated to indicate which number they correspond to. Given sufficient examples, a supervised-learning system would learn to recognize the clusters of pixels and shapes associated with each number and eventually be able to recognize handwritten numbers, able to reliably distinguish between the numbers 9 and 4 or 6 and 8.
+
+However, training these systems typically requires huge amounts of labelled data, with some systems needing to be exposed to millions of examples to master a task.
+
+As a result, the datasets used to train these systems can be vast, with Google's Open Images Dataset having about nine million images, its labeled video repository YouTube-8M linking to seven million labeled videos and ImageNet, one of the early databases of this kind, having more than 14 million categorized images. The size of training datasets continues to grow, with Facebook recently announcing it had compiled 3.5 billion images publicly available on Instagram, using hashtags attached to each image as labels. Using one billion of these photos to train an image-recognition system yielded record levels of accuracy -- of 85.4 percent -- on ImageNet's benchmark.
+
+The laborious process of labeling the datasets used in training is often carried out using crowdworking services, such as Amazon Mechanical Turk, which provides access to a large pool of low-cost labor spread across the globe. For instance, ImageNet was put together over two years by nearly 50,000 people, mainly recruited through Amazon Mechanical Turk. However, Facebook's approach of using publicly available data to train systems could provide an alternative way of training systems using billion-strong datasets without the overhead of manual labeling.
+
+How machine learning can be used to catch a hacker (TechRepublic)
+Scientists built this Raspberry Pi-powered, 3D-printed robot-lab to study flies
+WHAT IS UNSUPERVISED LEARNING?
+In contrast, unsupervised learning tasks algorithms with identifying patterns in data, trying to spot similarities that split that data into categories.
+
+An example might be Airbnb clustering together houses available to rent by neighborhood, or Google News grouping together stories on similar topics each day.
+
+The algorithm isn't designed to single out specific types of data, it simply looks for data that can be grouped by its similarities, or for anomalies that stand out.
+
+WHAT IS SEMI-SUPERVISED LEARNING?
+The importance of huge sets of labelled data for training machine-learning systems may diminish over time, due to the rise of semi-supervised learning.
+
+As the name suggests, the approach mixes supervised and unsupervised learning. The technique relies upon using a small amount of labelled data and a large amount of unlabelled data to train systems. The labelled data is used to partially train a machine-learning model, and then that partially trained model is used to label the unlabelled data, a process called pseudo-labelling. The model is then trained on the resulting mix of the labelled and pseudo-labelled data.
+
+The viability of semi-supervised learning has been boosted recently by Generative Adversarial Networks ( GANs), machine-learning systems that can use labelled data to generate completely new data, for example creating new images of Pokemon from existing images, which in turn can be used to help train a machine-learning model.
+
+Were semi-supervised learning to become as effective as supervised learning, then access to huge amounts of computing power may end up being more important for successfully training machine-learning systems than access to large, labelled datasets.
+
+WHAT IS REINFORCEMENT LEARNING?
+A way to understand reinforcement learning is to think about how someone might learn to play an old school computer game for the first time, when they aren't familiar with the rules or how to control the game. While they may be a complete novice, eventually, by looking at the relationship between the buttons they press, what happens on screen and their in-game score, their performance will get better and better.
+
+An example of reinforcement learning is Google DeepMind's Deep Q-network, which has beaten humans in a wide range of vintage video games. The system is fed pixels from each game and determines various information about the state of the game, such as the distance between objects on screen. It then considers how the state of the game and the actions it performs in game relate to the score it achieves.
+
+Over the process of many cycles of playing the game, eventually the system builds a model of which actions will maximize the score in which circumstance, for instance, in the case of the video game Breakout, where the paddle should be moved to in order to intercept the ball.
+
+HOW DOES SUPERVISED MACHINE LEARNING WORK?
+Everything begins with training a machine-learning model, a mathematical function capable of repeatedly modifying how it operates until it can make accurate predictions when given fresh data.
+
+Before training begins, you first have to choose which data to gather and decide which features of the data are important.
+
+A hugely simplified example of what data features are is given in this explainer by Google, where a machine learning model is trained to recognize the difference between beer and wine, based on two features, the drinks' color and their alcoholic volume (ABV).
+
+Each drink is labelled as a beer or a wine, and then the relevant data is collected, using a spectrometer to measure their color and hydrometer to measure their alcohol content.
+
+An important point to note is that the data has to be balanced, in this instance to have a roughly equal number of examples of beer and wine.
+
+The gathered data is then split, into a larger proportion for training, say about 70 percent, and a smaller proportion for evaluation, say the remaining 30 percent. This evaluation data allows the trained model to be tested to see how well it is likely to perform on real-world data.
+
+Before training gets underway there will generally also be a data-preparation step, during which processes such as deduplication, normalization and error correction will be carried out.
+
+The next step will be choosing an appropriate machine-learning model from the wide variety available. Each have strengths and weaknesses depending on the type of data, for example some are suited to handling images, some to text, and some to purely numerical data.
+
+HOW DOES SUPERVISED MACHINE-LEARNING TRAINING WORK?
+Basically, the training process involves the machine-learning model automatically tweaking how it functions until it can make accurate predictions from data, in the Google example, correctly labeling a drink as beer or wine when the model is given a drink's color and ABV.
+
+A good way to explain the training process is to consider an example using a simple machine-learning model, known as linear regression with gradient descent. In the following example, the model is used to estimate how many ice creams will be sold based on the outside temperature.
+
+Imagine taking past data showing ice cream sales and outside temperature, and plotting that data against each other on a scatter graph -- basically creating a scattering of discrete points.
+
+To predict how many ice creams will be sold in future based on the outdoor temperature, you can draw a line that passes through the middle of all these points, similar to the illustration below.
+
+ice-cream-temperature.png
+Image: Nick Heath / ZDNet
+
+Once this is done, ice cream sales can be predicted at any temperature by finding the point at which the line passes through a particular temperature and reading off the corresponding sales at that point.
+
+Bringing it back to training a machine-learning model, in this instance training a linear regression model would involve adjusting the vertical position and slope of the line until it lies in the middle of all of the points on the scatter graph.
+
+At each step of the training process, the vertical distance of each of these points from the line is measured. If a change in slope or position of the line results in the distance to these points increasing, then the slope or position of the line is changed in the opposite direction, and a new measurement is taken.
+
+In this way, via many tiny adjustments to the slope and the position of the line, the line will keep moving until it eventually settles in a position which is a good fit for the distribution of all these points, as seen in the video below. Once this training process is complete, the line can be used to make accurate predictions for how temperature will affect ice cream sales, and the machine-learning model can be said to have been trained.
+
+While training for more complex machine-learning models such as neural networks differs in several respects, it is similar in that it also uses a "gradient descent" approach, where the value of "weights" that modify input data are repeatedly tweaked until the output values produced by the model are as close as possible to what is desired.
+
+To master artificial intelligence, don't forget people and process
+How Adobe moves AI, machine learning research to the product pipeline
+HOW TO EVALUATE MACHINE-LEARNING MODELS?
+Once training of the model is complete, the model is evaluated using the remaining data that wasn't used during training, helping to gauge its real-world performance.
+
+To further improve performance, training parameters can be tuned. An example might be altering the extent to which the "weights" are altered at each step in the training process.
+
+WHAT ARE NEURAL NETWORKS AND HOW ARE THEY TRAINED?
+A very important group of algorithms for both supervised and unsupervised machine learning are neural networks. These underlie much of machine learning, and while simple models like linear regression used can be used to make predictions based on a small number of data features, as in the Google example with beer and wine, neural networks are useful when dealing with large sets of data with many features.
+
+Neural networks, whose structure is loosely inspired by that of the brain, are interconnected layers of algorithms, called neurons, which feed data into each other, with the output of the preceding layer being the input of the subsequent layer.
+
+Each layer can be thought of as recognizing different features of the overall data. For instance, consider the example of using machine learning to recognize handwritten numbers between 0 and 9. The first layer in the neural network might measure the color of the individual pixels in the image, the second layer could spot shapes, such as lines and curves, the next layer might look for larger components of the written number -- for example, the rounded loop at the base of the number 6. This carries on all the way through to the final layer, which will output the probability that a given handwritten figure is a number between 0 and 9.
+
+See more: Special report: How to implement AI and machine learning (free PDF)
+
+The network learns how to recognize each component of the numbers during the training process, by gradually tweaking the importance of data as it flows between the layers of the network. This is possible due to each link between layers having an attached weight, whose value can be increased or decreased to alter that link's significance. At the end of each training cycle the system will examine whether the neural network's final output is getting closer or further away from what is desired -- for instance is the network getting better or worse at identifying a handwritten number 6. To close the gap between between the actual output and desired output, the system will then work backwards through the neural network, altering the weights attached to all of these links between layers, as well as an associated value called bias. This process is called back-propagation.
+
+Eventually this process will settle on values for these weights and biases that will allow the network to reliably perform a given task, such as recognizing handwritten numbers, and the network can be said to have "learned" how to carry out a specific task
+
+traininginference1.png
+An illustration of the structure of a neural network and how training works.
+
+Image: Nvidia
+WHAT IS DEEP LEARNING AND WHAT ARE DEEP NEURAL NETWORKS?
+A subset of machine learning is deep learning, where neural networks are expanded into sprawling networks with a huge number of layers that are trained using massive amounts of data. It is these deep neural networks that have fueled the current leap forward in the ability of computers to carry out task like speech recognition and computer vision.
+
+There are various types of neural networks, with different strengths and weaknesses. Recurrent neural networks are a type of neural net particularly well suited to language processing and speech recognition, while convolutional neural networks are more commonly used in image recognition. The design of neural networks is also evolving, with researchers recently devising a more efficient design for an effective type of deep neural network called long short-term memory or LSTM, allowing it to operate fast enough to be used in on-demand systems like Google Translate.
+
+The AI technique of evolutionary algorithms is even being used to optimize neural networks, thanks to a process called neuroevolution. The approach was recently showcased by Uber AI Labs, which released papers on using genetic algorithms to train deep neural networks for reinforcement learning problems.
+
+Deep Learning: The interest is more than latent
+Dell EMC high-performance computing bundles aimed at AI, deep learning
+WHY IS MACHINE LEARNING SO SUCCESSFUL?
+While machine learning is not a new technique, interest in the field has exploded in recent years.
+
+This resurgence comes on the back of a series of breakthroughs, with deep learning setting new records for accuracy in areas such as speech and language recognition, and computer vision.
+
+What's made these successes possible are primarily two factors, one being the vast quantities of images, speech, video and text that is accessible to researchers looking to train machine-learning systems.
+
+But even more important is the availability of vast amounts of parallel-processing power, courtesy of modern graphics processing units (GPUs), which can be linked together into clusters to form machine-learning powerhouses.
+
+Today anyone with an internet connection can use these clusters to train machine-learning models, via cloud services provided by firms like Amazon, Google and Microsoft.
+
+As the use of machine-learning has taken off, so companies are now creating specialized hardware tailored to running and training machine-learning models. An example of one of these custom chips is Google's Tensor Processing Unit (TPU), the latest version of which accelerates the rate at which machine-learning models built using Google's TensorFlow software library can infer information from data, as well as the rate at which they can be trained.
+
+These chips are not just used to train models for Google DeepMind and Google Brain, but also the models that underpin Google Translate and the image recognition in Google Photo, as well as services that allow the public to build machine learning models using Google's TensorFlow Research Cloud. The second generation of these chips was unveiled at Google's I/O conference in May last year, with an array of these new TPUs able to train a Google machine-learning model used for translation in half the time it would take an array of the top-end GPUs, and the recently announced third-generation TPUs able to accelerate training and inference even further.
+
+As hardware becomes increasingly specialized and machine-learning software frameworks are refined, it's becoming increasingly common for ML tasks to be carried out on consumer-grade phones and computers, rather than in cloud datacenters. In the summer of 2018, Google took a step towards offering the same quality of automated translation on phones that are offline as is available online, by rolling out local neural machine translation for 59 languages to the Google Translate app for iOS and Android.
+
+The great data science hope: Machine learning can cure your terrible data hygiene
+Machine learning as a service: Can privacy be taught?
+Five ways your company can get started implementing AI and ML
+Why AI and machine learning need to be part of your digital transformation plans
+WHAT IS ALPHAGO?
+Perhaps the most famous demonstration of the efficacy of machine-learning systems was the 2016 triumph of the Google DeepMind AlphaGo AI over a human grandmaster in Go, a feat that wasn't expected until 2026. Go is an ancient Chinese game whose complexity bamboozled computers for decades. Go has about 200 moves per turn, compared to about 20 in Chess. Over the course of a game of Go, there are so many possible moves that searching through each of them in advance to identify the best play is too costly from a computational standpoint. Instead, AlphaGo was trained how to play the game by taking moves played by human experts in 30 million Go games and feeding them into deep-learning neural networks.
+
+Training the deep-learning networks needed can take a very long time, requiring vast amounts of data to be ingested and iterated over as the system gradually refines its model in order to achieve the best outcome.
+
+However, more recently Google refined the training process with AlphaGo Zero, a system that played "completely random" games against itself, and then learnt from the results. At last year's prestigious Neural Information Processing Systems (NIPS) conference, Google DeepMind CEO Demis Hassabis revealed AlphaGo had also mastered the games of chess and shogi.
+
+DeepMind continue to break new ground in the field of machine learning. In July 2018, DeepMind reported that its AI agents had taught themselves how to play the 1999 multiplayer 3D first-person shooter Quake III Arena, well enough to beat teams of human players. These agents learned how to play the game using no more information than the human players, with their only input being the pixels on the screen as they tried out random actions in game, and feedback on their performance during each game.
+
+More recently DeepMind demonstrated an AI agent capable of superhuman performance across multiple classic Atari games, an improvement over earlier approaches where each AI agent could only perform well at a single game. DeepMind researchers say these general capabilities will be important if AI research is to tackle more complex real-world domains.
+
+Google's AlphaGo retires after beating Chinese Go champion
+DeepMind AlphaGo Zero learns on its own without meatbag intervention
+WHAT IS MACHINE LEARNING USED FOR?
+Machine learning systems are used all around us, and are a cornerstone of the modern internet.
+
+Machine-learning systems are used to recommend which product you might want to buy next on Amazon or video you want to may want to watch on Netflix.
+
+Every Google search uses multiple machine-learning systems, to understand the language in your query through to personalizing your results, so fishing enthusiasts searching for "bass" aren't inundated with results about guitars. Similarly Gmail's spam and phishing-recognition systems use machine-learning trained models to keep your inbox clear of rogue messages.
+
+One of the most obvious demonstrations of the power of machine learning are virtual assistants, such as Apple's Siri, Amazon's Alexa, the Google Assistant, and Microsoft Cortana.
+
+Each relies heavily on machine learning to support their voice recognition and ability to understand natural language, as well as needing an immense corpus to draw upon to answer queries.
+
+But beyond these very visible manifestations of machine learning, systems are starting to find a use in just about every industry. These exploitations include: computer vision for driverless cars, drones and delivery robots; speech and language recognition and synthesis for chatbots and service robots; facial recognition for surveillance in countries like China; helping radiologists to pick out tumors in x-rays, aiding researchers in spotting genetic sequences related to diseases and identifying molecules that could lead to more effective drugs in healthcare; allowing for predictive maintenance on infrastructure by analyzing IoT sensor data; underpinning the computer vision that makes the cashierless Amazon Go supermarket possible, offering reasonably accurate transcription and translation of speech for business meetings -- the list goes on and on.
+
+Deep-learning could eventually pave the way for robots that can learn directly from humans, with researchers from Nvidia recently creating a deep-learning system designed to teach a robot to how to carry out a task, simply by observing that job being performed by a human.
+
+Startup uses AI and machine learning for real-time background checks
+Three out of four believe that AI applications are the next mega trend
+How ubiquitous AI will permeate everything we do without our knowledge
+ARE MACHINE-LEARNING SYSTEMS OBJECTIVE?
+As you'd expect, the choice and breadth of data used to train systems will influence the tasks they are suited to.
+
+For example, in 2016 Rachael Tatman, a National Science Foundation Graduate Research Fellow in the Linguistics Department at the University of Washington, found that Google's speech-recognition system performed better for male voices than female ones when auto-captioning a sample of YouTube videos, a result she ascribed to 'unbalanced training sets' with a preponderance of male speakers.
+
+As machine-learning systems move into new areas, such as aiding medical diagnosis, the possibility of systems being skewed towards offering a better service or fairer treatment to particular groups of people will likely become more of a concern.
+
+WHICH ARE THE BEST MACHINE-LEARNING COURSES?
+A heavily recommended course for beginners to teach themselves the fundamentals of machine learning is this free Stanford University and Coursera lecture series by AI expert and Google Brain founder Andrew Ng.
+
+Another highly-rated free online course, praised for both the breadth of its coverage and the quality of its teaching, is this EdX and Columbia University introduction to machine learning, although students do mention it requires a solid knowledge of math up to university level.
+
+HOW TO GET STARTED WITH MACHINE LEARNING?
+Technologies designed to allow developers to teach themselves about machine learning are increasingly common, from AWS' deep-learning enabled camera DeepLens to Google's Raspberry Pi-powered AIY kits.
+
+WHICH SERVICES ARE AVAILABLE FOR MACHINE LEARNING?
+All of the major cloud platforms -- Amazon Web Services, Microsoft Azure and Google Cloud Platform -- provide access to the hardware needed to train and run machine-learning models, with Google letting Cloud Platform users test out its Tensor Processing Units -- custom chips whose design is optimized for training and running machine-learning models.
+
+This cloud-based infrastructure includes the data stores needed to hold the vast amounts of training data, services to prepare that data for analysis, and visualization tools to display the results clearly.
+
+Newer services even streamline the creation of custom machine-learning models, with Google recently revealing a service that automates the creation of AI models, called Cloud AutoML. This drag-and-drop service builds custom image-recognition models and requires the user to have no machine-learning expertise, similar to Microsoft's Azure Machine Learning Studio. In a similar vein, Amazon recently unveiled new AWS offerings designed to accelerate the process of training up machine-learning models.
+
+For data scientists, Google's Cloud ML Engine is a managed machine-learning service that allows users to train, deploy and export custom machine-learning models based either on Google's open-sourced TensorFlow ML framework or the open neural network framework Keras, and which now can be used with the Python library sci-kit learn and XGBoost.
+
+Database admins without a background in data science can use Google's BigQueryML, a beta service that allows admins to call trained machine-learning models using SQL commands, allowing predictions to be made in database, which is simpler than exporting data to a separate machine learning and analytics environment.
+
+For firms that don't want to build their own machine-learning models, the cloud platforms also offer AI-powered, on-demand services -- such as voice, vision, and language recognition. Microsoft Azure stands out for the breadth of on-demand services on offer, closely followed by Google Cloud Platform and then AWS.
+
+Meanwhile IBM, alongside its more general on-demand offerings, is also attempting to sell sector-specific AI services aimed at everything from healthcare to retail, grouping these offerings together under its IBM Watson umbrella.
+
+Early in 2018, Google expanded its machine-learning driven services to the world of advertising, releasing a suite of tools for making more effective ads, both digital and physical.
+
+While Apple doesn't enjoy the same reputation for cutting edge speech recognition, natural language processing and computer vision as Google and Amazon, it is investing in improving its AI services, recently putting Google's former chief in charge of machine learning and AI strategy across the company, including the development of its assistant Siri and its on-demand machine learning service Core ML.
+
+In September 2018, NVIDIA launched a combined hardware and software platform designed to be installed in datacenters that can accelerate the rate at which trained machine-learning models can carry out voice, video and image recognition, as well as other ML-related services.
+
+The NVIDIA TensorRT Hyperscale Inference Platform uses NVIDIA Tesla T4 GPUs, which delivers up to 40x the performance of CPUs when using machine-learning models to make inferences from data, and the TensorRT software platform, which is designed to optimize the performance of trained neural networks.
+
+Amazon Web Services adds more data and ML services, but when is enough enough?
+Microsoft Stresses Choice, From SQL Server 2017 to Azure Machine Learning
+Splunk updates flagship suites with machine learning, AI advances
+WHICH SOFTWARE LIBRARIES ARE AVAILABLE FOR GETTING STARTED WITH MACHINE LEARNING?
+There are a wide variety of software frameworks for getting started with training and running machine-learning models, typically for the programming languages Python, R, C++, Java and MATLAB.
+
+Famous examples include Google's TensorFlow, the open-source library Keras, the Python library Scikit-learn, the deep-learning framework CAFFE and the machine-learning library Torch.
+
+FURTHER READING
+Special report: Harnessing IoT in the enterprise (free PDF) (TechRepublic)
+Machine learning and the Internet of Things
+Machine learning: A cheat sheet (TechRepublic)
+Analytics in 2018: AI, IoT and multi-cloud, or bust
+5 tips to overcome machine learning adoption barriers in the enterprise (TechRepublic)
+RELATED TOPICS: AMAZON DIGITAL TRANSFORMATION CXO INTERNET OF THINGS INNOVATION ENTERPRISE SOFTWARE
+Nick Heath
+By Nick Heath | September 14, 2018 -- 15:35 GMT (08:35 PDT) | Topic: Managing AI and ML in the Enterprise
+
+ SHOW COMMENTS
+
+NEWSLETTERS
+ZDNet Week in Review - US
+A weekly summary of the news that matters in business technology.
+Your email address
+ SUBSCRIBE
+SEE
+ALL
+
+MORE RESOURCES
+ESG Technical Validation on IBM Watson Studio and Watson Machine Learning
+
+White Papers from IBM
+ READ NOW
+Free 30-day trial of Watson Studio Desktop and IBM SPSS Modeler
+
+Resource Center from IBM
+ READ NOW
+Product Tour of IBM Watson Machine Learning with Watson Studio
+
+Training from IBM
+ READ NOW
+RELATED STORIES
+Singapore government must realise human error also a security breach
+Security
+
+Singapore government must realise human error also a security breach
+
+Alibaba Cloud publishes machine learning algorithm on GitHub
+Artificial Intelligence
+
+Alibaba Cloud publishes machine learning algorithm on GitHub
+
+AI Meets CRM and BI: 15 Salesforce Einstein and Einstein Analytics Announcements from Dreamforce 2019
+Big Data Analytics
+
+AI Meets CRM and BI: 15 Salesforce Einstein and Einstein Analytics Announcements from Dreamforce 2019
+
+Artificial Intelligence
+
+The minds that built AI and the writer who adored them
+
+
+
+PART OF A ZDNET SPECIAL FEATURE: MANAGING AI AND ML IN THE ENTERPRISE
+The true costs and ROI of implementing AI in the enterprise
+Leaders championing AI/ML initiatives need viable use cases and compelling metrics to advance their cause. Here’s how to approach cost justification, identify ROI, and avoid implementation missteps.
+
+Mary Shacklett
+By Mary Shacklett | April 1, 2019 -- 16:58 GMT (09:58 PDT) | Topic: Managing AI and ML in the Enterprise
+
+
+SPECIAL FEATURE
+Special Feature: Managing AI and ML in the Enterprise
+Special Feature: Managing AI and ML in the Enterprise
+
+This ebook, based on the latest ZDNet / TechRepublic special feature, advises CXOs on how to approach AI and ML initiatives, figure out where the data science team fits in, and what algorithms to buy versus build.
+
+Read More
+
+A recent analysis of web topic popularity by web content evaluator MarketMuse revealed that 80 percent of IT and corporate business leaders want to learn more about the cost of implementing existing AI technology in an enterprise; 74 percent are interested in how much more it would cost over present expenditure levels to implement AI in their enterprises; and 69 percent want more information about how to measure return on investment (ROI) for a new AI solution.
+
+Concerns about AI and machine learning (ML) costs and payoffs correlated with data I recently evaluated for Tech Pro Research. That research showed that a majority of organizations don't have a clear understanding of how AI/ML is going to help their businesses. Unsure of results, 64 percent of the survey respondents reported using pilot projects to test AI/ML concepts before proceeding into full implementations.
+
+The takeaways are clear. In fact, they are all too familiar whenever companies deal with emerging technologies. Just as cloud technology presented its share of uncertainties when it was first being deployed, so AI and ML are generating similar heartburn as companies cautiously move forward.
+
+The causes for this anxiety are easy to understand. Many organizational influencers still don't know enough about AI/ML and how these newer technologies can pay off for their businesses. They are uncertain when they step into strategic meetings and budget discussions. They are asking themselves, "How far can I push for these promising new technologies when I lack empirical, first-hand knowledge about their pros and cons -- and about the investment paybacks that management will surely ask me for?"
+
+In short, AI champions, whether they come from IT or the end business, want affirmation in two principal areas:
+
+How can I present an impactive business case for AI/ML?
+How can I ensure that there will be an acceptable return on investment and understanding of ongoing costs for any recommendation I might make?
+SEE: Free machine learning courses from Google, Amazon, and Microsoft: What do they offer? (Tech Pro Research)
+
+Developing the business case
+According to the TechRepublic research, 53 percent of companies interviewed reported that they don't have a clear understanding of how AI or ML could benefit their businesses.
+
+This is a red flag area, where vendors and industry consultants with experience both in AI/ML and in specific industry verticals can help.
+
+Consultants can work alongside corporate IT and business managers, helping them identify sound business use cases where AI and ML can be put to work and pay off.
+
+AI and ML vendors can help by prepackaging AI/ML uses cases that are purposed toward specific industry verticals. One example is IBM Watson for healthcare, which is now a 'tried' and prepackaged solution that hospitals and medical clinics can use to assist in medical diagnoses.
+
+Even with prepackaged and tried solutions, however, it is currently company best practice to trial these systems with a preliminary pilot project that can 1) show that the solution will deliver what the company thinks it will and 2) show promise that it will deliver a return on money and effort investments.
+
+An AI/ML pilot project is important as a technology proof of concept that could justify increased spending. It is equally important as a vehicle that can build confidence and experience with AI in both IT and the end business.
+
+SEE: The impact of machine learning on IT and your career (free TechRepublic PDF)
+
+Justifying the investment
+Once business use cases are identified and trialed, the task of identifying an ROI and funding the costs of a broader implementation of AI/ML begins.
+
+A common method IT departments employ for calculating ROI for an IT project is assessing how much time and money a system improvement will subtract from a business process. For example, if you're investing in virtual servers to replace physical servers in the data center, as most companies did 10 years ago, it's relatively straightforward to calculate your upfront costs in new virtualization software and equipment and then compare this against the floorspace, energy, and physical server investments you're saving.
+
+With AI and ML, determining an ROI isn't that simple.
+
+Most commonly, AI and ML can be used to achieve manpower savings because they can automate portions of operational and decision-making processes -- but they seldom automate or economize all parts of an end-to-end business  workflow.
+
+Why is this important?
+
+Because promoters of AI and ML will be expected to provide an ROI that their companies will see on the bottom line. This means that the entire business workflow, not just part of it, must deliver tangible bottom-line value.
+
+For instance, if you automate packaging on an assembly line, reducing time and waste, but all of your other end-to-end processes are unaffected and continue to throttle the workflow, the ROI visibility of your AI/ML insertion and its ROI delivery will be lost.
+
+TAKEAWAY
+If you're piloting AI/ML for a single process in an entire chain of end-to-end business processes, ensure that the AI/ML you're using can also be leveraged for value to these other business processes so you can make a total impact on the business without bottlenecks. And as part of this effort, if you are first documenting an ROI gain for a single business process, be sure to structure that ROI around that single business process only, so company expectations are properly set.
+
+Understanding (and factoring in) the costs for a true ROI
+At its simplest, an ROI formula benchmarks a current process against a revised process that uses AI and/ or ML. So, if you're using AI/ML for purposes of medical diagnosis, suddenly you have compute power and predictive algorithms that enable the digestion of thousands of pages of medical data in seconds, resulting in a rapid diagnosis of a patient's medical condition that a medical specialist then reviews and assesses. The desired outcomes you measure for are speed to diagnosis, reduction in man-hours, and improved accuracy of results. If these business metrics are achieved, ROI is well on its way because the AI/ML have reduced time to diagnosis, saved man-hours, and hopefully have reduced margins for error.
+
+Unfortunately, this initial ROI doesn't factor in the cost of obtaining more compute power, storage and so on, to support the new solution. Nor does it include time for restructuring business processes, revising surrounding systems, integrating these disparate systems with the new AI platform, training IT and end business users, consumption of energy and data center costs, initial implementation costs, licensing, etcetera. These setup and ongoing support costs must also be factored into the ROI equation to ensure that you are still achieving positive ROI results over time.
+
+TAKEAWAY
+Achieving an initially attractive ROI in a pilot project by reducing time of operations or improving revenue potential is not a strong enough ROI result to move forward with. The champion of an AI/ML project should get together with finance and determine longer-term ROI projections over a period of several years. These long-term projections should take into account every corporate asset that is required to run the AI/ML, such as new equipment/software, cloud costs, energy and data center costs, training costs, system and business process revision and integration costs -- and even extra manpower that might be needed to run the new technology. The goal should be achieving an ROI that remains in the black over time and that builds on its value by continuing to enrich business processes and results.
+
+SEE: How to differentiate between AI, machine learning, and deep learning (TechRepublic)
+
+Avoiding the ROI sand traps
+Another key to producing a credible ROI formula that can operate over the long term for AI/ML is to recognize the potential cost sand traps that can threaten your ROI. Here are several typical ones:
+
+SYSTEM INTEGRATION
+AI/ML systems don't operate in a vacuum. Vendors know this, and many will tell you that their systems have a complete set of APIs that interoperate with all systems. This works until the AI must work with a highly customized or legacy system you have in-house. When this happens, it is usually IT that must hand-code system interfaces.
+
+This costs time and money, and both can destroy your ROI.
+
+AI GONE WRONG
+Because AI depends upon computers emulating the human mind, and because ML is a subset of AI that strives to continue learning from repetitive pattern recognition in the same way that the human mind learns, computers -- like the human mind -- can misinterpret.
+
+One case in point: Symrise, a major global fragrance company in Germany, used AI to produce new perfumes for Brazil's Millennial market. These perfumes boosted revenues and global reach. But Symrise executive Anton Daub said it took almost two years to get to this point. Those two years were spent in intensive training of the AI system by Symrise's perfumers and included costly IT upgrades to connect the company's disparate data to the AI.
+
+Because AI systems need to be continually recalibrated and trained, there will always be a 'venture' element in any AI project -- because the human mind (and emulating it) can be unpredictable. This uncertainty must be planned for in any AI ROI formula. One step AI promoters can take is to educate upper management of the risks so that these risks can be planned for and managed. A second step is to factor risk into the ROI formula by adding a 20 percent cushion to your AI project cost projections as a margin for the unknown and the unexpected.
+
+NEW SYSTEM AND BUSINESS PROCESSES
+Introducing AI in your company is going to impact systems and business processes. Minimally, systems that need to communicate and exchange information with your AI must be integrated with the AI. System processes will by necessity be modified. As the AI is rolled out to your business operations, processes that formerly were performed by humans will be undertaken by the AI -- causing the displaced humans to enter into new and/or revised job roles. This business process revision will need be planned for, trained for, and accounted for in your ROI formula.
+
+Also see
+Machine learning: A cheat sheet (TechRepublic)
+Artificial intelligence: A business leader's guide (TechRepublic download)
+IT leader's guide to deep learning (Tech Pro Research)
+What is AI? Everything you need to know about Artificial Intelligence (ZDNet)
+6 ways to delete yourself from the internet (CNET)
+Artificial Intelligence: More must-read coverage (TechRepublic on Flipboard)
+RELATED TOPICS: DIGITAL TRANSFORMATION CXO INTERNET OF THINGS INNOVATION ENTERPRISE SOFTWARE SMART CITIES
+Mary Shacklett
+By Mary Shacklett | April 1, 2019 -- 16:58 GMT (09:58 PDT) | Topic: Managing AI and ML in the Enterprise
+
+ SHOW COMMENTS
+NEWSLETTERS
+ZDNet Week in Review - US
+A weekly summary of the news that matters in business technology.
+Your email address
+ SUBSCRIBE
+SEE
+ALL
+MORE RESOURCES
+Scaling data science: How best-in-class companies innovate with machine learning
+
+White Papers from IBM
+ READ NOW
+8x8's Enterprise Engagement Management Platform: Moving Toward an Integrated Approach
+
+White Papers from 8x8, Inc.
+ READ NOW
+How to Solve the Enterprise Communications Crisis with an Open Cloud Strategy
+
+White Papers from 8x8, Inc.
+ READ NOW
+RELATED STORIES
+Security
+
+Singapore government must realise human error also a security breach
+
+Artificial Intelligence
+
+Alibaba Cloud publishes machine learning algorithm on GitHub
+
+Big Data Analytics
+
+AI Meets CRM and BI: 15 Salesforce Einstein and Einstein Analytics Announcements from Dreamforce 2019
+
+Artificial Intelligence
+
+The minds that built AI and the writer who adored them
+
+ZDNetCONNECT WITH US   
+© 2019 CBS Interactive. All rights reserved. Privacy Policy | Cookies | Ad Choice | Advertise | Terms of Use | Mobile User Agreement
+
+Visit other CBS Interactive sites: 
+TOPICS
+ALL AUTHORS
+GALLERIES
+VIDEOS
+SPONSORED NARRATIVES
+ABOUT ZDNET
+MEET THE TEAM
+SITE MAP
+RSS FEEDS
+REPRINT POLICY
+JOIN | LOG IN | MEMBERSHIP
+NEWSLETTERS
+SITE ASSISTANCE
+ZDNET ACADEMY
+TECHREPUBLIC FORUMS

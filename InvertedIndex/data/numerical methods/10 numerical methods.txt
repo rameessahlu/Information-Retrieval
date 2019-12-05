@@ -1,0 +1,989 @@
+
+Holistic Numerical Methods
+
+Transforming Numerical Methods Education for the STEM Undergraduate
+
+ 	 
+
+ 
+Home
+
+Resources    
+
+
+
+Search    
+
+1st time Visitor
+
+Keyword
+Social Media    
+
+
+
+
+Support Project
+
+MOOC | MOBILE | VIDEOS | BLOG | YOUTUBE | TWITTER | COMMENTS | ANALYTICS | ABOUT | CONTACT | COURSE WEBSITES | BOOKS | MATH FOR COLLEGE
+
+DIGITAL AUDIOVISUAL LECTURES
+
+In 2009, we recorded 200 instructional videos for the topics of a typical course in Numerical Methods at University of South Florida and Arizona State University.  These videos have been annotated, and are also available at the YouTube channel named numericalmethodsguy.  Additions to the video lectures were made in 2010 and 2012 to cover a few more topics (such as Simpson's 1/3 rule, Gauss Seidel Method, Lagrange Interpolation, Fast Fourier Transforms, Partial Differential Equations, and Optimization, etc) that are taught at other universities.   In 2013 alone, we have had 900,000 views of these videos.
+
+INTRODUCTION TO SCIENTIFIC COMPUTING
+
+INTRODUCTION TO NUMERICAL METHODS (CHAPTER 01.01)
+
+ 	
+On Steps of Solving an Engineering Problem: Part 1 of 2 [YOUTUBE 8:54] [TRANSCRIPT]
+
+On Steps of Solving an Engineering Problem: Part 2 of 2 [YOUTUBE 7:35] [TRANSCRIPT]
+
+Enumerating Use of Numerical Methods for Mathematical Procedures: Part 1 of 2 [YOUTUBE 10:42] [TRANSCRIPT]
+
+Enumerating Use of Numerical Methods for Mathematical Procedures: Part 2 of 2 [YOUTUBE 7:13] [TRANSCRIPT]
+
+ 
+
+MEASURING ERRORS (CHAPTER 01.02)
+
+ 	
+True Error: Definition & Example [YOUTUBE 8:10] [TRANSCRIPT]
+
+Relative True Error: Definition & Example [YOUTUBE 7:39] [TRANSCRIPT]
+
+Approximate Error Definition & Example  [YOUTUBE 6:39]  [TRANSCRIPT]
+
+Relative Approximate Error: Definition & Example  [YOUTUBE 8:45]  [TRANSCRIPT]
+
+ 
+
+SOURCES OF ERROR (CHAPTER 01.03)
+
+ 	
+Round-off Error: Definition and Examples [YOUTUBE 3:47] [TRANSCRIPT]
+
+Effect of Carrying Significant Digits [YOUTUBE 7:48] [TRANSCRIPT]
+
+Truncation Error: Definition [YOUTUBE 8:34] [TRANSCRIPT]
+
+Truncation Error: Example: Series [YOUTUBE 6:44] [TRANSCRIPT]
+
+Truncation Error: Example: Integration [YOUTUBE 6:12] [TRANSCRIPT]
+
+Truncation Error: Example: Differentiation [YOUTUBE 10:14] [TRANSCRIPT]
+
+ 
+
+BINARY REPRESENTATION (CHAPTER 01.04)
+
+ 	
+Introduction to Binary Representation [YOUTUBE 6:41] [TRANSCRIPT]
+
+Base-10 to Base-2 Conversion Method [YOUTUBE 9:14] [TRANSCRIPT]
+
+Base-10 to Base-2 Conversion Another Method [YOUTUBE 9:14] [TRANSCRIPT]
+ 
+
+FLOATING POINT REPRESENTATION (CHAPTER 01.05)
+
+ 	
+Floating Point Representation Background: Part 1 of 3 [ YOUTUBE 7:37] [TRANSCRIPT]
+
+Floating Point Representation Background: Part 2 of 3 [ YOUTUBE 10:43] [TRANSCRIPT]
+
+Floating Point Representation Background: Part 3  of 3[ YOUTUBE 1:58] [TRANSCRIPT]
+
+Floating Point Representation: Example: Part 1 of 1  [YOUTUBE 7:50] [TRANSCRIPT]
+
+Floating Point Representation: Example: Part 2 of 2  [YOUTUBE 6:48] [TRANSCRIPT]
+
+Floating Point Representation - Biased Exponent: Example [YOUTUBE 8:51] [TRANSCRIPT]
+
+IEEE-754 Single Precision Representation: Part 1 of 2 [YOUTUBE 4:57] [TRANSCRIPT]
+
+IEEE-754 Single Precision Representation: Part 2 of 2 [YOUTUBE 8:38] [TRANSCRIPT]
+
+ 
+
+TAYLOR'S THEOREM REVISITED (CHAPTER 01.06)
+
+ 	
+Introduction to Taylor Series [YOUTUBE 7:28] [TRANSCRIPT]
+
+Taylor Series: Example [YOUTUBE 6:31] [TRANSCRIPT]
+
+Taylor Series: Deriving the Series for exp(x)  [YOUTUBE 5:30] [TRANSCRIPT]
+
+Taylor Series: Example: Finding sin(2.0) [YOUTUBE 10:32] [TRANSCRIPT]
+DIFFERENTIATION
+
+BACKGROUND (CHAPTER 02.01)
+
+ 	
+Background of Differentiation [YOUTUBE 7:17] [TRANSCRIPT]
+
+ 
+
+DIFFERENTIATION OF CONTINUOUS FUNCTIONS (CHAPTER 02.02)
+
+ 	
+Forward Divided Difference: Part 1 of 2 [YOUTUBE 9:28] [TRANSCRIPT]
+
+Forward Divided Difference: Part 2 of 2 [YOUTUBE 4:41] [TRANSCRIPT]
+
+Backward Divided Difference: Part 1 of 2 [YOUTUBE 9:08] [TRANSCRIPT]
+
+Backward Divided Difference: Part 2 of 2[YOUTUBE 5:32] [TRANSCRIPT]
+
+Central Divided Difference [YOUTUBE 9:53] [TRANSCRIPT]
+
+Higher Order Derivative Divided Difference: Theory [YOUTUBE 8:37] [TRANSCRIPT]
+
+Higher Order Derivative Divided Difference: Example [YOUTUBE 6:04] [TRANSCRIPT]
+
+Accuracy of Divided Difference Formulas: Part 1 of 2 [YOUTUBE 8:16] [TRANSCRIPT]
+
+Accuracy of Divided Difference Formulas  Part 2 of 2 [YOUTUBE 3:51] [TRANSCRIPT]
+
+ 
+
+DIFFERENTIATION OF DISCRETE FUNCTIONS (CHAPTER 02.03)
+
+ 	
+Divided Difference Approach [YOUTUBE 10:07] [TRANSCRIPT]
+
+Polynomial Interpolation Method [YOUTUBE 8:09] [TRANSCRIPT]
+
+Newton's Divided Difference Polynomial Method: Theory [YOUTUBE 7:45] [TRANSCRIPT]
+
+Newton's Divided Difference Polynomial Method: Example [YOUTUBE  8:28] [TRANSCRIPT]
+
+NONLINEAR EQUATIONS
+
+QUADRATIC EQUATIONS (CHAPTER 03.01)
+
+ 	
+The Quadratic Equation Formula [YOUTUBE 4:22] [TRANSCRIPT]
+
+Derivation of the Quadratic Formula [YOUTUBE  5:41] [TRANSCRIPT]
+
+Example of Quadratic Equation [YOUTUBE  7:48] [TRANSCRIPT]
+
+ 
+
+BISECTION METHOD (CHAPTER 03.03)
+
+ 	
+Background of Bisection Method [YOUTUBE  9:04] [TRANSCRIPT]
+
+Algorithm  of Bisection Method [YOUTUBE  9:47] [TRANSCRIPT]
+
+Example of Bisection Method [YOUTUBE  9:53] [TRANSCRIPT]
+
+Advantages & Drawbacks of Bisection Method [YOUTUBE  8:31] [TRANSCRIPT]
+
+ 
+
+NEWTON-RAPHSON METHOD (CHAPTER 03.04)
+
+ 	
+Derivation of Newton-Raphson Method [YOUTUBE 8:24] [TRANSCRIPT]
+
+Example for Newton-Raphson Method [YOUTUBE 10:06] [TRANSCRIPT]
+
+Advantages & Drawbacks for Newton-Raphson Method: Part 1 of 2 [YOUTUBE 7:09] [TRANSCRIPT]
+
+Advantages & Drawbacks for Newton-Raphson Method: Part 2 of 2 [YOUTUBE 4:43] [TRANSCRIPT]
+
+Derivation from Taylor Series of Newton-Raphson Method [YOUTUBE 7:56] [TRANSCRIPT]
+
+Supercomputers have No Divide Unit - A Newton-Raphson Method Approach [YOUTUBE 10:14] [TRANSCRIPT]
+
+Supercomputers have No Divide Unit - Example [YOUTUBE 5:23] [TRANSCRIPT]
+
+Finding Square Root of a Number - A Newton-Raphson Method Approach [YOUTUBE 6:34] [TRANSCRIPT]
+
+Finding Square Root of a Number - Example [YOUTUBE 7:03] [TRANSCRIPT]
+
+ 
+
+SECANT METHOD (CHAPTER 03.05)
+
+ 	
+Derivation of Secant Method: Approach 1 of 2 [YOUTUBE 5:58] [TRANSCRIPT]
+
+Derivation of Secant Method: Approach 2 of 2 [YOUTUBE 6:59] [TRANSCRIPT]
+
+Algorithm  of Secant Method  [YOUTUBE  5:16] [TRANSCRIPT]
+
+Example of Secant Method [YOUTUBE  8:16] [TRANSCRIPT]
+
+ 
+
+FALSE-POSITION METHOD (CHAPTER 03.06)
+
+ 	
+False-Position Method: Part 1 of 3 [YOUTUBE  15:08] 
+
+False-Position Method: Part 2 of 3 [YOUTUBE  15:01] 
+
+False-Position Method: Part 3 of 3 [YOUTUBE  11:09] 
+
+SIMULTANEOUS LINEAR EQUATIONS
+
+BACKGROUND (CHAPTER 04.01)
+
+ 	
+Diagonal and Identity Matrices [YOUTUBE 5:21] [TRANSCRIPT]
+
+What is a Diagonally Dominant Matrix [YOUTUBE 10:49] [TRANSCRIPT]
+
+Upper and Lower Triangular Matrices [YOUTUBE 5:21] [TRANSCRIPT]
+
+Adding Two Matrices [YOUTUBE 4:53] [TRANSCRIPT]
+
+Subtracting Two Matrices [YOUTUBE 5:34] [TRANSCRIPT]
+
+Multiplying Two Matrices [YOUTUBE 10:06] [TRANSCRIPT]
+
+Inverse of a Matrix [YOUTUBE 4:53] [TRANSCRIPT]
+
+Setting up Equations in a Matrix Form [YOUTUBE 7:07] [TRANSCRIPT]
+
+ 
+
+GAUSSIAN ELIMINATION (CHAPTER 04.06)
+
+ 	
+Naive Gaussian elimination: Theory: Part 1 of 2 [YOUTUBE 10:27] [TRANSCRIPT]
+
+Naive Gaussian elimination: Theory: Part 2 of 2 [YOUTUBE 2:22] [TRANSCRIPT]
+
+Naive Gauss Elimination Method: Example: Part 1 of 2 (Forward Elimination) [YOUTUBE 10:49] [TRANSCRIPT]
+
+Naive Gauss Elimination Method: Example: Part 2 of 2 (Back Substitution) [YOUTUBE 6:40] [TRANSCRIPT]
+
+ 
+
+Pitfalls of Naive Gauss Elimination Method: [YOUTUBE 7:20] [TRANSCRIPT]
+
+Naive Gauss Elimination: Round-off Error Issues: Example: Part 1 of 3 [YOUTUBE 7:20] [TRANSCRIPT]
+
+Naive Gauss Elimination: Round-off Error Issues: Example: Part 2 of 3 [YOUTUBE 7:40] [TRANSCRIPT]
+
+Naive Gauss Elimination: Round-off Error Issues: Example: Part 3 of 3 [YOUTUBE 8:07] [TRANSCRIPT]
+
+ 
+
+Gaussian Elimination With Partial Pivoting: Theory [YOUTUBE 10:39] [TRANSCRIPT]
+
+Gaussian Elimination With Partial Pivoting: Example: Part 1 of 3 (Forward Elimination) [YOUTUBE 7:15] [TRANSCRIPT]
+
+Gaussian Elimination With Partial Pivoting: Example: Part 2 of 3 (Forward Elimination) [YOUTUBE 10:08] [TRANSCRIPT]
+
+Gaussian Elimination With Partial Pivoting: Example: Part 3 of 3 (Back Substitution) [YOUTUBE 6:18] [TRANSCRIPT]
+
+ 
+
+Gaussian Elimination With Partial Pivoting: Round-off Error Issues: Example: Part 1 of 3 [YOUTUBE 8:58] [TRANSCRIPT]
+
+Gaussian Elimination With Partial Pivoting: Round-off Error Issues: Example: Part 2 of 3 [YOUTUBE 8:17] [TRANSCRIPT]
+
+Gaussian Elimination With Partial Pivoting: Round-off Error Issues: Example: Part 3 of 3 [YOUTUBE 5:48] [TRANSCRIPT]
+
+ 
+
+Determinant of a Matrix Using Forward Elimination Method: Background [YOUTUBE 5:17] [TRANSCRIPT]
+
+Determinant of a Matrix Using Forward Elimination Method: Example [YOUTUBE 10:07] [TRANSCRIPT]
+
+ 
+
+GAUSS-SEIDEL METHOD (CHAPTER 04.07)
+
+ 	
+Gauss-Seidel Method of Solving Simul Linear Eqns: Theory: Part 1 of 2 [YOUTUBE 8:01] [TRANSCRIPT]
+
+Gauss-Seidel Method of Solving Simul Linear Eqns: Theory: Part 2 of 2 [YOUTUBE 5:38] [TRANSCRIPT]
+
+Gauss-Seidel Method of Solving Simul Linear Eqns: Example: Part 1 of 2 [YOUTUBE 9:17] [TRANSCRIPT]
+
+Gauss-Seidel Method of Solving Simul Linear Eqns: Example: Part 2 of 2 [YOUTUBE 7:40] [TRANSCRIPT]
+
+Gauss-Seidel Method of Solving Simul Linear Eqns:
+
+                                                                       Pitfalls and Advantages: Part 1 of 2 [YOUTUBE 7:50] [TRANSCRIPT]
+
+Gauss-Seidel Method of Solving Simul Linear Eqns:
+
+                                                                       Pitfalls and Advantages: Part 2 of 2  [YOUTUBE 8:14] [TRANSCRIPT]
+
+ 
+
+LU DECOMPOSITION (CHAPTER 04.08)
+
+ 	
+LU Decomposition: Basis [YOUTUBE 9:02] [TRANSCRIPT]
+
+LU Decomposition Method: Example  [YOUTUBE 10:29] [TRANSCRIPT]
+
+Why LU Decomposition:  Part 1 [YOUTUBE 4:58] [TRANSCRIPT]
+
+Why LU Decomposition:  Part 2 [YOUTUBE 8:05] [TRANSCRIPT]
+
+Decomposing a Square Matrix:  Part 1 of 2 [YOUTUBE 6:56] [TRANSCRIPT]
+
+Decomposing a Square Matrix:  Part 2 of 2 [YOUTUBE 4:37] [TRANSCRIPT]
+
+Finding Inverse of a Matrix Using LU Decomposition: Background [YOUTUBE 6:03] [TRANSCRIPT]
+
+Finding Inverse of a Matrix Using LU Decomposition: Example [YOUTUBE 10:20] [TRANSCRIPT]
+
+ 
+
+CHOLESKY AND LDLT DECOMPOSITION (CHAPTER 04.11)
+
+ 	
+Cholesky Decomposition: Part 1 of 4 [YOUTUBE 14:02]
+
+Cholesky Decomposition: Part 2 of 4 [YOUTUBE 15:00]
+
+Cholesky Decomposition: Part 3 of 4 [YOUTUBE 13:04]
+
+Cholesky Decomposition: Part 4 of 4 [YOUTUBE 9:03]
+
+LDL Transpose Method: Part 1 of 3 [YOUTUBE 13:15]
+
+LDL Transpose Method: Part 2 of 3 [YOUTUBE 10:21]
+
+LDL Transpose Method: Part 3 of 3 [YOUTUBE 10:41]
+
+Online Chess Like Game for Solving Simultaneous Linear Equations: Part 1 of 3 [YOUTUBE 14:51]
+
+Online Chess Like Game for Solving Simultaneous Linear Equations: Part 2 of 3 [YOUTUBE 12:50]
+
+Online Chess Like Game for Solving Simultaneous Linear Equations: Part 3 of 3 [YOUTUBE 13:29]
+
+INTERPOLATION
+
+BACKGROUND ((CHAPTER 05.01)
+
+ 	
+Uniqueness of Polynomial Interpolant: Part 1 of 2 [YOUTUBE 8:26] [TRANSCRIPT]
+
+Uniqueness of Polynomial Interpolant: Part 2 of 2 [YOUTUBE 9:50] [TRANSCRIPT]
+
+ 
+
+DIRECT METHOD ((CHAPTER 05.02)
+
+ 	
+Linear Interpolation [YOUTUBE 8:53] [TRANSCRIPT]
+
+Quadratic Interpolation [YOUTUBE 8:17] [TRANSCRIPT]
+
+Cubic Interpolation - Part 1 of 2 [YOUTUBE 9:37]  [TRANSCRIPT]
+
+Cubic Interpolation - Part 2 of 2 [YOUTUBE 7:51] [TRANSCRIPT]
+
+ 
+
+NEWTON DIVIDED DIFFERENCE METHOD (CHAPTER 05.03)
+
+ 	
+Newton's Divided Difference Polynomial: Linear Interpolation: Theory [YOUTUBE 8:18] [TRANSCRIPT]
+
+Newton's Divided Difference Polynomial: Linear Interpolation: Example [YOUTUBE 7:36] [TRANSCRIPT]
+
+Newton's Divided Difference Polynomial: Quadratic Interpolation: Theory [YOUTUBE 10:23] [TRANSCRIPT]
+
+Newtons Divided Difference Polynomial Interpolation: Quadratic Interpolation: Example Part 1 of 2 [YOUTUBE 8:45] [TRANSCRIPT]
+
+Newtons Divided Difference Polynomial Interpolation: Quadratic Interpolation: Example Part 2 of 2 [YOUTUBE 5:10] [TRANSCRIPT]
+
+General Order: Newton's Divided Difference Polynomial: Theory: Part 1 of 2  [YOUTUBE 8:54] [TRANSCRIPT]
+
+General Order: Newton's Divided Difference Polynomial: Theory: Part 2 of 2  [YOUTUBE 4:37] [TRANSCRIPT]
+
+General Order: Newton's Divided Difference Polynomial: Example: Part 1 of 2  [YOUTUBE 6:17] [TRANSCRIPT]
+
+General Order: Newton's Divided Difference Polynomial: Example: Part 2 of 2 [YOUTUBE 9:14] [TRANSCRIPT]
+
+ 
+
+LAGRANGIAN INTERPOLATION (CHAPTER 05.04)
+
+ 	
+Lagrangian Interpolation: Theory [YOUTUBE 7:45] [TRANSCRIPT]
+
+Lagrangian Interpolation: Linear Interpolation: Example [YOUTUBE 10:50] [TRANSCRIPT]
+
+Lagrangian Interpolation: Quadratic Interpolation: Example: Part 1 of 2 [YOUTUBE 10:17] [TRANSCRIPT]
+
+Lagrangian Interpolation: Quadratic Interpolation: Example: Part 2 of 2  [YOUTUBE 3:55] [TRANSCRIPT]
+
+Lagrangian Interpolation: Cubic Interpolation: Example: Part 1 of 2   [YOUTUBE 9:37] [TRANSCRIPT]
+
+Lagrangian Interpolation: Cubic Interpolation: Example: Part 2 of 2  [YOUTUBE 6:42] [TRANSCRIPT]
+
+ 
+
+SPLINE INTERPOLATION (CHAPTER 05.05)
+
+ 	
+Linear Spline Interpolation: Theory [YOUTUBE 7:56] [TRANSCRIPT]
+
+Linear Spline Interpolation: Example [YOUTUBE 5:27] [TRANSCRIPT]
+
+Quadratic Spline Theory: Part 1 of 2 [YOUTUBE 9:49] [TRANSCRIPT]
+
+Quadratic Spline Theory: Part 2 of 2 [YOUTUBE 5:27] [TRANSCRIPT]
+
+Quadratic Spline Interpolation: Example: Part 1 of 2 [YOUTUBE 10:48] [TRANSCRIPT]
+
+Quadratic Spline Interpolation: Example: Part 2 of 2 [YOUTUBE 7:05] [TRANSCRIPT]
+
+ 
+
+SPECIAL TOPICS OF INTERPOLATION (CHAPTER 05.06)
+
+ 	
+The Lurking Dangers of Extrapolation [YOUTUBE 5:58] [TRANSCRIPT]
+
+Higher Order Interpolation is a Bad Idea [YOUTUBE 8:36] [TRANSCRIPT]
+
+Interpolating a Short and Smooth Path for a Robot [YOUTUBE 4:18] [TRANSCRIPT]
+
+REGRESSION
+
+LINEAR REGRESSION (CHAPTER 06.03)
+
+ 	
+Linear Regression Background: Part 1 of 2 [YOUTUBE 8:10] [TRANSCRIPT]
+
+Linear Regression Background: Part 2 of 2 [YOUTUBE 3:55] [TRANSCRIPT]
+
+Linear Regression Derivation: Part 1 of 2 [YOUTUBE 6:22] [TRANSCRIPT]
+
+Linear Regression Derivation: Part 2 of 2 [YOUTUBE 8:44] [TRANSCRIPT]
+
+Linear Regression: Example [YOUTUBE 10:24] [TRANSCRIPT]
+
+Linear Regression With Zero Intercept: Derivation [YOUTUBE 9:32] [TRANSCRIPT]
+
+Linear Regression With Zero Intercept: Example [YOUTUBE 8:48] [TRANSCRIPT]
+
+ 
+
+NONLINEAR REGRESSION (CHAPTER 06.04)
+
+ 	
+Power Model: Derivation: Part 1 of 2 [YOUTUBE 4:07] [TRANSCRIPT]
+
+Power Model: Derivation: Part 2 of 2 [YOUTUBE 8:11] [TRANSCRIPT]
+
+Power Model : Transformed Data: Derivation [YOUTUBE 8:52] [TRANSCRIPT]
+
+Power Model : Transformed Data: Example Part 1 of 2  [YOUTUBE 5:49] [TRANSCRIPT]
+
+Power Model : Transformed Data: Example Part 2 of 2  [YOUTUBE 9:12] [TRANSCRIPT]
+
+ 
+
+Exponential Model Regression: Derivation: Part 1 of 2 [YOUTUBE 5:50] [TRANSCRIPT]
+
+Exponential Model Regression: Derivation: Part 2 of 2 [YOUTUBE 9:50] [TRANSCRIPT]
+
+Exponential Model :  Example Part 1 of 2  [YOUTUBE 10:07] [TRANSCRIPT]
+
+Exponential Model :  Example Part 2 of 2  [YOUTUBE 1:44] [TRANSCRIPT]
+
+ 
+
+Exponential Model : Transformed Data: Derivation [YOUTUBE 9:37] [TRANSCRIPT]
+
+Exponential Model : Transformed Data: Example Part 1 of 2  [YOUTUBE 7:11] [TRANSCRIPT]
+
+Exponential Model : Transformed Data: Example Part 2 of 2  [YOUTUBE 9:14] [TRANSCRIPT]
+
+ 
+
+Saturation Growth Model: Transformed Data: Derivation [YOUTUBE 8:27] [TRANSCRIPT]
+
+ 
+
+Harmonic Decline Curve: Transformed Data: Derivation [YOUTUBE 9:16] [TRANSCRIPT]
+
+Harmonic Decline Curve : Transformed Data: Example Part 1 of 2  [YOUTUBE 6:18] [TRANSCRIPT]
+
+Harmonic Decline Curve : Transformed Data: Example Part 2 of 2  [YOUTUBE 8:47] [TRANSCRIPT]
+
+ 
+
+Polynomial Model :  Derivation: Part 1 of 2  [YOUTUBE 7:47] [TRANSCRIPT]
+
+Polynomial Model :  Derivation: Part 2 of 2   [YOUTUBE 9:40] [TRANSCRIPT]
+
+Polynomial Model :  Example Part 1 of 2  [YOUTUBE 6:42] [TRANSCRIPT]
+
+Polynomial Model :  Example Part 2 of 2  [YOUTUBE 6:16] [TRANSCRIPT]
+
+ 
+
+ADEQUACY OF REGRESSION MODELS (CHAPTER 06.05)
+
+ 	
+Adequacy of Regression Models: Introduction [YOUTUBE 6:04] [TRANSCRIPT]
+
+Adequacy of Regression Models : Check One: Plot the Data [YOUTUBE 2:06] [TRANSCRIPT]
+
+Adequacy of Regression Models : Check Two: Standard Error of Estimate [YOUTUBE 10:00] [TRANSCRIPT]
+
+Adequacy of Regression Models : Check Three: Coefficient of  Determination: Part 1 of 2 [YOUTUBE 7:54] [TRANSCRIPT]
+
+Adequacy of Regression Models : Check Three: Coefficient of  Determination: Part 2 of 2 [YOUTUBE 6:47] [TRANSCRIPT]
+
+Adequacy of Regression Models : Check Four: Assumption of Random Errors [YOUTUBE 6:32] [TRANSCRIPT]
+
+INTEGRATION
+
+ 
+
+PRIMER ON INTEGRAL CALCULUS (CHAPTER 07.01)
+
+ 	
+Accumulation Function: Example [YOUTUBE 10:51] [TRANSCRIPT]
+
+ 
+
+TRAPEZOIDAL RULE (CHAPTER 07.02)
+
+ 	
+Trapezoidal Rule Derivation [YOUTUBE 10:51] [TRANSCRIPT]
+
+Trapezoidal Rule: Example [YOUTUBE  7:18] [TRANSCRIPT] 
+
+Trapezoidal Rule Multiple Segment Rule: Motivation [YOUTUBE 4:53] [TRANSCRIPT]
+
+Trapezoidal Rule Multiple Segment Rule: Derivation [YOUTUBE 7:48] [TRANSCRIPT]
+
+Trapezoidal Rule Multiple Segment Rule: Example: Part 1 of 2 [YOUTUBE 8:17] [TRANSCRIPT]
+
+Trapezoidal Rule Multiple Segment Rule: Example: Part 2 of 2 [YOUTUBE 3:41] [TRANSCRIPT]
+
+Trapezoidal Rule Multiple Segment Rule: Error Derivation [YOUTUBE  8:46] [TRANSCRIPT] 
+
+Trapezoidal Rule Multiple Segment Rule: Error Example [YOUTUBE  8:52] [TRANSCRIPT] 
+
+Method of Undetermined Coefficients: Trapezoidal Rule Derivation [YOUTUBE 10:00] [TRANSCRIPT]
+
+ 
+
+SIMPSON'S 1/3 RULE (CHAPTER 07.03)
+
+ 	
+Simpson's One Third Rule Derivation [YOUTUBE 10:44] [TRANSCRIPT]
+
+Simpsons 1/3 Rule of Integration: Example [YOUTUBE 7:03] [TRANSCRIPT]
+
+Multiple Segment Simpson 1/3 Rule Derivation Part 1 of 2  [YOUTUBE 8:14] [TRANSCRIPT]
+
+Multiple Segment Simpson 1/3 Rule Derivation Part 2 of 2 [YOUTUBE 6:41] [TRANSCRIPT]
+
+Multiple Segment Simpson 1/3 Rule Example: Part 1 of 2 [YOUTUBE 8:26] [TRANSCRIPT]
+
+Multiple Segment Simpson 1/3 Rule Derivation Part 2 of 2 [YOUTUBE 8:47] [TRANSCRIPT]
+
+ 
+
+ROMBERG INTEGRATION (CHAPTER 07.04)
+
+ 	
+Multiple Segment Trapezoidal Rule Error: Derivation [YOUTUBE 8:45] [TRANSCRIPT]
+
+Multiple Segment Trapezoidal Rule Error: Example [YOUTUBE 8:51] [TRANSCRIPT]
+
+Richardsons Extrapolation of Trapezoidal Rule: Theory [YOUTUBE 9:45] [TRANSCRIPT]
+
+Richardsons Extrapolation of Trapezoidal Rule: Example [YOUTUBE 9:23] [TRANSCRIPT]
+
+Romberg Integration: Theory: Part 1 of 2[YOUTUBE 9:17] [TRANSCRIPT]
+
+Romberg Integration: Theory: Part 2 of 2 [YOUTUBE 6:35] [TRANSCRIPT]
+
+ 
+
+GAUSS QUADRATURE RULE (CHAPTER 07.05)
+
+ 	
+Method of Undetermined Coefficients: Trapezoidal Rule Derivation [YOUTUBE 10:00] [TRANSCRIPT]
+
+2-pt Gaussian Quadrature Rule: Derivation  [YOUTUBE  8:43] [TRANSCRIPT]
+
+n-pt Gaussian Quadrature Rule: Discussion [YOUTUBE 8:52] [TRANSCRIPT]
+
+Converting Limits of Integration [YOUTUBE 7:13] [TRANSCRIPT]
+
+Gaussian Quadrature Rule: Example [ YOUTUBE 8:55] [TRANSCRIPT]
+
+1-pt Gaussian Quadrature Rule: Derivation  [YOUTUBE  8:36] [TRANSCRIPT] 
+
+Complete Derivation of Two Point Gaussian Quadrature Rule: Part 1 of 3 [ YOUTUBE 9:46] [TRANSCRIPT]
+
+Complete Derivation of Two Point Gaussian Quadrature Rule: Part 2 of 3 [ YOUTUBE 3:31] [TRANSCRIPT]
+
+Complete Derivation of Two Point Gaussian Quadrature Rule: Part 3 of 3 [ YOUTUBE 9:58] [TRANSCRIPT]
+
+ 
+
+DISCRETE DATA INTEGRATION (CHAPTER 07.06)
+
+ 	
+Integrating Discrete Functions by Average Method [YOUTUBE 8:29] [TRANSCRIPT]
+
+Integrating Discrete Functions by Trapezoidal Rule [YOUTUBE  10:52] [TRANSCRIPT]
+
+Integrating Discrete Functions via Polynomial Interpolation [YOUTUBE 9:32] [TRANSCRIPT]
+
+Integrating Discrete Functions via Spline Interpolation [YOUTUBE 5:32] [TRANSCRIPT]
+
+Integrating Discrete Functions via Regression Method [YOUTUBE 8:23] [TRANSCRIPT]
+ 
+
+IMPROPER INTEGRATION (CHAPTER 07.07)
+
+ 	
+Improper Integration: Background  [YOUTUBE 4:56] [TRANSCRIPT]
+
+Improper Integration: Singular Integrand: Example  [YOUTUBE 9:16] [TRANSCRIPT]
+
+Multiple Segment Gauss Quadrature Rule for Singular Integrands: Part 1 of 2  [YOUTUBE 5:24] [TRANSCRIPT]
+
+Multiple Segment Gauss Quadrature Rule for Singular Integrands: Part 2 of 2  [YOUTUBE 7:41] [TRANSCRIPT]
+
+ 
+
+SIMPSON'S 3/8 RULE OF INTEGRATION (CHAPTER 07.08)
+
+ 	
+Simpsons 3/8 Rule of Integration: Part 1 of 7 [YOUTUBE 15:09]
+
+Simpsons 3/8 Rule of Integration: Part 2 of 7 [YOUTUBE 14:48]
+
+Simpsons 3/8 Rule of Integration: Part 3 of 7 [YOUTUBE 15:13]
+
+Simpsons 3/8 Rule of Integration: Part 4 of 7 [YOUTUBE 12:39]
+
+Simpsons 3/8 Rule of Integration: Part 5 of 7 [YOUTUBE 13:37]
+
+Simpsons 3/8 Rule of Integration: Part 6 of 7 [YOUTUBE 11:59]
+
+Simpsons 3/8 Rule of Integration: Part 7 of 7 [YOUTUBE 05:09]
+
+ORDINARY DIFFERENTIAL EQUATIONS
+
+PRIMER ON ODE (CHAPTER 08.01)
+
+ 	
+Exact Solution of 1st order ODE [YOUTUBE 6:48] [TRANSCRIPT]
+
+Exact Solution of 1st order ODE: Another Example [YOUTUBE 7:37] [TRANSCRIPT]
+
+Exact Solution of 2nd order ODE: Distinct Roots of Characteristic Equation [YOUTUBE  8:50] [TRANSCRIPT] 
+
+Exact Solution of 2nd order ODE: Repeated Roots of Characteristic Equation [YOUTUBE  8:41] [TRANSCRIPT]
+
+Exact Solution of 2nd order ODE: Complex Roots of Characteristic Equation [YOUTUBE  9:34] [TRANSCRIPT]
+ 
+
+EULER'S METHOD (CHAPTER 08.02)
+
+ 	
+Euler's Method of Solving ODEs: Derivation  [YOUTUBE 9:53] [TRANSCRIPT]
+
+Euler's Method of Solving ODEs: Example [YOUTUBE 10:57] [TRANSCRIPT]
+
+Euler's Method of Estimating Integrals: Theory [YOUTUBE  7:11] [TRANSCRIPT] 
+
+Euler's Method of Estimating Integrals: Example [YOUTUBE  8:58] [TRANSCRIPT]
+ 
+
+RUNGE-KUTTA 2ND ORDER METHOD (CHAPTER 08.03)
+
+ 	
+Runge-Kutta 2nd Order Method: Background [YOUTUBE 9:46] [TRANSCRIPT]
+
+Runge-Kutta 2nd Order Method: Formulas [YOUTUBE  10:57] [TRANSCRIPT]
+
+Runge-Kutta 2nd Order Method: Heun's Method  [YOUTUBE  9:27] [TRANSCRIPT]
+
+Runge-Kutta 2nd Order Method: Midpoint Method  [YOUTUBE  10:45] [TRANSCRIPT]
+
+Runge-Kutta 2nd Order Method: Ralston's Method Part 1 of 2 [ YOUTUBE 7:09] [TRANSCRIPT]
+
+Runge-Kutta 2nd Order Method: Ralston's Method Part 2 of 2 [ YOUTUBE 5:00] [TRANSCRIPT]
+
+Runge-Kutta 2nd Order Method: Derivation Part 1 of 2 [ YOUTUBE 7:08] [TRANSCRIPT]
+
+Runge-Kutta 2nd Order Method: Derivation Part 2 of 2 [ YOUTUBE 5:31] [TRANSCRIPT]
+ 
+
+RUNGE-KUTTA 4TH ORDER METHOD (CHAPTER 08.04)
+
+ 	
+Runge Kutta 4th Order Method: Formulas [YOUTUBE 9:54] [TRANSCRIPT]
+
+Runge Kutta 4th Order Method: Example: Part 1 of 2 [YOUTUBE 9:29] [TRANSCRIPT]
+
+Runge Kutta 4th Order Method: Example: Part 2 of 2 [YOUTUBE 8:48] [TRANSCRIPT]
+
+ 
+
+HIGHER ORDER/COUPLED DIFFERENTIAL EQUATIONS (CHAPTER 08.05)
+
+ 	
+Higher Order Differential Equations: Background  [YOUTUBE 6:47]
+
+Coupled Differential Equations: Background: Part 1 of 2  [YOUTUBE 5:44]
+
+Coupled Differential Equations: Background: Part 2 of 2  [YOUTUBE 6:44]
+
+Higher Order Differential Equations: Euler's Method: Part 1 of 2  [YOUTUBE 9:50]
+
+Higher Order Differential Equations: Euler's Method: Part 2 of 2  [YOUTUBE 4:24]
+
+Higher Order Differential Equations: Heun's Method: Part 1 of 3  [YOUTUBE 7:48]
+
+Higher Order Differential Equations: Heun's Method: Part 2 of 3  [YOUTUBE 7:44]
+
+Higher Order Differential Equations: Heun's Method: Part 3 of 3  [YOUTUBE 10:17]
+
+SHOOTING METHOD (CHAPTER 08.06)
+
+ 	
+Shooting Method: Background [YOUTUBE 6:32]
+
+Shooting Method: The Method [YOUTUBE 6:53]
+
+Shooting Method: Example: Part 1 of 4 [YOUTUBE 7:31]
+
+Shooting Method: Example: Part 2 of 4 [YOUTUBE 9:40]
+
+Shooting Method: Example: Part 3 of 4 [YOUTUBE 4:48]
+
+Shooting Method: Example: Part 4 of 4 [YOUTUBE 8:18]
+
+ 
+
+FINITE DIFFERENCE METHOD (CHAPTER 08.07)
+
+ 	
+Finite Difference Method of Solving Ordinary Differential Equations: Background Part 1 of 2 [YOUTUBE 3:46]
+
+Finite Difference Method of Solving Ordinary Differential Equations: Background Part 2 of 2 [YOUTUBE 8:40]
+
+Finite Difference Method: Example Beam: Part 1 of 2  [YOUTUBE 6:13]
+
+Finite Difference Method: Example Beam: Part 2 of 2  [YOUTUBE 6:21]
+
+Finite Difference Method: Example Pressure Vessel: Part 1 of 2  [YOUTUBE 9:55]
+
+Finite Difference Method: Example Pressure Vessel: Part 2 of 2  [YOUTUBE 9:50]
+
+OPTIMIZATION
+
+GOLDEN SEARCH METHOD (CHAPTER 09.01)
+
+ 	
+Golden Section Search Method: Theory: Part 1 of 6 [YOUTUBE 14:17]
+
+Golden Section Search Method: Theory: Part 2 of 6 [YOUTUBE 14:11]
+
+Golden Section Search Method: Theory: Part 3 of 6 [YOUTUBE 15:24]
+
+Golden Section Search Method: Theory: Part 4 of 6 [YOUTUBE 15:48]
+
+Golden Section Search Method: Theory: Part 5 of 6 [YOUTUBE 13:46]
+
+Golden Section Search Method: Theory: Part 6 of 6 [YOUTUBE 11:48]
+
+Golden Section Search Method: Example: Part 1 of 2 [YOUTUBE 13:51]
+
+Golden Section Search Method: Example: Part 2 of 2 [YOUTUBE 13:26]
+
+NEWTON'S METHOD (CHAPTER 09.02)
+
+ 	
+Newton's Method for One Dimensional Optimization: Theory: Part 1 of 2 [YOUTUBE 12:04]
+
+Newton's Method for One Dimensional Optimization: Theory: Part 2 of 2 [YOUTUBE 15:07]
+
+Newton's Method for One Dimensional Optimization: Example [YOUTUBE 14:16]
+
+MULTIDIRECTIONAL DIRECT SEARCH METHOD (CHAPTER 09.03)
+
+ 	
+Multi Dimensional Direct Search Method of Optimization: Theory [YOUTUBE 13:37]
+
+Multi Dimensional Direct Search Method of Optimization: Example: Part 1 of 2 [YOUTUBE 13:55]
+
+Multi Dimensional Direct Search Method of Optimization: Example: Part 2 of 2 [YOUTUBE 08:41]
+
+MULTIDIRECTIONAL GRADIENT SEARCH METHOD (CHAPTER 09.04)
+
+ 	
+Multi Dimensional Gradient Method of Optimization: Theory: Part 1 of 2 [YOUTUBE 11:34]
+
+Multi Dimensional Gradient Method of Optimization: Theory: Part 2 of 2 [YOUTUBE 14:33]
+
+Multi Dimensional Gradient Method of Optimization: Example: Part 1 of 2 [YOUTUBE 13:50]
+
+Multi Dimensional Gradient Method of Optimization: Example: Part 2 of 2 [YOUTUBE 04:44]
+
+PARTIAL DIFFERENTIAL EQUATIONS
+
+INTRODUCTION TO PARTIAL DIFFERENTIAL EQUATIONS (CHAPTER 09.01)
+
+ 	
+Introduction to Partial Differential Equations [YOUTUBE 9:41]
+
+ 
+
+ELLIPTIC PARTIAL DIFFERENTIAL EQUATIONS (CHAPTER 09.02)
+
+ 	
+Introduction to Partial Differential Equations [YOUTUBE 9:41]
+
+Introduction to Numerical Solution of 2nd Order Linear Elliptic PDEs  [YOUTUBE 8:59]
+
+Direct method: Numerical Solution of Elliptic PDEs [YOUTUBE 9:17]
+
+Elliptic PDEs: Gauss-Seidel Method [YOUTUBE 13:42]
+
+Elliptic PDEs: Lieberman Method: Part 1 of 2 [YOUTUBE 5:18]
+
+Elliptic PDEs: Lieberman Method: Part 2 of 2 [YOUTUBE 12:11]
+
+FAST FOURIER TRANSFORMS
+
+INTRODUCTION TO FOURIER SERIES (CHAPTER 11.01)
+
+ 	
+Introduction to Fourier Series: Part 1 of 2 [YOUTUBE 10:36]
+
+Introduction to Fourier Series: Part 2 of 2 [YOUTUBE 8:32]
+
+ 
+
+CONTINUOUS FOURIER SERIES (CHAPTER 11.02)
+
+ 	
+Continuous Fourier Series: Part 1 of 2 [YOUTUBE 9:41]
+
+Continuous Fourier Series: Part 2 of 2 [YOUTUBE 7:40]
+
+Continuous Fourier Series: Example: Part 1 of 2 [YOUTUBE 9:33]
+
+Continuous Fourier Series: Example: Part 2 of 2 [YOUTUBE 9:06]
+
+Complex Form of Fourier Series: Part 1 of 2 [YOUTUBE 15:05]
+
+Complex Form of Fourier Series: Part 2 of 2 [YOUTUBE 13:42]
+
+ 
+
+FOURIER TRANSFORM PAIR: FREQUENCY & TIME DOMAIN (CHAPTER 11.03)
+
+ 	
+Fourier Transform Pair: Frequency & Time Domain: Part 1 of 3 [YOUTUBE 8:06]
+
+Fourier Transform Pair: Frequency & Time Domain: Part 2 of 3 [YOUTUBE 13:44]
+
+Fourier Transform Pair: Frequency & Time Domain: Part 3 of 3 [YOUTUBE 11:55]
+
+Fourier Transform Pair: Complex Numbers in Polar Coordinates: Part 1 of 2 [YOUTUBE 09:58]
+
+Fourier Transform Pair: Complex Numbers in Polar Coordinates: Part 2 of 2 [YOUTUBE 09:48]
+
+Fourier Transform Pair: Non-periodic Function: Part 1 of 2 [YOUTUBE 09:10]
+
+Fourier Transform Pair: Non-periodic Function: Part 2 of 2 [YOUTUBE 08:55]
+
+ 
+
+DISCRETE FOURIER TRANSFORM (CHAPTER 11.04)
+
+ 	
+Discrete Fourier Transform: Part 1 of 3 [YOUTUBE 11:23]
+
+Discrete Fourier Transform: Part 2 of 3 [YOUTUBE 06:37]
+
+Discrete Fourier Transform: Part 3 of 3 [YOUTUBE 12:55]
+
+Discrete Fourier Transform Continued: Part 1 of 2 [YOUTUBE 10:38]
+
+Discrete Fourier Transform Continued: Part 2 of 2 [YOUTUBE 10:32]
+
+Discrete Fourier Transform: Aliasing Phenomenon, Nyquist Sample/Rate: Part 1 of 2 [YOUTUBE 11:46]
+
+Discrete Fourier Transform: Aliasing Phenomenon, Nyquist Sample/Rate: Part 2 of 2 [YOUTUBE 14:38]
+
+ 
+
+INFORMAL DEVELOPMENT OF FAST FOURIER TRANFORM (CHAPTER 11.05)
+
+ 	
+Informal Development of Fast Fourier Transform: Part 1 of 3 [YOUTUBE 09:59]
+
+Informal Development of Fast Fourier Transform: Part 2 of 3 [YOUTUBE 12:39]
+
+Informal Development of Fast Fourier Transform: Part 3 of 3 [YOUTUBE 09:46]
+
+Fast Fourier Transform: Factorized Matrix & Operation Count: Part 1 of 4 [YOUTUBE 14:08]
+
+Fast Fourier Transform: Factorized Matrix & Operation Count: Part 2 of 4 [YOUTUBE 14:48]
+
+Fast Fourier Transform: Factorized Matrix & Operation Count: Part 3 of 4 [YOUTUBE 13:45]
+
+Fast Fourier Transform: Factorized Matrix & Operation Count: Part 4 of 4 [YOUTUBE 11:49]
+
+Fast Fourier Transform: Companion Node Observation: Part 1 of 3 [YOUTUBE 11:22]
+
+Fast Fourier Transform: Companion Node Observation: Part 2 of 3 [YOUTUBE 12:56]
+
+Fast Fourier Transform: Companion Node Observation: Part 3 of 3 [YOUTUBE 09:01]
+
+Fast Fourier Transform: Determination of W^P: Part 1 of 4 [YOUTUBE 13:34]
+
+Fast Fourier Transform: Determination of W^P: Part 2 of 4 [YOUTUBE 09:31]
+
+Fast Fourier Transform: Determination of W^P: Part 3 of 4 [YOUTUBE 07:36]
+
+Fast Fourier Transform: Determination of W^P: Part 4 of 4 [YOUTUBE 09:41]
+
+Fast Fourier Transform: Unscrambling the FFT: Determination of W^P: Part 1 of 3 [YOUTUBE 15:07]
+
+Fast Fourier Transform: Unscrambling the FFT: Determination of W^P: Part 1 of 3 [YOUTUBE 15:14]
+
+Fast Fourier Transform: Unscrambling the FFT: Determination of W^P: Part 1 of 3 [YOUTUBE 14:32]
+
+ 
+ 
+
+ 
+
+
+ 
+
+AUDIENCE |  AWARDS  |  PEOPLE  |  TRACKS  |  DISSEMINATION  |  PUBLICATIONS
+
+Copyrights: University of South Florida, 4202 E Fowler Ave, Tampa, FL 33620-5350. All Rights Reserved. Questions, suggestions or comments, contact kaw@eng.usf.edu  This material is based upon work supported by the National Science Foundation under Grant# Creative Commons License0126793, 0341468, 0717624,  0836981, 0836916, 0836805, 1322586.  Any opinions, findings, and conclusions or recommendations expressed in this material are those of the author(s) and do not necessarily reflect the views of the National Science Foundation.  Other sponsors include Maple, MathCAD, USF, FAMU and MSOE.  Based on a work at http://mathforcollege.com/nm.  Holistic Numerical Methods licensed under a Creative Commons Attribution-NonCommercial-NoDerivs 3.0 Unported License.
+
+ 	
+ANALYTICS
+
+ 	
+
+ 
+ 

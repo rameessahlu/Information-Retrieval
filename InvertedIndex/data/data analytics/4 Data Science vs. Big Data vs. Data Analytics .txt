@@ -1,0 +1,12 @@
+Data Science vs. Big Data vs. Data Analytics
+By Avantika Monnappa
+Last updated on Nov 25, 201959770785
+Data Science vs. Big Data vs. Data Analytics
+Data is everywhere. In fact, the amount of digital data that exists is growing at a rapid rate, doubling every two years, and changing the way we live. According to IBM, 2.5 billion gigabytes (GB) of data were generated every day in 2012.
+
+An article by Forbes states that Data is growing faster than ever before and by the year 2020, about 1.7 megabytes of new information will be created every second for every human being on the planet.
+
+Which makes it extremely important to know the basics of the field at least. After all, here is where our future lies.
+
+In this article, we will differentiate between the Data Science, Big Data, and Data Analytics, based on what it is, where it is used, the skills you need to become a professional in the field, and the salary prospects in each field.
+

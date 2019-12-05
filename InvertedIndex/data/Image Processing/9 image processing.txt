@@ -1,0 +1,33 @@
+Image processing
+COMPUTER SCIENCE
+ ARTICLE
+
+INFO
+PRINT
+
+CITE
+
+FEEDBACK
+FEEDBACK
+Corrections? Updates? Omissions? Let us know if you have suggestions to improve this article (requires login).
+Select feedback type: 
+SUBMIT FEEDBACK
+
+SHARE
+SHARE
+Image processing
+COMPUTER SCIENCE
+WRITTEN BY: The Editors of Encyclopaedia Britannica
+See Article History
+THIS ARTICLE IS A STUB. You can learn more about this topic in the related articles below.
+Image processing, Set of computational techniques for analyzing, enhancing, compressing, and reconstructing images. Its main components are importing, in which an image is captured through scanning or digital photography; analysis and manipulation of the image, accomplished using various specialized software applications; and output (e.g., to a printer or monitor). Image processing has extensive applications in many areas, including astronomy, medicine, industrial robotics, and remote sensing by satellites. See also pattern recognition.
+
+This article was most recently revised and updated by William L. Hosch, Associate Editor.
+LEARN MORE in these related Britannica articles:
+Structure of an information system.
+information processing: Image analysis
+…accomplished by two primary methods: image processing and pattern recognition. Image processing is a set of computational techniques for analyzing, enhancing, compressing, and reconstructing images. Pattern recognition is an information-reduction process: the assignment of visual or logical patterns to classes based on the features of these patterns and their relationships.…
+Joachim Frank
+…Chemistry for his work on image-processing techniques that proved essential to the development of cryo-electron microscopy. He shared the prize with Swiss biophysicist Jacques Dubochet and British molecular biologist Richard Henderson.…
+robotics
+Robotics, Design, construction, and use of machines (robots) to perform tasks done traditionally by human beings. Robots are widely used in such industries as automobile manufacture to perform simple repetitive tasks, and in industries where work must be performed in environments hazardous to humans. Many aspects of robotics involve artificial…

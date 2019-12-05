@@ -1,0 +1,105 @@
+What is a Database (DB)
+Database (DB)
+
+Definition - What does Database (DB) mean?
+A database (DB), in the most general sense, is an organized collection of data. More specifically, a database is an electronic system that allows data to be easily accessed, manipulated and updated.
+
+In other words, a database is used by an organization as a method of storing, managing and retrieving information. Modern databases are managed using a database management system (DBMS).
+
+
+[Free eBook] An Introduction to Microsoft Azure and the Microsoft Cloud
+Techopedia explains Database (DB)
+Software programmers are well acquainted with database concepts through relational databases like Oracle, SQL SERVER and MySQL, etc. Typically, a database structure stores data in a tabular format.
+
+Database architecture may be external, internal or conceptual. The external level specifies the way in which every end-user type comprehends the organization of its corresponding relevant data in the database. The internal level deals with the performance, scalability, cost and other operational matters. The conceptual level perfectly unifies the different external views into a defined and wholly global view. It consists of every end-user required generic data.
+
+
+
+Share this:  
+Related Terms
+Database Management System (DBMS)
+Relational Database Management System (RDBMS)
+SQL Server
+Database Column
+Database Row
+Data
+Cursor
+Form
+Pad Character
+Data Bank
+
+Techopedia - Where IT and Business Meet	
+Tech moves fast! Stay ahead of the curve with Techopedia!
+Join nearly 200,000 subscribers who receive actionable tech insights from Techopedia.
+
+Enter your email address...
+Recommended Resources
+A Guide to Effective SaaS Management Using a Zero Trust Security Model
+A Guide to Effective SaaS Management Using a Zero Trust Security Model
+Gartner Research: Increase Sales Productivity with Digital Adoption Solutions
+Gartner Research: Increase Sales Productivity with Digital Adoption Solutions
+The Top 5 Employee Performance Review Software Solutions
+The Top 5 Employee Performance Review Software Solutions
+Reinventing the Close to Improve the Employee Experience
+Reinventing the Close to Improve the Employee Experience
+2019 Gartner Magic Quadrant for CPQ Application Suites
+2019 Gartner Magic Quadrant for CPQ Application Suites
+Digital Transformation 2.0: An Application Modernization Journey
+Digital Transformation 2.0: An Application Modernization Journey
+
+Related Articles
+On Dead Domains and Lapsing Links: Why the Web Is So Fragile 
+On Dead Domains and Lapsing Links: Why the Web Is So Fragile
+Cloud Backup and Disaster Recovery for Small and Medium-Sized Businesses 
+Cloud Backup and Disaster Recovery for Small and Medium-Sized Businesses
+Data, Big and Small: Where's the Real Value? 
+Data, Big and Small: Where's the Real Value?
+The 6 Things You Need to Get World-Changing Results with Data 
+The 6 Things You Need to Get World-Changing Results with Data
+Database Administration Careers 101 
+Database Administration Careers 101
+Data Scientists: The New Rock Stars of the Tech World 
+Data Scientists: The New Rock Stars of the Tech World
++ View More Articles
+Related Tutorials
+Introduction to Databases 
+Introduction to Databases
+Related Questions
+What is TensorFlow’s role in machine learning?
+Can there ever be too much data in big data?
+What are some significant challenges companies are facing when it comes to management reporting?
+Featured Q&A
+What is the difference between a mobile OS and a computer OS?
+What is the difference between security architecture and security design?
+How can passwords be stored securely in a database?
+More of your questions answered by our Experts
+Related Tags
+DatabasesData ManagementEnterpriseData
+Misspellings:
+Data Base
+
+report this ad
+RESOURCES
+The Ultimate Guide to Applying AI in Business	The Ultimate Guide to Applying AI in Business:
+[Free Report] Salesforce CRM vs. Oracle Sales Cloud	[Free Report] Salesforce CRM vs. Oracle Sales Cloud:
+[Free Live Webinar] Analysis of Real-World Hyperconvergence | December 3, 2019 | 12:00 PM - 1:00 PM CDT	[Free Live Webinar] Analysis of Real-World Hyperconvergence | December 3, 2019 | 12:00 PM - 1:00 PM CDT:
+Free Download: Machine Learning and Why It Matters	Free Download: Machine Learning and Why It Matters:
+[Techopedia Exclusive] Increase DevOps team productivity and efficiency.	[Techopedia Exclusive] Increase DevOps team productivity and efficiency.:
+FREE DOWNLOAD: AI and ML in the Oil and Gas Industry	FREE DOWNLOAD: AI and ML in the Oil and Gas Industry:
+AI in the Insurance Industry: 26 Real-World Use Cases	AI in the Insurance Industry: 26 Real-World Use Cases:
+FREE WEBINAR | Managing Multiple Database Roles: How Many Hats Do You Wear?	FREE WEBINAR | Managing Multiple Database Roles: How Many Hats Do You Wear?:
+
+report this ad
+LATEST ARTICLES
+Understanding Biometric Security: The Growing Threats and How to Beat Them 	
+Understanding Biometric Security: The Growing Threats and How to Beat Them
+Neurotechnology Vs. Neural Networks: What’s the Difference? 	
+Neurotechnology Vs. Neural Networks: What’s the Difference?
+The Growing Cybersecurity War on the Healthcare Industry 	
+The Growing Cybersecurity War on the Healthcare Industry
+IoT in 2020: What's Next? 	
+IoT in 2020: What's Next?
+Immersive Graphical Displays of Information: How Mixed Reality Technology is Changing the Game 	
+Immersive Graphical Displays of Information: How Mixed Reality Technology is Changing the Game
+
+report this ad

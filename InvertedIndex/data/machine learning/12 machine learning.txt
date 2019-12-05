@@ -1,0 +1,78 @@
+Machine learning is a data analytics technique that teaches computers to do what comes naturally to humans and animals: learn from experience. Machine learning algorithms use computational methods to “learn” information directly from data without relying on a predetermined equation as a model. The algorithms adaptively improve their performance as the number of samples available for learning increases. Deep learning is a specialized form of machine learning.
+
+Why It Matters
+How It Works
+Machine Learning with MATLAB
+Why Machine Learning Matters
+With the rise in big data, machine learning has become a key technique for solving problems in areas, such as:
+
+Computational finance, for credit scoring and algorithmic trading
+Image processing and computer vision, for face recognition, motion detection, and object detection
+Computational biology, for tumor detection, drug discovery, and DNA sequencing
+Energy production, for price and load forecasting
+Automotive, aerospace, and manufacturing, for predictive maintenance
+Natural language processing, for voice recognition applications 
+Walk through the three types of machine learning (clustering, classification, and regression) in this overview by Loren Shure.  3:51
+What Is Machine Learning?Walk through the three types of machine learning (clustering, classification, and regression) in this overview by Loren Shure.
+Why Machine Learning Matters
+More Data, More Questions, Better Answers
+Machine learning algorithms find natural patterns in data that generate insight and help you make better decisions and predictions. They are used every day to make critical decisions in medical diagnosis, stock trading, energy load forecasting, and more. For example, media sites rely on machine learning to sift through millions of options to give you song or movie recommendations. Retailers use it to gain insight into their customers’ purchasing behavior.
+
+When Should You Use Machine Learning?
+Consider using machine learning when you have a complex task or problem involving a large amount of data and lots of variables, but no existing formula or equation. For example, machine learning is a good option if you need to handle situations like these:
+
+Hand-written rules and equations are too complex—as in face recognition and speech recognition.
+Hand-written rules and equations are too complex—as in face recognition and speech recognition.
+The rules of a task are constantly changing—as in fraud detection from transaction records.
+The rules of a task are constantly changing—as in fraud detection from transaction records.
+The nature of the data keeps changing, and the program needs to adapt—as in automated trading, energy demand forecasting, and predicting shopping trends.
+The nature of the data keeps changing, and the program needs to adapt—as in automated trading, energy demand forecasting, and predicting shopping trends.
+How Machine Learning Works
+Machine learning uses two types of techniques: supervised learning, which trains a model on known input and output data so that it can predict future outputs, and unsupervised learning, which finds hidden patterns or intrinsic structures in input data.
+
+Figure 1. Machine learning techniques include both unsupervised and supervised learning.
+Figure 1. Machine learning techniques include both unsupervised and supervised learning.
+Mastering Machine Learning: A Step-by-Step Guide with MATLAB
+Mastering Machine Learning: A Step-by-Step Guide with MATLABGet this ebook, download the code, and step through a hands-on machine learning tutorial that helps you master machine learning techniques.
+Supervised Learning
+Supervised machine learning builds a model that makes predictions based on evidence in the presence of uncertainty. A supervised learning algorithm takes a known set of input data and known responses to the data (output) and trains a model to generate reasonable predictions for the response to new data. Use supervised learning if you have known data for the output you are trying to predict.
+
+Supervised learning uses classification and regression techniques to develop predictive models.
+
+Classification techniques predict discrete responses—for example, whether an email is genuine or spam, or whether a tumor is cancerous or benign. Classification models classify input data into categories. Typical applications include medical imaging, speech recognition, and credit scoring.
+
+Use classification if your data can be tagged, categorized, or separated into specific groups or classes. For example, applications for hand-writing recognition use classification to recognize letters and numbers. In image processing and computer vision, unsupervised pattern recognition techniques are used for object detection and image segmentation.
+
+Common algorithms for performing classification include support vector machine (SVM), boosted and bagged decision trees, k-nearest neighbor, Naïve Bayes, discriminant analysis, logistic regression, and neural networks.
+
+Regression techniques predict continuous responses—for example, changes in temperature or fluctuations in power demand. Typical applications include electricity load forecasting and algorithmic trading.
+
+Use regression techniques if you are working with a data range or if the nature of your response is a real number, such as temperature or the time until failure for a piece of equipment.
+
+Common regression algorithms include linear model, nonlinear model, regularization, stepwise regression, boosted and bagged decision trees, neural networks, and adaptive neuro-fuzzy learning.
+
+Using Supervised Learning to Predict Heart Attacks
+Suppose clinicians want to predict whether someone will have a heart attack within a year. They have data on previous patients, including age, weight, height, and blood pressure. They know whether the previous patients had heart attacks within a year. So the problem is combining the existing data into a model that can predict whether a new person will have a heart attack within a year.
+Using Supervised Learning to Predict Heart Attacks
+Unsupervised Learning
+Unsupervised learning finds hidden patterns or intrinsic structures in data. It is used to draw inferences from datasets consisting of input data without labeled responses.
+
+Clustering is the most common unsupervised learning technique. It is used for exploratory data analysis to find hidden patterns or groupings in data. Applications for cluster analysis include gene sequence analysis, market research, and object recognition.
+
+For example, if a cell phone company wants optimize the locations where they build cell phone towers, they can use machine learning to estimate the number of clusters of people relying on their towers. A phone can only talk to one tower at a time, so the team uses clustering algorithms to design the best placement of cell towers to optimize signal reception for groups, or clusters, of their customers.
+
+Common algorithms for performing clustering include k-means and k-medoids, hierarchical clustering, Gaussian mixture models, hidden Markov models, self-organizing maps, fuzzy c-means clustering, and subtractive clustering.
+
+Figure 2. Clustering finds hidden patterns in your data.
+Figure 2. Clustering finds hidden patterns in your data.
+How Do You Decide Which Machine Learning Algorithm to Use?
+Choosing the right algorithm can seem overwhelming—there are dozens of supervised and unsupervised machine learning algorithms, and each takes a different approach to learning.
+
+There is no best method or one size fits all. Finding the right algorithm is partly just trial and error—even highly experienced data scientists can’t tell whether an algorithm will work without trying it out. But algorithm selection also depends on the size and type of data you’re working with, the insights you want to get from the data, and how those insights will be used.
+
+Figure 3. Machine learning techniques. 
+Figure 3. Machine learning techniques. 
+Here are some guidelines on choosing between supervised and unsupervised machine learning:
+
+Choose supervised learning if you need to train a model to make a prediction--for example, the future value of a continuous variable, such as temperature or a stock price, or a classification—for example, identify makes of cars from webcam video footage.
+Choose unsupervised learning if you need to explore your data and want to train a model to find a good internal representation, such as splitting data up into clusters.

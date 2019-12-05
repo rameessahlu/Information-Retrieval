@@ -1,0 +1,213 @@
+
+INFORMATION MANAGEMENT NEWS
+INTUIT AND WEAVEWORKS COLLABORATE TO DELIVER GITOPS APPLICATION DELIVERY FOR KUBERNETES
+Weaveworks is partnering with Intuit to create Argo Flux, an open source project... READ MORE
+SERVERFARM PARTNERS WITH NVIDIA TO ASSIST COMPANIES DEPLOY AI
+ServerFarm, a data center developer and operator, is joining the NVIDIA DGX-Ready... READ MORE
+SIXGILL REVEALS BLOCKCHAIN-ENFORCED DATA AUTHENTICITY PLATFORM
+Sixgill, LLC, a provider of data automation and authenticity products and services,... READ MORE
+BANZAI CLOUD LAUNCHES PIPELINE 2.0 FOR DEPLOYING A UNIFIED PLATFORM
+Banzai Cloud, a cloud software startup, is releasing a secure application platform,... READ MORE
+THE IMPORTANCE OF USING TIME SERIES DATABASES FOR TIME SERIES DATA
+Companies are constantly looking for ways to make solutions work better and smarter,... READ MORE
+ACCENTURE'S KISHORE DURG ON NAVIGATING THE HYBRID CLOUD LANDSCAPE
+According to Kishore Durg, senior managing director-Accenture cloud lead, technology... READ MORE
+EMERGING TRENDS IN DATABASE MANAGEMENT (VIDEO)
+Quest Software's Jason Hall discusses three key trends in database management-multi/hybrid,... READ MORE
+More Information Management News
+RECENT DBTA ISSUES
+Database Trends and Applications Magazine: October/November 2019
+DATABASE TRENDS AND APPLICATIONS MAGAZINE: OCTOBER/NOVEMBER 2019
+DATABASE TRENDS AND APPLICATIONS MAGAZINE: AUGUST/SEPTEMBER 2019 ISSUE
+DATABASE TRENDS AND APPLICATIONS MAGAZINE: JUNE/JULY 2019 ISSUE
+DATABASE TRENDS AND APPLICATIONS MAGAZINE: APRIL/MAY 2019 ISSUE
+DATABASE TRENDS AND APPLICATIONS MAGAZINE: FEB/MAR 2019 ISSUE
+SUBSCRIBE NOW
+SPONSORS
+
+
+
+
+
+
+
+
+
+RECENT BIG DATA ARTICLES
+HPE INTRODUCES KUBERNETES-BASED PLATFORM FOR BARE-METAL AND EDGE TO CLOUD DEPLOYMENTS
+PLANETSCALE UNVEILS CLOUD-NATIVE DATABASE BUILT ON VITESS
+BE OBSESSED WITH ANALYTICS AND WISDOM WILL BE YOUR CUP OF TEA
+AI-A DANGEROUS TOOL OR A FOOL'S ERRAND?
+DATA SCIENCE EDUCATION GETS VISUAL
+More Big Data Articles
+RECENT BIG DATA QUARTERLY ISSUES
+Big Data Quarterly: Fall 2019 Issue
+BIG DATA QUARTERLY: FALL 2019 ISSUE
+BIG DATA QUARTERLY: SUMMER 2019 ISSUE
+BIG DATA QUARTERLY: SPRING 2019 ISSUE
+BIG DATA SOURCEBOOK 2018
+BIG DATA QUARTERLY: FALL 2018 ISSUE
+SUBSCRIBE NOW
+ORACLE NEWS FROM THE QUEST IOUG DATABASE & TECHNOLOGY COMMUNITY
+CLOUD WEBINAR SERIES – RECORDINGS NOW AVAILABLE!
+COLLABORATE 20 REGISTRATION IS OPEN
+ORACLE NEWS & UPDATES - NOVEMBER 6, 2019
+MARK YOUR CALENDAR FOR QUEST EXPERIENCE WEEK – DATABASE & TECHNOLOGY DAY ON NOVEMBER 13TH!
+HOW TO MAXIMIZE YOUR COMPANY’S LOCATION DATA
+DATA PROTECTION AND RECOVERY WITH ORACLE’S ZERO DATA LOSS RECOVERY APPLIANCE
+More Oracle News
+MAINFRAME AND DATA CENTER NEWS FROM SHARE
+JEANNE GLASS: LESSONS FROM BUILDING A BUSINESS
+THE CURIOSITY OF MARIA BOONIE, VP, OFFERING MANAGEMENT FOR IBM Z AND LINUXONE
+LANGUAGES PART 2: COBOL IS 60...WOW
+MAINFRAME APPRENTICESHIPS: CLOSING THE MAINFRAME SKILLS GAP
+LISA WOOD: BE THE CAPTAIN OF YOUR OWN IT CAREER
+THE RISKS OF INTERNAL THREAT
+More Mainframe and Data Center News
+On the Cusp of a Data Revolution
+Article Image
+Today, data is critical to every organization and every department within every organization. Yet, all the disparate systems for handling it are creating new challenges. Joe Caserta, founder and president of Caserta, a technology consulting and implementation firm focused on data and analytics strategies and solutions, recently discussed the current state of data integration and what is needed to overcome today's problems. READ MORE
+
+2020 Database DevOps Innovation Awards
+Article Image
+To highlight organizations that are leading the charge in bringing DevOps to the database world, DBTA is launching its inaugural Database DevOps Innovation Awards program in partnership with Datical, Radiant Advisors, and 451 Research. By sharing your story, your company will have the chance to be among five winners selected by our special committee to be featured in a special, in-depth article published in the February 2020 edition of DBTA magazine and on www.dbta.com. READ MORE
+
+Data Summit 2020 Call for Speakers Extended to Nov. 25
+Article Image
+The call for speakers is open for the seventh annual Data Summit conference, to be held in Boston, May 19-20, 2020, with pre-conference workshops on May 18. Data Summit focuses on both the business and technical aspects of data management and analysis and how it is transforming the business world. READ MORE
+
+Seven Steps to Ensure Network Resilience
+Article Image
+As more companies continue to rely on interconnected networks, virtualized cloud services, and IoT technologies, the potential for downtime and its costs will only rise. By achieving true network resilience, companies can focus on maintaining their services, removing single points of failure and having a plan to bring the network back up to continue normal operations—before it costs them. READ MORE
+
+
+NEWSLETTERS
+
+5 MINUTE BRIEFING: INFORMATION MANAGEMENT
+[LATEST ISSUE]
+
+5 MINUTE BRIEFING: DATA CENTER
+[LATEST ISSUE]
+
+5 MINUTE BRIEFING: MULTIVALUE
+[LATEST ISSUE]
+
+5 MINUTE BRIEFING: ORACLE
+[LATEST ISSUE]
+
+5 MINUTE BRIEFING: SAP
+[LATEST ISSUE]
+
+5 MINUTE BRIEFING: BLOCKCHAIN
+[LATEST ISSUE]
+
+5 MINUTE BRIEFING: CLOUD
+[LATEST ISSUE]
+
+IOUG E-BRIEF: ORACLE ENTERPRISE MANAGER
+[LATEST ISSUE]
+
+IOUG E-BRIEF: CLOUD STRATEGIES
+[LATEST ISSUE]
+
+DBTA E-EDITION
+[LATEST ISSUE]
+
+DATA SUMMIT CONFERENCE NEWS
+
+COGNITIVE COMPUTING SUMMIT NEWS
+
+
+WEBINARS
+INTRODUCTION TO FLUX AND FUNCTIONAL DATA SCRIPTING
+WHAT'S AHEAD IN BIG DATA AND ANALYTICS
+DATA MANAGEMENT BEST PRACTICES FOR MACHINE LEARNING
+TOP TRENDS IN MODERN DATA ARCHITECTURE FOR 2020
+THE FUTURE OF IOT: REAL-TIME, EDGE COMPUTING AND 5G
+More Webinars
+COLUMNISTS
+Todd Schraml
+DATABASE ELABORATIONS
+TODD SCHRAML
+EVERYBODY NEEDS A DATA WAREHOUSE
+Every organization needs a data warehouse. A data warehouse has never been a one-size-fits-all kind of solution. Variations exist and should be accepted.
+Recent articles by Todd Schraml
+SPEED CAN KILL: TAKE TIME TO COMMUNICATE—AND THINK
+IN DATA MANAGEMENT, THE MORE YOU DO, THE MORE THERE IS TO BE DONE
+TRANSACTION-THINKING, SET-THINKING, AND CODING FAST
+Craig S. Mullins
+DBA CORNER
+CRAIG S. MULLINS
+THE 5 KEY FACTORS FOR DATABASE PERFORMANCE
+Truly, the speed and performance of your production database systems encompasses a wide range of parameters and decisions that are made well before implementation. DBAs need to understand the options available, the factors that impact performance and development with each DBMS option, and work to keep the IT organization up-to-speed and educated on all of the available choices.
+Recent articles by Craig S. Mullins
+BEST PRACTICES FOR MANAGING DATABASE INFRASTRUCTURE
+ANALYTICS PROJECTS OFFER VALUE AND CHALLENGES
+DATA BREACHES: PERVASIVE AND COSTLY
+Kevin Kline
+SQL SERVER DRILL DOWN
+KEVIN KLINE
+THE SURPRISING VALUE AND UTILITY OF AZURE NOTEBOOKS
+Back in the 1980s, a Stanford University computer scientist and professor named Donald Knuth introduced the concept of "literate programming," in which a computer program's logic is explained in a natural language such as English. The "literate" program would be further enriched with images, graphs, traditional source code, related macros, and scripts almost as if the programmer were writing an essay, and using all of these components together could still be compiled as usual. The most notable products to arise from this concept were notebooks, such as Azure Notebooks, Jupyter Notebooks, Apache Zeppelin, and the Apache Spark Notebook.
+Recent articles by Kevin Kline
+WHETHER IT INFRASTRUCTURE IS ON-PREM OR IN THE CLOUD, YOU STILL NEED ARCHITECTS
+AZURE SQL DATABASE EDGE
+SQL SERVER DRILL DOWN: WHAT’S NEW IN THE MICROSOFT DATA PLATFORM, BUILD 2019 EDITION
+Guy Harrison
+MONGODB MATTERS
+GUY HARRISON
+THE ADVANTAGES OF MONGODB'S ATLAS DATA LAKE
+Despite the failed promises of the data lake, the concept retains some resonance in larger enterprises, and so MongoDB has chosen to leverage the term for one of its latest offerings. MongoDB's Atlas Data Lake bears only superficial similarity to Hadoop-powered data lakes. Nevertheless, it's a useful feature that stands to see significant uptake.
+Recent articles by Guy Harrison
+THE RISE AND FALL OF HADOOP
+MONGODB 4.2 BOASTS INCREMENTAL IMPROVEMENTS
+WITH COSMOS DB, MICROSOFT ATTEMPTS A ‘ONE-SIZE-FITS-ALL’ DATABASE
+ 
+NEXT-GEN DATA MANAGEMENT
+ 
+THREE CONSIDERATIONS FOR EMBARKING ON A DATA-CENTRIC CAREER
+Hard skills, while still valuable, are only part of the necessary skill set to be successful as a data professional. But hard skills have a ceiling. Hard skills can be replaced. Soft skills have no ceiling and offer more value than many hard skills.
+Recent articles by  
+COMMON SQL SERVER WAIT TYPES TO IMPROVE DATABASE PERFORMANCE
+NEXT-GEN DATA MANAGEMENT: THE PROBLEM WITH DEFINING DATABASE WORKLOAD
+NEXT-GEN DATA MANAGEMENT: WHY IS TUNING HARD?
+WHITE PAPERS
+Navigating the Muddying Waters of Data Privacy Regulation
+NAVIGATING THE MUDDYING WATERS OF DATA PRIVACY REGULATION
+DATA SOURCEBOOK
+TECHNICAL COMPARISON: AEROSPIKE VS REDIS
+FIVE SIGNS YOU'VE OUTGROWN A CACHE-FIRST DATA ARCHITECTURE
+DEBUNKING THE "FREE" OPEN SOURCE MYTH
+More White Papers
+POPULAR
+KINETICA ACTIVE ANALYTICS PLATFORM INCORPORATES NVIDIA RAPIDS FOR PREDICTIVE ANALYTICS
+SAP STREAMLINES PRODUCTS WITH RECENT S/4HANA UPDATE
+HVR AND TABLEAU PARTNER TO PROVIDE REAL-TIME DATA FOR BUSINESS INTELLIGENCE
+SAP OPENS CYBER DEFENSE CENTER TO CREATE SECURITY INNOVATIONS
+ACCENTURE AND SAP CO-DEVELOP SAP CLOUD FOR UTILITIES SOLUTION
+RECENT RESEARCH
+PROFILING THE DATA-DRIVEN BUSINESS, 2019
+2019 IOUG DATA ENVIRONMENT EXPANSION SURVEY
+ACHIEVING YOUR DATABASE GOALS THROUGH REPLICATION: REAL WORLD MARKET INSIGHTS AND BEST PRACTICES
+2018 NEXT-GENERATION DATA DEPLOYMENT STRATEGIES REPORT
+ACHIEVING YOUR 2018 DATABASE GOALS THROUGH REPLICATION: REAL-WORLD MARKET INSIGHTS AND BEST PRACTICES
+More Research
+TRENDS AND APPLICATIONS
+HOPE IS NOT A STRATEGY: PROTECTING CRITICAL CLOUD DATA FROM A ZERO-DAY ATTACK
+Businesses have a great deal of experience developing and implementing data protection... READ MORE
+SEVEN SIMPLE (OK, FAIRLY SIMPLE) RULES FOR SECURING A DATABASE
+Database security has always been important, and with the compliance requirements... READ MORE
+ON THE CUSP OF A DATA REVOLUTION
+Today, data is critical to every organization and every department within every organization.... READ MORE
+TRANSFORMING THE ENTERPRISE WITH ARTIFICIAL INTELLIGENCE AND DATA QUALITY
+Semantically enabled machine reasoning is an efficient form of AI that can help with... READ MORE
+More Trends and Applications
+MULTIVALUE COMMUNITY
+ROCKET SOFTWARE UNIDATA OFFERS HIGH LEVEL OF PERFORMANCE FOR THE SOCIETY OF AUTHORS
+ENTRINSIK LAUNCHES LATEST VERSION OF INFORMER
+JBASE ASSISTS THE CENTER FOR THE COLLABORATIVE CLASSROOM
+REVELATION ENHANCES OPENINSIGHT WITH UPGRADES
+More MultiValue Community
+UPCOMING EVENTS
+AWS RE:INVENT 2019
+BUILDING THE ANALYTICS-DRIVEN OPERATION | COMP

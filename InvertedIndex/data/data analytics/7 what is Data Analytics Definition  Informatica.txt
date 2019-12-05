@@ -1,0 +1,5 @@
+What do I need to know about data analytics?
+While data analytics can be simple, today the term is most often used to describe the analysis of large volumes of data and/or high-velocity data, which presents unique computational and data-handling challenges. Skilled data analytics professionals, who generally have a strong expertise in statistics, are called data scientists. 
+
+Is data analytics only for big data?
+No, data analytics is a general term for any type of processing that looks at historical data over time, but as the size of organizational data grows, the term data analytics is evolving to favor big data-capable systems. 

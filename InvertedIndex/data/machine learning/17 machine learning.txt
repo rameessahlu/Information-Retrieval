@@ -1,0 +1,109 @@
+What is Machine Learning? A Friendly Introduction for Aspiring Data Scientists and Managers
+
+ 
+Machine learning is ubiquitous in the industry these days. Organizations around the world are scrambling to integrate machine learning into their functions and new opportunities for aspiring data scientists are growing multifold.
+
+But we have noticed a huge gap between what the industry needs and what’s on offer right now. Quite a large number of people are not clear about what machine learning is.
+
+By end of this page, you will not only understand what is machine learning but also it’s different types, its ever-growing list of applications, the latest machine learning developments, the top experts in machine learning, among various other things.
+
+This is your one-stop destination for understanding machine learning!
+
+ 
+
+Topics we will cover
+What is Machine Learning?
+How Do Machines Learn?
+Applications of Machine Learning in our day-to-day-life
+Why is Machine Learning Getting so Much Attention Lately?
+How is Machine Learning Different from Automation?
+What Tools are Used in Machine Learning?
+How is Machine Learning Different from Deep Learning?
+How is Machine Learning Different from Statistical Modeling?
+What Kind of Problems can we Solve using Machine Learning?
+Different Algorithms used in Machine Learning
+How Much Data is Required to Train a Machine Learning Model?
+The Steps Required to Build a Machine Learning Model
+The Latest Breakthroughs and Developments in Machine Learning
+Challenges in Adopting Machine Learning
+Is Machine Learning a Complete Black Box?
+How can you build a Career in Machine Learning?
+Preparing for Machine Learning Interviews
+List of Popular Machine Learning Books
+Top Machine Learning Researchers and Experts
+ 
+
+What is Machine Learning?
+Machine Learning is the science of teaching machines how to learn by themselves. Now, you might be thinking – why on earth would we want machines to learn by themselves? Well – it has a lot of benefits.
+
+Machines can do high-frequency repetitive tasks with high accuracy without getting bored.
+
+For example – the task of mopping and cleaning the floor. When a human does the task – the quality of outcome would vary. We get exhausted/bored after a few hours of work and the chances of getting sick also impact the outcome.
+
+what_is_machine_learning
+
+Depending on the place – it could also be hazardous or risky for a human.
+
+what_is_machine_learning
+
+On the other hand, if we can teach machines to detect whether the floor needs cleaning and mopping and how much cleaning is required based on the condition of the floor and the type of the floor – machines would perform the same job far better. They can go on to do that job without getting tired or sick!
+
+This is what Machine Learning aims to do – enable machines to learn on their own. In order to answer the questions like:
+
+Whether the floor needs cleaning and mopping?
+How long does the floor need to be cleaned?
+Machines need a way to think and this is precisely where machine learning models help. The machines capture data from the environment and feed it to the machine learning model. The model then uses this data to predict things like:
+
+Whether the floor needs cleaning or not, or
+For how long does it need to be cleaned, and so on.
+what_is_machine_learning
+
+ 
+
+How do machines learn?
+This video snippet from our popular course AI & ML for Business Leaders will help you understand how a machine learning model works at a high level:
+
+
+ 
+Sadly, things which are usually intuitive to humans can be very difficult for machines. You only need to demonstrate cleaning and mopping to a human a few times – before they can perform it on their own.
+
+But, that is not the case with machines. We need to collect a lot of data along with the desired outcomes in order to teach machines to perform specific tasks. This is where machine learning comes into play.
+
+Machine Learning would help the machine understand the kind of cleaning, the intensity of cleaning, and duration of cleaning based on the conditions and nature of the floor.
+
+ 
+
+Applications of Machine Learning in day-to-day life
+Now that you get the hang of it, you might be asking what are some of the examples of machine learning and how does it affect our life? Unless you have been living under a rock – your life is already heavily impacted by machine learning.
+
+Let us look at a few examples where we use the outcome of machine learning already:
+
+Smartphones detecting faces while taking photos or unlocking themselves
+Facebook, LinkedIn or any other social media site recommending your friends and ads you might be interested in
+Amazon recommending you the products based on your browsing history
+Banks using Machine Learning to detect Fraud transactions in real-time
+The applications of machine learning are immense. You can read this article for a comprehensive list of applications driven by machine learning, which we use in our day-to-day life:
+
+Popular Machine Learning Applications and Use Cases in our Daily Life
+ 
+
+Why is Machine Learning getting so much attention recently?
+Sounds exciting! But this idea of teaching machines has been around for a while. Remember Asimov’s Three Laws of robotics? Machine Learning ideas and research have been around for decades. However, there has been a lot of action and buzz recently.
+
+The obvious question is why is this happening now when machine learning has been around for several decades?
+
+This development is driven by a few underlying forces:
+
+The amount of data generation is increasing significantly with a reduction in the cost of sensors (Force 1)
+Every time you take an action on any website, including Facebook and YouTube – you create data for these companies
+All connected devices including fitness bands, smartwatches, and connected equipment are generating data
+what is machine learning
+
+The cost of storing this data has reduced significantly (Force 2).
+what is machine learning
+
+The cost of computing has come down significantly (Force 3).
+machine learning computation cost
+
+Cloud has democratized Compute for the masses (Force 4).
+These 4 forces combine to create a world where we are not only creating more data, but we can store it cheaply and run huge computations on it. This was 

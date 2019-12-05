@@ -1,0 +1,63 @@
+What is image processing?
+Ad by Lambda Labs
+ML workstations — fully configured. Let us save you the work.
+Our machine learning experts take care of the set up. We are trusted by Amazon, Tencent, and MIT.
+Learn More
+14 Answers
+Virat Kini
+Virat Kini, Release engineer at Google
+Answered Mar 21, 2017 · Author has 80 answers and 108.6k answer views
+What is Image Processing?
+
+Image processing is a method to convert an image into digital form and perform some operations on it, in order to get an enhanced image or to extract some useful information from it. It is a type of signal dispensation in which input is image, like video frame or photograph and output may be image or characteristics associated with that image. Usually Image Processing system includes treating images as two dimensional signals while applying already set signal processing methods to them.
+
+It is among rapidly growing technologies today, with its applications in various aspects of a business. Image Processing forms core research area within engineering and computer science disciplines too.
+
+4.8k views · View 3 Upvoters
+Related QuestionsMore Answers Below
+What are the basics of image processing?
+What are the types of image processing?
+How image processing is done?
+Why is image processing important?
+What is an image processing system?
+Moksh Maheshwari
+Moksh Maheshwari, B.E. Computer Science, Marathwada Mitra Mandal's College of Engineering (2018)
+Updated Apr 20, 2017 · Author has 143 answers and 356.4k answer views
+Originally Answered: What is meant by image processing?
+Thanks for the A2A Suyash Kholapure!
+
+Image processing is analysis and manipulation of a digitised image, in order to improve its quality using mathematical operations by using any form of signal processing for which input is an image, such as photograph or video frame; the output of image processing may be either an image or set of characteristics or parameters related to the image. Most image processing techniques involve treating the image as a 2-D signal and applying standard signal processing techniques to it
+
+Digital image processing is the use of computer algorithms to perform image proc...
+Sponsored by Sajari Site Search
+AI-powered search for your website.
+Let machine learning drive your search experiences! Sign up for a 14-day free trial.
+Free Trial
+Khushal Gumgaonkar(????? ?????????)
+Khushal Gumgaonkar(????? ?????????), R & D Engineer 2 @Broadcom.
+Answered Jul 31, 2017 · Author has 184 answers and 225.1k answer views
+Originally Answered: What is meant by image processing?
+If you take literal meaning of image processing then its nothing but doing some operation or process on image. This process is required to get finer details of image(in medical application) or clean bad image(like people clean their bad selfie, hiding marks in image etc.) or converting an black and white image into color image or hiding data inside image (stignography use in defence) and many more.
+
+So image processing includes filtering an image, enhancement of an image, colorisation of image and many more. Various techniques available like filter, enhancement techniques etc. to get details ...
+Roger Dolce
+Roger Dolce
+Answered Jun 4, 2016 · Author has 216 answers and 175.7k answer views
+Image processing is processing of images using mathematical operations by using any form of signal processing for which the input is an image, a series of images, or a video, such as a photograph or video frame; the output of image processing may be either an image or a set of characteristics or parameters related to the image. Most image-processing techniques involve treating the image as a two-dimensional signal and applying standard signal-processing techniques to it. Images are also processed as three-dimensional signals where the third-dimension being time or the z-axis.
+
+1.1k views
+Related QuestionsMore Answers Below
+What is intelligent image processing?
+Where is image processing used?
+How do I learn image processing?
+How does image processing work?
+What is the difference between image processing and image editing?
+Anna Chloe
+Anna Chloe, Seo Expert at Rainbows (2011-present)
+Answered Oct 17, 2018 · Author has 56 answers and 174k answer views
+Image processing is a method to perform some operations on an image, in order to get an enhanced image or to extract some useful information from it. It is a type of signal processing in which input is an image and output may be image or characteristics/features associated with that image.
+
+296 views · View 1 Upvoter
+Sponsored by Malwarebytes
+Imagine using your devices without worrying about online threats.
+Malwarebytes can protect all your devices from cyber attacks. Get started with a free malware scan.

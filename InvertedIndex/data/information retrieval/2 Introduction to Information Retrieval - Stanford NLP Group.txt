@@ -1,0 +1,333 @@
+Introduction to Information Retrieval
+By Christopher D. Manning, Prabhakar Raghavan & Hinrich Schütze
+
+Website: http://informationretrieval.org/
+
+Cambridge University Press
+
+© 2008 Cambridge University Press
+
+Comments, corrections, and other feedback most welcome at:
+informationretrieval (at) yahoogroups.com
+
+Brief Contents
+Boolean retrieval
+The term vocabulary and postings lists
+Dictionaries and tolerant retrieval
+Index construction
+Index compression
+Scoring, term weighting and the vector space model
+Computing scores in a complete search system
+Evaluation in information retrieval
+Relevance feedback and query expansion
+XML retrieval
+Probabilistic information retrieval
+Language models for information retrieval
+Text classification and Naive Bayes
+Vector space classification
+Support vector machines and machine learning on documents
+Flat clustering
+Hierarchical clustering
+Matrix decompositions and latent semantic indexing
+Web search basics
+Web crawling and indexes
+Link analysis
+Contents
+Contents
+List of Tables
+List of Figures
+Table of Notations
+Preface
+Book organization and course development
+Prerequisites
+Book layout
+Acknowledgments
+Web and contact information
+
+Boolean retrieval
+An example information retrieval problem
+A first take at building an inverted index
+Processing Boolean queries
+The extended Boolean model versus ranked retrieval
+References and further reading
+
+The term vocabulary and postings lists
+Document delineation and character sequence decoding
+Obtaining the character sequence in a document
+Choosing a document unit
+Determining the vocabulary of terms
+Tokenization
+Dropping common terms: stop words
+Normalization (equivalence classing of terms)
+Stemming and lemmatization
+Faster postings list intersection via skip pointers
+Positional postings and phrase queries
+Biword indexes
+Positional indexes
+Combination schemes
+References and further reading
+
+Dictionaries and tolerant retrieval
+Search structures for dictionaries
+Wildcard queries
+General wildcard queries
+Permuterm indexes
+k-gram indexes for wildcard queries
+Spelling correction
+Implementing spelling correction
+Forms of spelling correction
+Edit distance
+k-gram indexes for spelling correction
+Context sensitive spelling correction
+Phonetic correction
+References and further reading
+
+Index construction
+Hardware basics
+Blocked sort-based indexing
+Single-pass in-memory indexing
+Distributed indexing
+Dynamic indexing
+Other types of indexes
+References and further reading
+
+Index compression
+Statistical properties of terms in information retrieval
+Heaps' law: Estimating the number of terms
+Zipf's law: Modeling the distribution of terms
+Dictionary compression
+Dictionary as a string
+Blocked storage
+Postings file compression
+Variable byte codes
+Gamma codes
+References and further reading
+
+Scoring, term weighting and the vector space model
+Parametric and zone indexes
+Weighted zone scoring
+Learning weights
+The optimal weight g
+Term frequency and weighting
+Inverse document frequency
+Tf-idf weighting
+The vector space model for scoring
+Dot products
+Queries as vectors
+Computing vector scores
+Variant tf-idf functions
+Sublinear tf scaling
+Maximum tf normalization
+Document and query weighting schemes
+Pivoted normalized document length
+References and further reading
+
+Computing scores in a complete search system
+Efficient scoring and ranking
+Inexact top K document retrieval
+Index elimination
+Champion lists
+Static quality scores and ordering
+Impact ordering
+Cluster pruning
+Components of an information retrieval system
+Tiered indexes
+Query-term proximity
+Designing parsing and scoring functions
+Putting it all together
+Vector space scoring and query operator interaction
+Boolean retrieval
+Wildcard queries
+Phrase queries
+References and further reading
+
+Evaluation in information retrieval
+Information retrieval system evaluation
+Standard test collections
+Evaluation of unranked retrieval sets
+Evaluation of ranked retrieval results
+Assessing relevance
+Critiques and justifications of the concept of relevance
+A broader perspective: System quality and user utility
+System issues
+User utility
+Refining a deployed system
+Results snippets
+References and further reading
+
+Relevance feedback and query expansion
+Relevance feedback and pseudo relevance feedback
+The Rocchio algorithm for relevance feedback
+Probabilistic relevance feedback
+When does relevance feedback work?
+Relevance feedback on the web
+Evaluation of relevance feedback strategies
+Pseudo relevance feedback
+Indirect relevance feedback
+Summary
+Global methods for query reformulation
+Vocabulary tools for query reformulation
+Query expansion
+Automatic thesaurus generation
+References and further reading
+
+XML retrieval
+Basic XML concepts
+Challenges in XML retrieval
+A vector space model for XML retrieval
+Evaluation of XML retrieval
+Text-centric vs. data-centric XML retrieval
+References and further reading
+Exercises
+
+Probabilistic information retrieval
+Review of basic probability theory
+The Probability Ranking Principle
+The 1/0 loss case
+The PRP with retrieval costs
+The Binary Independence Model
+Deriving a ranking function for query terms
+Probability estimates in theory
+Probability estimates in practice
+Probabilistic approaches to relevance feedback
+An appraisal and some extensions
+An appraisal of probabilistic models
+Tree-structured dependencies between terms
+Okapi BM25: a non-binary model
+Bayesian network approaches to IR
+References and further reading
+
+Language models for information retrieval
+Language models
+Finite automata and language models
+Types of language models
+Multinomial distributions over words
+The query likelihood model
+Using query likelihood language models in IR
+Estimating the query generation probability
+Ponte and Croft's Experiments
+Language modeling versus other approaches in IR
+Extended language modeling approaches
+References and further reading
+
+Text classification and Naive Bayes
+The text classification problem
+Naive Bayes text classification
+Relation to multinomial unigram language model
+The Bernoulli model
+Properties of Naive Bayes
+A variant of the multinomial model
+Feature selection
+Mutual information
+$\chi ^2$ Feature selectionChi2 Feature selection
+Assessing $\chi ^2$ as a feature selection methodAssessing chi-square as a feature selection method
+Frequency-based feature selection
+Feature selection for multiple classifiers
+Comparison of feature selection methods
+Evaluation of text classification
+References and further reading
+
+Vector space classification
+Document representations and measures of relatedness in vector spaces
+Rocchio classification
+k nearest neighbor
+Time complexity and optimality of kNN
+Linear versus nonlinear classifiers
+Classification with more than two classes
+The bias-variance tradeoff
+References and further reading
+Exercises
+
+Support vector machines and machine learning on documents
+Support vector machines: The linearly separable case
+Extensions to the SVM model
+Soft margin classification
+Multiclass SVMs
+Nonlinear SVMs
+Experimental results
+Issues in the classification of text documents
+Choosing what kind of classifier to use
+Improving classifier performance
+Large and difficult category taxonomies
+Features for text
+Document zones in text classification
+Machine learning methods in ad hoc information retrieval
+A simple example of machine-learned scoring
+Result ranking by machine learning
+References and further reading
+
+Flat clustering
+Clustering in information retrieval
+Problem statement
+Cardinality - the number of clusters
+Evaluation of clustering
+K-means
+Cluster cardinality in K-means
+Model-based clustering
+References and further reading
+Exercises
+
+Hierarchical clustering
+Hierarchical agglomerative clustering
+Single-link and complete-link clustering
+Time complexity of HAC
+Group-average agglomerative clustering
+Centroid clustering
+Optimality of HAC
+Divisive clustering
+Cluster labeling
+Implementation notes
+References and further reading
+Exercises
+
+Matrix decompositions and latent semantic indexing
+Linear algebra review
+Matrix decompositions
+Term-document matrices and singular value decompositions
+Low-rank approximations
+Latent semantic indexing
+References and further reading
+
+Web search basics
+Background and history
+Web characteristics
+The web graph
+Spam
+Advertising as the economic model
+The search user experience
+User query needs
+Index size and estimation
+Near-duplicates and shingling
+References and further reading
+
+Web crawling and indexes
+Overview
+Features a crawler must provide
+Features a crawler should provide
+Crawling
+Crawler architecture
+Distributing the crawler
+DNS resolution
+The URL frontier
+Distributing indexes
+Connectivity servers
+References and further reading
+
+Link analysis
+The Web as a graph
+Anchor text and the web graph
+PageRank
+Markov chains
+The PageRank computation
+Topic-specific PageRank
+Hubs and Authorities
+Choosing the subset of the Web
+References and further reading
+
+Bibliography
+Index
+About this document ...
+
+© 2008 Cambridge University Press
+This is an automatically generated page. In case of formatting errors you may want to look at the PDF edition of the book.
+2009-04-07

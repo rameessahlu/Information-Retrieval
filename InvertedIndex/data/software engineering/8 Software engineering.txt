@@ -1,0 +1,305 @@
+CRACK THE CODE: 4 PROS ON HOW TO BUILD A CAREER IN SOFTWARE ENGINEERING
+Are bootcamps worth the cost? What soft skills do you need to match your technical chops? How do you stay abreast of the industry’s constant changes? Four experts share advice about how to become a software engineer.
+August 12, 2019
+Updated: November 6, 2019
+Written by Stephen Gossett
+LinkedInFacebookTwitterlinkEmail
+“Any idiot can build a bridge, but it takes an engineer to build a bridge that barely stands.”
+
+That chestnut — that good engineers make things that work, but don't see a need to over-engineer them — relates specifically to structural engineering, but it’s also a great fit for software engineering. Like its built-environment cousin, software engineering requires stripping away all unnecessary clutter to create the smoothest-running, most intuitive digital solution possible.
+
+That encompasses a ton: the webpage you’re reading right now, the web browser you launched to do so, the operating system that allowed it, the content management system that hosts it. Each one of those software applications — and the entirety of the broader digital environment, really — has undergone design, testing, maintenance, installation, configuration, programming (more on that later). In a word, engineering.
+
+Given its scope and high technical bar, software engineering remains highly lucrative stuff, and also highly competitive. We spoke with four software engineers, each of whom has experience at some of the biggest firms in tech, about how they sharpened their skills and advanced in the fast-changing industry.
+
+We spoke with: Cassidy Williams, currently of CodePen, formerly of Amazon, and among the subjects featured in the documentary Big Dream, about young women succeeding in STEM; Victor Ionescu, a Facebook and Google veteran, who is now doing data infrastructure and core services for Airbnb; Max Heinritz, a Flexport software engineer who previously worked on Google Earth Engine, owns an enviable San Francisco loft and moonlights in lamp design; and Samara Trilling, a software engineer for Sidewalk Labs, the ultra-ambitious smart-city development wing of Google parent company Alphabet.
+
+ 
+
+HOW DID YOU FIRST GET INTO SOFTWARE ENGINEERING?
+cassidy williams how to become a software engineer
+
+CASSIDY WILLIAMS
+Senior Software Engineer at CodePen
+
+I first got involved with code when I was a teenager. I remember very clearly walking home from school in eighth grade. I was about 13 and I heard my neighbor say, “Check out my website.” And I was like, “Wait, you can have one of those?” Because I thought only businesses or companies could have websites. It blew my mind. I went home that day and started looking up how to make websites, just the very basics of HTML and CSS. I used a site builder at first, then realized I could customize it more if I knew JavaScript. And I just kind of went from there. I tried different forums, where a lot of people got their start. I was very self-taught. I built a website for my high school biology class a year later. From there, I decided I wanted to get a job doing it and realized I could. So I majored in computer science and from there went into the industry.
+
+ 
+
+victor ionescu how to become a software engineerVICTOR IONESCU
+Software Engineer at Airbnb
+
+I started coding when I was 12, for a computer science class. As soon as I got into it, I was selected by my teacher to compete in algorithmics. So I competed for a few years through middle and high school. It was just something I was good at, so naturally I did computer science in college. It wasn’t meant to be a high paying job or anything fancy. I just started because I was good at it, and everything follows from there.
+
+ 
+
+max heinritz how to become a software engineerMAX HEINRITZ
+Software Engineer at Flexport
+
+My first time coding was on a TI-83 Plus calculator in seventh grade math class. I built a few games for fun and tools for homework to answer questions like, “A ball is thrown one meter-per-second at a 60-degree angle. Does it clear a two-meter-tall fence 50 meters away?” Then I took some programming classes in high school, and my interest kept evolving from there. No one in my family programmed or used Linux or anything like that, and I lived in the Denver suburbs away from tech. So I just picked up bits and pieces along the way when I could. I sometimes wish I were a middle schooler or high schooler now — programming seems way more accessible than it was 15 years ago. But perhaps each generation feels that way.
+
+ 
+
+samara trilling how to become a software engineerSAMARA TRILLING
+Software Engineer at Sidewalk Labs
+
+I’m from the Bay Area and grew up around a lot of people from tech, but I never thought of myself as going into tech. I was much more excited about politics. I went to school at Columbia [University, in New York] and took my first computer science class kind of on a whim my freshman year. I had never thought of myself as a math person or any kind of numerical genius. That was totally not how I identified. I thought, “That’s for people who really love spending most of their time thinking about math equations,” and “That’s just not me.” But my first CS class ended up being much easier than expected.
+
+It definitely does not require genius. It was all about logic, not equations. It was a lot of collaboration with people that I really liked. So I kind of found my people in the computer science department in college. I knew I wanted to gather as many skills as I could in order to do something positive in the world. And it seemed like computer science was going to be a really powerful tool. Now we’ve seen that computer science is indeed an incredibly powerful tool that can be used in many different ways, for good and not-so-good ends. Now is a really important time for everybody in tech to consider what they want to do with this skill they’ve honed.
+
+I got my first internship when I was a sophomore. A friend really encouraged me to apply to some opportunities at Google. I went back to intern there, then started full time after graduation, working on Google Fiber — specifically on how we could give better Internet service to people who previously hadn’t had it.
+
+ 
+
+HOW WORTHWHILE ARE PROGRAMMING CERTIFICATIONS? IF YOUR CODE POSTED ON GITHUB DEMONSTRATES A PARTICULAR SKILL, IS THAT GENERALLY EVIDENCE ENOUGH FOR A POTENTIAL EMPLOYER?
+cassidy williams programming certifications
+
+Williams: It depends on the company you’re speaking to. Some companies are like, “Oh, well, they did this cool project on GitHub and that’s all I need to see,” or, “They have a bunch of cool Pens on CodePen and that’s all I need to see.” But some companies that want to know more about your academic background or how you learn, they actually care about a degree or some kind of good certificate — though I do think that the industry is trending towards not caring about that as much.  
+
+A lot of what I do today are things I taught myself. For example, with web development, a lot of more theoretical computer science concepts are moving more and more into the front-end development world. It’s really nice to see, because I can actually use my degree and understand, “Oh, GraphQL — that’s using a graph. I studied graphs,” and then go deeper into how you actually use that. So it’s nice that I can use my traditional background brain, but I don't think it’s necessary to be successful in the field.
+
+ 
+
+victor ionescu programming certifications
+
+Ionescu: It’s a culture thing. I personally don’t do a lot of open source. I just don’t have the time for it. And when I have a project, I keep it private. I can tell you that in the industry, if someone has a lot of open source projects, that can serve as validation, because if a lot of people are using your code, then it must be working, right? And if you actually wrote it, then you probably are a pretty decent programmer. But if you don't have that, I definitely don't think that's a drawback.
+
+Because a lot of people working on complicated things — like, for example, infrastructure people working on databases, or people working at Google or another company that doesn’t really have a huge open source culture — just go in and upload your code. But yes, if you have it and it’s used, in the programming community it does say something. There's a sample of your work. That’s good in every industry.
+
+ 
+
+max heinritz programming certifications
+
+Heinritz: I’ll answer assuming the goal is getting a job. I don’t think I’ve ever given consideration to a candidate’s programming certification during the hiring process. GitHub repos might be useful in three ways: getting past the initial recruiter screen to get a phone screen, having some interesting projects to talk about during your interviews or nudging your application through hiring committee borderline cases.
+
+The number one thing people underinvest in is practicing the coding interview. Practice, practice, practice. Do it every day for weeks if you’ve never done a technical interview before. I highly recommend the book Cracking the Coding Interview and the sites that help you do practice problems. It’s a trainable skill.
+
+ 
+
+samara trilling programming certifications
+
+Trilling: Within the job interview process context, most companies still do face-to-face programming interviews or online coding challenges. For programming certifications, I think it’s just not something that has really caught on.
+
+I do think there’s a lot of value in contributing to open-source work and code online in general. It helps build confidence and it gives you a place to track your own learning. But employers want to have in-person experience [demonstration] as well. We actually do something at Sidewalk Labs in the interview where there’s a question that you sort of work through with another engineer in the room. And the idea is that you’re the main engineer on the project and that you have to hand it over to the other engineer at the end of the interview. 
+
+Those more experiential interviews tend to do well in seeing how somebody collaborates, how they explain their vision, which I think is more important than whether or not they know a particular [programming] language. Because a lot of people can pick up languages pretty quickly. It’s really much more about your ability to build the right thing, work with other people and be collaborative.
+
+FIND YOUR DREAM JOB
+Discover tech jobs that match your skills and expertise.
+Sign Up
+ 
+
+WHAT SOFT SKILLS DOES A SOFTWARE ENGINEER NEED TO MASTER?
+cassidt williams software engineer soft skills
+
+Williams: I think it’s less about soft skills and more about core skills. If you’re able to communicate, able to write — honestly, communication is what it all boils down to. That’s so key for being successful in the industry. You need to be able to write good documentation. You need to be able to voice your opinions in meetings. You need to be able to communicate to the team, so that if you leave for whatever reason or need to pass off your code, people can take it and run with it and not be entirely dependent on tribal knowledge. It should be well communicated. That is the top skill to have, and it’s a core skill that everyone needs. Because if you aren’t able to talk out something, you’re just going to end up being a code monkey that won’t really work well with the team. 
+
+ 
+
+victor ionescu software engineer soft skills
+
+Ionescu:  It’s really hard to get stuff done by yourself. And I’ve noticed particularly in companies that are slightly younger, it’s best to have some program management skills: getting people organized, trying to make them keep you up to date. Everything that requires group effort in terms of execution could benefit from synergy, right? You have to create synergy with coworkers so that everyone knows what each other’s working on, and how far along they are. One thing that happens quite often is that people get distracted, and sometimes you can actually lose track of what you’re trying to accomplish. So you can’t be pragmatic in terms of delivering something. I think that’s one of the most important things. And, of course, being a people person who can easily communicate with others and maintain work relationships.
+
+ 
+
+max heinritz software engineer soft skills
+
+Heinritz: Written communication is the single most important non-coding skill in my experience. Verbal communication is important, too, but written communication scales more broadly. So if I had to pick one, it would be written. Writing design docs, blog posts, onboarding guides — these artifacts massively increase your leverage. I recommend Edmond Lau’s book “The Effective Engineer” for more on the topic. His framework about leverage — the value produced per unit of time invested — helped me appreciate the importance of soft skills in general and written communication in particular.
+
+If you aren’t able to talk out something, you’re just going to end up being a code monkey that won't really work well with the team.
+
+ 
+
+samara trilling software engineer soft skills
+
+Trilling: Soft skills are engineering skills. I don’t know any engineer who’s successful without being a good communicator. And I don’t know an engineer who wouldn’t be a better engineer if they weren’t a better communicator. So learning how to explain and teach well — not just to make yourself feel smarter, but to really give the other person the chance to learn and ask questions. That’s the way really great engineering organizations grow. At Google, I felt really encouraged to ask questions. And as an engineer, if you’re mentoring somebody who is newer to your team or newer to the language you’re working on, the best way to increase the velocity of everybody’s productivity is by being a great teacher.
+
+ 
+
+HOW WORTHWHILE ARE BOOTCAMPS?
+cassidy williams bootcamps
+
+Williams: Bootcamps are a viable option for sure. I don’t know if I would say on top of an existing technical degree, because so often they’ll be teaching things you might already know or be capable of learning a lot faster. But for someone making a career change … I have a couple of friends who were lawyers and did a bootcamp, and now they’re software engineers at big tech companies, so it’s totally a great option for some people. I will say that in doing a bootcamp, you learn a lot in a short period of time, and it’s very specific information. If you go that route, you should pay attention in class and do all the projects. But also be ready to learn more beyond the bootcamp, go a little bit deeper. Because there’s a lot to learn not only about how to do something but why something works. That’s key to being a successful bootcamp developer and an eventual employee at a company.
+
+ 
+
+victor ionescu bootcamps
+
+Ionescu: I think bootcamps are good for people who have what it takes, but they might not be a great indicator for people who could have what it takes but need more time. Let me give an example. When I first started coding, I didn’t quite understand anything that was going on in the class. We had all these theory classes like, you can program things to perform certain actions depending on what you want. And to me that sounded too abstract. But the moment I was facing the computer I was like, “Oh, that’s just code. That’s how it works. Cool. I got this.” Day one, I can code. I think because I had it embedded in my brain that I could actually take that thing and use it in a particular way.
+
+Now you don’t need to have that embedded in your brain in order to be a good programmer. If you have it, then I think bootcamps are great. I have a friend who actually went through bootcamp and ended up doing a good number of web apps. So some people can definitely get it. I do think that some of the bootcamp programs are very intense. The risk is that if you get lost at some point, then it’s really hard to recover. Like, if you don’t get it at a particular point in time, you might just get left behind and think you’re a bad programmer. But in reality you just needed more time to develop the concepts in your head. So they’re good and bad. Are they worth the money? Sure, if you want to get a job out of it, I think that’s a good place to start. If you have a bit more time, I would recommend taking it easy and maybe getting a computer science degree. Or try to work on something in your free time without having expectations of income from it.
+
+ 
+
+max heinritz bootcamps
+
+Heinritz: I can only provide anecdotes. One of my college friends studied economics, worked at a tech-based consulting company, went through a bootcamp two years after graduating and ended up working as an engineer at Google. So for him, it was definitely worthwhile. My dad also went through a bootcamp. He studied fine art painting in college and became a craftsman carpenter. He’s been semi-retired for a few years, and we thought programming might be a fun next step for him. The craft of programming is often compared to the craft of woodworking. But he found the content hard to digest, and it didn’t end up going anywhere. So it wasn’t worthwhile for him.
+
+ 
+
+samara trilling bootcamps
+
+Trilling: I have several friends who went to school for something else, then decided to do a bootcamp and [go into] software engineering as their main job. Just like a lot of other educational programs, a great bootcamp is fantastic and a not-as-great bootcamp is not so useful. There’s a great company in New York City, Cityblock Health, that has done really well hiring many people from bootcamps, and that’s worked out incredibly well for them, in addition to a lot of people with various backgrounds in computer science. 
+
+But even in my [current] jobs, maybe only half the people I work with have computer science degrees. A lot of people studied a different part of engineering or philosophy or got a minor in history. And I think that actually makes people much better engineers overall, when you don’t have such a myopic view of the field and you understand why you’re learning these skills. So I do think bootcamps can be really valuable, especially if you’re somebody who likes to learn socially, to make sure you have a cohort of people who are learning alongside you. Even at Google, I think they’re working harder at recognizing that there’s all this tech talent out there that doesn’t look like somebody who went to MIT and got a computer science degree.
+
+The development world and all those roles are going to be expanding so much in the future that I think that it’s really important not to be weird and elitist about the way [people] learn.
+
+When I taught at Make School in San Francisco, which is now an accredited program, we liked to teach and learn by making stuff. And it tends to be pretty self-driven, but there’s also a lot of community and ROS development in their summer academy. There are more options now than there ever have been for alternative learning experiences. And just like anything else, you don’t want to invest a lot of money in something you don’t think is going to pay off. So be sure to know your learning style. There are some well-known bootcamps, like General Assembly, that have good track records and do a good job of being transparent about their success metrics. That’s an area you want to check up on pretty carefully before you choose one.
+
+ 
+
+WHAT’S THE BEST WAY TO STAY ON TOP OF THE CHANGES GOING ON IN SOFTWARE ENGINEERING, EITHER AS A NEWCOMER OR A VETERAN?
+cassidy williams best way to stay informed
+
+Williams: Things change all the time. I tend to keep up by subscribing to a bunch of newsletters. Newsletters on web development, on mobile development, on development in general, on tech trends, even VC newsletters to find out about the latest startups in a given space. It’s a lot. It definitely clogs the inbox, but it’s a really good way to stay in touch with how certain things work and what trends are out there. A lot of the new frameworks that I’ve worked with and libraries I’ve seen, I’ve learned from reading newsletters and thinking, “Wow, there’s been, like, four articles on this now; I should probably look into it.”
+
+There are so many: Frontend Weekly, Mobile Dev Weekly, Web Design Weekly, Smashing Magazine, CSS-Tricks. There’s a bunch of different newsletters, and I do tend to stick more with the web development ones. I also really like DevRel Weekly, which is more about developer relations and the marketing side of engineering and development. And I have my own, Rendezvous was Cassidoo, where I tend to stick in web development links I’ve read that week.
+
+ 
+
+victor ionescu best way to stay informed
+
+Ionescu: A really good resource in general is reading blogs that explain how things work at scale. A lot of [major tech] companies write blog posts, and, particularly for senior engineers, looking into the newest ways people have figured out distributed architecture helps open your mind to how to design something at scale. Uber posts them, Facebook, Google — a lot of these companies. They’re a really good resource for systems architecture.
+
+In terms of learning these skills, it really depends. If it’s front end, there’s nice new blogs around on how to do specific things with React, new JavaScript things like Flux or Redux. If you’re looking for infrastructure, there are blogs around elastic search. If you’re trying to learn a programming language, there’s a lot of resources for that, there’s Unity Courses, there’s books. There are a lot of ways to stay in touch with what’s going on.
+
+ 
+
+max heinritz best way to stay informed
+
+Heinritz: Different people learn in different ways. I can share my own experience. I learn best from building things, so I try to make time for side projects both inside and outside the office. A side project for me starts with a vague idea of the end goal: “I think it would be cool if our Ruby code was auto-formatted like our JavaScript code.” Or, “I want to hang a backlit map of a city with a nice warm glow on that wall over there.” As I start making progress, the goal becomes more clear and my motivation to achieve it grows. Learning happens naturally as I overcome obstacles along the way.
+
+At work, I dedicate some time to projects that are interesting to me even if they’re not related to my main job function. Last year I got into a fun feedback loop formatting our Ruby code letter, and it ended up leading to open source contributions and the blog post Approximating “Prettier for Ruby” with RuboCop.
+
+Outside of work, every so often I work on personal side projects. There’s a balance here; enjoying life is important. Working all the time isn’t healthy or sustainable. But I always have one or two ideas kicking around in my head. Right now I’m working on Map Lamps with my brother and have learned a ton about OpenStreetMap, Mapbox, the latest cloud and map-rendering tech. Personal side projects have the advantage of being greenfield, and it’s nice to use the latest tech out of the box.
+
+ 
+
+samara trilling best way to stay informed
+
+Trilling: It’s all about finding a community. That’s partially because I’m somebody who likes to learn alongside other people, by talking to people and hashing out ideas with folks, and also by reading. Twitter is actually a really fun way to get updates. A lot [of my favorite follows] are not necessarily working on the same types of problems I’m working on, but are sort of broader tech accounts. 
+
+Liz Fong-Jones (@lizthegrey) has a great account, and Charity Majors (@mipsytipsy), the CTO of Honeycomb. Ian Coldwater (@IanColdwater). They’re just incredibly competent, smart folks who also love to talk about the work that they do.
+
+I also tend to like resources that have some history of how the language got to be the way it is. So I’m currently reading Fluent Python, which is an O’Reilly book that I find fascinating. It gets into how the language evolved over time and why things are the way they are.
+
+ 
+
+HOW DO YOU DEFINE THE DIFFERENCE BETWEEN A SOFTWARE ENGINEER AND A SOFTWARE DEVELOPER OR PROGRAMMER?
+cassidy williams software engineer programmer developer differences
+
+Williams: A lot of times those terms are very interchangeable. If there is a difference, I tend to think of an engineer as doing a lot of the architecture side of things and not just coding. Coding is a big part of each role. The real differentiation, if you were to make one, is that the software engineers actually plot out the requirements and architecture of a system, like how pages and data are organized overall, and visualizing with designers and other stakeholders how the software will fit in the narrative they’re building. The engineer does a lot of the architecting and theoretical work before actually writing any code. But honestly, a lot of companies just use those terms interchangeably, so it’s kind of hard to say.
+
+ 
+
+victor ionescu software engineer programmer developer differences
+
+Ionescu: I don’t think there’s any difference. I think a lot of these are just titles. Experience dictates the grade of accuracy and quality your work has. So you can be a software developer, internet programmer — call it whatever you want. Depending on your job, you might be coding different things. Sure, a web developer is just going to be a web developer, but a programmer could program anything from robots to webpages. Particularly in the Bay Area, where everything is web- and infrastructure-oriented, what makes the difference is approach and experience and quality of work. 
+
+ 
+
+max heinritz software engineer programmer developer differences
+
+Heinritz: I think the distinction is mostly in career branding and marketing. See Patrick McKenzie’s excellent post Don’t Call Yourself A Programmer, And Other Career Advice. In my experience, “programmer” generally connotes hobbyist, whereas “software engineer” connotes professional. But non-technical folks care much more about this sort of thing than people coding.
+
+ 
+
+SALARIES FOR SOFTWARE ENGINEERING CAN BE VERY COMPETITIVE. HOW DO YOU MAKE SURE YOU’RE GETTING PAID YOUR VALUE?
+cassidy williams software engineer salary
+
+Williams: I generally figure out what the market rate and cost of living is in a given city. I’ve lived in both New York City and Seattle. When I moved to Seattle, I did take a pay cut because the cost of living was less. But even though I was getting less in theory on my annual number, I was taking more home, because the taxes are different and the cost of living is lower and it ended up working out that way. There are a bunch of cost-of-living calculators online. It’s also safe to say that budgeting can be different at different parts of your life. So that could definitely be at play, too. But I generally look at the market rate and then always negotiate no matter what, because even if they say no, at least you tried. I think a lot of the wage discrepancies in the world are because people have been told that they shouldn’t negotiate when they always should.
+
+ 
+
+victor ionescu software engineer salary
+
+Ionescu: If you ask a hundred people in the Bay Area if they’re being paid appropriately, 90 of them would say, no, I’m underpaid. I don't think I'm underpaid. I think it’s a psychological thing, right? It’s a matter of whether you feel like you get recognition and feel like you’re given opportunity. I don’t really have a strategy for it. But I’ve been working for four or five years and have never had an issue with reaching a plateau.
+
+I’m assuming based on charts that I see shared by people across the industry — [assuming] those [are] good data points — and referencing those, I can tell that my compensation is pretty good relative to the market. Correlating that with how much I feel I contribute to the company, I think that’s a pretty good way to look at it. Now, it’s always an industry thing. For example, in finance, if you make a billion dollars for the company, you might get a $10 million bonus, right? Which doesn’t happen in tech. So in that sense, a lot of people might feel like, oh, I do so much for his company, but I don't get compensated enough.
+
+But the way I think about it is, if you can find the work that you’re really good at, the compensation will follow. And I feel like that’s happened for me across my career, which is still pretty short.
+
+ 
+
+max heinritz software engineer salary
+
+Heinritz: I highly recommend Patrick McKenzie’s post Salary Negotiation: Make More Money, Be More Valued. There are few things I dislike more than these kinds of conversations, and I suspect many programmers feel similarly. Patrick’s post is the best advice I’ve read.
+
+ 
+
+WHAT QUESTION(S) WOULD YOU ASK A PROSPECTIVE EMPLOYER IN AN INTERVIEW?
+cassidy williams prospective employer questions
+
+Williams: One thing I always ask employers in interviews — and I ask it of every single person who’s interviewing me, if it’s onsite and there’s not just one person — is, “What’s more important: the employees, the product or the customers?” There’s no real wrong answer, but it’s a really good indicator of the company’s priorities. For example, when I was at Amazon, [it was] customers first; when I interned at Intuit, it was employees first. It varies from company to company. But the difference is, when you’re onsite and asking multiple people, for example, like one round after another, and they all have different answers, then I know that there might be some sort of communication issue or it might be different across teams. Then you need to figure out what kind of team you want to be on. And then I use that question a lot as a metric for figuring out, Is this the kind of team that I want to join?
+
+ 
+
+victor ionescu prospective employer questions
+
+Ionescu: I’m generally very entrepreneurial; it runs in the family. What I try to do every time is gain knowledge in something different. So of course I want to work for a nice company and not an evil company. That’s the standard, right? And you need to believe in the product you’re building so you actually feel motivated. But at the end of the day, as an engineer, if I were to switch jobs right now, I [would] want to work on something that really teaches me stuff. So I wouldn’t want to be too comfortable in my job. I’d ask about opportunities in terms of growth, because the best way to learn, particularly as a senior engineer, is to get into areas that are not particularly known.
+
+So I ask about opportunities for growth and open problems that the company has. And Airbnb had a lot of open problems when I joined. It felt like a really good place to develop as a software engineer, and I was right. I definitely learned more in my first year at Airbnb than I learned in my two years at Facebook. So that was a good choice. But at the end of the day, I think what’s going to differentiate a really great software engineer in the Bay Area today — because software engineers pretty much grow on trees here — is the extent to which they have knowledge of different platforms.
+
+ 
+
+max heinritz prospective employer questions
+
+Heinritz: I would first identify what I’m optimizing for in my job search, and then ask questions that would help me evaluate whether this company could help me get there. In my most recent search, I was optimizing for: growth, real-world impact, day-to-day flow, full-stack roles, open source frameworks. So I asked questions like: “I like to work on maps. What are you doing with maps?” “Why are you excited about Flexport’s future?” “How much time did you spend coding yesterday?” “What tools have you used this week?” More specific is better.
+
+Then there are some questions that will give insights no matter what you’re optimizing for. I came up with the following list by reflecting on questions that interviewees have asked me that were fun for me to answer and revealed something I otherwise hadn’t shared. “If you could wave a magic wand and change one thing about your job today, what would it be?” “Why did you decide to work here?” “What’s your favorite thing about working here?” “What are the biggest challenges facing your team today?” “How does working here compare to working at company X?”
+
+The number one thing is: always have questions to ask. It's a bad sign when a candidate isn’t curious about anything.
+
+ 
+
+samara trilling prospective employer questions
+
+Trilling: One important question is, “If your company were really, really successful, who would that benefit and who would that not benefit?” It’s a question that maybe we wouldn’t have necessarily asked five years ago that now definitely feels of the utmost importance. And the question of, if someone were to take your test model to the extreme, what would be the consequences in the world for that model? Is the way you’re creating value fundamentally extractive or fundamentally generative?
+
+I also try to figure out how humble people at the company can be about what technology can accomplish. And if your goal is to solve a problem, then are you willing to explore potentially less technically cutting edge solutions if they’re better to actually solve the problem? Because I think it's really easy to get caught up in, “We’re going to use machine learning in order to solve this problem.” But what if the problem doesn’t require machine learning? Do you still want to solve the problem, or just work on machine learning?
+
+Figuring out how collaborative the working environment is important, too, because I think that’s often a proxy for how much you can actually get done. “Do you prefer programming? How do you communicate dividing up work, and working together? Is that valued?” If everybody is working on their own tiny part of something, in reality you often don’t have somebody whose job it is to stitch it all together, and that’s where the real work gets done. Those tend to be the places where great stuff happens.
+
+ 
+
+WITH THE RISE OF WEBSITE- AND APP-BUILDING TEMPLATES AND MACHINE LEARNING, IS SOFTWARE ENGINEERING GOING TO SHRINK?
+cassidy williams software engineering industry outlook
+
+Williams: Until we have AI programs writing AI programs and software for us, I think software engineers will have a very lucrative career for a long time. A good friend of mine said, “You should get into software engineering before software engineering replaces you.” There’s always something that a human brain can do that computers just can’t, and vice versa. Human beings can tell computers to do things to the point where a computer can do things that humans can’t. But I don’t see this industry shrinking any time soon.
+
+ 
+
+victor ionescu software engineering industry outlook
+
+Ionescu: I personally love [template tools]. If you’re trying to build a product that, for example, sells cars, and the main piece of your product is trying to figure out how to determine the price, then you don’t really want to focus on anything else. So everything else [can] be templated. While these things are almost never used long term, they almost always make it easier for you to focus on what you actually should focus on. Like, if I try to build something that has a very complicated component that’s solving one particular problem, but the rest is just boilerplate, I should never have to write the boilerplate. 
+
+So I don’t think they’re impacting the software engineering roles as much. I think we’ll always need really good software engineers to create long-term solutions.
+
+ 
+
+max heinritz software engineering industry outlook
+
+Heinritz: I did worry about this sort of thing early in my career, through the lens of, “I’m so insanely lucky. Something must be wrong.” I now subscribe to the “software will eat the world” mindset. We’re just getting started.
+
+ 
+
+ 
+
+samara trilling software engineering industry outlook
+
+Trilling: I really don’t foresee software engineering shrinking. If anything, it’s going to expand to become a more diverse field in terms of the problems being solved — and with more people than ever coding as the tools get better and as there are fewer barriers to entry. It’s going to depend on how well we as a community can welcome folks who are joining the industry. It's also being flexible about what our definition of software engineering looks like.
+
+It’s definitely true that the definition of what constitutes software engineering is going to change. And I think that’s completely natural. This happens to every field that has been through major economic boom times and bust times. And it's part of how our economy’s changing. There’ll be more and more people who are coding as part of their job.
+
+The book Rainbow’s End by Vernor Vinge is about a world in which everybody codes their own augmented reality overlays on top of their world in real time. It’s a really interesting tableau, because there are also people in this global development who didn’t grow up with that sort of [technology]. But I think their experience learning how to use these new tools speaks a lot to the pace of change and how hard is to adapt to that sort of thing — but also to how it becomes more and more ubiquitous.
+
+LinkedInFacebookTwitterlinkEmail
+Great Companies Need Great People. That's Where We Come In.
+RECRUIT WITH US
+
+
+© Built In 2019
+
+
+Copyri

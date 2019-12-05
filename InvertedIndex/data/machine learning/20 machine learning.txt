@@ -1,0 +1,113 @@
+Skip to Content
+Facebook Research
+Search
+Search
+Submit
+Research Areas
+Show dropdown menu
+Publications
+People
+Academic Programs
+Show dropdown menu
+Downloads & Projects
+Careers
+Blog
+Machine Learning
+Applying machine learning science to Facebook products
+Connecting people with the content and stories they care about most.
+Machine learning and Applied Machine Learning is essential to Facebook. It helps people discover new content and connect with the stories they care the most about. Our machine learning and applied machine learning researchers and engineers develop machine learning algorithms that rank feeds, ads and search results, and create new text understanding algorithms that keep spam and misleading content at bay. New computer vision algorithms can “read” images and videos to the blind and display over 2 billion translated stories every day, speech recognition systems automatically caption the videos that play in your news feed, and we create new magical visual experiences such as turning panorama photos into fully interactive 360 photos.
+
+
+“We seek to advance the state of the art in machine learning for maximum impact, and our efforts form the glue between science and research and Facebook experiences.”
+— Joaquin Quinonero Candela, Director of Applied Machine Learning
+Our PeopleView All People
+Joaquin Quiñonero Candela
+Director of Engineering
+
+Reena Philip
+Engineering Manager
+
+Dan Zhang
+Engineering Manager
+
+Oliver Zeldin
+Engineering Manager
+
+Aparna Lakshmi Ratan
+Technical Program Manager
+
+Latest PublicationsView All Publications
+Cold Case: the Lost MNIST Digits
+Chhavi Yadav, Leon Bottou
+
+NeurIPS - December 9, 2019
+
+Learning to Perform Local Rewriting for Combinatorial Optimization
+Xinyun Chen, Yuandong Tian
+
+NeurIPS - December 8, 2019
+
+Differentiable Convex Optimization Layers
+Akshay Agrawal, Brandon Amos, Shane Barratt, Stephen Boyd, Steven Diamond, J. Zico Kolter
+
+NeurIPS - December 8, 2019
+
+On the Curved Geometry of Accelerated Optimization
+Aaron Defazio
+
+NeurIPS - December 8, 2019
+
+RUBi: Reducing Unimodal Biases for Visual Question Answering
+Remi Cadene, Corentin Dancette, Hedi Ben-younes, Matthieu Cord, Devi Parikh
+
+NeurIPS - December 8, 2019
+
+On the Ineffectiveness of Variance Reduced Optimization for Deep Learning
+Aaron Defazio, Leon Bottou
+
+NeurIPS - December 8, 2019
+
+NewsView All News
+Hydra: A framework that simplifies development of complex applications
+October 3, 2019
+
+Facebook hosts Fellowship Summit 2019
+September 11, 2019
+
+New machine learning inference benchmarks assess performance across a wide range of AI applications
+June 24, 2019
+
+VideosView All Videos
+8:18
+The Facebook Field Guide to Machine Learning, Episode 6: Experimentation
+10:46
+The Field Guide to Machine Learning, Lesson 5: Model
+10:05
+The Field Guide to Machine Learning, Lesson 4: Features
+9:32
+The Field Guide to Machine Learning, Lesson 3: Evaluation
+Downloads & ProjectsView All Downloads & Projects
+bAbI
+The bAbI Project is organized towards the goal of automatic text understanding and reasoning.
+
+Facebook AI Research, Machine Learning, Natural Language Processing & Speech
+Stack RNN
+Stack RNN is a project gathering the code from the paper Inferring Algorithmic Patterns with Stack-Augmented Recurrent Nets by Armand Joulin and Tomas Mikolov.
+
+Facebook AI Research, Machine Learning, Natural Language Processing & Speech
+
+Torch
+Torch is a scientific computing framework with wide support for machine learning algorithms. It is easy to use and efficient, thanks to an easy and fast scripting language, LuaJIT, and an underlying C/CUDA implementation.
+
+Facebook AI Research, Machine Learning
+Careers at Facebook Research
+Want to solve some of the most challenging technology problems?
+Join our Team!
+Follow Facebook Research
+
+Visit Our Other Blogs
+engineering.fb.com
+facebook.ai
+oculus.com/blog
+RSS Feed About Careers Privacy Cookies Terms Help
+Facebook © 2019

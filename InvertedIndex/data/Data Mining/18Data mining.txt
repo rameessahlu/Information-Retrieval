@@ -1,0 +1,50 @@
+What is Data Mining?
+by Garrett Alley  
+4 min read  • 31 Jan 2019
+Everyone wants an edge. And in the digital age of business, the greatest strategic advantage comes from slicing, dicing, and analyzing data from every possible angle.
+
+Data mining is the automated process of sorting through huge data sets to identify trends and patterns and establish relationships. And as enterprise data proliferates — now over 2.5 quintillion bytes per day — it’ll continue to play an increasingly important role in the way businesses plan their operations and address challenges in the future.
+
+Yet, like all data-related activities, the value of data mining operations is directly tied to the quality and range of data available for mining. And to work from the most recent, cleanest, and properly formatted data, businesses need ways to effectively, efficiently, and securely aggregate data from disparate sources and structures into a single location to mine it.
+
+Data mining basics and benefits
+Data mining is a catch-all term for collecting, extracting, warehousing, and analyzing data for specific insights or actionable intelligence. Think of data mining like mineral mining: digging through layers of material to uncover something of extreme value. Companies across the board — of every size, in every vertical and industry, around the world — rely on data mining to gather intelligence to use in everything from decision-support applications that power AI and machine learning algorithms to product development, marketing strategy, and financial modeling.
+
+At its core, data mining is statistical modeling that can be applied to either linear or logistic regressions. Combined with predictive analytics, data mining can uncover a host of trends, anomalies, and other previously hidden insights companies can use to better their business.
+
+Recent surveys suggest that over 90% of IT and business leaders want to employ more data analytics across their organizations. They’re primarily interested in improving strategic decision making, minimizing security risks or vulnerability, and enhancing resource planning and projections. Here’s how data mining might be used in a few key business functions:
+
+Finance: Use data insights to create accurate risk models for lending, mergers/acquisitions, and uncovering fraudulent activities
+IT Operations: Collect, process, and analyze massive volumes of application, network, and infrastructure data to discover insights for IT system security and network performance
+Marketing: Surface previously hidden buyer behavior trends and predict future behaviors to develop more accurate buyer personas, create more targeted campaigns that increase engagement, and promote new products or services
+Human Resources: Mine job application data to provide a comprehensive view of a candidate. Identify the best match for each open role using data analytics to evaluate education, experience, skills, previous job titles, certifications, and geography.
+Challenges with data mining
+While mining "Big Data" has myriad benefits, it also presents some unique challenges. Working with enormous volumes of data introduces concerns around data quality and accuracy, efficiency and scalability, and costly investments into software, servers and storage hardware that handle it.
+
+In particular, aggregating data from an array of sources — CRMs, ERP platforms, social media, and other systems — makes it difficult to guarantee that the data is clean and usable. Poor data quality such as incomplete, inaccurate, and duplicate data can wreak havoc on mining activities and negate the value of insights gained. Plus, combining data from different sources also comes with the added challenge of standardizing formats, as rich data can take many forms: multimedia files (audio, video and images), geolocation data, SMS, social media data, among many others.
+
+The sheer volume of data required for deep mining activities means data mining algorithms need to be efficient, powerful, and scalable. Data models must be easily updated to accommodate new data sources or increased data velocity. The size of some databases and the distributed nature of the data means that some data mining activities must occur in parallel, with multiple mining algorithms analyzing smaller data sets that must then be recombined for a complete picture.
+
+Of course, the cost of data mining is always a consideration and, in many cases, prohibitive for organizations with fewer resources at their disposal. Data mining operations can easily reach into the hundreds of thousands, if not millions, of dollars when accounting for the servers, storage, bandwidth, and manpower (data scientists, developers, and others) that go into a data mining operation.
+
+Top data mining tools
+More companies than ever are emphasizing the importance of data-driven decision making, creating robust demand for data mining tools. Some of the most popular data mining tools available today include:
+
+Alteryx Analytics
+IBM Cognos
+Oracle Data Mining
+RapidMiner
+SAP Business Objects (BO or BOBJ)
+Sisense
+Getting data mining right
+Good data science — mining it for actionable insights and intelligence — begins with an efficient, well-planned data pipeline to integrate, enrich, and transport data from its original source to a data warehouse for mining.
+
+Alooma’s real-time data ingestion engine means you can add new data streams from any source live, asynchronously, or in batches for maximum efficiency and continuity. Transform structured, unstructured, or semi-structured data instantly and enrich it on the fly with no downtime.
+
+Data mining is an imperative for remaining competitive and gaining a strategic advantage in the digital age of business. Contact us today to learn how Alooma’s modern enterprise data pipeline can simplify and streamline all your data mining and analytics operations and meet all your data-driven business objectives.
+
+Like what you read? Share on
+This might interest you as well
+What is Data Profiling?
+Read blog post
+What is Data Ingestion?

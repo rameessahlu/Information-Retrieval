@@ -1,0 +1,33 @@
+Image Processing with Python
+Note: This site is not an official Data Carpentry lesson. The lesson is under development for use in the Digital Imaging and Vision Applications in Science (DIVAS) Image Processing summer workshop and is in the process of becoming an official Data Carpentry lesson.
+
+This lesson shows how to use Python and skimage to do basic image processing.
+
+Prerequisites
+This lesson assumes you have a working knowledge of Python and some previous exposure to the Bash shell. These requirements can be fulfilled by:
+a) completing a Software Carpentry Python workshop or
+b) completing a Data Carpentry Ecology workshop (with Python) and a Data Carpentry Genomics workshop or
+c) independent exposure to both Python and the Bash shell.
+
+If you’re unsure whether you have enough experience to participate in this workshop, please read over this detailed list, which gives all of the functions, operators, and other concepts you will need to be familiar with.
+
+Schedule
+Setup	Download files required for the lesson
+00:00	1. Introduction	What sort of scientific questions can we answer with image processing / computer vision?
+What are morphometric problems?
+What are colorimetric problems?
+00:05	2. Image Basics	How are images represented in digital format?
+00:55	3. Image representation in skimage	How are digital images stored in Python with the skimage computer vision library?
+02:35	4. Drawing and Bitwise Operations	How can we draw on skimage images and use bitwise operations and masks to select certain parts of an image?
+03:55	5. Creating Histograms	How can we create grayscale and color histograms to understand the distribution of color values in an image?
+05:20	6. Blurring images	How can we apply a low-pass blurring filter to an image?
+06:10	7. Thresholding	How can we use thresholding to produce a binary image?
+07:45	8. Edge Detection	How can we automatically detect the edges of the objects in an image?
+08:50	9. Connected Component Analysis	How to describe objects in images.
+08:50	10. Challenges	What are the questions?
+09:20	Finish	
+The actual schedule may vary slightly depending on the topics and exercises chosen by the instructor.
+
+Licensed under CC-BY 4.0 2018–2019 by The Carpentries
+Licensed under CC-BY 4.0 2016–2018 by Data CarpentryEdit on GitHub / Contributing / Source / Cite / Contact
+Using The Carpentries style version 9.5.3.

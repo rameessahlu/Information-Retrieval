@@ -1,0 +1,21 @@
+Digital Image Processing: Introduction to Digital Images
+Sambasivarao. K
+Sambasivarao. K
+Follow
+Sep 28 · 3 min read
+This is the first post in the series of “Digital Image Processing”. In this series, we will be discussing digital images and how to process them.
+Let’s discuss what an Image is. If you are from Signal processing background, then you might consider image as a two-dimensional signal i.e., a function with two dimensions f(x,y) where x,y are spatial coordinates. From a geometry point of view, you can consider the image as a set of points on 2-d or 3-d space. Each point at every (x,y) is called amplitude or intensity of an image. When this amplitude and x,y points are discrete, then we call it a digital image. if the values are continuous values, then we call it an analog image. We can convert analog image to digital image using sampling and quantization. The process of manipulating digital images with a computer is called as digital image processing.
+Pixel: In a digital image, all the coordinates on 2-d function and the corresponding values are finite. Each value available in every location is considered as a pixel. In other words, a pixel is the smallest part of an image. So a digital image can be thought as 2-d array of pixels.
+Gray Level: Each pixel has some intensity value which is called Gray level or Gray value. These values are usually represented in 8-bit int. So the range of values from 0 to 255. The values near to 0 indicates darker regions and the values near 255 represent brighter regions.
+Types of Images: Binary, Grayscale, Color
+Binary Image: A binary image has only two possible gray values or intensities 0 and 255, there are no intermediate values. Binary images are used as masks for indicating the pixels of interest in many image processing tasks. Below is the example of binary image.
+
+Binary Image (only 0 and 255)
+Grayscale Image: Grayscale image has range of values from 0 to 255 i.e, each pixel location can have any value between 0 and 255. If you watch old films around the 1950s, you are watching grayscale images (films are nothing but videos which are collection of individual images in proper sequence). Here is the example below
+
+Grayscale image (0–255 range)
+Color Image: Both binary image and grayscale image are 2-dimensional arrays, where at every location, you have one value to represent the pixel. Remember to represent a color image, we need more than one value for each pixel. But how many values we need to represent a color? Typically you need 3 values for each pixel to represent any color. This came from the idea that any color can be formed by combining 3 basic colors Red, Blue and Green. Ex: you get yellow by mixing red and green, violet can be formed by combining red and blue etc., This is actually called RGB color space. There are many other ways to create color images which we will discuss in future discussions. Below is an example of a color image.
+
+Color Image (3-dim array with 3 values at every pixel location)
+Video: A video is just a collection of images in a proper sequence.
+That’s all from this post, Thank you everyone! In the next post, we will discuss about image formation.

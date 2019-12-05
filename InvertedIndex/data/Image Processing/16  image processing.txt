@@ -1,0 +1,15 @@
+Image processing in DNA
+Chao Pan, S. M. Hossein Tabatabaei Yazdi, S Kasra Tabatabaei, Alvaro G. Hernandez, Charles Schroeder, Olgica Milenkovic
+(Submitted on 22 Oct 2019)
+The main obstacles for the practical deployment of DNA-based data storage platforms are the prohibitively high cost of synthetic DNA and the large number of errors introduced during synthesis. In particular, synthetic DNA products contain both individual oligo (fragment) symbol errors as well as missing DNA oligo errors, with rates that exceed those of modern storage systems by orders of magnitude. These errors can be corrected either through the use of a large number of redundant oligos or through cycles of writing, reading, and rewriting of information that eliminate the errors. Both approaches add to the overall storage cost and are hence undesirable. Here we propose the first method for storing quantized images in DNA that uses signal processing and machine learning techniques to deal with error and cost issues without resorting to the use of redundant oligos or rewriting. Our methods rely on decoupling the RGB channels of images, performing specialized quantization and compression on the individual color channels, and using new discoloration detection and image inpainting techniques. We demonstrate the performance of our approach experimentally on a collection of movie posters stored in DNA.
+Comments:	5 pages
+Subjects:	Image and Video Processing (eess.IV); Computer Vision and Pattern Recognition (cs.CV); Machine Learning (cs.LG)
+Cite as:	arXiv:1910.10095 [eess.IV]
+ 	(or arXiv:1910.10095v1 [eess.IV] for this version)
+Bibliographic data
+[Enable Bibex(What is Bibex?)]
+Submission history
+From: Chao Pan [view email]
+[v1] Tue, 22 Oct 2019 16:34:04 UTC (4,294 KB)
+Which authors of this paper are endorsers? | Disable MathJax (What is MathJax?)Browse v0.2.1 released 2019-04-18   Feedback?
+About arXiv

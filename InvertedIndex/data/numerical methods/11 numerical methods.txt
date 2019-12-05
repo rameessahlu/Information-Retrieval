@@ -1,0 +1,86 @@
+MATH 368K. Numerical Methods for Applications.
+Unique #54800, Spring 2017
+Solving scientific, engineering, and other problems often requires the use of numerical methods and computers. This course presents various basic numerical methods, discusses their mathematical properties, and provides practice in computer programming, as a continuation of M348.
+
+Instructor:
+Prof. Todd Arbogast
+Office: RLM 11.162, Phone: 512-471-0166
+E-Mail: arbogast@ices.utexas.edu
+Office hours: M 11-12:00 noon and Th 8:30-10:00 a.m.
+Teaching Assistant:
+Mr. Kai Zhong
+Office: GDC 4.702F
+E-mail: zhongkai@ices.utexas.edu
+Office hours: Tu 2-4:00 p.m.
+Prerequisite:
+M 348 with a grade of at least C-. Only one of CS 367, M 368K, and PHY 329 may be counted.
+Meeting:
+MWF 10:00-11:00 a.m. in CPE 2.206. Attendance is required at all class meetings.
+Textbooks:
+[1] R. L. Burden and J. D. Faires, Numerical Analysis, 9th ed., 2011, Thomson Brooks/Cole Cengage Learning (ISBN-13: 978-0-538-73351-9) (Required).
+
+[2] Mike McGrath, C++ Programming in Easy Steps, 4th ed., 2012, In Easy Steps Limited, Warwickshire, United Kingdom (ISBN-13: 978-1-84078-432-9) (Optional).
+
+Web Pages:
+We use the University's Canvas web site. Please check that your scores are recorded correctly in Canvas. You can access Canvas from my.utexas.edu.
+Course Description:
+We will study parts of chapters 7-12 of the text, ending with chapter 9.
+Iterative Techniques in Matrix Algebra (9 lectures)
+Norms of Vectors and Matrices
+Eigenvalues and Eigenvectors
+The Jacobi and Gauss-Siedel Iterative Techniques
+Relaxation Techniques for Solving Linear Systems
+Error Bounds and Iterative Refinement
+The Conjugate Gradient Method
+Survey of Methods and Software (read)
+Approximation Theory (8 lectures)
+Discrete Least Squares Approximation
+Orthogonal Polynomials and Least Squares Approximation
+Chebyshev Polynomials and Economization of Power Series
+Trigonometric Polynomial Approximation
+Fast Fourier Transforms
+Survey of Methods and Software (read)
+Numerical Solutions of Nonlinear Systems of Equations (6 lectures)
+Fixed Points for Functions of Several Variables
+Newton's Method
+Quasi-Newton Methods
+Steepest Descent Techniques
+Survey of Methods and Software (read)
+Boundary-Value Problems for Ordinary Differential Equations (8 lectures)
+The Linear Shooting Method
+The Shooting Method for Nonlinear Problems
+Finite-Difference Methods for Linear Problems
+Finite-Difference Methods for Nonlinear Problems
+The Rayleigh-Ritz Method
+Survey of Methods and Software (read)
+Numerical Solutions to Partial Differential Equations (6 lectures)
+Elliptic Partial Differential Equations
+Parabolic Partial Differential Equations
+Hyperbolic Partial Differential Equations
+An Introduction to the Finite-Element Method.
+Survey of Methods and Software (read)
+Approximating Eigenvalues (5 lectures, if time permits)
+Linear Algebra and Eigenvalues
+Orthogonal Matrices and Similarity Transformations
+The Power Method
+Survey of Methods and Software (read)
+Computer Accounts:
+A computer account on the Mathematics Department network can be obtained in the Undergraduate Computer Lab, RLM 7.122. A free web-based C++ compiler can be found at http://cpp.sh/.
+Homework and Projects:
+Homework and computer projects will be assigned periodically. It is acceptable for groups of students to help each other with the homework exercises and projects; however, each student must write up his or her own work.
+Exams:
+Two exams will be given during the semester. on Wednesday, March 1 and Friday, April 7. A comprehensive final exam is scheduled for Saturday, May 13, 9:00-12:00 noon.
+Final Grade:
+In determining the final grade on the letter plus/minus scale, the homework/projects will count 25%, the two midterm exams will count 20% each, and the final exam will count 35%.
+The University of Texas at Austin Student Honor Code:
+"As a student of The University of Texas at Austin, I shall abide by the core values of the University and uphold academic integrity."
+The University of Texas at Austin Code of Conduct:
+The core values of The University of Texas at Austin are learning, discovery, freedom, leadership, individual opportunity, and responsibility. Each member of the university is expected to uphold these values through integrity, honesty, trust, fairness, and respect toward peers and community.
+Students with Disabilities:
+The University provides upon request appropriate academic accommodations for qualified students with disabilities. Contact the Office of the Dean of Students at 471-6259, 471-4641 TTY, and notify your instructor early in the semester.
+Religious Holidays:
+Appropriate academic accommodation for major religious holidays is provided upon request.
+Emergency Classroom Evacuation:
+Occupants of University of Texas buildings are required to evacuate when a fire alarm is activated. Alarm activation or announcement requires exiting and assembling outside. Familiarize yourself with all exit doors of each classroom and building you may occupy. Remember that the nearest exit door may not be the one you used when entering the building. Do not re-enter a building unless given instructions by the Austin Fire Department, the University Police Department, or the Fire Prevention Services office.
+Counselling and Mental Health Services:
+Available at the Counseling and Mental Health Center, Student Services Building (SSB), 5th floor, M-F 8:00 a.m. to 5:00 p.m., phone 512-471-3515, web site www.cmhc.utexas.edu.

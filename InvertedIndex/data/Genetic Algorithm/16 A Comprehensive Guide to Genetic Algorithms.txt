@@ -1,0 +1,44 @@
+A Comprehensive Guide to Genetic Algorithms (and how to code them)
+On the Origin of Genetic Algorithms
+Rishabh Anand
+Rishabh Anand
+Follow
+Aug 27, 2018 · 10 min read
+
+Charles Darwin, 19th century evolution theorist and author of the book, ‘On the Origin of Species’
+Original article by Rishabh Anand
+In the mid 19th century, Charles Darwin postulated the theory of evolution and how it played a key role in enabling organisms to adapt to their environments through natural selection – a process where the fittest in a given population survive and live long enough to pass on their traits and characteristics to future generations to ensure their survival.
+What’s happening currently?
+Presently, Machine Learning (ML) has kicked off a new era of smarter machines capable of making better decisions compared to their rule-based counterparts from the late 90’s and early 2000’s.
+Harnessing the sheer amount of computational power we now possess, ML algorithms, specifically deep neural networks, have leveraged our large pools of data, both structured and unstructured, to deliver insights, leads, predictions and much more with a high degree of accuracy.
+
+Inception V4: state-of-the-art Computer Vision model vastly used for classification and transfer learning
+State-of-the-art ML models can now classify, categorise, and generate data from scratch with a few hours/days of training. Deep Neural Networks have now proliferated into multiple domains, now being able to work with different data formats ranging from images to audio, many of such networks having surpassed human level capabilities in said areas. Below is an instance of an agent playing Atari games:
+
+An RL agent playing Breakout on an Atari emulator
+Enter, Reinforcement Learning
+Recently, research organisations like OpenAI and DeepMind have been dabbling with a field of Machine Learning called Reinforcement Learning. It’s a system where an agent learns and improves over time whilst interacting with an environment by making mistakes and collecting the respective rewards (either positive or negative) for the respective states.
+
+The reinforcement learning loop.
+Where do Genetic Algorithms fit in?
+In this ecosystem of smart agents trying to navigate environments, genetic algorithms form a small subset of the field where semi brute-force methods are applied to create a “fit” agent that is able to “survive” (remain on top). Why do I say semi brute-force? It’s because the parameters for the agent are randomly generated so there is no pre-defined set of test values that are used for the agent.
+Genetic Algorithms (GA) work on the basic principles of evolution as it is a meta heuristic to natural selection and the various subprocesses that occur spontaneously. This involves incorporating the 4 fundamental steps of evolution:
+Fitness
+Selection
+Crossover
+Mutation
+Together, these 4 processes, when performed on a population of agents yield the fittest agent for the task being performed.
+From this point onwards, when I mention the word “survive” or any variant of the word, I mean to say that the agent remains part of the top few agents that are viable enough to move on to the next generation.
+Model Fitness
+This refers to how strong the agent is in completing the task at hand. It quantifies how capable an agent is and this increases the probability that it will crossover with another agent in the population to possibly create stronger offspring models with traits of both the parent models.
+For different tasks, the fitness function undergoes slight modifications. However, in essence, its primary function is to play the role of a differentiator in the population that separates the stronger learners from the weaker learners.
+Model Selection
+This process is self-explanatory in that the top few models are allowed to remain in the population while the remaining weaker ones are discarded of as they serve no purpose.
+This leaves us with empty slots in the population giving us space for the new stronger offspring on the remaining parent agents.
+Model Crossover
+This process enables two strong parents to create offspring that have the traits of both parents increasing the chances of survival. It’s a best-of-both-worlds scenario.
+During crossover, all the properties of one of the agents are split up or broken down into more fundamental units and half of them are exchanged with those of the other parent agent. Biologically speaking, a part of the genes from one parent are connected to another part of the genes from the other to create an offspring that has two sets of gene segments increasing its chances of survival in terms of fitness.
+
+A diagram visualising the process of crossover where part of the DNA (combination of binary digits) is split up and exchanged with the remaining part of the DNA of the other parent to create an offspring with two segments of different DNA.
+Model Mutation
+Similar to the evolutionary process, mutation plays a key role in introducing some randomness and stochasticity into the population. By doing so, the agents that survive better (higher fitness score) with this mutation are able to pass on this survival mutation trait to future generations to ensure their

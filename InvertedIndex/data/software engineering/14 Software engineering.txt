@@ -1,0 +1,391 @@
+With job growth pushing past 20 percent, some of the highest starting salaries in the country and unparalleled hiring appetites from employers, it should come as no surprise that software engineering is one of the most in demand professional fields in the country. In 2014, U.S. News & World Report listed software developer as the best job in the country and Career Cast ranked it as the 7th best career field. The following guide provides an overview of software engineering, insight into career avenues and earning potential, a review of professional development, as well as job preparation and planning advice.FAST FACTMore than 222,000 software development positions will be created nationally between 2012 and 2022.
+WHAT IS SOFTWARE ENGINEERING?
+As a branch of computer science, software engineering includes the development and building of computer systems software and applications software. Systems software consists of programs that include computing utilities and operations systems and applications software includes user-focused programs, including database programs, Web browsers and more. Knowledge of programming languages, software development and computer operating systems are three major components of the field. Software engineering is a related, but slightly different occupational field than computer hardware engineering, which is concerned with the design and development of hardware and computing technologies (e.g. processor design, networking, etc.)
+
+Some of the major branches and career paths in software engineering include:
+
+APPLICATIONS DEVELOPMENT
+Problem solving-based, non-Web-based software development that includes programming languages such as Java and C#.
+
+SYSTEMS DEVELOPMENT
+Designing and coding background software created to support application development; includes program languages like C and C++.
+
+WEB DEVELOPMENT
+Designing software or applications to run in a Web browser and used programming languages such as HTML, JavaScript and PHP.
+
+EMBEDDED SYSTEMS DEVELOPMENT
+Designing computing systems and software to work on non-computing devices, such as automobiles. Uses programming languages such as C and assembly languages.
+
+A SURGE IN SOFTWARE ENGINEER CAREERS
+Software engineering is one of the most in-demand and fastest growing occupational fields in the country. Silicon Valley has become a hotbed of activity, where an explosion of capital-backed technology investments into start-ups has elevated software engineers to rock star status, allowing even entry-level candidates to snag $100,000 per year positions. Consider this employment snapshot for software developers in San Francisco and San Jose, from the Bureau of Labor Statistics. For every 1,000 jobs in the region, software developers account for 82 positions – that’s 8.2 percent of the entire workforce.
+
+Software Developers, ApplicationsJobs Per 1,00045.71Total Employed44,200Average Salary$122,835 Software Developers, Systems SoftwareJobs Per 1,00036.74Total Employed35,460Average Salary$124,635
+There are several factors driving investment into software engineering: the growing complexity of technology, massive venture capital-backed start-ups, new and emerging industries, and the increasing reliance on mobile technology. In fact, according to Robert Half International (a human resources consulting firm) mobile is in fact one of the top three industries in technology. Mobile applications developers and mobile designers are positioned to see a 10.2 percent and 6.8 percent salary increase in 2015. A review of employment data from the BLS shows that software engineering careers are projected to experience a 22 percent increase in employment openings nationally between 2012 and 2022, and related career fields could see growth upwards of 36 percent during that time as well.
+
+Information Security
+
+36.50%
+Software Applications
+
+22.80%
+Information Systems
+
+20.70%
+Systems Software
+
+20.40%
+Web Development
+
+20.10%
+Computer Programming
+
+8.30%
+SOFTWARE DEVELOPER, APPLICATIONS
+Software developers (applications) have experience with a range of programming languages, such as Java and C++, and are responsible for designing and coding software for a host of different applications.
+
+OVERALL OCCUPATION GROWTHSTATES WITH THE BEST OPPORTUNITIESSOFTWARE DEVELOPER, SOFTWARE
+Software developers have a background in programming skills and languages such as C#, Microsoft .NET and SQL. Responsibilities may include coding and debugging programs, conducting quality assurance tests and analyzing business requirements for software.
+
+OVERALL OCCUPATION GROWTHSTATES WITH THE BEST OPPORTUNITIESWEB DEVELOPER
+Web developers have experience with Web-based applications, coding and technologies, ranging from PHP to HTML, JavaScript to AJAX. Responsibilities vary but typically include writing code for websites and providing technical support.
+
+OVERALL OCCUPATION GROWTHSTATES WITH THE BEST OPPORTUNITIES
+NEW CAREERS IN SOFTWARE ENGINEERING
+For the foreseeable future, the demand for skilled and qualified software engineers has no end, according to Robert Half. This demand is fostered by a transforming economic landscape, driven by the need for computing technology solutions. With the advent of the Internet of Things, smart cities, green technology and big data, all industries are quickly becoming technology industries.
+
+Mobile has become a $3.3 trillion dollar industry
+Security is projected to be a $60 billion dollar industry in 2015
+Big Data is just starting to scratch the surface as a $125 billion dollar industry
+Internet of Things is projected to become a $7.1 trillion dollar industry by 2020
+Robotics is a $12.3 billion dollar industry
+Cloud computing is a $100 billion dollar industry
+Health informatics is a $6 – $7 billion dollar industry
+With such unprecedented growth in a multitude of industries, software engineers can pursue careers in any number of industries, including technology, healthcare, automotive manufacturing, green energy, remote sensing, aeronautics and finance. New jobs like automotive embedded software engineer, health informatics engineer and financial software engineer are becoming more commonly seen as each of these industries continues to expand.
+
+CAREER SPOTLIGHT
+Automotive Software Engineer
+WHAT THEY DO
+An engineer that designs and develops computing systems and technologies for use in automobiles.
+
+SALARY
+Average national salary is $74,000
+
+COMPANIES RECRUITING AUTOMOTIVE ENGINEERS
+Ford Motor Company, Chrysler Group, Navistar Inc., Delphi, Meritor, FTE Automotive USA Inc. and BEHR America
+
+THE INDUSTRY’S TOP EMPLOYERS
+The global competition – not just in the U.S. – for software engineers is accelerating, with companies regularly competing to attract talent. Specialty areas including .NET, mobile and Java development are currently in particular demand. A review of salary and hiring data from Glassdoor reveals that software engineers are valued across industries, from cloud computing to enterprise networking, social networking to e-commerce.
+
+TWITTER
+Social Media
+$121,642
+ 
+LINKEDIN
+Social Networking
+$127,557
+ 
+FACEBOOK
+Social Networking
+$118,445
+ 
+GUIDEWIRE
+Life and Property Insurance Software
+$108,918
+ 
+GOOGLE
+Search Engine
+$118,968
+ 
+QUALCOM
+Semiconductor Manufacturing
+$88,312
+ 
+RIVERBED
+Enterprise Network Hardware and Software
+$109,464
+ 
+INTUIT
+Financial and Tax Preparation Software
+$137,424
+ 
+MATHWORKS
+Computational Software for Engineering
+$81,060
+ 
+RED HAT
+Open Source Software
+$79,725
+ 
+NATIONAL INSTRUMENTS
+Test Equipment for Building Technology
+$64,129
+ 
+RACKSPACE
+Cloud Computing and Web-Hosting
+$82,000
+ 
+INTEL
+Semiconductor Manufacturing
+$97,403
+ 
+APPLE
+Consumer Technology Devices
+$110,867
+ 
+CAREERBUILDER.COM
+Job Recruitment Website
+$73,850
+ 
+CITRIX
+Enterprise Software
+$88,728
+ 
+NETAPP
+Enterprise Computer-Storage Products
+$93,726
+ 
+TEXAS INSTRUMENTS
+Semiconductor Manufacturing
+$91,633
+ 
+EBAY
+E-Commerce
+$120,424
+ 
+SALESFORCE
+Cloud Computing
+$112,942
+INTERVIEW WITH A DEVELOPER
+Pravin George, director of technology for Mylife.com, offers insight into the field of software engineering.
+
+Interview with Pravin George
+COULD YOU DESCRIBE YOUR POSITION AND RESPONSIBILITIES AT MYLIFE.COM?
+
+My responsibilities are to analyze MyLife.com’s business needs and recommend technically sound, scalable solutions that are implementable under aggressive timelines. I am also responsible for the continued maintenance and enhancement of all MyLife.com web properties. I am tasked with leading a team of exceptional, high performing engineers to ensure that they stay motivated, are sufficiently challenged and are trained in cutting edge technologies.
+
+WHY DID YOU CHOOSE TO PURSUE A CAREER IN SOFTWARE DEVELOPMENT?
+
+My love affair with software development started at the age of 10 when a neighbor presented me with an Atari 800 for my birthday. My first program was written in the software language – BASIC. It took me a few days to write a program that did simple addition and subtraction. But practice makes perfect and I can now write this program in a few minutes. I have never looked back since. I love the sense of satisfaction and accomplishment that I get from seeing folks use websites that I helped build.
+
+WHAT ADVICE DO YOU HAVE FOR STUDENTS
+CONSIDERING A CAREER IN SOFTWARE ENGINEERING/DEVELOPMENT?
+
+The common traits that we find in good software engineers are good analytical skills, a persevering attitude, an ability to always keep the big picture in mind and an attention to detail. My advice would be to take (or audit) a beginner level software engineering course and see if you have an aptitude for writing code. You may find it to be your calling.
+
+AS A DEVELOPER, WHAT TRENDS ARE
+YOU NOTICING IN REGARDS TO INFORMATION SECURITY?
+
+Websites are now increasingly taking steps to ensure that the person logging in is indeed who they say they are. Many financial institutions have implemented 2-factor authentication, so the user will need to provide an additional piece of information after entering the password. Websites have also started encrypting data stored on their servers to prevent data breaches.
+
+A SOFTWARE ENGINEER’S TOOLSET
+Software engineering professionals are skill-based, requiring highly specialized training in both technical and non-technical areas. Although skills vary from position to position, employers do seek candidates who possess a blend of technical and soft skills, skills that are commonly known as “employability” skills, according to the National Workforce Center for Emerging Technologies (NWCET). Employers seek candidates who have universal skills that – when combined with technical skills – make them a valuable asset. A review of soft skills valued by employers, as listed by NWCET, Monster.com, Cyber Coders and other publications, include the following:
+
+COMMUNICATION ORGANIZATION PROJECT MANAGEMENT CRITICAL THINKING DECISION MAKING
+Beyond soft skills, computer engineers also develop both technical and industry-specific skill sets that are applicable to all careers in computer engineering and specific areas of practice, respectively. Example technical skills include programming languages, computer hardware and software, and system architecture, while industry-specific skills are influenced by vendor, industry and company practices. Individuals who have a blend of technical and employability skills are inherently more valuable to software organizations than those who are only proficient in a handful of areas. Broadly, the software engineer’s toolbox can be divided into five core areas: Computing Theory, Product Engineering, Quality Assurance, Product Deployment and Management. Below is a table of the major skill areas with example related knowledge and skill factors.
+
+Computing Theory
+Product Engineering
+Quality Assurance
+Product Deployment
+Management
+Programming Languages
+Project Audits
+Software Design
+User Documentation
+Risk Assessment
+Computer Architectures
+Software Testing Techniques
+Code Optimization
+Product Packaging
+Project Planning & Management
+Software Architectures
+Technology Innovation
+Debugging Techniques
+System Conversion
+Organizational Structure and Behavior
+Operating System Concepts
+Statistical Process Control
+Software-Hardware Integration
+Technology Transfer
+Cost Management
+Computer programming skills in particular are in increasing demand by employers. In 2015, Cyber Coders projects the most in-demand programming skills to include the following:
+
+
+These development skills can impact earning potential, with some programming and development skill sets leading to a 9 percent increase in pay.
+
+ASP development skills
+5%
+ 
+C# development skills
+9%
+ 
+C++ development skills
+5%
+ 
+DCOM/COM/ActiveX development skills
+5%
+ 
+Java development skills
+9%
+ 
+Java EE/J2EE development skills
+9%
+ 
+.NET development skills
+9%
+ 
+PHP development skills
+9%
+ 
+Web services development skills
+8%
+SALARIES IN SOFTWARE ENGINEERING
+The need for talented software engineers has turned into an arms race in not only Silicon Valley, but across the country. Salaries are skyrocketing, with some developers and engineers commanding six figure salaries, including bonuses, directly out of college. Consider data from ComputerWorld’s 2014 IT Salary Survey: entry-level careers in the field paid between $68,000 and $100,000, according to respondents of the survey.
+
+Systems programmer
+$100,063
+ 
+Software engineer
+$97,035
+ 
+Software developer
+$88,335
+ 
+Mobile specialist/ technologist
+$87,087
+ 
+Application developer
+ $86,162
+ 
+Programmer/analyst
+ $73,463
+ 
+Web developer
+$68,087
+Source: ComputerWorld, 2014 IT Salary Survey
+Across the entire industry, salaries continue to tick northward, with most software engineering careers paying between $80,000 and $105,000 per year, according to the BLS. The table below includes 2014 salary data from the BLS for six software engineering careers.
+
+CAREER FIELD
+LOWEST 10%
+MEDIAN
+TOP 10%
+Computer and Information Systems Managers
+$78,470
+$127,640
+NA
+Information Security Analysts
+$50,300
+$88,890
+$140,460
+Computer Programmers
+$44,140
+$77,550
+$127,640
+Software Developers, Applications
+$56,310
+$95,510
+$149,480
+Software Developers, Systems Software
+$63,250
+$102,880
+$154,800
+Web Developers
+$33,790
+$63,490
+$112,680
+ComputerWorld and the BLS are just two of the several organizations with surveys that all point to the same thing: hiring confidence is high for software engineers and earning potential is higher. Consider a salary comparison for software engineers from Dice Holdings, Inc., Robert Half International, BLS and ComputerWorld – software engineers, indeed, have extremely strong earning potential.
+
+DICE
+$97,920
+ROBERT HALFS
+$96,000
+BUREAU OF LABOR STATISTICS
+$102,790
+COMPUTERWORLD
+$97,035
+To that point, earning potential varies by location, experience, education, industry, employer and certification. In order to provide tech professionals with a better understanding of the range of salaries in specific career fields, Robert Half International conducts a tech industry report annually. Its 2015 IT salary survey confirmed earnings for software development jobs have increased by an average of 6.3 percent between 2014 and 2015.
+
+Product Manager: $101,750 – $145,000 (4.9% growth)
+Software Engineer: $96,000 – $147,250 (7.2% growth)
+Software Developer: $85,500 – $136,250 (6.9% growth)
+With the increasing pressure to attract talented software engineers, many companies are starting to struggle with retention. According to Robert Half, more and more engineers are willing to pursue several employment opportunities as companies bid for their services. Benefits are an increasingly important component of employment packages being offered to software engineers. In its 2015 salary survey, Robert Half asked respondents about their benefits packages. The most common benefits offered to employees can be considered “traditional” benefits, including: medical insurance, paid time off, dental insurance, life insurance and retirement benefits. Most companies also offered employees flexible work hours, work-at-home options, on-site cafeterias and subsidized training opportunities.
+
+Many technology companies are also starting to up the ante for on-site perks, a method of attracting, retaining and keeping employees happy and content. In Silicon Valley, tech companies have become famous for their perks packages as much as their annual salaries. Some non-salary perks that employees of the following companies enjoy are:
+
+AirBNB: $2,000 travel bonus
+Ask.com: Open vacation policy
+Moz: $3,000 vacation travel expenses
+Facebook: 4 months paid parental leave
+Intuit: On-site fitness facilities
+Pinterest: Unlimited Apple products
+Cisco: Telecommuting technology to work from home
+Zynga: Arcade access
+Foursquare: Unlimited food and snacks
+SOFTWARE ENGINEERING: A JOB SEEKER’S GUIDE
+Although it might seem like software engineers can write their own career tickets, prospective job candidates must be prepared to actually land the position. With increased demand comes increased competition and expectation from employers. Employers want talent and a good company fit, so job candidates are expected to demonstrate their raw intelligence, problem solving skills and personality during the interview process. There are multiple steps to consider before sitting down in the conference room to participate in an interview.
+While every prospective engineer may have their sights set on landing a job at Amazon, Google, Facebook, or Oracle, they might actually want to temper their expectations and start smaller on the job search. Entry-level work experience is vital for professional development in software engineering, and real-world experience becomes a bankable commodity in career advancement. In addition to having realistic expectations about career potential, there are other important things to keep in mind while on the lookout for a new position:
+
+INTERNSHIPS
+For current software engineering major, internships provide a path to translate classroom-based instruction to real-world scenarios, get a sense of the industry and make connections for future employment endeavors.
+
+CERTIFICATIONS
+Certifications were once the end game for any individual seeking employment in tech career fields. Today, certifications are simply part of the game in general. In software engineering, certifications such as Certified Software Development Associate (CSDA) or Certified Software Development Professional (CSDP) from IEEE are ways to demonstrate a commitment to the profession, increase professional credibility and improve employment marketability.
+
+NETWORKING
+Locating a job doesn’t just start and end with a search on LinkedIn or Monster.com. Making connections in the industry can help with both finding and landing job opportunities. Software engineers can join organization such as the Association of Software Professionals and attend conferences and local events to develop professional connections in the field.
+
+The next steps include applying to and interviewing for a career as a software engineer. First up: the resume. Job candidates should understand a one-size-fits-all approach does not work – even if the resume is filled with impressive qualifications. Preparation to secure a position is the most important part of the job planning process, and it begins before ever sending out a resume. When preparing a resume, research the company and position to make sure the resume is tailored to the specific requirements of the position. For example, experience in SQL is not the same as experience in Ruby or Python.
+
+For the interview process, preparation is the name of the game. As mentioned above, companies want talent and a culture fit. That means the job candidate is expected to have an understanding of the position, the organization and their own professional skill set or industry.
+
+Research the company
+Prospective job candidates should take the time to research the background of the company, its history and place in the market. Understanding the company’s goals and objectives demonstrates to employers the candidate is well-prepared and committed to the position.
+
+Research the position
+Take the time to research the technical requirements listed in the job description. Going into an interview unprepared could lead to disaster.
+
+Brush-up skill sets
+Does the job description ask for knowledge in areas that the candidate hasn’t studied since college (e.g. C++)? That means taking the time to brush-up and refresh basic skill sets positions the candidate for success in the interview.
+
+In turn, all three of those points set the stage for the interview process as most companies ask software engineering candidates to demonstrate their skill sets through a series of trial projects, testing and in-person interviews. In any interview, candidates will be asked about specific programming languages and computing technologies (such as operating systems, Ruby, Python, MySQL) and go through cognitive testing with problem-solving questions or puzzles (such as arrays, stacks or linked lists). The prospective software engineer needs to be ready to handle and answer such questions during the interview. Being prepared is the key.
+
+According to the BLS, more than 1 million individuals were employed as software engineers nationally in 2013. As noted above, with a projected 22 percent increase in career opportunities between 2012 and 2022, software engineering is most definitely a career in demand. By total employment, the states with the most software engineers include California, Texas and Virginia – with the rest of the top 10 including:
+
+
+Source: Bureau of Labor Statistics
+
+Although California, Texas and Virginia have the most software engineers, the states with the highest concentration of software engineers include Washington, Virginia and Massachusetts. In fact, for every 1,000 employees in Washington State, 21 are software engineers.
+
+Washington
+Jobs Per 1,00021
+ 
+Virginia
+Jobs Per 1,00018
+ 
+Massachusetts
+Jobs Per 1,00016
+ 
+Colorado
+Jobs Per 1,00014
+ 
+California
+Jobs Per 1,00012
+ 
+New Jersey
+Jobs Per 1,00011
+ 
+Maryland
+Jobs Per 1,00010
+ 
+New Hampshire
+Jobs Per 1,00010
+ 
+Arizona
+Jobs Per 1,0008
+ 
+Utah
+Jobs Per 1,0008
+Source: Bureau of Labor Statistics
+
+Target graph, states with most growth potential for software engineers by 2022
+

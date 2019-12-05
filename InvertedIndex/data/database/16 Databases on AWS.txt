@@ -1,0 +1,54 @@
+Databases on AWS
+
+Databases on AWS
+The broadest selection of purpose-built databases for all your application needs
+Hundreds of thousands of customers rely on AWS databases
+Purpose-built
+Performance at scale
+Choose from 14 purpose-built database engines including relational, key-value, document, in-memory, graph, time series, and ledger databases. AWS’s portfolio of purpose-built databases supports diverse data models and allows you to build use case driven, highly scalable, distributed applications. By picking the best database to solve a specific problem or a group of problems, you can break away from restrictive one-size-fits-all monolithic databases and focus on building applications to meet the needs of your business.
+Get relational databases that are 3-5X faster than popular alternatives, or non-relational databases that give you microsecond to sub-millisecond latency. Start small and scale as your applications grow. You can scale your database's compute and storage resources easily, often with no downtime. Because purpose-built databases are optimized for the data model you need, your applications can scale and perform better at 1/10 the cost versus commercial databases.
+Fully managed
+Enterprise-class
+With AWS databases, you don’t need to worry about database management tasks such as server provisioning, patching, setup, configuration, backups, or recovery. AWS continuously monitors your clusters to keep your workloads up and running with self-healing storage and automated scaling, so that you can focus on higher value application development.
+AWS databases are built for business-critical, enterprise workloads, offering high availability, reliability, and security. These databases support multi-region, multi-master replication, and provide full oversight of your data with multiple levels of security, including network isolation using Amazon VPC, encryption at rest using keys you create and control through AWS Key Management Service (KMS), as well as encryption-in-transit.
+
+
+AWS Databases: Break Free to Save, Grow, and Innovate Faster (2:02)
+Database services
+Database type
+Use cases
+AWS service
+Relational
+Traditional applications, ERP, CRM, e-commerce
+ Amazon Aurora  Amazon RDS  Amazon Redshift
+Key-value
+High-traffic web apps, e-commerce systems, gaming applications
+ Amazon DynamoDB
+In-memory
+Caching, session management, gaming leaderboards, geospatial applications
+ Amazon ElastiCache for Memcached  Amazon ElastiCache for Redis
+Document
+Content management, catalogs, user profiles
+ Amazon DocumentDB
+Graph
+Fraud detection, social networking, recommendation engines
+ Amazon Neptune
+Time series
+IoT applications, DevOps, industrial telemetry
+ Amazon Timestream
+Ledger
+Systems of record, supply chain, registrations, banking transactions
+ Amazon QLDB
+AWS DATABASES
+Break Free From Old Guard Databases
+Hundreds of thousands of customers have migrated to AWS Databases to save, grow, and innovate faster.
+Learn more »
+Use cases
+Internet scale applications
+Build globally distributed and internet-scale applications that handle millions of requests per second over hundreds of terabytes of data. These databases automatically scale up and down to accommodate your spiky workloads, and you only pay for the resources you use to optimize cost savings. No need to maintain servers, upgrades, or backups, and your applications have automated high availability.
+category-page-diagram_database_gaming
+AWS Database services
+ Amazon DynamoDB
+  
+ Amazon Aurora
+Use case resources

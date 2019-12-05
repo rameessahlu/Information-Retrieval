@@ -1,0 +1,286 @@
+The Structure of Information Retrieval Systems
+B.C.VICKERY
+
+Four basic operations in the effective use of graphic records (documents), to store information and make it available, have been listed by Hyslop: A, recording information in documents; B, storing recorded information—documentary items; C, identifying items containing information relevant to a given problem, situation, or subject; D, providing the identified items from storage. Information storage and retrieval in the wide sense covers all these operations. In the narrow sense used in this paper, information retrieval means only C, identifying documentary items by subject.
+
+An information retrieval system is therefore defined here as any device which aids access to documents specified by subject, and the operations associated with it. The documents can be books, journals, reports, atlases, or other records of thought, or any parts of such records—articles, chapters, sections, tables, diagrams, or even particular words. The retrieval devices can range from a bare list of contents to a large digital computer and its accessories. The operations can range from simple visual scanning to the most detailed programming.
+
+A retrieval system stores units of information. Each unit is linked in the system to specifications of one or more documents or parts of documents—I will call them items. The user specifies particular units of information—specific subjects—and the system is designed to provide him with a knowledge of all relevant items recorded in the system.
+
+A retrieval system can be studied at three levels:
+
+The way in which units of information, and relevant relations between them, are defined in the system. This is the semantic level of subject analysis.
+
+The general structural features of the system considered as a network of units of information linked to each other and to documentary items. This may be called structural analysis.
+
+The physical mechanisms (hardware) in which the structure is embodied.
+
+A general theory of information retrieval would cover (a) principles of sub-
+
+B.C.VICKERY Imperial Chemical Industries Limited, Welwyn, England.
+
+Page 1276
+Suggested Citation:"The Structure of Information Retrieval Systems." National Research Council. 1959. Proceedings of the International Conference on Scientific Information: Two Volumes. Washington, DC: The National Academies Press. doi: 10.17226/10866.×
+Add a note to your bookmark
+ject analysis, (b) a general study of structure, and perhaps (c) general experimental conclusions about the use of certain hardware. For two reasons, the present paper is restricted to (b). Firstly, problems (a) and (c) seem properly to belong to Areas 5 and 4, respectively, of the Conference. Secondly, the technique of subject analysis, on the one hand, and the experimental study of physical mechanisms, on the other, do not appear yet to have advanced sufficiently for firmly based general conclusions to be drawn.
+
+This paper, then, deals only with the general structural features of retrieval systems.
+
+The characteristics of specific subjects
+Specific subjects are products of thought, and are typically in language or some other expressive symbolism. The units of meaning in such symbolism I will call terms. Without adducing formal proof, the following characteristics of specific subjects can be stated as facts of observation:
+
+Each specific subject is symbolised by a single term or a combination of terms (simple and compound subjects respectively).
+
+The same combination of terms can have more than one meaning, e.g., “the destruction of bacteria by dyestuffs” and “the destruction of dyestuffs by bacteria,” in other words, the terms within a specific subject are interrelated in certain ways.
+
+Terms are also related to each other in at least two other ways: (a) by one term having a meaning which includes that of another term (generic relation) and (b) by both terms having meanings which are included in that of a third term (coordinate relation).
+
+Specific subjects are consequently related to each other in at least three ways: (a) by each containing the same term or combination of terms, (b) by one specific subject containing a term which is generic to a term in another, and (c) by one containing a term which is coordinate with a term in another.
+
+If T1, T2, T3, and T4 are terms, subject S1 is said to include subject S2 (i) when S1=T1 · T2 and S2=T1 · T2 · T3, or (ii) when S1=T1 · T2 and S2=T4 · T2, where T1 is generic to T4.
+
+The information lattice
+An information retrieval system includes a store of units of information, specific subjects. The assembly of specific subjects so stored may incorporate all the relations mentioned above. Between terms in each specific subject and
+
+Page 1277
+Suggested Citation:"The Structure of Information Retrieval Systems." National Research Council. 1959. Proceedings of the International Conference on Scientific Information: Two Volumes. Washington, DC: The National Academies Press. doi: 10.17226/10866.×
+Add a note to your bookmark
+between specific subjects, semantic links exist. An intricate network of links is thus formed, a lattice of units of information.
+
+The links in the lattice are of three general kinds: (a) between terms in each specific subject there are interlocking relations, which may be represented by dots in the lattice, thus T1 · T2, or by the multiplication sign, thus T1×T2; (b) between specific subjects there are firstly inclusion relations, which may be represented by solid lines in the lattice, thus S1—S2, or by the inequality sign, thus S1>S2; and (c) between specific subjects there are also coordinate relations, which may be represented by broken lines in the lattice, thus S1- - -S2, or by the equality sign, thus S1=S2.
+
+We can now state what is meant by items “relevant” to a particular sought subject. The limits of relevance can be varied at the discretion of the designer of the retrieval system. The system can be made to retrieve items recorded for the subject sought, and, in addition, items recorded for subjects (1) which include the subject sought, (2) which are included by the subject sought, and (3) which are coordinate with the subject sought.
+
+Let us consider a small sample retrieval system. It uses six terms, words, which we can represent as the capitals A to F. Of these, C, D, and F are independent, E and A are included in F, and B is included in E. The lattice for these relations is as follows—by convention, a solid line leads downwards from the inclusive to the included term.
+
+
+From these elements, ten specific subjects are derived. I will assume here that each subject coincides with a single documentary item, although this need not necessarily be the case. Each item is represented by a roman numeral.
+
+Item
+
+Subject
+
+Item
+
+Subject
+
+I
+
+B · C · D
+
+VI
+
+A · C · D
+
+II
+
+C · D · F
+
+VII
+
+A · D · E
+
+III
+
+B · C
+
+VIII
+
+D · E
+
+IV
+
+C · E · D
+
+IX
+
+A · B
+
+V
+
+A · C · E
+
+X
+
+A · D
+
+The information lattice may now be extended to include these subjects, as in Figure 1. The complexity of even this small lattice (in which not all the coordinate relations have been drawn) is very evident.
+
+Such a lattice is the structural basis for the store of an information retrieval system. The use of such a three-dimensional network as a retrieval system is, however, quite impracticable. The system must be simplified by breaking
+
+Page 1278
+Suggested Citation:"The Structure of Information Retrieval Systems." National Research Council. 1959. Proceedings of the International Conference on Scientific Information: Two Volumes. Washington, DC: The National Academies Press. doi: 10.17226/10866.×
+Add a note to your bookmark
+many of the links and reducing the lattice to a two-dimensional or linear structure. This simplification may be made outright, without taking any compensating action, in which case relations within the system, represented as links in the lattice, are lost. The result is that the complexity of retrieval is reduced, the scope of possible “relevance,” as defined earlier, is narrowed. Alternatively, transformation to a system of fewer dimensions may be accompanied by compensating marking which preserves the lattice relations intact.
+
+The information matrix
+The first transformation may be to convert the lattice into a two-dimensional matrix, the coordinates of which are items and terms (Table 1).
+
+TABLE 1.
+
+ 
+
+Items
+
+Terms
+
+I
+
+II
+
+III
+
+IV
+
+V
+
+VI
+
+VII
+
+VIII
+
+IX
+
+X
+
+A (<F,=E)
+
+ 
+
+x
+
+x
+
+x
+
+ 
+
+x
+
+x
+
+B (<E)
+
+x
+
+ 
+
+x
+
+ 
+
+x
+
+ 
+
+C
+
+x
+
+x
+
+x
+
+ 
+
+	
+x
+
+x
+
+ 
+
+D
+
+x
+
+x
+
+ 
+
+x
+
+ 
+
+x
+
+x
+
+x
+
+ 
+
+x
+
+E (<F,=A,>B)
+
+ 
+
+ 
+
+	
+x
+
+ 
+
+x
+
+x
+
+ 
+
+F (>E, A)
+
+ 
+
+x
+
+ 
+
+The terms A to F are listed alphabetically, and the links between them are thus broken. In compensation, against each term its inclusion and coordinate relations must be shown. Thus A is included in F and is coordinate with E, so the solid line A—F is replaced by A<F, and the dashed line A- - -E is replaced by A=E. All these lattice relations between terms are thus preserved.
+
+The remaining inclusion and coordinate relations are represented by the postings (here, crosses) in the body of the matrix. Consider subject A · C · D (item VI). Subjects which include it are derived by suppressing terms one by one: A · C, A · D, C · D, A, C, D. Search of the matrix reveals that only one of these subjects (A · D) refers to a documentary item (X) which may be retrieved.
+
+Coordinate subjects are derived by replacing each term in turn, and search retrieves items I(B · C · D), II(C · D · F), IV(C · E · D), V(A · C · E), and VII(A· D · E). Since A=E, then A · C · D=E · C · D, so that item IV is again on a subject coordinate with that of item VI. Since A<F, then A · C · D<F · C · D, and the subject of item II includes that of item VI.
+
+Lastly, there is the problem of interlocking relations within subjects. In the sample matrix it is assumed that these are only significant in one item, IV. Here, the subject in the lattice, C · E · D, is considered to differ in meaning from a subject in which C and E are not interlocked, i.e., C · D · E. In all other three-termed subjects, it is assumed that no significant interlocking occurs. The link
+
+Page 1279
+Suggested Citation:"The Structure of Information Retrieval Systems." National Research Council. 1959. Proceedings of the International Conference on Scientific Information: Two Volumes. Washington, DC: The National Academies Press. doi: 10.17226/10866.×
+Add a note to your bookmark
+between C and E in item IV must be recreated in the matrix by modifying the postings (here, doubling the crosses).
+
+Having thus preserved all the lattice relations, the information matrix can in principle be used as a two-dimensional retrieval system. However, if a large number of terms and/or items were covered, the matrix would be intolerably large, a very high proportion of it would be wasted empty space, and the system would be very inefficient. The matrix must be further transformed.
+
+The next transformation may be to partition the matrix either horizontally or vertically into units which can be inscribed on individual entries or tallies. Horizontal partition produces entries each bearing a single term and its associated items. Vertical partition produces entries each referring to a single item, bearing the terms associated with it. Partition into units greater than a single row or column is possible, and indeed necessary in certain cases.
+
+The two-dimensional matrix is thus broken down into a series of units of the following types:
+
+Term entry: A(<F,=E): V, VI, VII, IX, X
+
+Item entry: I: B(<E), C, D
+
+Interlocked term entry: C×E(<F,=A,>B): IV
+
+Combined item entry: II+III: B(<E), C, D, F(>E, A)
+
+The fourth type will not be further discussed.
+
+The entries are inscribed with marks symbolising the terms and items. Information retrieval is the operation of selecting entries which bear marks for certain terms, and reading off their item specifications. The selection process thus operates on the term symbols.
+
+The entries can be stored in the system in an order which is not related to the term symbols they bear, an arrangement which will be described as entries free. The selection of entries bearing a given term symbol can then only take place if the entire index is inspected. Systems so designed are described by Fairthorne as scanning systems. Alternatively, the entries can be stored in an order dictated by the ordinal values of the term symbols inscribed on them. Selection can then proceed by successive steps of “distillation,” and all entries need not be inspected. Such arrangements will be described as entries fixed, the result being a segregation system (Fairthorne).
+
+Term entry systems
+A series of term entries derived from the previously tabulated matrix is as follows; the word heading referring to the combination of term symbols on each entry.
+
+Page 1280
+Suggested Citation:"The Structure of Information Retrieval Systems." National Research Council. 1959. Proceedings of the International Conference on Scientific Information: Two Volumes. Washington, DC: The National Academies Press. doi: 10.17226/10866.×
+Add a note to your bookmark
+
+The only lattice relation which has been broken by partition is the interlocking between C and E in item IV. The relation can be restored by including in Index No. 1 an interlocked term entry, C×E(<F,=A,>B): IV. Search operations can then proceed as described for the matrix.
+
+The construction of Index No. 1 requires only the following schedule:
+
+
+The system thus consists of Index No. 1 (N1) and Schedule No. 1 (L1). The operations of construction are (1) look up words in L1 to ascertain cross references, (2) inscribe headings on entries, (3) add interlocked term entries. The search operations are (1) consult sought words in N1 (e.g., A, C, and D), (2) compare items to find those which are on all three entries (none are), (3) move to related entries by suppressing terms (A · C, A · D, etc.) and as indicated by cross references (e.g., F · C · D includes A · C · D) and repeat comparison in each case.

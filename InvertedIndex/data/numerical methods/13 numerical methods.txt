@@ -1,0 +1,71 @@
+MATH-GA.2020-001 / CSCI-GA.2421-001
+Numerical Methods II
+Warren Weaver Hall, room 202, Tuesdays 5:10-7:00pm
+Courant Institute of Mathematical Sciences
+New York University
+Spring 2019
+Home
+
+Lectures / Reading
+
+Assignments
+
+Instructor
+Aleksandar Donev, 1016 Warren Weaver Hall
+E-mail: donev@courant.nyu.edu
+Phone: (212) 992-7315
+
+Office hours: 4 to 5 pm Tuesdays and Thursdays or by appointment
+
+Grader: Mathew Hu (sh4871)
+Course description
+This course will cover fundamental methods that are essential for the numerical solution of differential equations. It is intended for students familiar with ODE and PDE and interested in numerical computing; computer programming assignments in MATLAB/Python will form an essential part of the course. The course will introduce students to numerical methods for (approximately in this order):
+
+The Fast Fourier Transform and spectral methods for elliptic PDEs
+Finite difference and finite element and integral equation methods for elliptic partial differential equations (Poisson eq.)
+Ordinary differential equations, explicit and implicit Runge-Kutta and multistep methods, convergence and stability
+Finite difference, finite element, and (pseudo)spectral methods for parabolic (diffusion/heat eq.) partial differential equations
+Finite volume methods for hyperbolic (advection and wave eqs.) partial differential equations.
+For more information consult the webpage for previous iterations of this class taught by Jonathan Goodman, along with some lecture notes.
+3 points per term
+
+Communication/grading will be handled via NYU Classes. If you are not registered ask me to add you.
+Reading Materials
+There is no one single textbook for this course, but much of my Lectures will be based on the following books that you can access electronically at Courant for free -- I highly recommend that you download all of these as PDFs:
+"Finite Difference Methods for Ordinary and Partial Differential Equations" by Randy LeVeque. This textbook is now available freely to you in PDF format, and Matlab and latex files are available from the author's webpage. Everyone ready to take this course should be able to follow this textbook without a problem.
+"A first course in the numerical analysis of differential equations" by Arieh Iserles, available electronically via the library including in PDF format. This is a more advanced book and covers some topics not covered in LeVeque, but it also is harder to read.
+"Numerical Methods for Evolutionary Differential Equations" by Uri M. Ascher. This has some interesting case studies and can be an additional resource but not good for a primary textbook/source.
+"Spectral Methods in Matlab" by Nick Trefethen, which includes lots of MATLAB codes, and focuses on Fourier and Chebyshev representations for elliptic PDEs.
+Somewhat more advanced but a very good resource is this book available to you in PDF format: Hundsdorfer, W., & Verwer, J.G. (2003). Springer Series in Computational Mathematics [Series, Vol. 33]. Numerical Solution of Time-Dependent Advection-Diffusion-Reaction Equations. New York, NY: Springer-Verlag.
+Prerequisites
+This course requires Numerical Methods I or equivalent graduate course in numerical analysis (as approved by instructor). In particular I will assume you are comfortable with the topics in the NM-I class taught by Michael Overton. If you did not get at least B in NM-I you will have a rather hard time with this course! Things I will expect you to be very familiar / comfortable with include:
+numerical linear algebra (dense factorization, sparse systems, eigenvalue methods)
+iterative solvers for linear systems
+nonlinear systems (Newton' method in many dimensions)
+interpolation, including splines and orthogonal polynomials
+integration / quadrature including Gauss quadrature
+undergraduate or graduate course in ODEs
+undergraduate or graduate course covering basic hyperbolic (advection, wave), parabolic (heat/diffusion), and elliptic (Laplace/Poisson) PDEs, including Fourier series/transform methods (separation of variables)
+Masters students that do not have the appropriate background should not be taking this Ph.D. level class.
+Assignments and grading
+There will be several computational assignments / exercises during the semester, each of which will involve coding, analyzing/plotting results, and preparing a typeset report (preferably in LaTex).
+Academic integrity policies will be strictly enforced for homework assignments and exams. In particular, group work is not allowed and will be treated as a violation of academic integrity. You may discuss strategies to solve the problems with peers, but every line of code and everything in the solution (including figures) for each homework must be 100% yours. Allowing others to copy code or solutions from you is considered cheating.
+
+Each student will be required to do either a take home final similar to the homeworks, or a computational project on a subject of choice, due at 9am on Tuesday May 21st. Only students with instructor approval will be allowed to do a project, and this approval will be based on your proposal for the project and your performance in the homeworks. The grade will be based on the homeworks (50%) and the project (50%). There will not be a class on May 21st.
+
+Assuming the total possible number of points (excluding extra credit) is 100, the grade scale will be based on the weights used in computing your GPA:
+>92.5       = A
+87.5-92.5 = A-
+80.0-87.5 = B+
+72.5-80.0 = B
+65.0-72.5 = B-
+57.5-65.0 = C+
+50.0-57.5 = C
+42.5-50.0 = C-
+<42.5       = F
+As a first assignment, please submit the answers to this questionnaire via email as soon as possible:
+Your name, degree you are working on (if any) and class/year, and thesis advisor and topic if any.
+List your previous academic degrees or relevant educational experience.
+Explain in words (e.g., relevant courses, prior research) your background in numerical analysis.
+Why did you choose this course, and which of the topics listed in the course description interest you most (in particular, do you know what subject you would like to present on in class)?
+What is your programming experience (list programming languages with proficiency level)?

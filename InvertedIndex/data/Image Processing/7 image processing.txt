@@ -1,0 +1,54 @@
+This reference is for Processing 3.0+. If you have a previous version, use the reference included with your software in the Help menu. If you see any errors or have suggestions, please let us know. If you prefer a more technical reference, visit the Processing Core Javadoc and Libraries Javadoc.
+
+Name	
+image()
+Examples	
+example pic
+PImage img;
+
+void setup() {
+  // Images must be in the "data" directory to load correctly
+  img = loadImage("laDefense.jpg");
+}
+
+void draw() {
+  image(img, 0, 0);
+}
+example pic
+PImage img;
+
+void setup() {
+  // Images must be in the "data" directory to load correctly
+  img = loadImage("laDefense.jpg");
+}
+
+void draw() {
+  image(img, 0, 0);
+  image(img, 0, 0, width/2, height/2);
+}
+Description	The image() function draws an image to the display window. Images must be in the sketch's "data" directory to load correctly. Select "Add file..." from the "Sketch" menu to add the image to the data directory, or just drag the image file onto the sketch window. Processing currently works with GIF, JPEG, and PNG images.
+
+The img parameter specifies the image to display and by default the a and b parameters define the location of its upper-left corner. The image is displayed at its original size unless the c and d parameters specify a different size. The imageMode() function can be used to change the way these parameters draw the image.
+
+The color of an image may be modified with the tint() function. This function will maintain transparency for GIF and PNG images.
+Syntax	
+image(img, a, b)
+image(img, a, b, c, d)
+Parameters	
+img	PImage: the image to display
+a	float: x-coordinate of the image by default
+b	float: y-coordinate of the image by default
+c	float: width to display the image by default
+d	float: height to display the image by default
+Returns	void
+Related	loadImage()
+PImage
+imageMode()
+tint()
+background()
+alpha()
+Updated on November 22, 2019 10:28:08pm EST
+
+Creative Commons License
+Processing is an open project intiated by Ben Fry and Casey Reas. It is developed by a team of volunteers.
+© Info

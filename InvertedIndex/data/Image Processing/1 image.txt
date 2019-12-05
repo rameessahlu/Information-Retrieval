@@ -1,0 +1,103 @@
+Digital image processing
+This article is about mathematical processing of digital images. For artistic processing of images, see Image editing. For compression algorithms, see Image compression.
+In computer science, digital image processing is the use of computer algorithms to perform image processing on digital images.[1] As a subcategory or field of digital signal processing, digital image processing has many advantages over analog image processing. It allows a much wider range of algorithms to be applied to the input data and can avoid problems such as the build-up of noise and signal distortion during processing. Since images are defined over two dimensions (perhaps more) digital image processing may be modeled in the form of multidimensional systems. The generation and development of digital image processing are mainly affected by three factors: first, the development of computers; second, the development of mathematics (especially the creation and improvement of discrete mathematics theory); third, the demand for a wide range of applications in environment, agriculture, military, industry and medical science has increased.
+
+
+Contents
+1	History
+1.1	Image sensors
+1.2	Image compression
+1.3	Digital signal processor (DSP)
+1.4	Medical imaging
+2	Tasks
+3	Digital image transformations
+3.1	Filtering
+3.2	Image padding in Fourier domain filtering
+3.3	Filtering code examples
+3.4	Affine transformations
+4	Applications
+4.1	Digital camera images
+4.2	Film
+5	See also
+6	References
+7	Further reading
+8	External links
+History
+Further information: Digital imaging § History
+Many of the techniques of digital image processing, or digital picture processing as it often was called, were developed in the 1960s, at Bell Laboratories, the Jet Propulsion Laboratory, Massachusetts Institute of Technology, University of Maryland, and a few other research facilities, with application to satellite imagery, wire-photo standards conversion, medical imaging, videophone, character recognition, and photograph enhancement.[2] The purpose of early image processing was to improve the quality of the image. It was aimed for human beings to improve the visual effect of people. In image processing, the input is a low-quality image, and the out put is an image with improved quality. Common image processing include image enhancement, restoration, encoding, and compression. The first successful application was the American Jet Propulsion Laboratory (JPL). They used image processing techniques such as geometric correction, gradation transformation, noise removal, etc. on the thousands of lunar photos sent back by the Space Detector Ranger 7 in 1964, taking into account the position of the sun and the environment of the moon. The impact of the successful mapping of the moon's surface map by the computer has been a huge success. Later, more complex image processing was performed on the nearly 100,000 photos sent back by the spacecraft, so that the topographic map, color map and panoramic mosaic of the moon were obtained, which achieved extraordinary results and laid a solid foundation for human landing on the moon.[3]
+
+The cost of processing was fairly high, however, with the computing equipment of that era. That changed in the 1970s, when digital image processing proliferated as cheaper computers and dedicated hardware became available. This led to images being processed in real-time, for some dedicated problems such as television standards conversion. As general-purpose computers became faster, they started to take over the role of dedicated hardware for all but the most specialized and computer-intensive operations. With the fast computers and signal processors available in the 2000s, digital image processing has become the most common form of image processing, and is generally used because it is not only the most versatile method, but also the cheapest.
+
+Image sensors
+Main article: Image sensor
+The basis for modern image sensors is metal-oxide-semiconductor (MOS) technology,[4] which originates from the invention of the MOSFET (MOS field-effect transistor) by Mohamed M. Atalla and Dawon Kahng at Bell Labs in 1959.[5] This led to the development of digital semiconductor image sensors, including the charge-coupled device (CCD) and later the CMOS sensor.[4]
+
+The charge-coupled device was invented by Willard S. Boyle and George E. Smith at Bell Labs in 1969.[6] While researching MOS technology, they realized that an electric charge was the analogy of the magnetic bubble and that it could be stored on a tiny MOS capacitor. As it was fairly straighforward to fabricate a series of MOS capacitors in a row, they connected a suitable voltage to them so that the charge could be stepped along from one to the next.[4] The CCD is a semiconductor circuit that was later used in the first digital video cameras for television broadcasting.[7]
+
+The NMOS active-pixel sensor (APS) was invented by Olympus in Japan during the mid-1980s. This was enabled by advances in MOS semiconductor device fabrication, with MOSFET scaling reaching smaller micron and then sub-micron levels.[8][9] The NMOS APS was fabricated by Tsutomu Nakamura's team at Olympus in 1985.[10] The CMOS active-pixel sensor (CMOS sensor) was later developed by Eric Fossum's team at the NASA Jet Propulsion Laboratory in 1993.[11] By 2007, sales of CMOS sensors had surpassed CCD sensors.[12]
+
+Image compression
+Main article: Image compression
+An important development in digital image compression technology was the discrete cosine transform (DCT), a lossy compression technique first proposed by Nasir Ahmed in 1972.[13] DCT compression became the basis for JPEG, which was introduced by the Joint Photographic Experts Group in 1992.[14] JPEG compresses images down to much smaller file sizes, and has become the most widely used image file format on the Internet.[15] Its highly efficient DCT compression algorithm was largely responsible for the wide proliferation of digital images and digital photos,[16] with several billion JPEG images produced every day as of 2015.[17]
+
+Digital signal processor (DSP)
+Main article: Digital signal processor
+Electronic signal processing was revolutionized by the wide adoption of MOS technology in the 1970s.[18] MOS integrated circuit technology was the basis for the first single-chip microprocessors and microcontrollers in the early 1970s,[19] and then the first single-chip digital signal processor (DSP) chips in the late 1970s.[20][21] DSP chips have since been widely used in digital image processing.[20]
+
+The discrete cosine transform (DCT) image compression algorithm has been widely implemented in DSP chips, with many companies developing DSP chips based on DCT technology. DCTs are widely used for encoding, decoding, video coding, audio coding, multiplexing, control signals, signaling, analog-to-digital conversion, formatting luminance and color differences, and color formats such as YUV444 and YUV411. DCTs are also used for encoding operations such as motion estimation, motion compensation, inter-frame prediction, quantization, perceptual weighting, entropy encoding, variable encoding, and motion vectors, and decoding operations such as the inverse operation between different color formats (YIQ, YUV and RGB) for display purposes. DCTs are also commonly used for high-definition television (HDTV) encoder/decoder chips.[22]
+
+Medical imaging
+Further information: Medical imaging
+In 1972, the engineer from British company EMI Housfield invented the X-ray computed tomography device for head diagnosis, which is what we usually called CT(Computer Tomography). The CT nucleus method is based on the projection of the human head section and is processed by computer to reconstruct the cross-sectional image, which is called image reconstruction. In 1975, EMI successfully developed a CT device for the whole body, which obtained a clear tomographic image of various parts of the human body. In 1979, this diagnostic technique won the Nobel Prize.[3] Digital image processing technology for medical applications was inducted into the Space Foundation Space Technology Hall of Fame in 1994.[23]
+
+Tasks
+Digital image processing allows the use of much more complex algorithms, and hence, can offer both more sophisticated performance at simple tasks, and the implementation of methods which would be impossible by analog means.
+
+In particular, digital image processing is the only practical technology for[citation needed]:
+
+Classification
+Feature extraction
+Multi-scale signal analysis
+Pattern recognition
+Projection
+Some techniques which are used in digital image processing include:
+
+Anisotropic diffusion
+Hidden Markov models
+Image editing
+Image restoration
+Independent component analysis
+Linear filtering
+Neural networks
+Partial differential equations
+Pixelation
+Point feature matching
+Principal components analysis
+Self-organizing maps
+Wavelets
+Digital image transformations
+Filtering
+Digital filters are used to blur and sharpen digital images. Filtering can be performed by:
+
+convolution with specifically designed kernels (filter array) in the spatial domain[24]
+masking specific frequency regions in the frequency (Fourier) domain
+The following examples show both methods:[25]
+
+Filter type	Kernel or mask	Example
+Original Image	{\displaystyle {\begin{bmatrix}0&0&0\\0&1&0\\0&0&0\end{bmatrix}}}
+\begin{bmatrix}
+0 & 0 & 0 \\
+0 & 1 & 0 \\
+0 & 0 & 0
+\end{bmatrix}
+Affine Transformation Original Checkerboard.jpg
+Spatial Lowpass	{\displaystyle {\frac {1}{9}}\times {\begin{bmatrix}1&1&1\\1&1&1\\1&1&1\end{bmatrix}}}{\displaystyle {\frac {1}{9}}\times {\begin{bmatrix}1&1&1\\1&1&1\\1&1&1\end{bmatrix}}}	Spatial Mean Filter Checkerboard.png
+Spatial Highpass	{\displaystyle {\begin{bmatrix}0&-1&0\\-1&4&-1\\0&-1&0\end{bmatrix}}}{\displaystyle {\begin{bmatrix}0&-1&0\\-1&4&-1\\0&-1&0\end{bmatrix}}}	Spatial Laplacian Filter Checkerboard.png
+Fourier Representation	Pseudo-code:
+image = checkerboard
+
+F = Fourier Transform of image
+
+Show Image: log(1+Absolute Value(F))
+
+Fourier Space Checkerboard.png

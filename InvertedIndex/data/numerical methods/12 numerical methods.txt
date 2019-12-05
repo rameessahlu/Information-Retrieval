@@ -1,0 +1,138 @@
+Math 465/565
+Numerical Methods I
+Fall 2017
+Basic Information
+Time and Place:  TuTh 10:30-11:45am, Mathematics Building 139
+Instructor:  Dr. Grady Wright, MG-140, 426-4674, Email: 
+Office Hours:  Wednesday: 1:00-3:00pm, or by appointment (please e-mail to set it up).
+Syllabus
+Textbooks
+Software
+Schedule
+Homework problem sets
+Miscellaneous
+Text Books
+Required: A First Course in Numerical Methods, by Ascher and Greif
+Supplementary: Learning MATLAB, by T.A. Driscoll
+Software: MATLAB
+MATLAB is available in most computing labs around the university, including the mathematics computing lab. A student version can be purchased at a big discount from the bookstore. Alternatively, students can obtain a free copy from OIT.
+Lectures
+
+ 
+Day	Topics	Material
+22-Aug	
+Introduction to numerical analysis
+Ch. 1
+24-Aug	
+Round-off errors
+Ch. 2
+29-Aug	
+Round-off errors
+Solving non-linear equations
+Ch. 2
+Ch. 3.1
+31-Aug	
+Bisection
+Fixed point
+Newton's method
+Ch. 3.2
+Ch. 3.3
+Ch. 3.4
+05-Sep	
+Newton's method
+Secant Method
+Ch. 3.4
+07-Sep	Secant Method
+Linear algebra review
+Ch. 3.4
+Ch. 4
+12-Sep	Linear algebra review
+Gaussian elimination (slides)
+Ch. 4
+Ch. 5.1
+14-Sep	LU Decomposition (slides)
+Partial pivoting, scaled pivoting, and complete pivoting
+Ch. 5.2
+Ch. 5.3
+19-Sep	Symmetric positive definite matrices and Cholesky decomposition
+Sparse matrices and the Thomas algorithm
+Ch. 5.5
+Ch. 5.6
+21-Sep	Sparse matrices and the Thomas algorithm
+Efficient implementations of Gaussian elimination: handout
+Code: lupp_loop.m, lupp.m, forsub.m, backsub.m, test_lupp.m
+Ch. 5.6
+Ch. 5.4
+26-Sep	Conditioning of linear systems	Ch. 5.8
+28-Sep	Polynomial interpolation	Ch. 10.1-10.2
+3-Oct	Lagrange interpolation
+Error in polynomial interpolation
+Ch. 10.3
+Ch. 10.5
+5-Oct	Interpolation using Newton's divided differences	Ch. 10.4
+10-Oct	Interpolation at Chebyshev points	Ch. 10.6
+12-Oct	Hermite interpolation
+Piecewise polynomial interpolation: linear and cubic Hermite
+Ch. 10.6
+Ch. 11.1-11.2
+17-Oct	Cubic splines	Ch. 11.3
+19-Oct	Midterm review
+Spline basis functions - B-splines
+Parametric curves
+Ch. 11.4
+Ch. 11.5
+24-Oct	Interpolation in two and higher dimensions
+(Radial basis functions)
+Ch. 11.6
+ 
+26-Oct	Best approximation: continuous least squares	Ch. 12.1-12.2
+31-Oct	Orthogonal polynomials and least squares
+Weighted least squares
+Ch. 12.2
+Ch. 12.3
+02-Nov	Weighted least squares
+Chebyshev polynomials
+Ch. 12.3
+Ch. 12.4
+07-Nov	Near mini-max approximation
+Numerical integration: midpoint, trapezoidal, Simpsons rules
+Ch. 12.4
+Ch. 15.1
+09-Nov	Error analysis of trapezoidal and Simpsons rules	Ch. 15.1-15.2
+14-Nov	Error analysis of trapezoidal and Simpsons rules
+Gaussian quadrature
+Ch. 15.1-15.2
+Ch. 15.3
+16-Nov	Gaussian quadrature	Ch. 15.3
+28-Nov	Romberg integration
+Adaptive quadrature
+Ch. 15.5
+Ch. 15.4
+30-Nov	Integration in two and more dimensions
+Numerical differentiation
+Ch. 15.5 Ch. 14.1
+5-Dec	Numerical differentiation
+Ch. 15.5 Ch. 14.1-14.3
+Homework problem sets
+See "How to Present your Work" for instructions on writing up your homework assignments, and basic mathematical symbols for a description of some symbols that can greatly simplify your mathematical writing.
+ 
+Due date	Problem set	Notes
+07-SEPT-2017	HW01	
+21-SEPT-2017	HW02	solutions,
+06-OCT-2017	HW03	
+20-OCT-2017	HW04	polyinterp.m
+03-NOV-2017	HW05	splineinterp.m, DotToDot.txt, rbffit.m, rbfval.m, topodata.mat
+17-NOV-2017	HW06	
+08-DEC-2017	HW07	Brute Force Gaussian Quadrature: Mathematica, Maple
+Miscellaneous
+Introductory  MATLAB tutorials from  MathWorks (the creators of MATLAB).
+Report to the President : Computational Science : Ensuring America's Competitiveness (June 2005)
+GEMRES : Gem State Research in Computational Science and Engineering
+A list of some disasters caused by numerical errors.
+A history of Gaussian elimination (it's been around since long before Gauss!).
+Link to a podcast discussing the importance of computational math in the auto industry (specifically linear algebra and finite element analysis). Check out the popular NASTRAN software used for this type of analysis.
+Fractals generated from Newton's method.
+BSU Student Code of Conduct.
+
+Please e-mail me regarding any problems with the links on this page.
+Last Updated -11/29/2019 18:16:42

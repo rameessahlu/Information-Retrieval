@@ -1,0 +1,5 @@
+Software Engineering
+The Master of Science in Computer Science (Software Engineering) focuses on providing its graduates not only software development skills, but also systems engineering, customer collaboration, and management skills necessary for non-outsourceable careers and for leadership in software engineering. It emphasizes education for the future, including such emerging trends as software-intensive systems of systems, high assurance, agile methods, COTS integration, mobile and distributed network-centric architectures, and rapid software development and evolution. The program includes experience in real-client class projects and state-of-the-art evaluation assignments.  This program seeks to prepare students for an industrial leadership career in software engineering. It also serves as an introduction to this area for students who wish to pursue advanced studies and research leading to a Ph.D.
+
+Curriculum
+Additional Notes

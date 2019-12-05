@@ -1,0 +1,26 @@
+Image Processing Basics
+Digital Image Processing means processing digital image by means of a digital computer. We can also say that it is a use of computer algorithms, in order to get enhanced image either to extract some useful information.
+
+Image processing mainly include the following steps:
+1.Importing the image via image acquisition tools;
+2.Analysing and manipulating the image;
+3.Output in which result can be altered image or a report which is based on analysing that image.
+
+What is an image?
+An image is defined as a two-dimensional function,F(x,y), where x and y are spatial coordinates, and the amplitude of F at any pair of coordinates (x,y) is called the intensity of that image at that point. When x,y, and amplitude values of F are finite, we call it a digital image.
+In other words, an image can be defined by a two-dimensional array specifically arranged in rows and columns.
+Digital Image is composed of a finite number of elements, each of which elements have a particular value at a particular location.These elements are referred to as picture elements,image elements,and pixels.A Pixel is most widely used to denote the elements of a Digital Image.
+
+
+
+ 
+
+Types of an image
+BINARY IMAGE– The binary image as its name suggests, contain only two pixel elements i.e 0 & 1,where 0 refers to black and 1 refers to white. This image is also known as Monochrome.
+BLACK AND WHITE IMAGE– The image which consist of only black and white color is called BLACK AND WHITE IMAGE.
+8 bit COLOR FORMAT– It is the most famous image format.It has 256 different shades of colors in it and commonly known as Grayscale Image. In this format, 0 stands for Black, and 255 stands for white, and 127 stands for gray.
+16 bit COLOR FORMAT– It is a color image format. It has 65,536 different colors in it.It is also known as High Color Format. In this format the distribution of color is not as same as Grayscale image.
+A 16 bit format is actually divided into three further formats which are Red, Green and Blue. That famous RGB format.
+
+Image as a Matrix
+As we know, images are represented in rows and columns we have the following syntax in which images are represented:

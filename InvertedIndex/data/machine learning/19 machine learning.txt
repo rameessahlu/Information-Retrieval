@@ -1,0 +1,114 @@
+IBM®
+Search
+SubmitMy IBM
+Site navigation
+Analytics
+Product ListingSolutionsClient StoriesExpert GalleryExplore More
+Analytics 
+Data science and machine learning
+Collaborate across teams, use the top open source tools and scale at the speed your business requires with this leading data science platform
+
+Read the ebook (1.9 MB) Demo machine-learning tools
+
+What is machine learning?
+Products
+Case studies
+Resources
+What is machine learning?
+Machine learning is a form of AI that enables a system to learn from data rather than through explicit programming. However, machine learning is not a simple process. As the algorithms ingest training data, it is then possible to produce more precise models based on that data. A machine-learning model is the output generated when you train your machine-learning algorithm with data. After training, when you provide a model with an input, you will be given an output. For example, a predictive algorithm will create a predictive model. Then, when you provide the predictive model with data, you will receive a prediction based on the data that trained the model.
+
+illustration of robot solving puzzle
+Iterative learning
+Machine learning enables models to train on data sets before being deployed. Some machine- learning models are online and continuous. This iterative process of online models leads to an improvement in the types of associations made between data elements. Due to their complexity and size, these patterns and associations could have easily been overlooked by human observation. After a model has been trained, it can be used in real time to learn from data. The improvements in accuracy are a result of the training process and automation that are part of machine learning.
+
+Approaches to machine learning
+Machine-learning techniques are required to improve the accuracy of predictive models. Depending on the nature of the business problem being addressed, there are different approaches based on the type and volume of the data. In this section, we discuss the categories of machine learning.
+
+Supervised learning
+
+Supervised learning typically begins with an established set of data and a certain understanding of how that data is classified. Supervised learning is intended to find patterns in data that can be applied to an analytics process. This data has labeled features that define the meaning of data. For example, you can create a machine-learning application that distinguishes between millions of animals, based onimages and written descriptions.
+
+Unsupervised learning
+
+Unsupervised learning is used when the problem requires a massive amount of unlabeled data. For example, social media applications, such as Twitter, Instagram and Snapchat, all have large amounts of unlabeled data. Understanding the meaning behind this data requires algorithms that classify the data based on the patterns or clusters it finds. Unsupervised learning conducts an iterative process, analyzing data without human intervention. It is used with email spam-detecting technology. There are far too many variables in legitimate and spam emails for an analyst to tag unsolicited bulk email. Instead, machine-learning classifiers, based on clustering and association, are applied to identify unwanted email.
+
+Reinforcement learning
+
+Reinforcement learning is a behavioral learning model. The algorithm receives feedback from the data analysis, guiding the user to the best outcome. Reinforcement learning differs from other types of supervised learning, because the system isn’t trained with the sample data set. Rather, the system learns through trial and error. Therefore, a sequence of successful decisions will result in the process being reinforced, because it best solves the problem at hand.
+
+Deep learning
+
+Deep learning is a specific method of machine learning that incorporates neural networks in successive layers to learn from data in an iterative manner. Deep learning is especially useful when you’re trying to learn patterns from unstructured data. Deep learning complex neural networks are designed to emulate how the human brain works, so computers can be trained to deal with poorly defined abstractions and problems. The average five-year-old child can easily recognize the difference between his teacher’s face and the face of the crossing guard. In contrast, the computer must do a lot of work to figure out who is who. Neural networks and deep learning are often used in image recognition, speech, and computer vision applications.
+
+charting on a graph
+Big data in context of machine learning
+Machine learning requires that the right set of data be applied to a learning process. An organization does not have to have big data to use machine-learning techniques; however, big data can help improve the accuracy of machine-learning models. With big data, it is now possible to virtualize data so it can be stored in the most efficient and cost-effective manner, whether on-premises or in the cloud. In addition, improvements in network speed and reliability have removed other physical limitations associated with managing massive amounts of data at the acceptable speed. Add to this the impact of changes in the price and sophistication of computer memory and it’s now possible to imagine how companies can leverage data in ways that would have been inconceivable only five years ago.
+
+Download a free copy of the Machine Learning for Dummies book (1.9 MB)
+
+Machine Learning Dummies ebook
+Applying machine learning to business needs
+Machine learning offers potential value to companies trying to leverage big data and helps them better understand subtle changes in behavior, preferences or customer satisfaction. Business leaders are beginning to appreciate that many things happening within their organizations and industries can’t be understood through a query. It isn’t the questions that you know; it’s the hidden patterns and anomalies buried in the data that can help or hurt you.
+
+How it all comes together
+The advantage of machine learning is that it is possible to leverage algorithms and models to predict outcomes. The trick is to ensure that the data scientists doing the work are using the right algorithms, ingesting the most appropriate data (that is accurate and clean) and using the best performing models. If all these elements come together it’s possible to continuously train the model and learn from the outcomes by learning from the data. The automation of this process of modeling, training the model and testing leads to accurate predictions to support business change.
+
+graphic showing relationship of artificial intelligence and machine learning
+Products
+IBM Watson Studio
+An on-premises, private or public cloud solution that provides a collaborative machine-learning platform for teams to explore, model and deploy data solutions, using the top open-source tools.
+
+Try it now
+
+IBM Machine Learning for z/OS
+An on-premises machine-learning solution that extracts hidden value from enterprise data. Quickly ingest and transform data to create, deploy and manage high-accuracy self-learning models, using IBM z Systems® data.
+
+Learn more
+
+IBM SPSS® Modeler
+A graphical analytics platform for users of all skill levels to deploy insights at scale with a wide range of algorithms and capabilities such as text analytics, geospatial analysis and optimization.
+
+Learn more
+
+IBM Watson Explorer
+A machine learning-powered content analytics and cognitive search platform that provides users with access to actionable insights from all the data and helps achieve better business outcomes.
+
+Learn more
+
+Case studies
+Ahus gains new insights with Watson Explorer to deliver high-quality health
+Akershus University Hospital (Ahus) is using Watson Explorer, together with partner Capgemini, to analyze thousands of radiology repots to confirm that teams are following best practices, helping maintain high healthcare standards.
+
+Read the case study
+
+Real-time content analytics helps call centers serve customers effectively
+Mizuho Bank Ltd. drives customer interactions effectively and reduces customer handling time with the help of the real-time natural language processing capabilities of IBM Watson® Explorer.
+
+Read the case study
+
+Resources
+Take a guided tour of how to build a machine-learning model to predict customer churn in IBM Watson Studio.
+
+See the demo
+
+Check out more machine learning and deep learning applications tutorials                                                                            
+
+Try the tutorials
+
+Start your trial of Watson Studio now at no cost                                                                                                                  
+
+Start your trial at no charge
+
+Learn more about machine learning basics                                                                                                                  
+
+What is machine learning?
+
+Get connected
+Visit us on FacebookVisit us on TwitterVisit us on LinkedInVisit us on YouTube
+Contact IBMPrivacyTerms of useAccessibilityFeedback
+
+Let’s talk
+
+
+
+

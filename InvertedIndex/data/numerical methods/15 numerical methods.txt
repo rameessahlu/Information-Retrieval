@@ -1,0 +1,18 @@
+numerical-methods.com
+
+ 
+The ever-increasing advances in computer technology has enabled many in science and engineering to apply numerical methods to simulate physical phenomena. Numerical methods are often divided into elementary ones such as finding the root of an equation, integrating a function or solving a linear system of equations to intensive ones like the finite element method. Intensive methods are often needed for the solution of practical problems and they often require the systematic application of a range of elementary methods, often thousands or millions of times over.
+
+In the development of numerical methods, simplifications need to be made to progress towards a solution: for example general functions may need to be approximated by polynomials and computers cannot generally represent numbers exactly anyway. As a result, numerical methods do not usually give the exact answer to a given problem, or they can only tend towards a solution getting closer and closer with each iteration. Numerical methods are generally only useful when they are implemented on computer using a computer programming language.
+
+
+ 
+In the study of numerical methods, we can make a general distinction between a set of methods such as solving linear systems of equations , solving matrix eigenvalue problems , interpolation , numerical integration and finding the roots or zeros of equations , which can be somewhat considered as the building blocks for larger that arise in engineering/applied mathematics/physics. For example the problem of solving ordinary differential equations , optimisation and solving integral equations . But from the point of view of aplied mathematics or engineering, erhaps the most significant problems in numerical methods is the solution of partial differential equations by Finite Difference Methods , Finite Element Methods or Boundary Element Methods .
+
+The study of the behaviour of numerical methods is called numerical analysis. This is a mathematical subject that considers the modelling of the error in the processing of numerical methods and the subsequent re-design of methods.
+
+
+ 
+
+ [boundary-element-method.com ] [electromagnetics.info] [ cad-cam-cae.com ] [ finite element method] [AppliedMathematics.info ] [Fortran ] [science-books.net ]
+[mathematics.me.uk] [computing.me.uk] [engineering.me.uk] [physics.me.uk] [statistics.me.uk]

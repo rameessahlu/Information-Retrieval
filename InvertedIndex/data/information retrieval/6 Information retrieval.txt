@@ -1,0 +1,6 @@
+Information retrieval
+COMPUTER AND INFORMATION SCIENCE
+WRITTEN BY: The Editors of Encyclopaedia Britannica
+See Article History
+THIS ARTICLE IS A STUB. You can learn more about this topic in the related articles below.
+Information retrieval, Recovery of information, especially in a database stored in a computer. Two main approaches are matching words in the query against the database index (keyword searching) and traversing the database using hypertext or hypermedia links. Keyword searching has been the dominant approach to text retrieval since the early 1960s; hypertext has so far been confined largely to personal or corporate information-retrieval applications. Evolving information-retrieval techniques, exemplified by developments with modern Internet search engines, combine natural language, hyperlinks, and keyword searching. Other techniques that seek higher levels of retrieval precision are studied by researchers involved with artificial intelligence.

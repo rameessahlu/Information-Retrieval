@@ -1,0 +1,49 @@
+Machine Learning for Humans????
+Simple, plain-English explanations accompanied by math, code, and real-world examples.
+Vishal Maini
+Vishal Maini
+Follow
+Aug 19, 2017 · 10 min read
+
+This series is available as a full-length e-book! Download here. Free for download, contributions appreciated (paypal.me/ml4h)
+Roadmap
+Part 1: Why Machine Learning Matters. The big picture of artificial intelligence and machine learning — past, present, and future.
+Part 2.1: Supervised Learning. Learning with an answer key. Introducing linear regression, loss functions, overfitting, and gradient descent.
+Part 2.2: Supervised Learning II. Two methods of classification: logistic regression and SVMs.
+Part 2.3: Supervised Learning III. Non-parametric learners: k-nearest neighbors, decision trees, random forests. Introducing cross-validation, hyperparameter tuning, and ensemble models.
+Part 3: Unsupervised Learning. Clustering: k-means, hierarchical. Dimensionality reduction: principal components analysis (PCA), singular value decomposition (SVD).
+Part 4: Neural Networks & Deep Learning. Why, where, and how deep learning works. Drawing inspiration from the brain. Convolutional neural networks (CNNs), recurrent neural networks (RNNs). Real-world applications.
+Part 5: Reinforcement Learning. Exploration and exploitation. Markov decision processes. Q-learning, policy learning, and deep reinforcement learning. The value learning problem.
+Appendix: The Best Machine Learning Resources. A curated list of resources for creating your machine learning curriculum.
+Who should read this?
+Technical people who want to get up to speed on machine learning quickly
+Non-technical people who want a primer on machine learning and are willing to engage with technical concepts
+Anyone who is curious about how machines think
+This guide is intended to be accessible to anyone. Basic concepts in probability, statistics, programming, linear algebra, and calculus will be discussed, but it isn’t necessary to have prior knowledge of them to gain value from this series.
+This series is a guide for getting up-to-speed on high-level machine learning concepts in ~2-3 hours.
+If you're more interested in figuring out which courses to take, textbooks to read, projects to attempt, etc., take a look at our recommendations in the Appendix: The Best Machine Learning Resources.
+Why machine learning matters
+Artificial intelligence will shape our future more powerfully than any other innovation this century. Anyone who does not understand it will soon find themselves feeling left behind, waking up in a world full of technology that feels more and more like magic.
+The rate of acceleration is already astounding. After a couple of AI winters and periods of false hope over the past four decades, rapid advances in data storage and computer processing power have dramatically changed the game in recent years.
+In 2015, Google trained a conversational agent (AI) that could not only convincingly interact with humans as a tech support helpdesk, but also discuss morality, express opinions, and answer general facts-based questions.
+
+(Vinyals & Le, 2017)
+The same year, DeepMind developed an agent that surpassed human-level performance at 49 Atari games, receiving only the pixels and game score as inputs. Soon after, in 2016, DeepMind obsoleted their own achievement by releasing a new state-of-the-art gameplay method called A3C.
+Meanwhile, AlphaGo defeated one of the best human players at Go — an extraordinary achievement in a game dominated by humans for two decades after machines first conquered chess. Many masters could not fathom how it would be possible for a machine to grasp the full nuance and complexity of this ancient Chinese war strategy game, with its 10¹7° possible board positions (there are only 108°atoms in the universe).
+
+Professional Go player Lee Sedol reviewing his match with AlphaGo after defeat. Photo via The Atlantic.
+In March 2017, OpenAI created agents that invented their own language to cooperate and more effectively achieve their goal. Soon after, Facebook reportedly successfully training agents to negotiate and even lie.
+Just a few days ago (as of this writing), on August 11, 2017, OpenAI reached yet another incredible milestone by defeating the world’s top professionals in 1v1 matches of the online multiplayer game Dota 2.
+
+See the full match at The International 2017, with Dendi (human) vs. OpenAI (bot), on YouTube.
+Much of our day-to-day technology is powered by artificial intelligence. Point your camera at the menu during your next trip to Taiwan and the restaurant’s selections will magically appear in English via the Google Translate app.
+
+Google Translate overlaying English translations on a drink menu in real time using convolutional neural networks.
+Today AI is used to design evidence-based treatment plans for cancer patients, instantly analyze results from medical tests to escalate to the appropriate specialist immediately, and conduct scientific research for drug discovery.
+
+A bold proclamation by London-based BenevolentAI (screenshot from About Us page, August 2017).
+In everyday life, it’s increasingly commonplace to discover machines in roles traditionally occupied by humans. Really, don’t be surprised if a little housekeeping delivery bot shows up instead of a human next time you call the hotel desk to send up some toothpaste.
+
+In this series, we’ll explore the core machine learning concepts behind these technologies. By the end, you should be able to describe how they work at a conceptual level and be equipped with the tools to start building similar applications yourself.
+The semantic tree: artificial intelligence and machine learning
+One bit of advice: it is important to view knowledge as sort of a semantic tree — make sure you understand the fundamental principles, ie the trunk and big branches, before you get into the leaves/details or there is nothing for them to hang on to. — Elon Musk, Reddit AMA

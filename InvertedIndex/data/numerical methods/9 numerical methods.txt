@@ -1,0 +1,33 @@
+
+Center for Computational Mathematics
+Research
+Publications
+News
+Software
+People
+Events
+About
+Home Flatiron InstituteCenter for Computational Mathematics
+Numerical Analysis
+
+The direct numerical simulation of many scientific processes remains impractical, even with modern supercomputers.
+At CCM, we are developing fast, accurate and robust high-order solvers for many of the equations of classical and modern physics in complicated geometries, with application to fluid dynamics, electromagnetics, acoustics, heat transfer and diffusion, quantum mechanics and plasma physics. We also build efficient software libraries for fundamental tasks in scientific computing and data analysis.
+
+For information about the weekly seminar, see here.
+
+People
+Libin Lu, Ph.D.
+Software Engineer, Numerical Analysis
+
+Libin Lu joined the Center for Computational Mathematics in 2019 as a Software Engineer in the Numerical Analysis group.
+
+Read more
+Advancing Research in Basic Science and Mathematics
+Subscribe to Flatiron Institute announcements and other foundation updates
+Your Email Address
+Continue
+About Us Funding News Events Annual Report Contact Us Career Opportunities
+Follow Us
+© Simons Foundation Terms and Conditions Privacy Policy Image Credits
+We use cookies to analyze web traffic and to improve your browsing experience; full details are in our privacy policy. Please agree to accept cookies from our site.
+AGREE

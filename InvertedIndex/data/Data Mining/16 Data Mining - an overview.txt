@@ -1,0 +1,166 @@
+Data Mining
+Data mining is the set of computational techniques and methodologies aimed to extract knowledge from a large amount of data, by using sophisticated data analysis tools to highlight information structure underlying large data sets.
+
+From: Encyclopedia of Bioinformatics and Computational Biology, 2019
+
+Related terms:
+ProteomicsNested GeneMachine LearningBioinformaticsData AnalysisGene Expression
+View all Topics
+Download as PDF
+Set alert
+About this page
+Learn more about Data Mining
+An overview of data mining
+Zengyou He, in Data Mining for Bioinformatics Applications, 2015
+
+1.2 Data mining process models
+Data mining is an iterative process that consists of many steps. There are already some generic reference models on the data mining process, such as the Cross Industry Standard Process for Data Mining (CRISP-DM) process model. From a data-centric perspective, these models are structured as sequences of steps to transform the raw data into information or knowledge that is practically useful. As shown in Figure 1.1, a data mining process model typically involves the following phases: data collection, data preprocessing, data modeling, model assessment, and model deployment.
+
+
+Sign in to download full-size image
+Figure 1.1. Typical phases involved in a data mining process model.
+
+Read full chapter
+
+Purchase book
+Service-Oriented Data Mining in Traditional Chinese Medicine
+Zhaohui Wu, ... Xiaohong Jiang, in Modern Computational Approaches to Traditional Chinese Medicine, 2012
+
+5.2.3 Distributed Data Mining Platform
+Data mining tasks differ in resource requirements. Some of them are computation intensive, while some are I/O intensive. Due to the constraints of computational and storage capacity on a single machine, distributed systems for large-scale data mining were developed to satisfy the ever-growing requirements. The most frequently used technology is Grid computing. With the help of Globus toolkit, Grid Miner introduced OGSA-DAI Grid services to gain access to Grid databases [9]. Weka, the popular platform of data mining and machine learning, also has been extended into several Grid-based platforms. For example, Grid Weka enabled the use of Weka in an ad hoc Grid, to separate the entire data mining process into several stages and distribute them among a set of Weka servers. Another Grid-based software derived from Weka is Weka4WS, focused on offering service-oriented distributed data mining in a Grid environment [10].
+
+Read full chapter
+
+Purchase book
+Knowledge Discovery in Biomedical Data: Theory and Methods
+John H. Holmes, in Methods in Biomedical Informatics, 2014
+
+7.6 Summary
+Data mining is part of a larger process of knowledge discovery in databases. Specifically, it is the application of software tools and cognitive processes to the discovery of patterns and other types of phenomena that occur in data that might be missed by traditional analytic means, whether they be statistical methods or in the case of text, simple reading. Most of the methods used in data mining come from the machine learning paradigm, where a learning algorithm is exposed to data and over a period of training develops a model that is generalizable to unseen data from a similar source. This model can be used for classification or prediction, but is first a hypothesis or set of hypotheses generated from the data. These hypotheses require some human expertise to evaluate their plausibility and applicability to a given problem domain. As such, data mining is automated, rather than automatic, and the tools of data mining are assistive in the process of knowledge discovery.
+
+While there is much to data mining that is attractive, it is important to remember that in addition to human input in the interpretation of results, consideration of the ethical concerns associated with data mining is needed. These are not inconsequential, and if violated, could cause substantial harm to the entities biomedical data represent.
+
+Read full chapter
+
+Purchase book
+Multivariate Analysis: Overview
+I. Olkin, A.R. Sampson, in International Encyclopedia of the Social & Behavioral Sciences, 2001
+
+6.7 Data Mining
+Data mining refers to a set of approaches and techniques that permit ‘nuggets’ of valuable information to be extracted from vast and loosely structured multiple data bases. For example, a consumer products manufacturer might use data mining to better understand the relationship of a specific product's sales to promotional strategies, selling store's characteristics, and regional demographics. Techniques from a variety of different disciplines are used in data mining. For instance, computer science and information science provide methods for handling the problems inherent in focusing and merging the requisite data from multiple and differently structured data bases. Engineering and economics can provide methods for pattern recognition and predictive modeling. Multivariate statistical techniques, in particular, clearly play a major role in data mining.
+
+Multivariate notions developed to study relationships provide approaches to identify variables or sets of variables that are possibly connected. Regression techniques are useful for prediction. Classification and discrimination methods provide a tool to identify functions of the data that discriminate among categorizations of an individual that might be of interest. Another very useful technique for data mining is cluster analysis that groups experimental units which respond similarly. Structural methods such as principal components, factor analysis, and path analysis are methodologies that can allow simplification of the data structure into fewer important variables. Multivariate graphical methods can be employed to both explore databases and then as a means for presentation of the data mining results.
+
+A reference to broad issues in data mining is given by Fayyad et al. (1996). Also see Exploratory Data Analysis: Multivariate Approaches (Nonparametric Regression).
+
+Read full chapter
+
+Purchase book
+SPECT Processing, Quantification, and Display
+Tracy L. Faber, ... Ernest V. Garcia, in Clinical Nuclear Cardiology (Fourth Edition), 2010
+
+Data Mining
+Data mining is a technique for discovering patterns in large data sets. These methods are generally statistical in nature and/or taken from pattern recognition approaches. Like neural nets, they require a training set for which the truth is known. However, instead of creating a neural network that may be able to process images for diagnostic purposes, the output of a data mining approach is associations between patterns in the data set. These associations may be used to help create an expert system or simply to investigate the data set more closely. Usually, the data input into a data mining algorithm is highly processed; for example, the scores from a typical 17-segment model may be used as the input. A data mining algorithm provided with this information for a large number of patients, along with each patient's actual diagnosis, may be able to predict the value of a score in each region that would indicate a fixed defect and statistics about its likelihood of being abnormal. Some examples of data mining applied to cardiac SPECT perfusion images can be read in research by Kurgan et al.50 and Sacha et al.51
+
+Read full chapter
+
+Purchase book
+Ontology in Bioinformatics
+Pietro H. Guzzi, in Encyclopedia of Bioinformatics and Computational Biology, 2019
+
+DAMON: A Data Mining Ontology for Grid Programming
+The Data Mining Ontology for Grid programming (DAMON) (Cannataro and Comito, 2003) has been introduced to model data mining tools, concepts, and resources. DAMON aims to characterise the data mining scenario, considering the process of knowledge discovery in a distributed scenario, such as the GRID (Foster and Kesselman, 2003). The main goal of this ontology was to enable the semantic search of data mining resources and to suggest the use of the resources themselves. The conceptualisation has been made by these parameters:
+
+Task: the data mining task performed by the software, for example, the results produced or the knowledge discovered;
+
+Method: the type of methodologies that the software uses in the data mining process;
+
+Algorithm: the algorithm that uses such methodologies;
+
+Software: the software implementing the algorithms;
+
+Data Source: the kind of data sources the software works on;
+
+Human interaction the degree of required interaction with the user, for example, if the mining process is completely autonomous, or if it requires user intervention;
+
+Suite: a collection of many types of data mining software tools.
+
+Starting with these concepts, a set of taxonomies has been induced. Many non-taxonomic relationships and different constraints complete the 175 organization of concepts. For instance, the software and algorithm concepts are connected by Implements Algorithm property. This relationship has to verify some imposed constraints, for example, Implements Algorithm property of classification software must have a classification algorithm as filler.
+
+By browsing DAMON, a researcher can choose the optimal data mining 180 techniques to utilize. Given a specified kind of data, a user can browse the ontology taxonomy and find the pre-processing phase, the algorithms, and its software implementation. In summary, the DAMON ontology allows the semantic search of data mining software and other data mining resources and suggests to the user the methods and software used to stored knowledge and the user?s 185 requirements.
+
+Appendix.
+
+Read full chapter
+
+Purchase book
+The role of information, bioinformatics and genomics
+B Robson, R McBurney, in Drug Discovery and Development (Second Edition), 2013
+
+Bioinformatics as data mining and inference
+Data mining includes also analysis of market, business, communications, medical, meteorological, ecological, astronomical, military and security data, but its tools have been implicit and ubiquitous in bioinformatics from the outset, even if the term ‘data mining’ has only fairly recently been used in that context. All the principles described below are relevant to a major portion of traditional bioinformatics. The same data mining programme used by one of the authors has been applied to both joint market trends in South America and the relationship of protein sequences to their secondary structure and immunological properties. In the broader language of data analytics, bioinformatics can be seen as having two major modes of application in the way it obtains information from data – query or data mining. In the query mode (directed analysis), for example, a nucleotide sequence might be used to find its occurrence in other gene sequences, thus ‘pulling them from the file’. That is similar to a Google search and also somewhat analogous to testing a hypothesis in classical statistics, in that one specific question is asked and tested as to the hypothesis that it exists in the data.
+
+In the data mining mode (undirected or unsupervised analysis), one is seeking to discover anything interesting in the data, such as a hidden pattern. Ultimately, finding likely (and effectively testing) hypotheses for combinations of N symbols or factors (states, events, measurements, etc.) is equivalent to making 2N-1 queries or classical statistical tests of hypotheses. For N = 100, this is 1030. If such an activity involves continuous variables of interest to an error of e percent (and e is usually much less than 50%) then this escalates to (100/e)N. Clearly, therefore, data mining is a strategy, not a guaranteed solution, but, equally clearly, delivers a lot more than one query. Insomuch as issuing one query is simply a limiting case of the ultimate in highly constrained data mining, both modes can be referred to as data mining.
+
+Both querying and data mining seem a far cry from predicting what regions of DNA are likely to be a gene, or the role a pattern of gene variants might play in disease or drug response, or the structure of a protein, and so on. As it happens, however, prediction of what regions of DNA are genes or control points, what a gene's function is, of protein secondary and tertiary structure, of segments in protein primary structure that will serve as a basis for a synthetic diagnostic or vaccine, are all longstanding examples of what we might today call data mining followed by its application to prediction. In those activities, the mining of data, as a training set, is used to generate probabilistic parameters often called ‘rules’. These rules are preferably validated in an independent test set. The further step required is some process for using the validated rules to draw a conclusion based on new data or data sets, i.e. formally the process of inference, as a prediction.
+
+An Expert System also uses rules and inference except the rules and their probabilities are drawn from human experts at the rate of 2–5 a day (and, by definition, are essentially anecdotal and likely biased). Computer-based data mining can generate hundreds of thousands of unbiased probabilistic rules in the order of minutes to hours (which is essentially in the spirit of evidence based medicine's best evidence). In the early days of bioinformatics, pursuits like predicting protein sequence, signal polypeptide sequences, immunological epitopes, DNA consensus sequences with special meaning, and so forth, were often basically like Expert Systems using rules and recipes devised by experts in the field. Most of those pursuits have now succumbed to use rules provided from computer-based mining of increasingly larger amounts of data, and those rules bear little resemblance to the original expert rules.
+
+Read full chapter
+
+Purchase book
+Fungal Genomics
+Leming Shi, ... Weida Tong, in Applied Mycology and Biotechnology, 2003
+
+2.8.3 Data mining and visualization
+Data mining and knowledge discovery in databases (KDD) are new terms that have been used to describe the research efforts of turning raw data into useful knowledge for decision-making in scientific research (Hu and Kamber, 2001). Data mining or KDD is defined as “the nontrivial extraction of implicit, previously unknown, and potentially useful information from data” (Frawley et al., 1992). “Nontrivial” means that data mining is not a simple task. Usually, data mining and KDD are used interchangeably, although, generally speaking, data mining focuses on the algorithms and KDD deals with the whole process that includes data storage, retrieval, pre-processing, and analysis. To get the hidden, previously unknown information from data requires special expertise. Visualization is an integrated component of the data mining process. Data mining results are often communicated to researchers via a convenient, easy-to-perceive visual interface. Mining of microarray experimental data starts with a data table illustrated in Fig. 4. The table usually contains thousands of rows, which represent the genes being monitored on the microarray. Each column of the table represents a particular experiment or sample under which the expression levels of thousands of genes are monitored simultaneously. Each data entry in the table represents the mRNA expression ratio for a particular gene in a particular experiment.
+
+
+Sign in to download full-size image
+Fig. 4. Data format for DNA microarray data mining. Each gene is characterized by its expression profile across the P experiments (samples), whereas each experiment (sample) is characterized by the relative mRNA expression levels of the N genes monitored by the microarray. Each data entry in the table represents the mRNA expression ratio for a particular gene in a particular experiment.
+
+There are three typical questions that researchers may ask about the microarray data. The first question is which genes are differentially expressed between test and control samples. To answer this question, we need to examine the expression data and sort out those genes that are either over-expressed or under-expressed. Because of the inherent variation in the microarray experiment, it is difficult to make a judgment solely based on the results of one experiment. In other words, how much fold change for a gene could be considered biologically relevant? Statistically, it is necessary to perform replicates to assess the variation that comes from the microarray technology itself so that one will not take experimental fluctuation as the real difference in gene expression. In practice, some researchers use a rational fold-difference cutoff value, such as 2.0, to determine which genes are differentially expressed.
+
+The second question is which genes are co-expressed. Here, two genes are compared in terms of the expression profiles across the P experiments. In other words, two rows are compared. The Euclidean distance and/or the Pearson correlation coefficient are two widely used metrics for gene comparison. The assumption is that co-expressed genes should have similar expression profiles across experiments under different conditions.
+
+The third question is which genes form the same gene clusters. The fundamental principle to identify gene clusters is to assume that genes in a cluster share similar function. At this level, data for multiple genes across multiple experimental conditions are considered simultaneously. In other word, the data matrix shown in Fig. 4 is taken into consideration altogether.
+
+A bottleneck problem in a microarray experiment is how to make biological sense of the massive expression data. Many statistical, machine learning, and visualization techniques that have been used in data mining for drug discovery (Shi, 2000, 2002a) have been applied successfully for the analysis of microarray data. Table 3 lists some of the most widely used data mining and visualization methods for this purpose. Our experience shows that there is no method that is suitable for all problems. Instead, each method has its own advantages and limitations. For a particular problem one method may be better than the other. It is up to the researcher to identify the most appropriate method(s) for her/his particular problem, usually by exploring many different methods for a data set. In fact, a very important task for a bioinformatics researcher is to identify the best method(s) for analyzing the available data set. GeneSpring was developed by Silicon Genetics, Inc. (http://www.silicongenetics.com) specifically for the analysis of gene expression data. Spotfire is another widely used data mining and visualization package (http://www.spotfire.com).
+
+Table 3. Data mining and visualization techniques applied for microarray data..
+
+No.	Method	Application*
+1	Principal Component Analysis (PCA)	DR, Viz
+2	Multidimensional Scaling (MDS)	DR, Viz
+3	Singular value decomposition (SVD)	DR, Viz
+4	Pattern Recognition (PR)	Class, Cluster, DR, Viz
+5	Hierarchical Cluster Analysis (HCA)	Cluster, Viz
+6	Non-Hierarchical Cluster Analysis (K-Means, Jarvis-Patrick)	Cluster, Viz
+7	Correlation Analysis (Pearson, Spearman)	Class
+8	Multiple Linear Regression (MLR)	Class
+9	Partial Least-Squares Regression (PLS)	Class, Cluster, DR
+10	Soft Independent Modeling of Class Analogy (SIMCA)	Class, Cluster, DR
+11	K-Nearest Neighbors (KNN)	Class, Cluster
+12	Artificial Neural Networks (ANN)– Back Propagation (BP) and Self-Organizing Maps (SOM)	Class, Cluster, Viz
+13	Classification and Regression Trees (CART)	Class, Viz
+14	Multivariate Adaptive Regression Splines (MARS)	Class, Viz
+15	Genetic Algorithms (GA)	Class, DR
+16	Cross-Validation (CV) and Bootstrapping	Class
+17	Support Vector Machines (SVM)	Class, Cluster, Viz
+18	Clustered Image Maps (CIM)	Viz
+*
+DR: dimension reduction; Class: classification; Cluster: clustering; Viz: visualization
+For a comprehensive review of microarray data analysis, the readers are encouraged to refer to a few recent review articles by Quackenbush (2001) and Zhang (2002) and the book edited by Lin and Johnson (2002).
+
+Read full chapter
+
+Purchase book
+Data Mining in Bioinformatics
+Chiara Zucco, in Encyclopedia of Bioinformatics and Computational Biology, 2019
+
+Background and Fundamentals
+Data mining is born as a particular step of a process defined in literature as Knowledge Discovery in Databases (KDD). Due to the centrality acquired by Data Mining task within this process, nowadays Data Mining is used as synonym for Knowledge Discovery, also known as Knowledge Discovery and Data Mining.
+
+Using this identification, and reporting Fayyad et al. (1996) definition, we can say that Data Mining or KDD is
+
+The non-trivial process of identifying patterns in data that are valid, original, potentially us

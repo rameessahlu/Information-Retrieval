@@ -1,0 +1,73 @@
+Typing “what is machine learning?” into a Google search opens up a pandora’s box of forums, academic research, and here-say – and the purpose of this article is to simplify the definition and understanding of machine learning thanks to the direct help from our panel of machine learning researchers.
+
+In addition to an informed, working definition of machine learning (ML), we aim to provide a succinct overview of the fundamentals of machine learning, the challenges and limitations of getting machine to ‘think’, some of the issues being tackled today in deep learning (the ‘frontier’ of machine learning), and key takeaways for developing machine learning applications.
+
+This article will be broken up into the following sections:
+
+What is machine learning?
+How we arrived at our definition (IE: the perspective of expert researchers)
+Machine learning basic concepts
+Visual representation of ML models
+How we get machines to learn
+An overview of the challenges and limitations of ML
+Brief introduction to deep learning
+Works cited
+Related ML interviews on Emerj
+We put together this resource to help with whatever your area of curiosity about machine learning – so scroll along to your section of interest, or feel free to read the article in order, starting with our machine learning definition below:
+
+
+
+ 
+
+What is Machine Learning?
+* “Machine Learning is the science of getting computers to learn and act like humans do, and improve their learning over time in autonomous fashion, by feeding them data and information in the form of observations and real-world interactions.”
+
+The above definition encapsulates the ideal objective or ultimate aim of machine learning, as expressed by many researchers in the field. The purpose of this article is to provide a business-minded reader with expert perspective on how machine learning is defined, and how it works. Machine learning and artificial intelligence share the same definition in the minds of many however, there are some distinct differences readers should recognize as well. References and related researcher interviews are included at the end of this article for further digging.
+
+* How We Arrived at Our Definition:
+(Our aggregate machine learning definition can be found at the beginning of this article)
+
+As with any concept, machine learning may have a slightly different definition, depending on whom you ask. We combed the Internet to find five practical definitions from reputable sources:
+
+“Machine Learning at its most basic is the practice of using algorithms to parse data, learn from it, and then make a determination or prediction about something in the world.” – Nvidia 
+“Machine learning is the science of getting computers to act without being explicitly programmed.” – Stanford
+“Machine learning is based on algorithms that can learn from data without relying on rules-based programming.”- McKinsey & Co.
+“Machine learning algorithms can figure out how to perform important tasks by generalizing from examples.” – University of Washington
+“The field of Machine Learning seeks to answer the question “How can we build computer systems that automatically improve with experience, and what are the fundamental laws that govern all learning processes?” – Carnegie Mellon University
+We sent these definitions to experts whom we’ve interviewed and/or included in one of our past research consensuses, and asked them to respond with their favorite definition or to provide their own. Our introductory definition is meant to reflect the varied responses. Below are some of their responses:
+
+Dr. Yoshua Bengio, Université de Montréal:
+
+ML should not be defined by negatives (thus ruling 2 and 3). Here is my definition:
+
+Machine learning research is part of research on artificial intelligence, seeking to provide knowledge to computers through data, observations and interacting with the world. That acquired knowledge allows computers to correctly generalize to new settings.
+
+Dr. Danko Nikolic, CSC and Max-Planck Institute:
+
+(edit of number 2 above): “Machine learning is the science of getting computers to act without being explicitly programmed, but instead letting them learn a few tricks on their own.”
+
+Dr. Roman Yampolskiy, University of Louisville:
+
+Machine Learning is the science of getting computers to learn as well as humans do or better.
+
+Dr. Emily Fox, University of Washington: 
+
+My favorite definition is #5.
+
+Machine Learning Basic Concepts
+There are many different types of machine learning algorithms, with hundreds published each day, and they’re typically grouped by either learning style (i.e. supervised learning, unsupervised learning, semi-supervised learning) or by similarity in form or function (i.e. classification, regression, decision tree, clustering, deep learning, etc.). Regardless of learning style or function, all combinations of machine learning algorithms consist of the following:
+
+Representation (a set of classifiers or the language that a computer understands)
+Evaluation (aka objective/scoring function)
+Optimization (search method; often the highest-scoring classifier, for example; there are both off-the-shelf and custom optimization methods used)
+Image credit: Dr. Pedro Domingo, University of Washington
+
+Image credit: Dr. Pedro Domingo, University of Washington
+
+The fundamental goal of machine learning algorithms is to generalize beyond the training samples i.e. successfully interpret data that it has never ‘seen’ before.
+
+Visual Representations of Machine Learning Models
+Concepts and bullet points can only take one so far in understanding. When people ask “What is machine learning?”, they often want to see what it is and what it does. Below are some visual representations of machine learning models, with accompanying links for further information. Even more resources can be found at the bottom of this article.
+3049155-poster-p-1-machine-learning-is-just-a-big-game-of-plinko
+
+Decision tree model

@@ -1,0 +1,18 @@
+
+To Survive in Tough Times, Restaurants Turn to Data-Mining
+
+Salido, a start-up in New York, is working to create an analytics program that integrates all aspects of a restaurant’s operations into one system. A monitor at its SoHo headquarters provides real-time data.
+Salido, a start-up in New York, is working to create an analytics program that integrates all aspects of a restaurant’s operations into one system. A monitor at its SoHo headquarters provides real-time data.Credit...Cole Wilson for The New York Times
+By Karen Stabiner
+Aug. 25, 2017
+
+37
+The early diners are dawdling, so your 7:30 p.m. reservation looks more like 8. While you wait, the last order of the duck you wanted passes by. Tonight, you’ll be eating something else — without a second bottle of wine, because you can’t find your server in the busy dining room. This is not your favorite night out.
+
+The right data could have fixed it, according to the tech wizards who are determined to jolt the restaurant industry out of its current slump. Information culled and crunched from a wide array of sources can identify customers who like to linger, based on data about their dining histories, so the manager can anticipate your wait, buy you a drink and make the delay less painful.
+
+It can track the restaurant’s duck sales by day, week and season, and flag you as a regular who likes duck. It can identify a server whose customers have spent a less-than-average amount on alcohol, to see if he needs to sharpen his second-round skills.
+
+So Big Data is staging an intervention.
+
+Both start-ups and established companies are scrambling to deliver up-to-the-minute data on sales, customers, staff performance or competitors by merging the information that restaurants already have with all sorts of data from outside sources: social media, tracking apps, reservation systems, review sites, even weather reports.

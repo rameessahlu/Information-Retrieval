@@ -1,0 +1,67 @@
+Everything A Beginning Graphic Designer Should Know (Probably)
+There is no traditional or normal path when it comes to having a career in graphic design. Here are some things I wish I knew before I started my two decade long journey.
+Paul Armstrong
+Paul Armstrong
+Follow
+Aug 11, 2017 · 11 min read
+
+Photo by Pablo Garcia Saldaña
+I’ve been a graphic designer since 1995. In that time I’ve seen quite a bit of change within the industry, but throughout those two decades (I guess that makes me graphic design-osaur — get it? Yeah? Yeah? No, you’re right, that was terrible) the objectives and practice of “good” design has not changed. While I in no way consider myself an expert or authority on design, I have accumulated a fair amount of insight that I hope young and or beginning designers might find useful.
+Understand The Purpose Of Design
+“A lot of people in our industry haven’t had very diverse experiences. So they don’t have enough dots to connect, and they end up with very linear solutions without a broad perspective on the problem. The broader one’s understanding of the human experience, the better design we will have.”
+— Steve Jobs
+Practicing design doesn’t always mean understanding the purpose of design. You might find yourself creating websites or forms or mailers or any number of communication pieces without much more than cursory knowledge of design. And that’s ok. There’s no right way to begin. Having a formal education in design doesn’t mean that’s the only path to practice design. But it requires you to understand the purpose of design.
+The simple purpose of design is to communicate a goal, an action, a response, or an experience. The method by which you communicate always varies. You use whatever tools and applications that effectively solves the communication goals of what you’re tasked. The tools are not as important as the goals. And your goals can only be effective if you can communicate clearly. And the only way to communicate clearly is by understanding who you are communicating to.
+First and foremost, design is not about you. It’s not about your preferences. It’s not about what you like or find beautiful or interesting or cool or peachy keen (people still say that, right?). It’s about your audience of consumers, viewers, and users. Before you can design anything, you must first understand them.
+While it might sound like a daunting task to “know” your audience, it’s not as complicated as it might seem. You can quickly narrow the funnel between the broad spectrum of “everyone who is alive in the world” and the pinpoint detail of “males aged 39 and 42 years of age who make $43,500 a year, and are interested in the farting habits of the Bassian thrush” (look it up). For example, if you’re selling a car, you can be sure you’re not communicating to to a 5 year old kindergarten student who spends his time eating paper. You can also be reasonably sure you’re not targeting people who just bought car. Sometimes the best way to know who your audience is, is by knowing who they are not. Before you know it, you’ll have a pretty clear representation of your audience.
+Learn About The History Of Design
+“I like stuff designed by dead people. The old designers. They always got it right because they didn’t have to grow up with computers. All of the people that made the spoon and the dishes and the vacuum cleaner didn’t have microprocessors and stuff. You could do a good design back then.”
+— John Maeda
+The vast amount of resources available to everyone online is more daunting than liberating. How do you start, where do you go (who do you need to know? Wait, sorry, that’s a song lyric to one of my favorite songs). The temptation is to look at “best of” lists to get a feel for what others are doing, which has its time and place, but if you lack formal education, it’s best to understand the craft. A steady diet of design inspiration is akin to eating nothing but bacon covered in icing, dipped in chocolate and then deep fried. It’s satisfying but not healthy, so use only in moderation.
+Why is it unhealthy to look at other designers work for inspiration? When you observe the work of others, it becomes internalized, whether you are consciously aware of it or not. Those internalized observations start to mingle with your brain, and slowly make a comfortable home as your own thoughts. Before you know it you have a a great design solution which turns out that to be the work of someone else, which you observed and forgotten about and then believed was your own. Yes, every one borrows from everyone else, but there’s a vast difference between knowingly building upon the work of others and knowingly borrowing from the work of others. Borrowing teeters on the edge of stealing.
+Even more importantly than the slippery slope of borrowing and stealing, when you rely on the work of others to build your own solutions, you’re bypassing the effort it takes to understand the research, insights, compromises, revisions, and limitations that were made in creating the end result that you are borrowing.
+The best way to use inspiration to build a more original solutions is to understand history. The great work of today is built upon the work of those that came before (something about standing on the shoulders of giants), and so on and so forth forever.
+Here’s a short list of books I believe to be “essential” reading to have a comprehensive understanding of the craft and practice of design.
+Meggs’ History Of Graphic Design by Phillip Meggs
+Universal Principles of Design by William Lidwell, Jill Butler, Kritina Holden
+The Elements Of Typographic Style by Robert Bringhurst
+Visual Explanations: Images And Quantities, Evidence And Narrative by Edward R. Tufte (I’ll be honest, you should read his entire series on visual information)
+The Design Of Everyday Things by Donald Norman
+How to be a Graphic Design Without Losing Your Soul by Adrian Shaughnessy
+Thinking, Fast And Slow by Daniel Kahneman
+Maybe you don’t like reading. I’m not here to judge. Maybe you’d rather listen or watch something. Have no fear, I have some recommendations there too for more practice tips, tricks, and insights on design thinking and practice.
+Abstract: The Art Of Design (Netflix documentary series)
+99% Invisible (podcast)
+Design Matters (podcast)
+Objectified (documentary)
+Adventures In Design (podcast)
+The Deeply Graphic Design Cast (podcast)
+Dann Petty (youtube)
+Observe The Practice Of Design
+“To design is much more than simply to assemble, to order, or even to edit: it is to add value and meaning, to illuminate, to simplify, to clarify, to modify, to dignify, to dramatize, to persuade, and perhaps even to amuse. To design is to transform prose into poetry.”
+— Paul Rand
+The best way to become a better designer is to observe other design. I know I literally just wrote that you should avoid looking at design inspiration sites for guidance or insight into what to design, but I’m not contradicting myself. When I say “observe” I mean it by the definition “to notice or perceive (something) and register it as being significant”.
+As you go about your daily life pay attention to all the moments where you encounter design. When you’re driving and see design in billboards, on road signs, and covering the sides of trucks. When you’re shopping and see design on cereal boxes, beer cans, book covers, movie posters, and wayfinding signage. When you’re walking around your city or town and find design sprayed on walls, in murals, and storefront signs. You encounter design everywhere, all the time. As Paul Rand said, design is everything. But rather than merely seeing design, you should begin to purposefully notice and perceive.
+While you observe, try to identify whether what you’re seeing succeeds or fails in communicating a message by asking yourself these questions:
+Who is it speaking to?
+Based on what you see, who is this design communicating to, who do you think is their audience?
+What is it saying?
+Not just specifically in words, but also through visuals and graphics, message and tone.
+How does it solve the problem?
+Do the words and images work together or do they contradict themselves. Is it effective in achieving a goal. For example, does the movie poster make you want to see the movie while also perhaps giving you clues about the concept of movie?
+Chances are that whatever you might be working on has been done before, and therefore similar goals, problems, and solutions have been designed. By cultivating your observational skills you simultaneously improve your ability to analyze your own responses and reactions to design. This understanding in turn can inform your design solutions. Knowing what does or does not work in any given design is a key to developing your intuition and improving your design process.
+Develop A Process Of Design
+“I don’t start with a design objective, I start with a communication objective. I feel my project is successful if it communicates what it is supposed to communicate.”
+— Mike Davidson
+Before you begin any project, no matter the size, you have to understand the project objectives. You’ll notice that the same process in observing (and understanding) design matches the process of executing design.
+Who is the audience?
+What are you saying to the audience?
+How do you want the audience respond?
+As you being to gather all the content and information required for the project, get as familiar as you can with the materials you have — understand the product, event, message, or campaign. What was done previously? What worked? What didn’t work? Then determine the goals of the project. Is it educational, instructional, informational, motivational, aspirational, or functional? Depending on the scope of your project it might contain one or all of these goals, but the content related to each can be directly understood and therefore specifically solved.
+Separating the goals of a project into manageable parts makes it easier to understand how to build a useful and effective solution. If your project is educational, instructional, or functional the most important component of the design is the content, therefore focus on hierarchy, clarity, and simplicity. You’re guiding your audience to an outcome (learning, building, or completing). If your project is informational, motivational, or aspirational then you can focus on visually guiding your audience to a goal and response (attend, perform, endure).
+Create A System Of Design
+“If you want to communicate something, you’d better make sure that your design piece is well-dressed and that its teeth are fixed. At the same time, I still believe that if it is only stylistically great and it has nothing to say, it still is not going to make a lasting impression on anybody.”
+— Stefan Sagmeister
+When I was a college student majoring in art it was embedded in us by every professor that until we grasped the basics of a craft, there could be no art. Before there can be a masterpiece there must be mastery. We practiced painting a shoe over and over: first in black and white, then gray, then with just basic shapes, then with monochromatic tones, with different brushes and strokes, constantly exploring every technique until we began to understand how to mix colors, how to use brushes, how to apply strokes, how to frame a subject, how to use contrast, balance, light, and tone, and how each collectively allowed us to better communicate. It’s no different with design.
+Keep it simple.
+Adding flourish and complexity is tempting because we believe it hides our weaknesses. But if you understand who your audience is, what you’re communicating to them, and how you want them to respond and react, you’ve done more than half the work of design. The more elements added to a design, the more risk that the message is obscured. The things that have the greatest longevity tend to be the most

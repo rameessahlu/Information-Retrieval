@@ -1,0 +1,39 @@
+Image Recognition and Image Processing Techniques
+Adoriasoft
+Adoriasoft
+Follow
+Jun 12, 2017 · 5 min read
+
+https://goo.gl/6bTF0H
+Image recognition technology has a great potential of wide adoption in various industries. In fact, it’s not a technology of the future, but it’s already our present. Such corporations and startups as Tesla, Google, Uber, Adobe Systems etc heavily use image recognition. To prove that the technology marches around the world let’s look at the recent statistics. Researchers predict that the global market of image recognition will reach $38.92 billion by 2021. That’s quite a sound figure! So no wonder that more and more so-called imagetech applications that leverage image recognition emerge for various purposes and business verticals.
+What helps the expansion of image recognition technology today? It’s open-source tools that make programming easier, while computing more affordable. Open-source frameworks and libraries today make it possible for companies to benefit from image recognition technology exponentially. For instance, such massive open databases as Pascal VOC and ImageNet give access to millions of tagged images. In fact, they help companies and image tech startups to develop and improve their own machine learning apps and algorithms. For a real-time image recognition professional developers also use an open-source, cross-platform library called OpenCV. It’s considered the first point of addressing and the most authoritative resource for image recognition professionals. Another great set of libraries for computer vision include OpenNN, VXL and many other.
+But before jumping into more details on image recognition and processing it should be mentioned that images can be used in different ways. In mobile, web and software development images serve for a multitude of reasons, including:
+Object recognition
+Pattern recognition
+Locating duplicates (exact or partial)
+Image search by fragments
+Camera’s image processing
+Improving mobile apps UX
+Augmented reality
+Possible applications of images, imagetech and image recognition technology in particular are unlimited. With the advancements in the technology new opportunities for businesses and startups in every niche arise. Thus image analysis is taken to a whole new level thanks to open-source solutions and deep learning tools out there.
+Image Recognition
+Image recognition or a computer vision is a technical discipline that deals with searching the ways to automate all the job that a human visual system can do. TensorFlow by Google, DeepFace by Facebook, Project Oxford by Microsoft are great examples of deep learning image recognition systems. On the other hand, hosted APIs such as Google Cloud Vision, Clarifai, Imagga allow businesses to save some money on the costly computer vision development teams.
+Advantages of open-source services mentioned are numerous. They conduct image recognition computing in the cloud making your imagetech business operations more efficient and much cheaper. Also in-house developers at your company can integrate their APIs into your apps without problems. Moreover, these open APIs developers can use to even start a new business in the field of image recognition.
+Image Processing Techniques
+Generally image processing consists of several stages: image import, analysis, manipulation and image output. There are two methods of image processing: digital and analogue. In particular, digital image processing and its techniques is what this article is about.
+Computer algorithms play a crucial role in digital image processing. Developers use multiple algorithms to solve different tasks, including digital image detection, analysis, reconstruction, restoration, image data compression, image enhancement, image estimation and image spectral estimation.
+Major techniques of digital image processing are as follows:
+Image Editing, which basically means altering digital images by means of graphic software tools.
+Image Restoration, which refers to the estimation of a clean original image out of the corrupt image taken in order to get back the information lost.
+Independent Component Analysis, which separates a multivariate signal computationally into additive subcomponents.
+Anisotropic Diffusion, which is often known as Perona-Malik Diffusion, makes it possible to reduce image noise without having to remove important parts of the image.
+Linear Filtering. It’s another digital image processing technique, which refers to processing time-varying input signals and producing output signals that are subject to the constraint of linearity.
+Neural Networks, which are computational models widely used in machine learning for solving various tasks.
+Pixelation, which often refers to turning printed images into digitized ones (such as GIF).
+Principal Components Analysis, a digital image processing technique that can be used for feature extraction.
+Partial Differential Equations, which also is dealing with effectively de-noising images.
+Hidden Markov Models, a technique used for image analysis in two dimensions.
+Wavelets, which stands for a mathematical function that’s used in image compression.
+Self-organizing Maps, a digital image processing technique for classifying images into a number of classes.
+How Adoriasoft Applies Image Processing Techniques
+Over the years Adoriasoft has implemented image processing techniques in multiple projects, including e-commerce web and mobile apps for its clients. For one of its major customers we created an object recognition tool called Object Mask. Developed in Delphi, the app creates a mask of an object. Thus e-commerce website users and those of mCommerce apps can see all relevant items in their search for similar goods. In addition, our clients may leverage the technology behind the app to the maximum extent and benefit from their clients’ repetitive purchases.

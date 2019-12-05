@@ -1,0 +1,133 @@
+Genetic Algorithm - an overview
+Genetic Algorithm
+Genetic algorithms (GA) are a method of optimization involving iterative search procedures based on an analogy with the process of natural selection (Darwinism) and evolutionary genetics.
+
+From: Soft Computing in Textile Engineering, 2011
+
+Related terms:
+Optimization (Algorithms)AnnealingParticle Swarm OptimizationFitness FunctionOptimisation ProblemOptimization Method
+View all Topics
+Download as PDF
+Set alert
+About this page
+Learn more about Genetic Algorithm
+Genetic Algorithms
+Anke Meyer-Baese, Volker Schmid, in Pattern Recognition and Signal Analysis in Medical Imaging (Second Edition), 2014
+
+5.1 Introduction
+Genetic algorithms (GA) like neural networks are biologically inspired and represent a new computational model having its roots in evolutionary sciences. Usually GAs represent an optimization procedure in a binary search space, and unlike traditional hill climbers they do not evaluate and improve a single solution but a set of solutions or hypotheses, a so-called population. The GAs produce successor hypotheses by mutation and recombination of the best currently known hypotheses. Thus, at each iteration a part of the current population is replaced by offspring of the most fit hypotheses. In other words, a space of candidate hypotheses is searched in order to identify the best hypothesis, which is defined as the optimization of a given numerical measure, the so-called hypothesis fitness. Consider the case of function approximation based on given input-output samples: The fitness is the accuracy of the hypothesis (solution) over the training set.
+
+The strength of this parallel process is enhanced by the mechanics of population modification, making GAs adequate candidates even for NP-hard problems. Mathematically, they are function optimizers and they encode a potential solution based on chromosome-like data structures. The critical information is preserved by applying recombination operators to these structures. Their most interesting properties are [251]:
+
+•
+Efficiency.
+
+•
+Simple programmability
+
+•
+Extraordinary robustness regarding the input data.
+
+The most important property is robustness, and this represents an emulation of nature’s adaptation algorithm of choice. Mathematically, it means that it is possible to find a solution even if the input data do not facilitate finding such a solution. GAs are mostly applied to nondifferentiable functions and functions with many local optima. Besides the above-mentioned advantages, there is one major disadvantage: GAs have to be carefully designed. An unfavorable choice of operators might affect the outcome of the application. Therefore, a precise knowledge of the basics and the context is crucial for any problem solution based on GAs.
+
+Usually, the implementation of a GA starts with the random definition of a chromosome population. The structures are evaluated and then better reproductive opportunities are allocated for those chromosomes, leading to better solutions. The adequacy of a solution is typically related to the current population average, or the median population.
+
+Let us look again at the definition of a GA. In a strict sense, the GA defines a model introduced and investigated by John Holland [137]. This computational paradigm—known also as the canonical genetic algorithm—is still a relevant research topic. In a more detailed sense, the GA represents a population-based model, which employs selection and recombination operators to generate new data points in a search space [387]. There are several GA models known in the literature, most of them designed as optimization tools for several applications.
+
+GAs differ from classical optimization and search procedures: (1) direct manipulation of a coding, (2) search from a population of points and not a single solution, (3) search via sampling, a so-called blind search, and (4) search using stochastic operators, not deterministic rules.
+
+In this section, we will review the basics of GAs, briefly describe the schema theorem and the building block hypothesis, and describe feature selection based on GAs, as one of the most important applications of GAs.
+
+Read full chapter
+
+Purchase book
+Woven fabric engineering by mathematical modeling and soft computing methods
+B.K. Behera, in Soft Computing in Textile Engineering, 2011
+
+Applications of genetic algorithms
+Genetic algorithms are being used to solve a wide variety of problems in textiles right from production of fibers to apparel design and manufacturing. Amin et al. [63] reported detection of the spinning fault source from spectrograms by using a genetic algorithm technique. Blaga and Draghici [64] reported the application of genetic algorithms in knitting technology. Lin [65] investigated the use of GA for searching weaving parameters for woven fabrics. A searching mechanism was developed to find the best combinations of warp and weft counts and yarn densities for fabric manufacturing, considering costs. This helps the designer to select appropriate combinations of these parameters to achieve the required weight of fabric at a pre-controlled cost. Grundler and Rolich [66] developed software based on an evolutionary algorithm for creating different weave patterns. Only the weave and yarn color were considered as attributes for fabric appearance, and different patterns can be created by various combinations of weave and color of warp and weft threads. Jasper et al. [62] investigated fabric defect detection using a genetic algorithm tuned wavelet filter. Patrick et al. [67] studied the application of GA on the roll planning of fabric spreading in apparel manufacturing. It was demonstrated that use of GAs to optimize roll planning will result in reduced wastage in cutting and hence can reduce the cost of apparel production. Keith et al. [68] investigated the problem of handling the assembly line balancing in the clothing industry. Inui [69] presented a computer-aided system using a genetic algorithm applied to apparel design. In this study, a computer technique that helps consumers to take part in apparel design was presented.
+
+An interactive computer-aided system for designing was constructed on the basis of the GA search method.
+
+Read full chapter
+
+Purchase book
+Modelling the structure of woven fabrics
+B.K. Behera, in Woven Textiles, 2012
+
+Applications of genetic algorithms
+Genetic algorithms are being used to solve a wide variety of problems in textiles right from production of fibres to apparel design and manufacturing. Amin et al. [64] reported detection of the spinning fault source from spectrograms by using genetic algorithms. Blaga and Draghici [65] reported the application of genetic algorithms in knitting technology. Lin [66] investigated the use of GA for searching weaving parameters for woven fabrics. A search mechanism was developed to find the best combinations of warp and weft counts and yarn densities for fabric manufacturing, taking into account costs. This helps the designer to select appropriate combinations of these parameters to achieve the required weight of fabric at a pre-controlled cost. Grundler and Rolich [67] developed an evolutionary algorithm based software for creating different weave patterns. Only the weave and yarn colour were considered as attributes for fabric appearance and different patterns can be created by various combination of weave and colour of warp and weft threads. Jasper et al. [63] investigated fabric defect detection using a genetic algorithm tuned wavelet filter. Hui et al. [68] studied the application of GA on the roll planning of fabric spreading in apparel manufacturing. It was demonstrated that the use of GAs to optimize roll planning will result in reduced wastage in cutting and hence can reduce cost of apparel production. Chan et al. [69] investigated the problem of handling the assembly line balancing in the clothing industry. Inui [70] presented a computer aided system using GA applied to apparel design. In this study, a computer technique that helps consumers to take part in apparel design was presented. An interactive computer-aided system for designing was constructed on the basis of the GA search method.
+
+Read full chapter
+
+Purchase book
+Optimization and Metaheuristic Algorithms in Engineering
+Xin-She Yang, in Metaheuristics in Water, Geotechnical and Transport Engineering, 2013
+
+1.3.5 Genetic Algorithms
+Genetic algorithms are a class of algorithms based on the abstraction of Darwin’s evolution of biological systems, pioneered by Holland and his collaborators in the 1960s and 1970s (Holland, 1975). Holland was probably the first to use genetic operators such as the crossover and recombination, mutation, and selection in the study of adaptive and artificial systems. Three main components or genetic operators in genetic algorithms are crossover, mutation, and selection of the fittest. Each solution is encoded in a string (often binary or decimal) called chromosome. The crossover of two parent strings produce offsprings (new solutions) by swapping part or genes of the chromosomes. Crossover has a higher probability, typically 0.8–0.95. On the other hand, mutation is performed by flipping some digits of a string, which generates new solutions. This mutation probability is typically low, from 0.001 to 0.05. New solutions generated in each generation will be evaluated by their fitness, which is linked to the objective function of the optimization problem. The new solutions are selected according to their fitness—i.e., selection of the fittest. Sometimes, to make sure that the best solutions remain in the population, the best solutions are passed onto the next generation without much change, a process called elitism.
+
+Genetic algorithms have been applied to almost all areas of optimization, design, and applications. There are hundreds of good books and thousands of research articles. There are many variants and hybridization with other algorithms, and interested readers can refer to more advanced literature such as Goldberg (1989).
+
+Read full chapter
+
+Purchase book
+Optimal Placement and Sizing of Shunt Capacitor Banks in the Presence of Harmonics
+Mohammad A.S. Masoum, Ewald F. Fuchs, in Power Quality in Power Systems and Electrical Machines (Second Edition), 2015
+
+Genetic Representation
+Genetic algorithms are derived from a study of biological systems. In biological systems evolution takes place on organic components used to encode the structure of living beings. These organic components are known as chromosomes. A living being is only a decoded structure of the chromosomes. Natural selection is the link between chromosomes and the performance of their decoded structures. In genetic algorithms the design variables or features that characterize an individual are represented in an ordered list called a string. Each design variable corresponds to a gene and the string of genes corresponds to a chromosome. A group of chromosomes is called a population. The number of chromosomes in a population is usually selected to be between 30 and 300. Each chromosome is a string of binary codes (genes) and may contain substrings. The merit of a string is judged by the fitness function, which is derived from the objective function and is used in successive genetic operations. During each iterative procedure (referred to as generation), a new set of strings with improved performance is generated using three GA operators (namely, reproduction, crossover, and mutation).
+
+Read full chapter
+
+Purchase book
+Genetic Algorithms Path Planning
+V. Krukhmalev, V. Pshikhopov, in Path Planning for Vehicles Operating in Uncertain 2D Environments, 2017
+
+4.1 Generalized Planning Algorithm
+Genetic algorithms find many applications in solution of path planning problems for complicated environments with stationary obstacles. Genetic algorithms can be used even for mobile or unknown obstacles, given that we have sufficient computational power. This chapter proposes the structural and algorithmic solutions for the vehicle's path planning problem using genetic algorithms (GAs).
+
+There are various methods and approaches to path planning using the graph theory [1–3]. Some of them propose path planning for aviation [4–11] using GAs [12]. The work [13] uses classical graph optimization methods for a ground-based vehicle path search. The proposed approach solves the planning task using a graph. An orientated graph serves as an environment model while GAs work as a tool for an optimal graph-searching for the positions of the robot and surrounding obstacles.
+
+The algorithms proposed in this chapter assume the following succession of actions:
+
+•
+Getting the current vehicle and goal coordinates;
+
+•
+representing the entire functioning space in the form of an oriented graph where each vertex represents a possible discrete spatial position of the robot (with a set sampling), and edges show the possibilities of transitions between these positions;
+
+•
+getting information about the obstacles;
+
+•
+vehicle's initialization in the graph space and identification of the goal point in the graph space; changing the graph according to the obstacles arrangement;
+
+•
+in the loop, until the goal is reached (goal vertex), a search for an optimal (shortest) graph is performed using GA methods by rebuilding the graph according to robot's position and visible obstacles; and
+
+•
+transfer of path parameters from the planner to position-path controller.
+
+The further research is performed on the assumption that the point “getting the current vehicle and goal coordinates” is passed.
+
+Read full chapter
+
+Purchase book
+Genetic Algorithms for Optimum Design
+Jasbir S. Arora, in Introduction to Optimum Design (Third Edition), 2012
+
+Genetic algorithms (GA) belong to the class of stochastic search optimization methods, such as the simulated annealing method described in Chapter 15. These algorithms also belong to a class of methods known as evolutionary methods or nature-inspired methods, presented in Chapter 19. As you get to know basics of the algorithms, you will see that decisions made in most computational steps of the algorithms are based on random number generation. Therefore, executed at different times, the algorithm can lead to a different sequence of designs and a different problem solution even with the same initial conditions.
+
+Read full chapter
+
+Purchase book
+Propeller Design
+J.S. Carlton FREng, in Marine Propellers and Propulsion (Fourth Edition), 2019
+
+22.9 Genetic Algorithm Approaches to Design
+Genetic algorithms were developed in the mid-1960s and are a subset of stochastic optimization methods. These algorithms are modeled on the principles of natural selection where the fittest individuals have a higher probability of moving forward to produce the next generation of the species. The methodology has found some application in industries as diverse as whiskey blending and aeroengine design. Currently, the methodology is beginning to be explored within the context of marine propeller design.
+
+In outline, following the idea of the biological gene as being a sequence of DNA, which represents particular characteristics, the genetic algorithm gene uses a sequence of 0 and 1, for example a sequence such as 1001101000, to represent a unique solution where each of the binary numbers is termed chromosome. Furthermore, the processes of mutation and crossover are both used within genetic algorithm processes.
+
+There are several different algorithms for the solution of multiobjective optimization problems and these group mostly into three basic approaches:
